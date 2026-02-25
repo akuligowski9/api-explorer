@@ -74,7 +74,7 @@ export function CardPreview({ data, compact = false }: CardPreviewProps) {
     value: resolveKey(sampleResponse, key),
   }));
 
-  const visibleFields = compact ? fields.slice(0, 3) : fields;
+  const visibleFields = compact ? fields.slice(0, 5) : fields;
 
   // ── Joke Card Variant ──────────────────────────────────────────────
   if (isJoke) {

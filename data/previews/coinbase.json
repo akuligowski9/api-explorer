@@ -2,21 +2,21 @@
   "id": "coinbase",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "price_usd": "$3,521.07",
-    "change_24h": "+1.82%",
-    "market_cap": "$423B"
+    "base": "BTC",
+    "currency": "USD",
+    "amount": "87432.61",
+    "buy_price": "87489.20",
+    "sell_price": "87376.02"
   },
   "previewConfig": {
     "title": "Coinbase",
-    "subtitle": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "subtitle": "Cryptocurrency exchange and wallet platform",
     "displayFields": [
-      "name",
-      "symbol",
-      "price_usd",
-      "change_24h",
-      "market_cap"
+      "base",
+      "currency",
+      "amount",
+      "buy_price",
+      "sell_price"
     ]
   }
 }

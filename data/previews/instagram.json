@@ -2,21 +2,15 @@
   "id": "instagram",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@pixelartist",
-    "display_name": "Luna Kim",
-    "followers": "1.2M",
-    "posts": "4,512",
-    "verified": true
+    "id": "3291048571920384",
+    "media_type": "IMAGE",
+    "caption": "Golden hour at the Grand Canyon. No filter needed.",
+    "like_count": 284019,
+    "timestamp": "2026-02-14T17:32:00Z"
   },
   "previewConfig": {
-    "title": "Instagram",
-    "subtitle": "Instagram Login, Share on Instagram, Social Plugins and more",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "Instagram API",
+    "subtitle": "Media object",
+    "displayFields": ["caption", "media_type", "like_count", "timestamp", "id"]
   }
 }

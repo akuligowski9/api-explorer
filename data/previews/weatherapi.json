@@ -2,21 +2,41 @@
   "id": "weatherapi",
   "previewType": "card",
   "sampleResponse": {
-    "location": "Berlin, Germany",
-    "temperature": "8°C / 46°F",
-    "condition": "Light Rain",
-    "humidity": "91%",
-    "wind": "19 km/h NW"
+    "location": {
+      "name": "Sydney",
+      "region": "New South Wales",
+      "country": "Australia",
+      "lat": -33.88,
+      "lon": 151.22,
+      "localtime": "2025-01-18 14:45"
+    },
+    "current": {
+      "temp_c": 27.3,
+      "temp_f": 81.1,
+      "is_day": 1,
+      "condition": {
+        "text": "Sunny",
+        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+        "code": 1000
+      },
+      "wind_kph": 19.4,
+      "wind_dir": "NE",
+      "pressure_mb": 1018,
+      "humidity": 55,
+      "feelslike_c": 28.1,
+      "uv": 8,
+      "vis_km": 10
+    }
   },
   "previewConfig": {
-    "title": "WeatherAPI",
-    "subtitle": "Weather API with other stuff like Astronomy and Geolocation API",
+    "title": "Sydney, Australia",
+    "subtitle": "Sunny",
     "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
+      "current.temp_c",
+      "current.condition.text",
+      "current.wind_kph",
+      "current.humidity",
+      "current.uv"
     ]
   }
 }

@@ -2,21 +2,21 @@
   "id": "kucoin",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "price_usd": "$38.92",
-    "change_24h": "+4.56%",
-    "market_cap": "$14.8B"
+    "symbol": "SOL-USDT",
+    "last": "142.35",
+    "changeRate": "+0.0389",
+    "high": "145.80",
+    "vol": "2841093.2"
   },
   "previewConfig": {
     "title": "KuCoin",
-    "subtitle": "Cryptocurrency Trading Platform",
+    "subtitle": "Cryptocurrency exchange and trading platform",
     "displayFields": [
-      "name",
       "symbol",
-      "price_usd",
-      "change_24h",
-      "market_cap"
+      "last",
+      "changeRate",
+      "high",
+      "vol"
     ]
   }
 }

@@ -2,21 +2,15 @@
   "id": "imdb",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Dune: Part Two",
-    "director": "Denis Villeneuve",
-    "year": 2024,
-    "rating": "8.5 / 10",
-    "runtime": "2h 46m"
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "genre": "Drama"
   },
   "previewConfig": {
-    "title": "IMDb",
-    "subtitle": "API for receiving movie, serial and cast information",
-    "displayFields": [
-      "title",
-      "director",
-      "year",
-      "rating",
-      "runtime"
-    ]
+    "title": "IMDb API",
+    "subtitle": "Movie object",
+    "displayFields": ["title", "year", "rating", "director", "genre"]
   }
 }

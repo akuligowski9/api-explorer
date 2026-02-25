@@ -2,19 +2,19 @@
   "id": "battle-net",
   "previewType": "card",
   "sampleResponse": {
-    "title": "It Takes Two",
-    "platform": "Multi-platform",
-    "genre": "Co-op Adventure",
-    "rating": "8.9 / 10"
+    "name": "Thrallmor",
+    "realm": "Tichondrius",
+    "class": "Shaman",
+    "race": "Orc",
+    "level": 80,
+    "achievement_points": 18420,
+    "equipped_item_level": 623,
+    "active_spec": "Enhancement",
+    "faction": "Horde"
   },
   "previewConfig": {
-    "title": "Battle.net",
-    "subtitle": "Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Thrallmor — Tichondrius",
+    "subtitle": "Battle.net — World of Warcraft",
+    "displayFields": ["class", "race", "level", "achievement_points", "equipped_item_level"]
   }
 }

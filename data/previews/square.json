@@ -2,21 +2,21 @@
   "id": "square",
   "previewType": "card",
   "sampleResponse": {
-    "company": "Zenith Labs",
-    "industry": "Biotech",
-    "founded": 2009,
-    "employees": "1,001–5,000",
-    "revenue": "$210M ARR"
+    "id": "bPay7kNZhE4R1gsMeB2d",
+    "amount_money": "$75.00",
+    "status": "COMPLETED",
+    "source_type": "CARD",
+    "created_at": "2026-02-24T14:32:08Z"
   },
   "previewConfig": {
     "title": "Square",
-    "subtitle": "Easy way to take payments, manage refunds, and help customers checkout online",
+    "subtitle": "Payment processing and commerce platform",
     "displayFields": [
-      "company",
-      "industry",
-      "founded",
-      "employees",
-      "revenue"
+      "id",
+      "amount_money",
+      "status",
+      "source_type",
+      "created_at"
     ]
   }
 }

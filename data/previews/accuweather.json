@@ -2,21 +2,23 @@
   "id": "accuweather",
   "previewType": "card",
   "sampleResponse": {
-    "location": "Nairobi, Kenya",
-    "temperature": "22°C / 72°F",
-    "condition": "Scattered Clouds",
-    "humidity": "63%",
-    "wind": "10 km/h S"
+    "WeatherText": "Partly sunny",
+    "Temperature": "31.2°C / 88°F",
+    "RealFeel": "35.8°C",
+    "RelativeHumidity": "58%",
+    "Wind": "14.8 km/h SSW",
+    "UVIndex": "7 — High",
+    "Visibility": "16.1 km"
   },
   "previewConfig": {
-    "title": "AccuWeather",
-    "subtitle": "Weather and forecast data",
+    "title": "Washington, D.C.",
+    "subtitle": "AccuWeather Current Conditions",
     "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
+      "WeatherText",
+      "Temperature",
+      "RelativeHumidity",
+      "Wind",
+      "UVIndex"
     ]
   }
 }

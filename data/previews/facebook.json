@@ -2,21 +2,15 @@
   "id": "facebook",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@opensourcefan",
-    "display_name": "Alex Rivera",
-    "followers": "67,800",
-    "posts": "2,380",
-    "verified": true
+    "name": "NASA",
+    "id": "54971236483",
+    "category": "Government Organization",
+    "followers_count": 29438172,
+    "website": "https://www.nasa.gov"
   },
   "previewConfig": {
-    "title": "Facebook",
-    "subtitle": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "Facebook Graph API",
+    "subtitle": "Page object",
+    "displayFields": ["name", "category", "followers_count", "website", "id"]
   }
 }

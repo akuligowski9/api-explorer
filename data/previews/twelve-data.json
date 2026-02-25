@@ -2,21 +2,22 @@
   "id": "twelve-data",
   "previewType": "card",
   "sampleResponse": {
-    "symbol": "V",
-    "price": "$279.15",
-    "change": "+0.67 (0.24%)",
-    "volume": "6.2M",
-    "market_cap": "$573B"
+    "symbol": "EUR/USD",
+    "exchange": "Forex",
+    "close": 1.0847,
+    "high": 1.0892,
+    "low": 1.0801,
+    "datetime": "2026-02-24 16:00:00"
   },
   "previewConfig": {
     "title": "Twelve Data",
-    "subtitle": "Stock market data (real-time & historical)",
+    "subtitle": "Stock, forex, and cryptocurrency market data",
     "displayFields": [
       "symbol",
-      "price",
-      "change",
-      "volume",
-      "market_cap"
+      "exchange",
+      "close",
+      "high",
+      "low"
     ]
   }
 }

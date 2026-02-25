@@ -2,21 +2,15 @@
   "id": "rainviewer",
   "previewType": "card",
   "sampleResponse": {
-    "location": "New York, NY",
-    "temperature": "5°C / 41°F",
-    "condition": "Snow Showers",
-    "humidity": "76%",
-    "wind": "25 km/h NW"
+    "coverage": "Global",
+    "latest_radar": "2025-09-21 16:00 UTC",
+    "radar_frames": "2 past + 1 nowcast",
+    "satellite_frames": "1 infrared",
+    "update_interval": "Every 10 minutes"
   },
   "previewConfig": {
-    "title": "RainViewer",
-    "subtitle": "Radar data collected from different websites across the Internet",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Weather Radar Maps",
+    "subtitle": "Global radar and satellite tile endpoints",
+    "displayFields": ["coverage", "latest_radar", "radar_frames", "satellite_frames", "update_interval"]
   }
 }

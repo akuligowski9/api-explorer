@@ -3,20 +3,21 @@
   "previewType": "card",
   "sampleResponse": {
     "symbol": "TSLA",
-    "price": "$248.50",
-    "change": "+12.30 (5.21%)",
-    "volume": "98.2M",
-    "market_cap": "$792B"
+    "price": 248.91,
+    "changesPercentage": "+3.47%",
+    "dayHigh": 251.20,
+    "dayLow": 240.15,
+    "volume": 91205834
   },
   "previewConfig": {
     "title": "Financial Modeling Prep",
-    "subtitle": "Realtime and historical stock data",
+    "subtitle": "Real-time stock data and financial statements",
     "displayFields": [
       "symbol",
       "price",
-      "change",
-      "volume",
-      "market_cap"
+      "changesPercentage",
+      "dayHigh",
+      "volume"
     ]
   }
 }

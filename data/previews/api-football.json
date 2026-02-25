@@ -2,21 +2,20 @@
   "id": "api-football",
   "previewType": "card",
   "sampleResponse": {
-    "match": "Maple Leafs vs Canadiens",
-    "score": "4 – 2",
-    "status": "Final",
-    "venue": "Bell Centre",
-    "mvp": "Matthews"
+    "fixture_id": 1035274,
+    "league": "Premier League",
+    "season": 2025,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester City",
+    "goalsHome": 2,
+    "goalsAway": 1,
+    "status": "Match Finished",
+    "date": "2026-02-22T17:30:00Z",
+    "venue": "Emirates Stadium"
   },
   "previewConfig": {
-    "title": "API-FOOTBALL",
-    "subtitle": "Get information about Football Leagues & Cups",
-    "displayFields": [
-      "match",
-      "score",
-      "status",
-      "venue",
-      "mvp"
-    ]
+    "title": "Arsenal 2 — 1 Manchester City",
+    "subtitle": "API-Football — Premier League",
+    "displayFields": ["league", "status", "date", "venue", "season"]
   }
 }

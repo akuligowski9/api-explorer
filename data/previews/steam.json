@@ -2,19 +2,19 @@
   "id": "steam",
   "previewType": "card",
   "sampleResponse": {
-    "title": "The Legend of Zelda: TOTK",
-    "platform": "Switch",
-    "genre": "Action-Adventure",
-    "rating": "9.6 / 10"
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "price": "Free to Play",
+    "current_players": 842316,
+    "peak_today": 1253740,
+    "metacritic_score": 83,
+    "release_date": "2023-09-27"
   },
   "previewConfig": {
-    "title": "Steam",
-    "subtitle": "Steam Web API documentation",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Counter-Strike 2",
+    "subtitle": "Steam Store API",
+    "displayFields": ["developer", "price", "current_players", "peak_today", "metacritic_score"]
   }
 }

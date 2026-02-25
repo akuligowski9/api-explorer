@@ -2,21 +2,22 @@
   "id": "alpha-vantage",
   "previewType": "card",
   "sampleResponse": {
-    "symbol": "V",
-    "price": "$279.15",
-    "change": "+0.67 (0.24%)",
-    "volume": "6.2M",
-    "market_cap": "$573B"
+    "symbol": "AAPL",
+    "price": 189.84,
+    "change": "+2.35",
+    "change_percent": "+1.25%",
+    "volume": 58432710,
+    "latest_trading_day": "2026-02-24"
   },
   "previewConfig": {
     "title": "Alpha Vantage",
-    "subtitle": "Realtime and historical stock data",
+    "subtitle": "Realtime and historical stock market data",
     "displayFields": [
       "symbol",
       "price",
       "change",
       "volume",
-      "market_cap"
+      "latest_trading_day"
     ]
   }
 }

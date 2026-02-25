@@ -2,19 +2,19 @@
   "id": "pandascore",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Final Fantasy XVI",
-    "platform": "PS5 / PC",
-    "genre": "Action RPG",
-    "rating": "8.8 / 10"
+    "id": 784521,
+    "name": "T1 vs Gen.G",
+    "tournament": "LCK Spring 2026",
+    "videogame": "League of Legends",
+    "status": "finished",
+    "winner": "T1",
+    "number_of_games": 5,
+    "begin_at": "2026-02-22T10:00:00Z",
+    "streams_list": "Twitch, YouTube"
   },
   "previewConfig": {
-    "title": "PandaScore",
-    "subtitle": "E-sports games and results",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "T1 vs Gen.G",
+    "subtitle": "PandaScore — Esports",
+    "displayFields": ["tournament", "videogame", "status", "winner", "number_of_games"]
   }
 }

@@ -2,21 +2,19 @@
   "id": "gitlab",
   "previewType": "card",
   "sampleResponse": {
-    "repo": "rust-lang/rust",
-    "stars": "96.2K",
-    "forks": "12.4K",
-    "language": "Rust",
-    "open_issues": 9647
+    "name": "GitLab CE",
+    "path_with_namespace": "gitlab-org/gitlab-ce",
+    "description": "GitLab Community Edition — open-source self-hosted Git service",
+    "star_count": 24200,
+    "forks_count": 6800,
+    "open_issues_count": 4512,
+    "default_branch": "master",
+    "visibility": "public",
+    "last_activity_at": "2026-02-25T08:31:00Z"
   },
   "previewConfig": {
-    "title": "Gitlab",
-    "subtitle": "Automate GitLab interaction programmatically",
-    "displayFields": [
-      "repo",
-      "stars",
-      "forks",
-      "language",
-      "open_issues"
-    ]
+    "title": "GitLab CE",
+    "subtitle": "gitlab-org/gitlab-ce",
+    "displayFields": ["description", "star_count", "forks_count", "open_issues_count", "visibility"]
   }
 }

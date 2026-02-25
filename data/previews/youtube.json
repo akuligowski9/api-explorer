@@ -2,21 +2,15 @@
   "id": "youtube",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Spider-Verse",
-    "director": "Thompson / Powers",
-    "year": 2023,
-    "rating": "8.7 / 10",
-    "runtime": "2h 20m"
+    "title": "Despacito",
+    "channel": "Luis Fonsi",
+    "viewCount": 8347291045,
+    "likeCount": 52948103,
+    "publishedAt": "2017-01-12T04:00:01Z"
   },
   "previewConfig": {
-    "title": "YouTube",
-    "subtitle": "Add YouTube functionality to your sites and apps",
-    "displayFields": [
-      "title",
-      "director",
-      "year",
-      "rating",
-      "runtime"
-    ]
+    "title": "YouTube Data API",
+    "subtitle": "Video object",
+    "displayFields": ["title", "channel", "viewCount", "likeCount", "publishedAt"]
   }
 }

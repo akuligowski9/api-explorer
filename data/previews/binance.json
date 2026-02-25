@@ -2,21 +2,21 @@
   "id": "binance",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Chainlink",
-    "symbol": "LINK",
-    "price_usd": "$18.43",
-    "change_24h": "+2.08%",
-    "market_cap": "$10.8B"
+    "symbol": "BTCUSDT",
+    "price": "87432.61",
+    "priceChangePercent": "+2.14%",
+    "highPrice": "88105.00",
+    "volume": "31482.759"
   },
   "previewConfig": {
     "title": "Binance",
-    "subtitle": "Exchange for Trading Cryptocurrencies based in China",
+    "subtitle": "Cryptocurrency exchange and trading data",
     "displayFields": [
-      "name",
       "symbol",
-      "price_usd",
-      "change_24h",
-      "market_cap"
+      "price",
+      "priceChangePercent",
+      "highPrice",
+      "volume"
     ]
   }
 }

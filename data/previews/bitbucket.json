@@ -2,21 +2,18 @@
   "id": "bitbucket",
   "previewType": "card",
   "sampleResponse": {
-    "repo": "docker/compose",
-    "stars": "33.5K",
-    "forks": "5.2K",
-    "language": "Go",
-    "open_issues": 212
+    "full_name": "atlassian/python-bitbucket",
+    "name": "python-bitbucket",
+    "description": "Official Python client library for the Bitbucket Cloud REST API",
+    "language": "python",
+    "size": 4820,
+    "has_issues": true,
+    "created_on": "2019-06-12T09:14:00Z",
+    "updated_on": "2026-01-30T16:45:00Z"
   },
   "previewConfig": {
-    "title": "Bitbucket",
-    "subtitle": "Bitbucket API",
-    "displayFields": [
-      "repo",
-      "stars",
-      "forks",
-      "language",
-      "open_issues"
-    ]
+    "title": "python-bitbucket",
+    "subtitle": "atlassian/python-bitbucket",
+    "displayFields": ["description", "language", "size", "has_issues", "updated_on"]
   }
 }

@@ -2,21 +2,15 @@
   "id": "weatherbit",
   "previewType": "card",
   "sampleResponse": {
-    "location": "Mumbai, India",
-    "temperature": "33°C / 91°F",
-    "condition": "Haze",
+    "description": "Broken clouds",
+    "temperature": "6.4°C (feels like 3.1°C)",
     "humidity": "78%",
-    "wind": "11 km/h W"
+    "wind_speed": "4.2 m/s W",
+    "aqi": "42 — Good"
   },
   "previewConfig": {
-    "title": "Weatherbit",
-    "subtitle": "Weather",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Berlin, Germany",
+    "subtitle": "Broken clouds",
+    "displayFields": ["description", "temperature", "humidity", "wind_speed", "aqi"]
   }
 }

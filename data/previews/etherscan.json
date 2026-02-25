@@ -2,20 +2,20 @@
   "id": "etherscan",
   "previewType": "card",
   "sampleResponse": {
-    "tx_hash": "0x8bc1...4d7f",
-    "block": "19,482,044",
-    "value": "0.5 ETH",
-    "gas_fee": "0.0018 ETH",
-    "status": "Confirmed"
+    "hash": "0x5c504ed432cb51138bcf09aa5e8a410dd4a1e204ef84bfed1be16dfba1b22060",
+    "blockNumber": 21948302,
+    "value": "1.5 ETH",
+    "gasUsed": "21000",
+    "status": "Success"
   },
   "previewConfig": {
     "title": "Etherscan",
-    "subtitle": "Ethereum explorer API",
+    "subtitle": "Ethereum blockchain explorer and analytics",
     "displayFields": [
-      "tx_hash",
-      "block",
+      "hash",
+      "blockNumber",
       "value",
-      "gas_fee",
+      "gasUsed",
       "status"
     ]
   }

@@ -2,19 +2,19 @@
   "id": "destiny-the-game",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Baldur's Gate 3",
-    "platform": "PC / PS5",
-    "genre": "RPG",
-    "rating": "9.7 / 10"
+    "displayName": "Guardian_IX",
+    "class": "Warlock",
+    "race": "Awoken",
+    "light": 1820,
+    "minutesPlayedTotal": 124560,
+    "triumphScore": 78450,
+    "seasonRank": 247,
+    "titleName": "Disciple-Slayer",
+    "emblemPath": "/common/destiny2_content/icons/guardian_emblem.jpg"
   },
   "previewConfig": {
-    "title": "Destiny The Game",
-    "subtitle": "Bungie Platform API",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Guardian_IX",
+    "subtitle": "Bungie — Destiny 2",
+    "displayFields": ["class", "light", "triumphScore", "seasonRank", "titleName"]
   }
 }

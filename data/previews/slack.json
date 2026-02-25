@@ -2,21 +2,15 @@
   "id": "slack",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@opensourcefan",
-    "display_name": "Alex Rivera",
-    "followers": "67,800",
-    "posts": "2,380",
-    "verified": true
+    "name": "general",
+    "id": "C024BE91L",
+    "topic": "Company-wide announcements and work-related matters",
+    "num_members": 1284,
+    "is_private": false
   },
   "previewConfig": {
-    "title": "Slack",
-    "subtitle": "Team Instant Messaging",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "Slack API",
+    "subtitle": "Channel object",
+    "displayFields": ["name", "topic", "num_members", "is_private", "id"]
   }
 }

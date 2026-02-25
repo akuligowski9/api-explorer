@@ -2,21 +2,20 @@
   "id": "football-data",
   "previewType": "card",
   "sampleResponse": {
-    "match": "Djokovic vs Alcaraz",
-    "score": "6-4, 3-6, 7-5",
-    "status": "Completed",
-    "venue": "Roland Garros",
-    "mvp": "Alcaraz"
+    "id": 436872,
+    "competition": "UEFA Champions League",
+    "matchday": 7,
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Inter Milan",
+    "scoreHome": 1,
+    "scoreAway": 0,
+    "status": "FINISHED",
+    "utcDate": "2026-02-18T20:00:00Z",
+    "venue": "Allianz Arena"
   },
   "previewConfig": {
-    "title": "Football-Data",
-    "subtitle": "Football data with matches info, players, teams, and competitions",
-    "displayFields": [
-      "match",
-      "score",
-      "status",
-      "venue",
-      "mvp"
-    ]
+    "title": "Bayern Munich 1 — 0 Inter Milan",
+    "subtitle": "Football-Data.org — Champions League",
+    "displayFields": ["competition", "matchday", "status", "utcDate", "venue"]
   }
 }

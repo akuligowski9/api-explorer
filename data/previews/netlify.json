@@ -2,21 +2,20 @@
   "id": "netlify",
   "previewType": "card",
   "sampleResponse": {
-    "repo": "denoland/deno",
-    "stars": "93.8K",
-    "forks": "5.2K",
-    "language": "Rust",
-    "open_issues": 1943
+    "id": "d4f5a6b7c8e9",
+    "site_id": "my-portfolio-site",
+    "state": "ready",
+    "deploy_url": "https://65a3bc--my-portfolio.netlify.app",
+    "branch": "main",
+    "framework": "next",
+    "deploy_time": 42,
+    "title": "Update hero section copy",
+    "created_at": "2026-02-24T19:05:00Z",
+    "published_at": "2026-02-24T19:05:42Z"
   },
   "previewConfig": {
-    "title": "Netlify",
-    "subtitle": "Netlify is a hosting service for the programmable web",
-    "displayFields": [
-      "repo",
-      "stars",
-      "forks",
-      "language",
-      "open_issues"
-    ]
+    "title": "my-portfolio-site",
+    "subtitle": "Netlify Deploy",
+    "displayFields": ["state", "branch", "framework", "deploy_time", "title"]
   }
 }

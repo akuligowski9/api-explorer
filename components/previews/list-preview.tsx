@@ -81,7 +81,7 @@ export function ListPreview({ data, compact = false }: ListPreviewProps) {
   // Support items in either previewConfig.items or sampleResponse.items
   const allItems: Record<string, unknown>[] =
     items ?? (Array.isArray(sampleResponse?.items) ? sampleResponse.items : []);
-  const visibleItems = compact ? allItems.slice(0, 3) : allItems;
+  const visibleItems = compact ? allItems.slice(0, 5) : allItems;
   const remaining = allItems.length - visibleItems.length;
 
   if (allItems.length === 0) {

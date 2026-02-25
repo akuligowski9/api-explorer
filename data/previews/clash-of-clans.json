@@ -2,19 +2,19 @@
   "id": "clash-of-clans",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Persona 5 Royal",
-    "platform": "Multi-platform",
-    "genre": "JRPG",
-    "rating": "9.4 / 10"
+    "name": "Mega Empire",
+    "tag": "#2PP0GJL8Q",
+    "clanLevel": 23,
+    "members": 48,
+    "trophies": 42850,
+    "warWins": 312,
+    "warWinStreak": 7,
+    "warLeague": "Champion League I",
+    "description": "Top war clan — active daily — TH15+ required"
   },
   "previewConfig": {
-    "title": "Clash of Clans",
-    "subtitle": "Clash of Clans Game Information",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Mega Empire",
+    "subtitle": "Clash of Clans Clan",
+    "displayFields": ["clanLevel", "members", "trophies", "warWins", "warLeague"]
   }
 }

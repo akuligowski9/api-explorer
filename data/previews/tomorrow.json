@@ -2,21 +2,15 @@
   "id": "tomorrow",
   "previewType": "card",
   "sampleResponse": {
-    "location": "New York, NY",
-    "temperature": "5°C / 41°F",
-    "condition": "Snow Showers",
-    "humidity": "76%",
-    "wind": "25 km/h NW"
+    "temperature": "29.5°C (feels like 32.1°C)",
+    "humidity": "71%",
+    "wind_speed": "8.3 m/s SSE",
+    "precipitation_probability": "35%",
+    "uv_index": "5 — Moderate"
   },
   "previewConfig": {
-    "title": "Tomorrow",
-    "subtitle": "Weather API Powered by Proprietary Technology",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Miami, FL",
+    "subtitle": "Partly Cloudy",
+    "displayFields": ["temperature", "humidity", "wind_speed", "precipitation_probability", "uv_index"]
   }
 }

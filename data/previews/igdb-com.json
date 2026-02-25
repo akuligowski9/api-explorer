@@ -2,19 +2,18 @@
   "id": "igdb-com",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Cyberpunk 2077",
-    "platform": "PC / PS5 / Xbox",
-    "genre": "Action RPG",
-    "rating": "8.6 / 10"
+    "id": 1942,
+    "name": "The Witcher 3: Wild Hunt",
+    "summary": "An open-world RPG set in a visually stunning fantasy universe full of meaningful choices",
+    "rating": 92.4,
+    "total_rating_count": 4580,
+    "first_release_date": "2015-05-19",
+    "genres": "RPG, Adventure",
+    "platforms": "PC, PS5, Xbox Series X, Switch"
   },
   "previewConfig": {
-    "title": "IGDB.com",
-    "subtitle": "Video Game Database",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "The Witcher 3: Wild Hunt",
+    "subtitle": "IGDB Game Database",
+    "displayFields": ["summary", "rating", "total_rating_count", "genres", "platforms"]
   }
 }

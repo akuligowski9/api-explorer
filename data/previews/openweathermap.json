@@ -2,21 +2,15 @@
   "id": "openweathermap",
   "previewType": "card",
   "sampleResponse": {
-    "location": "Mumbai, India",
-    "temperature": "33°C / 91°F",
-    "condition": "Haze",
-    "humidity": "78%",
-    "wind": "11 km/h W"
+    "description": "Light rain",
+    "temperature": "14.7°C (feels like 13.2°C)",
+    "humidity": "82%",
+    "wind_speed": "5.1 m/s SW",
+    "pressure": "1008 hPa"
   },
   "previewConfig": {
-    "title": "OpenWeatherMap",
-    "subtitle": "Weather",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Paris, France",
+    "subtitle": "Light rain",
+    "displayFields": ["description", "temperature", "humidity", "wind_speed", "pressure"]
   }
 }

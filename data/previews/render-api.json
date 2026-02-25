@@ -2,21 +2,20 @@
   "id": "render-api",
   "previewType": "card",
   "sampleResponse": {
-    "repo": "rust-lang/rust",
-    "stars": "96.2K",
-    "forks": "12.4K",
-    "language": "Rust",
-    "open_issues": 9647
+    "id": "srv-cpn4f8lds78s73a1v2bg",
+    "name": "analytics-api",
+    "type": "web_service",
+    "runtime": "node",
+    "region": "oregon",
+    "status": "running",
+    "branch": "main",
+    "repo": "https://github.com/acme-corp/analytics-api",
+    "created_at": "2025-11-02T10:30:00Z",
+    "updated_at": "2026-02-25T06:00:00Z"
   },
   "previewConfig": {
-    "title": "Render API",
-    "subtitle": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration",
-    "displayFields": [
-      "repo",
-      "stars",
-      "forks",
-      "language",
-      "open_issues"
-    ]
+    "title": "analytics-api",
+    "subtitle": "Render Web Service",
+    "displayFields": ["type", "runtime", "region", "status", "branch"]
   }
 }

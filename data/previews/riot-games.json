@@ -2,19 +2,19 @@
   "id": "riot-games",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Hollow Knight: Silksong",
-    "platform": "PC / Switch",
-    "genre": "Metroidvania",
-    "rating": "TBD"
+    "gameName": "Faker",
+    "tagLine": "KR1",
+    "summonerLevel": 782,
+    "tier": "CHALLENGER",
+    "rank": "I",
+    "leaguePoints": 1247,
+    "wins": 312,
+    "losses": 264,
+    "region": "KR"
   },
   "previewConfig": {
-    "title": "Riot Games",
-    "subtitle": "League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Faker#KR1",
+    "subtitle": "Riot Games — League of Legends",
+    "displayFields": ["tier", "leaguePoints", "summonerLevel", "wins", "losses"]
   }
 }

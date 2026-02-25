@@ -4,37 +4,42 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "duration": "3:20"
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "playcount": 18493021,
+        "listeners": 5842103
       },
       {
-        "title": "Shape of You",
-        "artist": "Ed Sheeran",
-        "duration": "3:53"
+        "name": "Creep",
+        "artist": "Radiohead",
+        "playcount": 14208743,
+        "listeners": 4917320
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "duration": "3:23"
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "playcount": 12984561,
+        "listeners": 4203847
       },
       {
-        "title": "Stay",
-        "artist": "The Kid LAROI",
-        "duration": "2:22"
+        "name": "Wonderwall",
+        "artist": "Oasis",
+        "playcount": 11740295,
+        "listeners": 4018293
       },
       {
-        "title": "Peaches",
-        "artist": "Justin Bieber",
-        "duration": "3:18"
+        "name": "Somebody That I Used to Know",
+        "artist": "Gotye",
+        "playcount": 10392847,
+        "listeners": 3891042
       }
     ]
   },
   "previewConfig": {
-    "title": "LastFm",
-    "subtitle": "Music",
-    "itemKey": "title",
+    "title": "Last.fm API",
+    "subtitle": "Top tracks by play count",
+    "itemKey": "name",
     "secondaryKey": "artist",
-    "badgeKey": "duration"
+    "badgeKey": "playcount"
   }
 }

@@ -2,19 +2,19 @@
   "id": "rawg-io",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Spider-Man 2",
-    "platform": "PS5",
-    "genre": "Action-Adventure",
-    "rating": "9.0 / 10"
+    "id": 3498,
+    "name": "Grand Theft Auto V",
+    "released": "2013-09-17",
+    "rating": 4.47,
+    "ratings_count": 6812,
+    "metacritic": 92,
+    "playtime": 74,
+    "genres": "Action, Adventure",
+    "platforms": "PC, PlayStation 5, Xbox Series S/X"
   },
   "previewConfig": {
-    "title": "RAWG.io",
-    "subtitle": "500,000+ games for 50 platforms including mobiles",
-    "displayFields": [
-      "title",
-      "platform",
-      "genre",
-      "rating"
-    ]
+    "title": "Grand Theft Auto V",
+    "subtitle": "RAWG Video Game Database",
+    "displayFields": ["rating", "metacritic", "playtime", "genres", "platforms"]
   }
 }

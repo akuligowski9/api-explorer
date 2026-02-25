@@ -2,21 +2,15 @@
   "id": "aqicn",
   "previewType": "card",
   "sampleResponse": {
-    "location": "New York, NY",
-    "temperature": "5°C / 41°F",
-    "condition": "Snow Showers",
-    "humidity": "76%",
-    "wind": "25 km/h NW"
+    "aqi": "72 — Moderate",
+    "quality": "Moderate",
+    "dominant_pollutant": "PM2.5",
+    "pm25": "72 µg/m³",
+    "pm10": "58 µg/m³"
   },
   "previewConfig": {
-    "title": "AQICN",
-    "subtitle": "Air Quality Index Data for over 1000 cities",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Beijing, China",
+    "subtitle": "AQI: 72 — Moderate",
+    "displayFields": ["aqi", "quality", "dominant_pollutant", "pm25", "pm10"]
   }
 }

@@ -2,21 +2,22 @@
   "id": "polygon",
   "previewType": "card",
   "sampleResponse": {
-    "symbol": "MSFT",
-    "price": "$417.88",
-    "change": "+3.52 (0.85%)",
-    "volume": "22.1M",
-    "market_cap": "$3.11T"
+    "ticker": "MSFT",
+    "close": 421.56,
+    "open": 418.90,
+    "high": 423.12,
+    "low": 417.35,
+    "volume": 22874163
   },
   "previewConfig": {
-    "title": "Polygon",
-    "subtitle": "Historical stock market data",
+    "title": "Polygon.io",
+    "subtitle": "Financial market data for stocks, options, and crypto",
     "displayFields": [
-      "symbol",
-      "price",
-      "change",
-      "volume",
-      "market_cap"
+      "ticker",
+      "close",
+      "open",
+      "high",
+      "volume"
     ]
   }
 }

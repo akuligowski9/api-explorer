@@ -1,40 +1,16 @@
 {
   "id": "soundcloud",
-  "previewType": "list",
+  "previewType": "card",
   "sampleResponse": {
-    "items": [
-      {
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "duration": "3:20"
-      },
-      {
-        "title": "Shape of You",
-        "artist": "Ed Sheeran",
-        "duration": "3:53"
-      },
-      {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "duration": "3:23"
-      },
-      {
-        "title": "Stay",
-        "artist": "The Kid LAROI",
-        "duration": "2:22"
-      },
-      {
-        "title": "Peaches",
-        "artist": "Justin Bieber",
-        "duration": "3:18"
-      }
-    ]
+    "title": "Midnight City",
+    "artist": "M83",
+    "genre": "Electronic",
+    "playback_count": 284019374,
+    "duration": "4:03"
   },
   "previewConfig": {
-    "title": "SoundCloud",
-    "subtitle": "With SoundCloud API you can build applications that will give more power to control your content",
-    "itemKey": "title",
-    "secondaryKey": "artist",
-    "badgeKey": "duration"
+    "title": "SoundCloud API",
+    "subtitle": "Track object",
+    "displayFields": ["title", "artist", "genre", "playback_count", "duration"]
   }
 }

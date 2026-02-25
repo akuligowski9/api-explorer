@@ -1,40 +1,16 @@
 {
   "id": "deezer",
-  "previewType": "list",
+  "previewType": "card",
   "sampleResponse": {
-    "items": [
-      {
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "duration": "3:20"
-      },
-      {
-        "title": "Shape of You",
-        "artist": "Ed Sheeran",
-        "duration": "3:53"
-      },
-      {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "duration": "3:23"
-      },
-      {
-        "title": "Stay",
-        "artist": "The Kid LAROI",
-        "duration": "2:22"
-      },
-      {
-        "title": "Peaches",
-        "artist": "Justin Bieber",
-        "duration": "3:18"
-      }
-    ]
+    "title": "Get Lucky",
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "duration": "6:09",
+    "rank": 948271
   },
   "previewConfig": {
-    "title": "Deezer",
-    "subtitle": "Music",
-    "itemKey": "title",
-    "secondaryKey": "artist",
-    "badgeKey": "duration"
+    "title": "Deezer API",
+    "subtitle": "Track object",
+    "displayFields": ["title", "artist", "album", "duration", "rank"]
   }
 }

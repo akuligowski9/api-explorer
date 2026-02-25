@@ -2,20 +2,20 @@
   "id": "coinmarketcap",
   "previewType": "card",
   "sampleResponse": {
-    "name": "XRP",
-    "symbol": "XRP",
-    "price_usd": "$0.5421",
-    "change_24h": "-0.32%",
-    "market_cap": "$29.5B"
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 3241.87,
+    "percent_change_24h": -0.92,
+    "market_cap": 389742000000
   },
   "previewConfig": {
     "title": "CoinMarketCap",
-    "subtitle": "Cryptocurrencies Prices",
+    "subtitle": "Cryptocurrency market capitalizations and data",
     "displayFields": [
       "name",
       "symbol",
-      "price_usd",
-      "change_24h",
+      "price",
+      "percent_change_24h",
       "market_cap"
     ]
   }

@@ -2,21 +2,15 @@
   "id": "reddit",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@devcraft",
-    "display_name": "DevCraft",
-    "followers": "52,100",
-    "posts": "1,847",
-    "verified": false
+    "title": "I just mass-deleted all my old Reddit comments. Here's why.",
+    "subreddit": "r/privacy",
+    "author": "u/data_warden",
+    "score": 48213,
+    "num_comments": 3847
   },
   "previewConfig": {
-    "title": "Reddit",
-    "subtitle": "Homepage of the internet",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "Reddit API",
+    "subtitle": "Subreddit post",
+    "displayFields": ["title", "subreddit", "author", "score", "num_comments"]
   }
 }

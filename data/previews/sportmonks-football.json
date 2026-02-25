@@ -2,21 +2,20 @@
   "id": "sportmonks-football",
   "previewType": "card",
   "sampleResponse": {
-    "match": "Chiefs vs Eagles",
-    "score": "31 – 24",
-    "status": "Final",
-    "venue": "State Farm Stadium",
-    "mvp": "Mahomes"
+    "id": 18535046,
+    "league": "La Liga",
+    "season": "2025/2026",
+    "localTeam": "FC Barcelona",
+    "visitorTeam": "Real Madrid",
+    "localteam_score": 3,
+    "visitorteam_score": 2,
+    "status": "FT",
+    "date": "2026-02-21T20:00:00Z",
+    "venue": "Spotify Camp Nou"
   },
   "previewConfig": {
-    "title": "Sportmonks Football",
-    "subtitle": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
-    "displayFields": [
-      "match",
-      "score",
-      "status",
-      "venue",
-      "mvp"
-    ]
+    "title": "FC Barcelona 3 — 2 Real Madrid",
+    "subtitle": "Sportmonks — La Liga",
+    "displayFields": ["league", "season", "status", "date", "venue"]
   }
 }

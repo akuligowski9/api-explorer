@@ -2,21 +2,21 @@
   "id": "strava",
   "previewType": "card",
   "sampleResponse": {
-    "match": "Yankees vs Red Sox",
-    "score": "5 – 3",
-    "status": "Final",
-    "venue": "Fenway Park",
-    "mvp": "Aaron Judge"
+    "id": 10584327612,
+    "name": "Morning 10K — Riverside Loop",
+    "type": "Run",
+    "distance": 10042.5,
+    "moving_time": 2748,
+    "elapsed_time": 2830,
+    "average_speed": 3.66,
+    "max_speed": 4.82,
+    "total_elevation_gain": 58.3,
+    "start_date": "2026-02-25T06:30:00Z",
+    "average_heartrate": 152
   },
   "previewConfig": {
-    "title": "Strava",
-    "subtitle": "Connect with athletes, activities and more",
-    "displayFields": [
-      "match",
-      "score",
-      "status",
-      "venue",
-      "mvp"
-    ]
+    "title": "Morning 10K — Riverside Loop",
+    "subtitle": "Strava Activity",
+    "displayFields": ["type", "distance", "moving_time", "total_elevation_gain", "average_heartrate"]
   }
 }

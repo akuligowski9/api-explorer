@@ -4,37 +4,47 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Blinding Lights",
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "duration": "5:55",
+        "popularity": 95
+      },
+      {
+        "name": "Blinding Lights",
         "artist": "The Weeknd",
-        "duration": "3:20"
+        "album": "After Hours",
+        "duration": "3:20",
+        "popularity": 92
       },
       {
-        "title": "Shape of You",
-        "artist": "Ed Sheeran",
-        "duration": "3:53"
-      },
-      {
-        "title": "Levitating",
+        "name": "Levitating",
         "artist": "Dua Lipa",
-        "duration": "3:23"
+        "album": "Future Nostalgia",
+        "duration": "3:23",
+        "popularity": 89
       },
       {
-        "title": "Stay",
-        "artist": "The Kid LAROI",
-        "duration": "2:22"
+        "name": "As It Was",
+        "artist": "Harry Styles",
+        "album": "Harry's House",
+        "duration": "2:47",
+        "popularity": 91
       },
       {
-        "title": "Peaches",
-        "artist": "Justin Bieber",
-        "duration": "3:18"
+        "name": "Anti-Hero",
+        "artist": "Taylor Swift",
+        "album": "Midnights",
+        "duration": "3:20",
+        "popularity": 93
       }
     ]
   },
   "previewConfig": {
-    "title": "Spotify",
-    "subtitle": "View Spotify music catalog, manage users' libraries, get recommendations and more",
-    "itemKey": "title",
+    "title": "Spotify API",
+    "subtitle": "Top tracks",
+    "itemKey": "name",
     "secondaryKey": "artist",
-    "badgeKey": "duration"
+    "badgeKey": "popularity"
   }
 }

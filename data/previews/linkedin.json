@@ -2,21 +2,15 @@
   "id": "linkedin",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@sarahcodes",
-    "display_name": "Sarah Chen",
-    "followers": "284,921",
-    "posts": "5,102",
-    "verified": true
+    "name": "Ada Lovelace",
+    "headline": "Senior Software Engineer at Anthropic",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "connections": 2847
   },
   "previewConfig": {
-    "title": "LinkedIn",
-    "subtitle": "The foundation of all digital integrations with LinkedIn",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "LinkedIn API",
+    "subtitle": "Profile object",
+    "displayFields": ["name", "headline", "location", "industry", "connections"]
   }
 }

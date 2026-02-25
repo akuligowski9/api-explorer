@@ -2,21 +2,15 @@
   "id": "tmdb",
   "previewType": "card",
   "sampleResponse": {
-    "title": "Oppenheimer",
-    "director": "Christopher Nolan",
-    "year": 2023,
-    "rating": "8.3 / 10",
-    "runtime": "3h 0m"
+    "title": "Interstellar",
+    "release_date": "2014-11-07",
+    "vote_average": 8.7,
+    "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "original_language": "en"
   },
   "previewConfig": {
-    "title": "TMDb",
-    "subtitle": "Community-based movie data",
-    "displayFields": [
-      "title",
-      "director",
-      "year",
-      "rating",
-      "runtime"
-    ]
+    "title": "TMDb API",
+    "subtitle": "Movie object",
+    "displayFields": ["title", "release_date", "vote_average", "overview", "original_language"]
   }
 }

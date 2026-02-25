@@ -2,21 +2,21 @@
   "id": "coinpaprika",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Solana",
-    "symbol": "SOL",
-    "price_usd": "$142.85",
-    "change_24h": "-2.14%",
-    "market_cap": "$63.2B"
+    "name": "Cardano",
+    "symbol": "ADA",
+    "rank": 9,
+    "price_usd": 0.7823,
+    "volume_24h_usd": 412850000
   },
   "previewConfig": {
-    "title": "Coinpaprika",
-    "subtitle": "Cryptocurrencies prices, volume and more",
+    "title": "CoinPaprika",
+    "subtitle": "Cryptocurrency market data and research platform",
     "displayFields": [
       "name",
       "symbol",
+      "rank",
       "price_usd",
-      "change_24h",
-      "market_cap"
+      "volume_24h_usd"
     ]
   }
 }

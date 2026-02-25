@@ -2,21 +2,15 @@
   "id": "visual-crossing",
   "previewType": "card",
   "sampleResponse": {
-    "location": "São Paulo, Brazil",
-    "temperature": "24°C / 75°F",
-    "condition": "Thunderstorm",
-    "humidity": "88%",
-    "wind": "6 km/h E"
+    "conditions": "Partially cloudy",
+    "temperature": "18.9°C (feels like 18.2°C)",
+    "humidity": "58%",
+    "wind_speed": "11.2 km/h S",
+    "uv_index": "6 — High"
   },
   "previewConfig": {
-    "title": "Visual Crossing",
-    "subtitle": "Global historical and weather forecast data",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Tokyo, Japan",
+    "subtitle": "Partially cloudy",
+    "displayFields": ["conditions", "temperature", "humidity", "wind_speed", "uv_index"]
   }
 }

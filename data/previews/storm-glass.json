@@ -2,21 +2,15 @@
   "id": "storm-glass",
   "previewType": "card",
   "sampleResponse": {
-    "location": "Dubai, UAE",
-    "temperature": "38°C / 100°F",
-    "condition": "Clear",
-    "humidity": "32%",
-    "wind": "15 km/h N"
+    "wave_height": "1.6 m",
+    "water_temperature": "19.8°C",
+    "wind_speed": "6.8 m/s SW",
+    "wave_period": "8.2 s",
+    "air_temperature": "22.4°C"
   },
   "previewConfig": {
-    "title": "Storm Glass",
-    "subtitle": "Global marine weather from multiple sources",
-    "displayFields": [
-      "location",
-      "temperature",
-      "condition",
-      "humidity",
-      "wind"
-    ]
+    "title": "Santa Cruz, CA — Marine Forecast",
+    "subtitle": "Wave height 1.6m, water 19.8°C",
+    "displayFields": ["wave_height", "water_temperature", "wind_speed", "wave_period", "air_temperature"]
   }
 }

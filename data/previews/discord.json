@@ -2,21 +2,15 @@
   "id": "discord",
   "previewType": "card",
   "sampleResponse": {
-    "username": "@janedoe",
-    "display_name": "Jane Doe",
-    "followers": "142,803",
-    "posts": "3,241",
-    "verified": true
+    "name": "Midjourney",
+    "id": "662267386631200778",
+    "member_count": 19842567,
+    "online_count": 1043892,
+    "verification_level": "HIGH"
   },
   "previewConfig": {
-    "title": "Discord",
-    "subtitle": "Make bots for Discord, integrate Discord onto an external platform",
-    "displayFields": [
-      "username",
-      "display_name",
-      "followers",
-      "posts",
-      "verified"
-    ]
+    "title": "Discord Bot API",
+    "subtitle": "Guild / Server object",
+    "displayFields": ["name", "member_count", "online_count", "verification_level", "id"]
   }
 }
