@@ -6,7 +6,7 @@
 
 A visual front-end for public API catalogs. Built on top of [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) and [public-apis/public-apis](https://github.com/public-apis/public-apis) - same data, completely different experience. Instead of browsing a markdown table, you get rendered sample data displayed as weather cards, charts, image grids, and more.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fakuligowski9%2Fapi-explorer)
+**[public-apis-explorer.vercel.app](https://public-apis-explorer.vercel.app)**
 
 ## Why this exists
 
