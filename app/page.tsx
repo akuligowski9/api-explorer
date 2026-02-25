@@ -36,6 +36,25 @@ export default function Home() {
           </a>{" "}
           (MIT). Built with Next.js + Tailwind CSS.
         </p>
+        <p className="mt-2">
+          <a
+            href="https://github.com/akuligowski9/api-explorer"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-4 hover:text-foreground"
+          >
+            View on GitHub
+          </a>
+          {" "}&middot;{" "}
+          <a
+            href="https://github.com/akuligowski9/api-explorer/blob/main/CONTRIBUTING.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-4 hover:text-foreground"
+          >
+            Contribute
+          </a>
+        </p>
       </footer>
     </div>
   );

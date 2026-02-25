@@ -1,12 +1,18 @@
 # API Explorer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/akuligowski9/api-explorer?style=social)](https://github.com/akuligowski9/api-explorer)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akuligowski9/api-explorer/blob/main/CONTRIBUTING.md)
+
 A visual catalog of 1,500+ public APIs. Browse APIs through rendered sample data previews — not raw JSON, not docs links, but the data displayed as weather cards, charts, image grids, and more.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fakuligowski9%2Fapi-explorer)
 
 ## What makes this different
 
 Every other API catalog is a table. This one shows you what the data actually looks like:
 
-- **25 featured APIs** with custom visual preview components
+- **1,546 APIs** with visual preview components
 - **1,500+ APIs** listed with search, filters, and category browsing
 - **7 preview types**: weather cards, SVG charts, geo visualizations, image displays, styled lists, code viewers, and key-value cards
 
@@ -89,6 +95,18 @@ lib/
 ```
 
 4. Run `npm run build` to verify the new page generates.
+
+## Contributing
+
+We welcome contributions! The easiest way to help is by adding new API previews. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+
+```bash
+# Fork, clone, and create a preview
+git clone https://github.com/YOUR_USERNAME/api-explorer.git
+cd api-explorer
+npm install
+npm run dev
+```
 
 ## API catalog source
 
