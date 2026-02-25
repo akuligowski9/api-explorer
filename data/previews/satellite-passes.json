@@ -1,0 +1,21 @@
+{
+  "id": "satellite-passes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Satellite Passes",
+    "description": "Find satellite passes",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Satellite Passes",
+    "subtitle": "Find satellite passes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

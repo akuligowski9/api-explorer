@@ -1,0 +1,21 @@
+{
+  "id": "bigdatacloud-s-ip-geolocation-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BigDataCloud's IP Geolocation API",
+    "description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area.",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BigDataCloud's IP Geolocation API",
+    "subtitle": "Provides fast and accurate IP geolocation APIs along with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dropbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dropbox",
+    "description": "File Sharing and Storage",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dropbox",
+    "subtitle": "File Sharing and Storage",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bitmex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bitmex",
+    "description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bitmex",
+    "subtitle": "Real-Time Cryptocurrency derivatives trading platform based…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "opensensemap",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "openSenseMap",
+    "description": "Data from Personal Weather Stations called senseBoxes",
+    "category": "Weather",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "openSenseMap",
+    "subtitle": "Data from Personal Weather Stations called senseBoxes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

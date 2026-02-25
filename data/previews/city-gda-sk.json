@@ -1,0 +1,21 @@
+{
+  "id": "city-gda-sk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Gdańsk",
+    "description": "Gdańsk (PL) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, Gdańsk",
+    "subtitle": "Gdańsk (PL) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

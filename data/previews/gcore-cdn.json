@@ -1,0 +1,21 @@
+{
+  "id": "gcore-cdn",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gcore CDN",
+    "description": "Make your app fast and responsive for a global audience with Gcore CDN.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Gcore CDN",
+    "subtitle": "Make your app fast and responsive for a global audience…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rentcast",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RentCast",
+    "description": "Retrieve real-time property and rental data for real estate in the United States",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "RentCast",
+    "subtitle": "Retrieve real-time property and rental data for real estate…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

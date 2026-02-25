@@ -1,0 +1,21 @@
+{
+  "id": "pointpin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pointpin",
+    "description": "Pointpin is a simple yet powerful API designed for high traffic websites to deliver fast and reliable IP geolocation for your websites and applications.",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Pointpin",
+    "subtitle": "Pointpin is a simple yet powerful API designed for high…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

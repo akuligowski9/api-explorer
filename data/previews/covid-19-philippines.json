@@ -1,0 +1,21 @@
+{
+  "id": "covid-19-philippines",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid-19 Philippines",
+    "description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Covid-19 Philippines",
+    "subtitle": "Unofficial Covid-19 Web API for Philippines from data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

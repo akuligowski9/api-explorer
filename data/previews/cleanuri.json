@@ -1,0 +1,21 @@
+{
+  "id": "cleanuri",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CleanURI",
+    "description": "URL shortener service",
+    "category": "URL Shorteners",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CleanURI",
+    "subtitle": "URL shortener service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

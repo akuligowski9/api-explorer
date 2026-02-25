@@ -1,0 +1,21 @@
+{
+  "id": "smash",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Smash",
+    "description": "Upload large files on websites, mobile apps, SaaS solutions and custom workflows",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Smash",
+    "subtitle": "Upload large files on websites, mobile apps, SaaS solutions…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

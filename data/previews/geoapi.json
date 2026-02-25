@@ -1,0 +1,21 @@
+{
+  "id": "geoapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoApi",
+    "description": "French geographical data",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeoApi",
+    "subtitle": "French geographical data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

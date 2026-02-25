@@ -1,0 +1,21 @@
+{
+  "id": "tankerkoenig",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tankerkoenig",
+    "description": "German realtime gas/diesel prices",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Tankerkoenig",
+    "subtitle": "German realtime gas/diesel prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

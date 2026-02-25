@@ -1,0 +1,21 @@
+{
+  "id": "scoop-it",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Scoop.it",
+    "description": "Content Curation Service",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Scoop.it",
+    "subtitle": "Content Curation Service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

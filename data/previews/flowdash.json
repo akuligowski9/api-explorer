@@ -1,0 +1,21 @@
+{
+  "id": "flowdash",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Flowdash",
+    "description": "Automate business workflows",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Flowdash",
+    "subtitle": "Automate business workflows",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

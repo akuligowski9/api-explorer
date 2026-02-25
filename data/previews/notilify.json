@@ -1,0 +1,21 @@
+{
+  "id": "notilify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Notilify",
+    "description": "A seamless messaging platform & API to send all types of SMS",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Notilify",
+    "subtitle": "A seamless messaging platform & API to send all types of SMS",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "collins",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Collins",
+    "description": "Bilingual Dictionary and Thesaurus Data",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Collins",
+    "subtitle": "Bilingual Dictionary and Thesaurus Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

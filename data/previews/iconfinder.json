@@ -1,0 +1,21 @@
+{
+  "id": "iconfinder",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Iconfinder",
+    "description": "Icons",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Iconfinder",
+    "subtitle": "Icons",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

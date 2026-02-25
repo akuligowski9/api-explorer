@@ -1,0 +1,21 @@
+{
+  "id": "argentinadatos",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ArgentinaDatos",
+    "description": "Unofficial Argentinian data API",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ArgentinaDatos",
+    "subtitle": "Unofficial Argentinian data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

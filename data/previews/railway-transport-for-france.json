@@ -1,0 +1,21 @@
+{
+  "id": "railway-transport-for-france",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Railway Transport for France",
+    "description": "SNCF public API",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Railway Transport for France",
+    "subtitle": "SNCF public API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wordnik",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wordnik",
+    "description": "Dictionary Data",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wordnik",
+    "subtitle": "Dictionary Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

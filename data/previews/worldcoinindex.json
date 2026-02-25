@@ -1,0 +1,21 @@
+{
+  "id": "worldcoinindex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WorldCoinIndex",
+    "description": "Cryptocurrencies Prices",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WorldCoinIndex",
+    "subtitle": "Cryptocurrencies Prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

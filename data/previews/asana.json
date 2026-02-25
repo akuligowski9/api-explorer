@@ -1,0 +1,21 @@
+{
+  "id": "asana",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Asana",
+    "description": "Programmatic access to all data in your asana system",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Asana",
+    "subtitle": "Programmatic access to all data in your asana system",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

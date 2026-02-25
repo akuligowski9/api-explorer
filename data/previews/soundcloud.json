@@ -1,0 +1,21 @@
+{
+  "id": "soundcloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SoundCloud",
+    "description": "With SoundCloud API you can build applications that will give more power to control your content",
+    "category": "Music",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SoundCloud",
+    "subtitle": "With SoundCloud API you can build applications that will…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

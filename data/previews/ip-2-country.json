@@ -1,0 +1,21 @@
+{
+  "id": "ip-2-country",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IP 2 Country",
+    "description": "Map an IP to a country",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IP 2 Country",
+    "subtitle": "Map an IP to a country",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "medium",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Medium",
+    "description": "Community of readers and writers offering unique perspectives on ideas",
+    "category": "Personality",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Medium",
+    "subtitle": "Community of readers and writers offering unique…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

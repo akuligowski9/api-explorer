@@ -1,0 +1,21 @@
+{
+  "id": "cryptomarket",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CryptoMarket",
+    "description": "Cryptocurrencies Trading platform",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CryptoMarket",
+    "subtitle": "Cryptocurrencies Trading platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

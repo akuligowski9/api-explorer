@@ -1,0 +1,21 @@
+{
+  "id": "geojs",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoJS",
+    "description": "IP geolocation with ChatOps integration",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GeoJS",
+    "subtitle": "IP geolocation with ChatOps integration",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "spyse",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Spyse",
+    "description": "Access data on all Internet assets and build powerful attack surface management applications",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Spyse",
+    "subtitle": "Access data on all Internet assets and build powerful…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

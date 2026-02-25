@@ -1,0 +1,21 @@
+{
+  "id": "geoapify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geoapify",
+    "description": "Forward and reverse geocoding, address autocomplete",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Geoapify",
+    "subtitle": "Forward and reverse geocoding, address autocomplete",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

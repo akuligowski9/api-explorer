@@ -1,0 +1,21 @@
+{
+  "id": "the-ip-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The IP API",
+    "description": "IP to Location API, with data about country, region, city etc, with free plan allowing 1000 req/day",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The IP API",
+    "subtitle": "IP to Location API, with data about country, region, city…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

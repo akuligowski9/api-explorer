@@ -1,0 +1,21 @@
+{
+  "id": "codeship",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Codeship",
+    "description": "Codeship is a Continuous Integration Platform in the cloud",
+    "category": "Continuous Integration",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Codeship",
+    "subtitle": "Codeship is a Continuous Integration Platform in the cloud",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

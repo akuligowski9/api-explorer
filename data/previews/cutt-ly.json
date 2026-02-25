@@ -1,0 +1,21 @@
+{
+  "id": "cutt-ly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cutt.ly",
+    "description": "URL shortener service",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Cutt.ly",
+    "subtitle": "URL shortener service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

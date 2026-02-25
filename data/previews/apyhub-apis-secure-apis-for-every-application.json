@@ -1,0 +1,21 @@
+{
+  "id": "apyhub-apis-secure-apis-for-every-application",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ApyHub APIs: Secure APIs for Every Application",
+    "description": "Build and ship faster with 150+ APIs to connect to your application",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ApyHub APIs: Secure APIs for Every Application",
+    "subtitle": "Build and ship faster with 150+ APIs to connect to your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

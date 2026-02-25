@@ -1,0 +1,21 @@
+{
+  "id": "mexico",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mexico",
+    "description": "Mexico RESTful zip codes API",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mexico",
+    "subtitle": "Mexico RESTful zip codes API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

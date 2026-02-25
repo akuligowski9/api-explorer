@@ -1,0 +1,21 @@
+{
+  "id": "piloterr",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Piloterr",
+    "description": "Piloterr web scraping API handles headless browsers, rotates proxies for you, and offers json-parsed data extraction",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Piloterr",
+    "subtitle": "Piloterr web scraping API handles headless browsers,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

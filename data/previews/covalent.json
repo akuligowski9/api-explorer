@@ -1,0 +1,21 @@
+{
+  "id": "covalent",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covalent",
+    "description": "Multi-blockchain data aggregator platform",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Covalent",
+    "subtitle": "Multi-blockchain data aggregator platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "file-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "File.io",
+    "description": "Super simple file sharing, convenient, anonymous and secure",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "File.io",
+    "subtitle": "Super simple file sharing, convenient, anonymous and secure",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "finnhub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Finnhub",
+    "description": "Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Finnhub",
+    "subtitle": "Real-Time RESTful APIs and Websocket for Stocks,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

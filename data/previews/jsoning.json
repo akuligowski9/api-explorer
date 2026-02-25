@@ -1,0 +1,21 @@
+{
+  "id": "jsoning",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JSONing",
+    "description": "Fake REST API for prototyping",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "JSONing",
+    "subtitle": "Fake REST API for prototyping",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

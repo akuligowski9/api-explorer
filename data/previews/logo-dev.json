@@ -1,0 +1,21 @@
+{
+  "id": "logo-dev",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Logo.dev",
+    "description": "Automated company logo API that updates daily. Transform any domain or company name into verified logos.",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Logo.dev",
+    "subtitle": "Automated company logo API that updates daily. Transform…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

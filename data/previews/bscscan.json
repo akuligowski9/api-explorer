@@ -1,0 +1,21 @@
+{
+  "id": "bscscan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bscscan",
+    "description": "Binance Smart Chain explorer API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Bscscan",
+    "subtitle": "Binance Smart Chain explorer API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

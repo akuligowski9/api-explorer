@@ -1,0 +1,21 @@
+{
+  "id": "financial-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Financial Data",
+    "description": "Stock market and financial data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Financial Data",
+    "subtitle": "Stock market and financial data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

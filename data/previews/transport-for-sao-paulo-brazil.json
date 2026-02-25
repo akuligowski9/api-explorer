@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-sao-paulo-brazil",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Sao Paulo, Brazil",
+    "description": "SPTrans",
+    "category": "Transportation",
+    "auth": "OAuth",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Sao Paulo, Brazil",
+    "subtitle": "SPTrans",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

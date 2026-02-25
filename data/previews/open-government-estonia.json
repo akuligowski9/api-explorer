@@ -1,0 +1,21 @@
+{
+  "id": "open-government-estonia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Estonia",
+    "description": "Estonia Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Estonia",
+    "subtitle": "Estonia Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "host-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Host.io",
+    "description": "Domains Data API for Developers",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Host.io",
+    "subtitle": "Domains Data API for Developers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

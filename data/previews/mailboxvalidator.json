@@ -1,0 +1,21 @@
+{
+  "id": "mailboxvalidator",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MailboxValidator",
+    "description": "Validate email address to improve deliverability",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MailboxValidator",
+    "subtitle": "Validate email address to improve deliverability",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bng2latlong",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "bng2latlong",
+    "description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "bng2latlong",
+    "subtitle": "Convert British OSGB36 easting and northing (British…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

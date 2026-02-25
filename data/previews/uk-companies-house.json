@@ -1,0 +1,21 @@
+{
+  "id": "uk-companies-house",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "UK Companies House",
+    "description": "UK Companies House Data from the UK government",
+    "category": "Government",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "UK Companies House",
+    "subtitle": "UK Companies House Data from the UK government",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

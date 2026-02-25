@@ -1,0 +1,21 @@
+{
+  "id": "iucn",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IUCN",
+    "description": "IUCN Red List of Threatened Species",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "IUCN",
+    "subtitle": "IUCN Red List of Threatened Species",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

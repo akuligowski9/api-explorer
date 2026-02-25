@@ -1,0 +1,21 @@
+{
+  "id": "digidates",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DigiDates",
+    "description": "Various date and time calculations",
+    "category": "Calendar",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "DigiDates",
+    "subtitle": "Various date and time calculations",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

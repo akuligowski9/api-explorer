@@ -1,0 +1,21 @@
+{
+  "id": "opensea",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenSea",
+    "description": "The Largest NFT Marketplace",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "OpenSea",
+    "subtitle": "The Largest NFT Marketplace",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "duply",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Duply",
+    "description": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Duply",
+    "subtitle": "Generate, Edit, Scale and Manage Images and Videos Smarter…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

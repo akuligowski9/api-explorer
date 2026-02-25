@@ -1,0 +1,21 @@
+{
+  "id": "escape",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Escape",
+    "description": "An API for escaping different kind of queries",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Escape",
+    "subtitle": "An API for escaping different kind of queries",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

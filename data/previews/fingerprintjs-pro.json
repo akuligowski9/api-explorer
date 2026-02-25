@@ -1,0 +1,21 @@
+{
+  "id": "fingerprintjs-pro",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FingerprintJS Pro",
+    "description": "Fraud detection API offering highly accurate browser fingerprinting",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "FingerprintJS Pro",
+    "subtitle": "Fraud detection API offering highly accurate browser…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

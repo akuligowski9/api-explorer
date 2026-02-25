@@ -1,0 +1,21 @@
+{
+  "id": "trove",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Trove",
+    "description": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Trove",
+    "subtitle": "Search through the National Library of Australia collection…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

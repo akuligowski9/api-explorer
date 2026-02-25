@@ -1,0 +1,21 @@
+{
+  "id": "open-government-south-australian-government",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, South Australian Government",
+    "description": "South Australian Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, South Australian Government",
+    "subtitle": "South Australian Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

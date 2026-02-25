@@ -1,0 +1,21 @@
+{
+  "id": "scanii",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Scanii",
+    "description": "Simple REST API that can scan submitted documents/files for the presence of threats",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Scanii",
+    "subtitle": "Simple REST API that can scan submitted documents/files for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

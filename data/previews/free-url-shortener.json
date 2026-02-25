@@ -1,0 +1,21 @@
+{
+  "id": "free-url-shortener",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Free Url Shortener",
+    "description": "Free URL Shortener offers a powerful API to interact with other sites",
+    "category": "URL Shorteners",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Free Url Shortener",
+    "subtitle": "Free URL Shortener offers a powerful API to interact with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

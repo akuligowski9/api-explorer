@@ -1,0 +1,21 @@
+{
+  "id": "tamtam",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TamTam",
+    "description": "Bot API to interact with TamTam",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TamTam",
+    "subtitle": "Bot API to interact with TamTam",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

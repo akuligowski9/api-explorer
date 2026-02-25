@@ -1,0 +1,21 @@
+{
+  "id": "gamerpower",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GamerPower",
+    "description": "Game Giveaways Tracker",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GamerPower",
+    "subtitle": "Game Giveaways Tracker",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

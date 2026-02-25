@@ -1,0 +1,21 @@
+{
+  "id": "bank-of-russia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bank of Russia",
+    "description": "Exchange rates and currency conversion",
+    "category": "Currency Exchange",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bank of Russia",
+    "subtitle": "Exchange rates and currency conversion",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

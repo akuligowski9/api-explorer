@@ -1,0 +1,21 @@
+{
+  "id": "the-dog",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Dog",
+    "description": "A public service all about Dogs, free to use when making your fancy new App, Website or Service",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "The Dog",
+    "subtitle": "A public service all about Dogs, free to use when making…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

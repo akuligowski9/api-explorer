@@ -1,0 +1,21 @@
+{
+  "id": "edamam-nutrition",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Edamam nutrition",
+    "description": "Nutrition Analysis",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Edamam nutrition",
+    "subtitle": "Nutrition Analysis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

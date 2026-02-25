@@ -1,0 +1,21 @@
+{
+  "id": "mangapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mangapi",
+    "description": "Translate manga pages from one language to another",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mangapi",
+    "subtitle": "Translate manga pages from one language to another",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

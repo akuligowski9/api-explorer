@@ -1,0 +1,21 @@
+{
+  "id": "chatterbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ChatterBox",
+    "description": "One API for meeting bots on Zoom, Meet & Teams",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ChatterBox",
+    "subtitle": "One API for meeting bots on Zoom, Meet & Teams",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

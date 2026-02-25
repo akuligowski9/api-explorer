@@ -1,0 +1,21 @@
+{
+  "id": "instagram-posts-generator",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Instagram Posts Generator",
+    "description": "Generate posts with templates from popular instagram pages.",
+    "category": "Social",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Instagram Posts Generator",
+    "subtitle": "Generate posts with templates from popular instagram pages.",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

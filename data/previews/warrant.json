@@ -1,0 +1,21 @@
+{
+  "id": "warrant",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Warrant",
+    "description": "APIs for authorization and access control",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Warrant",
+    "subtitle": "APIs for authorization and access control",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

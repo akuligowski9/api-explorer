@@ -1,0 +1,21 @@
+{
+  "id": "open-government-greece",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Greece",
+    "description": "Greece Government Open Data",
+    "category": "Government",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Greece",
+    "subtitle": "Greece Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

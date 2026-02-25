@@ -1,0 +1,21 @@
+{
+  "id": "newsmesh",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NewsMesh",
+    "description": "Access the news articles from trusted sources with real-time updates & powerful search capabilities",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NewsMesh",
+    "subtitle": "Access the news articles from trusted sources with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

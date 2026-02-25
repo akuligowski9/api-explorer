@@ -1,0 +1,21 @@
+{
+  "id": "gladia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gladia",
+    "description": "Artificial intelligence API's",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Gladia",
+    "subtitle": "Artificial intelligence API's",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

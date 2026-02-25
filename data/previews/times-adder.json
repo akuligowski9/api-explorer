@@ -1,0 +1,21 @@
+{
+  "id": "times-adder",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Times Adder",
+    "description": "With this API you can add each of the times introduced in the array sent",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Times Adder",
+    "subtitle": "With this API you can add each of the times introduced in…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

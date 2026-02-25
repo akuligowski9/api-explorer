@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-london-england",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for London, England",
+    "description": "TfL API",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for London, England",
+    "subtitle": "TfL API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

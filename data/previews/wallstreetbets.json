@@ -1,0 +1,21 @@
+{
+  "id": "wallstreetbets",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WallstreetBets",
+    "description": "WallstreetBets Stock Comments Sentiment Analysis",
+    "category": "Finance",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WallstreetBets",
+    "subtitle": "WallstreetBets Stock Comments Sentiment Analysis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

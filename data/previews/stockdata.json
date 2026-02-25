@@ -1,0 +1,21 @@
+{
+  "id": "stockdata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "StockData",
+    "description": "Real-Time, Intraday & Historical Market Data, News and Sentiment API",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "StockData",
+    "subtitle": "Real-Time, Intraday & Historical Market Data, News and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

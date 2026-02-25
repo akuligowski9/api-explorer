@@ -1,0 +1,21 @@
+{
+  "id": "urlscan-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "URLScan.io",
+    "description": "Scan and Analyse URLs",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "URLScan.io",
+    "subtitle": "Scan and Analyse URLs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

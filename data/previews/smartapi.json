@@ -1,0 +1,21 @@
+{
+  "id": "smartapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SmartAPI",
+    "description": "Gain access to set of  <SmartAPI>  and create end-to-end broking services",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SmartAPI",
+    "subtitle": "Gain access to set of  <SmartAPI>  and create end-to-end…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

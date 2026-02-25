@@ -1,0 +1,21 @@
+{
+  "id": "open-government-new-zealand",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, New Zealand",
+    "description": "New Zealand Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, New Zealand",
+    "subtitle": "New Zealand Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

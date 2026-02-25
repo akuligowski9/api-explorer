@@ -1,0 +1,21 @@
+{
+  "id": "huobi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Huobi",
+    "description": "Seychelles based cryptocurrency exchange",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Huobi",
+    "subtitle": "Seychelles based cryptocurrency exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

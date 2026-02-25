@@ -1,0 +1,21 @@
+{
+  "id": "luchtmeetnet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Luchtmeetnet",
+    "description": "Predicted and actual air quality components for The Netherlands (RIVM)",
+    "category": "Environment",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Luchtmeetnet",
+    "subtitle": "Predicted and actual air quality components for The…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

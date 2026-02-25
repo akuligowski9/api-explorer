@@ -1,0 +1,21 @@
+{
+  "id": "postnord",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PostNord",
+    "description": "Provides information about parcels in transport for Sweden and Denmark",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PostNord",
+    "subtitle": "Provides information about parcels in transport for Sweden…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

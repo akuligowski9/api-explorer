@@ -1,0 +1,21 @@
+{
+  "id": "inferdo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Inferdo",
+    "description": "Computer Vision services like Facial detection, Image labeling, NSFW classification",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Inferdo",
+    "subtitle": "Computer Vision services like Facial detection, Image…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

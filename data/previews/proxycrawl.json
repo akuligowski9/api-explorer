@@ -1,0 +1,21 @@
+{
+  "id": "proxycrawl",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ProxyCrawl",
+    "description": "Scraping and crawling anticaptcha service",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ProxyCrawl",
+    "subtitle": "Scraping and crawling anticaptcha service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

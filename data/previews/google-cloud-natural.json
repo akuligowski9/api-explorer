@@ -1,0 +1,21 @@
+{
+  "id": "google-cloud-natural",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Google Cloud Natural",
+    "description": "Natural language understanding technology, including sentiment, entity and syntax analysis",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Google Cloud Natural",
+    "subtitle": "Natural language understanding technology, including…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

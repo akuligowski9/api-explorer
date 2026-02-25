@@ -1,0 +1,21 @@
+{
+  "id": "met-office-datapoint",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Met Office DataPoint",
+    "description": "Weather data for the UK",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Met Office DataPoint",
+    "subtitle": "Weather data for the UK",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fxratesapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FxRatesAPI",
+    "description": "Real-time exchange rates, historical rates and currency conversion",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "FxRatesAPI",
+    "subtitle": "Real-time exchange rates, historical rates and currency…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

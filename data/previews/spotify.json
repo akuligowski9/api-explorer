@@ -1,0 +1,21 @@
+{
+  "id": "spotify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Spotify",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "category": "Music",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Spotify",
+    "subtitle": "View Spotify music catalog, manage users' libraries, get…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

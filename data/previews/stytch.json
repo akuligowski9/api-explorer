@@ -1,0 +1,21 @@
+{
+  "id": "stytch",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Stytch",
+    "description": "User infrastructure for modern applications",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Stytch",
+    "subtitle": "User infrastructure for modern applications",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

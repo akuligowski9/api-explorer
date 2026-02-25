@@ -1,0 +1,21 @@
+{
+  "id": "hunter",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hunter",
+    "description": "API for domain search, professional email finder, author finder and email verifier",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hunter",
+    "subtitle": "API for domain search, professional email finder, author…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gitguardian",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GitGuardian",
+    "description": "Scan files for secrets (API Keys, database credentials)",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "GitGuardian",
+    "subtitle": "Scan files for secrets (API Keys, database credentials)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

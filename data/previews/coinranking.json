@@ -1,0 +1,21 @@
+{
+  "id": "coinranking",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CoinRanking",
+    "description": "Live Cryptocurrency data",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CoinRanking",
+    "subtitle": "Live Cryptocurrency data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

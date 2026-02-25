@@ -1,0 +1,21 @@
+{
+  "id": "chomp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Chomp",
+    "description": "Data about various grocery products and foods",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Chomp",
+    "subtitle": "Data about various grocery products and foods",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

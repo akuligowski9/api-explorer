@@ -1,0 +1,21 @@
+{
+  "id": "wav-to-mp3-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WAV to MP3 API",
+    "description": "This API lets you convert wav files to mp3",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WAV to MP3 API",
+    "subtitle": "This API lets you convert wav files to mp3",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "video-thumbnail-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Video Thumbnail API",
+    "description": "Create Video Thumbnails from any video or URL",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Video Thumbnail API",
+    "subtitle": "Create Video Thumbnails from any video or URL",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

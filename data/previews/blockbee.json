@@ -1,0 +1,21 @@
+{
+  "id": "blockbee",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BlockBee",
+    "description": "Cryptocurrency Payment Processor",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "BlockBee",
+    "subtitle": "Cryptocurrency Payment Processor",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

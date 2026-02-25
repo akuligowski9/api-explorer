@@ -1,0 +1,21 @@
+{
+  "id": "google-maps",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Google Maps",
+    "description": "Create/customize digital maps based on Google Maps data",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Google Maps",
+    "subtitle": "Create/customize digital maps based on Google Maps data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

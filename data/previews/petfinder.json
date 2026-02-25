@@ -1,0 +1,21 @@
+{
+  "id": "petfinder",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Petfinder",
+    "description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Petfinder",
+    "subtitle": "Petfinder is dedicated to helping pets find homes, another…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

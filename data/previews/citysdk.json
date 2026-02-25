@@ -1,0 +1,21 @@
+{
+  "id": "citysdk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CitySDK",
+    "description": "Open APIs for select European cities",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CitySDK",
+    "subtitle": "Open APIs for select European cities",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

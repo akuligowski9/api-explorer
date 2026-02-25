@@ -1,0 +1,21 @@
+{
+  "id": "vector-express-v2-0",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Vector Express v2.0",
+    "description": "Free vector file converting API",
+    "category": "Documents & Productivity",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Vector Express v2.0",
+    "subtitle": "Free vector file converting API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

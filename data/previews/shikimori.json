@@ -1,0 +1,21 @@
+{
+  "id": "shikimori",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Shikimori",
+    "description": "Anime discovery, tracking, forum, rates",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Shikimori",
+    "subtitle": "Anime discovery, tracking, forum, rates",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

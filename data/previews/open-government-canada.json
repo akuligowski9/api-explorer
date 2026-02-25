@@ -1,0 +1,21 @@
+{
+  "id": "open-government-canada",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Canada",
+    "description": "Canadian Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Canada",
+    "subtitle": "Canadian Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

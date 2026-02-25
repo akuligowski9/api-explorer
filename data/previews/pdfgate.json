@@ -1,0 +1,21 @@
+{
+  "id": "pdfgate",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PDFGate",
+    "description": "HTML to PDF API with support for custom headers, footers, fillable form fields, and encryption",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "PDFGate",
+    "subtitle": "HTML to PDF API with support for custom headers, footers,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

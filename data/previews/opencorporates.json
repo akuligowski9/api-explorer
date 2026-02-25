@@ -1,0 +1,21 @@
+{
+  "id": "opencorporates",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenCorporates",
+    "description": "Data on corporate entities and directors in many countries",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenCorporates",
+    "subtitle": "Data on corporate entities and directors in many countries",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

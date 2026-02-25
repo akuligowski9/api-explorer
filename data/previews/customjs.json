@@ -1,0 +1,21 @@
+{
+  "id": "customjs",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CustomJS",
+    "description": "HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CustomJS",
+    "subtitle": "HTML to PDF or PDF to PNG/Text & PDF…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

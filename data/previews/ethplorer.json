@@ -1,0 +1,21 @@
+{
+  "id": "ethplorer",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ethplorer",
+    "description": "Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Ethplorer",
+    "subtitle": "Ethereum tokens, balances, addresses, history of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

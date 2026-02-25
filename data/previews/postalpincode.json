@@ -1,0 +1,21 @@
+{
+  "id": "postalpincode",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PostalPinCode",
+    "description": "API for getting Pincode details in India",
+    "category": "Tracking",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PostalPinCode",
+    "subtitle": "API for getting Pincode details in India",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

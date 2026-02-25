@@ -1,0 +1,21 @@
+{
+  "id": "dedline-io-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dedline.io API",
+    "description": "Data for US state voter registration deadlines and details, for primaries and general elections",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Dedline.io API",
+    "subtitle": "Data for US state voter registration deadlines and details,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

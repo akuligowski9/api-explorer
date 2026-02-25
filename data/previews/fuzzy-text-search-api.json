@@ -1,0 +1,21 @@
+{
+  "id": "fuzzy-text-search-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Fuzzy Text Search API",
+    "description": "The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Fuzzy Text Search API",
+    "subtitle": "The Fuzzy Text Search API finds close matches for user…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "solana-json-rpc",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Solana JSON RPC",
+    "description": "Provides various endpoints to interact with the Solana Blockchain",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Solana JSON RPC",
+    "subtitle": "Provides various endpoints to interact with the Solana…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

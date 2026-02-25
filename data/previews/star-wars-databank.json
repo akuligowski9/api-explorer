@@ -1,0 +1,21 @@
+{
+  "id": "star-wars-databank",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Star Wars Databank",
+    "description": "Info and data from the Star Wars databank in the form of an API",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Star Wars Databank",
+    "subtitle": "Info and data from the Star Wars databank in the form of an…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

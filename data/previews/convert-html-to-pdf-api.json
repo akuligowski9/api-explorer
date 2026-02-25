@@ -1,0 +1,21 @@
+{
+  "id": "convert-html-to-pdf-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert HTML to PDF API",
+    "description": "This API converts any HTML (file, url, base64) to a PDF",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert HTML to PDF API",
+    "subtitle": "This API converts any HTML (file, url, base64) to a PDF",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tasty",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tasty",
+    "description": "API to query data about recipe, plan, ingredients",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tasty",
+    "subtitle": "API to query data about recipe, plan, ingredients",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

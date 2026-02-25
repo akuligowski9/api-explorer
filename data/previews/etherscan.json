@@ -1,0 +1,21 @@
+{
+  "id": "etherscan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Etherscan",
+    "description": "Ethereum explorer API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Etherscan",
+    "subtitle": "Ethereum explorer API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "remove-bg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Remove.bg",
+    "description": "Image Background removal",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Remove.bg",
+    "subtitle": "Image Background removal",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-guardian",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Guardian",
+    "description": "Access all the content the Guardian creates, categorised by tags and section",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Guardian",
+    "subtitle": "Access all the content the Guardian creates, categorised by…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

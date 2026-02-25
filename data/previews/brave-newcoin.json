@@ -1,0 +1,21 @@
+{
+  "id": "brave-newcoin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brave NewCoin",
+    "description": "Real-time and historic crypto data from more than 200+ exchanges",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Brave NewCoin",
+    "subtitle": "Real-time and historic crypto data from more than 200+…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

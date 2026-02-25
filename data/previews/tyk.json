@@ -1,0 +1,21 @@
+{
+  "id": "tyk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tyk",
+    "description": "Api and service management platform",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Tyk",
+    "subtitle": "Api and service management platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

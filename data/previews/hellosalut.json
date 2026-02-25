@@ -1,0 +1,21 @@
+{
+  "id": "hellosalut",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HelloSalut",
+    "description": "Get hello translation following user language",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "HelloSalut",
+    "subtitle": "Get hello translation following user language",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

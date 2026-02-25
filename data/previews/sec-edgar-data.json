@@ -1,0 +1,21 @@
+{
+  "id": "sec-edgar-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SEC EDGAR Data",
+    "description": "API to access annual reports of public US companies",
+    "category": "Finance",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "SEC EDGAR Data",
+    "subtitle": "API to access annual reports of public US companies",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

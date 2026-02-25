@@ -1,0 +1,21 @@
+{
+  "id": "stromberg-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Stromberg Quotes",
+    "description": "Returns Stromberg quotes and more",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Stromberg Quotes",
+    "subtitle": "Returns Stromberg quotes and more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

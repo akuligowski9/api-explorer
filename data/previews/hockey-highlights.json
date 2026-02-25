@@ -1,0 +1,21 @@
+{
+  "id": "hockey-highlights",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hockey Highlights",
+    "description": "Real time hockey highlights",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hockey Highlights",
+    "subtitle": "Real time hockey highlights",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

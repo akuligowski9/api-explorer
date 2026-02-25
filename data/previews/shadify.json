@@ -1,0 +1,21 @@
+{
+  "id": "shadify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Shadify",
+    "description": "Service for generating data and executing logic to create various games and puzzles",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Shadify",
+    "subtitle": "Service for generating data and executing logic to create…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

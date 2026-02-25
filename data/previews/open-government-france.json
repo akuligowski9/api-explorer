@@ -1,0 +1,21 @@
+{
+  "id": "open-government-france",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, France",
+    "description": "French Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, France",
+    "subtitle": "French Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

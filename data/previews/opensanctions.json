@@ -1,0 +1,21 @@
+{
+  "id": "opensanctions",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenSanctions",
+    "description": "Data on international sanctions, crime and politically exposed persons",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "OpenSanctions",
+    "subtitle": "Data on international sanctions, crime and politically…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

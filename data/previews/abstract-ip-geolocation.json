@@ -1,0 +1,21 @@
+{
+  "id": "abstract-ip-geolocation",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Abstract IP Geolocation",
+    "description": "Geolocate website visitors from their IPs",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Abstract IP Geolocation",
+    "subtitle": "Geolocate website visitors from their IPs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

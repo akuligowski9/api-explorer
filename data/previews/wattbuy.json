@@ -1,0 +1,21 @@
+{
+  "id": "wattbuy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WattBuy",
+    "description": "Electricity usage estimations, carbon footprint estimations, and utility data",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WattBuy",
+    "subtitle": "Electricity usage estimations, carbon footprint…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blitapp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Blitapp",
+    "description": "Schedule screenshots of web pages and sync them to your cloud",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Blitapp",
+    "subtitle": "Schedule screenshots of web pages and sync them to your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

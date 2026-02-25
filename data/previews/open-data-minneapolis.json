@@ -1,0 +1,21 @@
+{
+  "id": "open-data-minneapolis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Data Minneapolis",
+    "description": "Spatial (GIS) and non-spatial city data for Minneapolis",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Open Data Minneapolis",
+    "subtitle": "Spatial (GIS) and non-spatial city data for Minneapolis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

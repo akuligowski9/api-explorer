@@ -1,0 +1,21 @@
+{
+  "id": "imdb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IMDb",
+    "description": "API for receiving movie, serial and cast information",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IMDb",
+    "subtitle": "API for receiving movie, serial and cast information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

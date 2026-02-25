@@ -1,0 +1,21 @@
+{
+  "id": "telize",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Telize",
+    "description": "Telize offers location information from any IP address",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Telize",
+    "subtitle": "Telize offers location information from any IP address",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

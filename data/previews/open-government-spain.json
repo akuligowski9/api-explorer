@@ -1,0 +1,21 @@
+{
+  "id": "open-government-spain",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Spain",
+    "description": "Spain Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Spain",
+    "subtitle": "Spain Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

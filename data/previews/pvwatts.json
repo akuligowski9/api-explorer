@@ -1,0 +1,21 @@
+{
+  "id": "pvwatts",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PVWatts",
+    "description": "Energy production photovoltaic (PV) energy systems",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PVWatts",
+    "subtitle": "Energy production photovoltaic (PV) energy systems",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

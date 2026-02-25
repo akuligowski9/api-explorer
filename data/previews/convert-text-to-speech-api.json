@@ -1,0 +1,21 @@
+{
+  "id": "convert-text-to-speech-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert Text to Speech API",
+    "description": "This API converts any text to speech automatically",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert Text to Speech API",
+    "subtitle": "This API converts any text to speech automatically",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

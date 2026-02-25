@@ -1,0 +1,21 @@
+{
+  "id": "currency-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Currency-api",
+    "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+    "category": "Currency Exchange",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Currency-api",
+    "subtitle": "Free Currency Exchange Rates API with 150+ Currencies & No…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

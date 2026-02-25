@@ -1,0 +1,21 @@
+{
+  "id": "1forge",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "1Forge",
+    "description": "Forex currency market data",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "1Forge",
+    "subtitle": "Forex currency market data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

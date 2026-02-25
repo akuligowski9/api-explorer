@@ -1,0 +1,21 @@
+{
+  "id": "devitjobs-uk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DevITjobs UK",
+    "description": "Jobs with GraphQL",
+    "category": "Jobs",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "DevITjobs UK",
+    "subtitle": "Jobs with GraphQL",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

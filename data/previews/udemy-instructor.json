@@ -1,0 +1,21 @@
+{
+  "id": "udemy-instructor",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Udemy(instructor)",
+    "description": "API for instructors on Udemy",
+    "category": "Personality",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Udemy(instructor)",
+    "subtitle": "API for instructors on Udemy",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "let-s-count",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Let's Count",
+    "description": "Create, retrieve, update, increment, and decrement counters identified by namespace and key",
+    "category": "Programming",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Let's Count",
+    "subtitle": "Create, retrieve, update, increment, and decrement counters…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

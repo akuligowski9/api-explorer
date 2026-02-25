@@ -1,0 +1,21 @@
+{
+  "id": "rest-countries",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "REST Countries",
+    "description": "Get information about countries via a RESTful API",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "REST Countries",
+    "subtitle": "Get information about countries via a RESTful API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dropmail",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DropMail",
+    "description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+    "category": "Email",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "DropMail",
+    "subtitle": "GraphQL API for creating and managing ephemeral e-mail…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

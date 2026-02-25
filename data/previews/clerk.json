@@ -1,0 +1,21 @@
+{
+  "id": "clerk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Clerk",
+    "description": "Drop-in React components for authentication and authorization",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Clerk",
+    "subtitle": "Drop-in React components for authentication and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "korea-meteorological-administration",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Korea Meteorological Administration",
+    "description": "Weather and climate data from KMA",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Korea Meteorological Administration",
+    "subtitle": "Weather and climate data from KMA",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

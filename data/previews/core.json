@@ -1,0 +1,21 @@
+{
+  "id": "core",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CORE",
+    "description": "Access the world's Open Access research papers",
+    "category": "Science & Math",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CORE",
+    "subtitle": "Access the world's Open Access research papers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

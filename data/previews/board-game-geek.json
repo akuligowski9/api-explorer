@@ -1,0 +1,21 @@
+{
+  "id": "board-game-geek",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Board Game Geek",
+    "description": "Board games, RPG and videogames",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Board Game Geek",
+    "subtitle": "Board games, RPG and videogames",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

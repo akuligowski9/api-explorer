@@ -1,0 +1,21 @@
+{
+  "id": "leakinsight",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LeakInsight",
+    "description": "Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "LeakInsight",
+    "subtitle": "Find leaked or exposed credentials by email, username,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

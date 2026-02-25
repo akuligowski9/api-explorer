@@ -1,0 +1,21 @@
+{
+  "id": "markdown-to-json-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Markdown to JSON API",
+    "description": "Upload Markdown and get JSON with one API call",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Markdown to JSON API",
+    "subtitle": "Upload Markdown and get JSON with one API call",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

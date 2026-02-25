@@ -1,0 +1,21 @@
+{
+  "id": "census-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Census.gov",
+    "description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Census.gov",
+    "subtitle": "The US Census Bureau provides various APIs and data sets on…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

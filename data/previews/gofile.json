@@ -1,0 +1,21 @@
+{
+  "id": "gofile",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GoFile",
+    "description": "Unlimited size file uploads for free",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GoFile",
+    "subtitle": "Unlimited size file uploads for free",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

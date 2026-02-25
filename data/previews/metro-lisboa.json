@@ -1,0 +1,21 @@
+{
+  "id": "metro-lisboa",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Metro Lisboa",
+    "description": "Delays in subway lines",
+    "category": "Transportation",
+    "auth": "None",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Metro Lisboa",
+    "subtitle": "Delays in subway lines",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

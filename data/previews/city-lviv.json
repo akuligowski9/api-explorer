@@ -1,0 +1,21 @@
+{
+  "id": "city-lviv",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Lviv",
+    "description": "Lviv(UA) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, Lviv",
+    "subtitle": "Lviv(UA) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

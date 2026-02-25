@@ -1,0 +1,21 @@
+{
+  "id": "trace-moe",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Trace Moe",
+    "description": "A useful tool to get the exact scene of an anime from a screenshot",
+    "category": "Anime",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Trace Moe",
+    "subtitle": "A useful tool to get the exact scene of an anime from a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

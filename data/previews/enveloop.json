@@ -1,0 +1,21 @@
+{
+  "id": "enveloop",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Enveloop",
+    "description": "Design, host, and send emails and texts. All from one place - with a simple API",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Enveloop",
+    "subtitle": "Design, host, and send emails and texts. All from one place…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

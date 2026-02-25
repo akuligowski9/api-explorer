@@ -1,0 +1,21 @@
+{
+  "id": "noctua",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Noctua",
+    "description": "REST API used to access NoctuaSky features",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Noctua",
+    "subtitle": "REST API used to access NoctuaSky features",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

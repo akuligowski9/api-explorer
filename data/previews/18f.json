@@ -1,0 +1,21 @@
+{
+  "id": "18f",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "18F",
+    "description": "Unofficial US Federal Government API Development",
+    "category": "Open Data",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "18F",
+    "subtitle": "Unofficial US Federal Government API Development",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

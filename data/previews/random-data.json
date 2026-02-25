@@ -1,0 +1,21 @@
+{
+  "id": "random-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Random Data",
+    "description": "Random data generator",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Random Data",
+    "subtitle": "Random data generator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

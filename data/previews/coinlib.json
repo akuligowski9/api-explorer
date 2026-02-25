@@ -1,0 +1,21 @@
+{
+  "id": "coinlib",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinlib",
+    "description": "Crypto Currency Prices",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coinlib",
+    "subtitle": "Crypto Currency Prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

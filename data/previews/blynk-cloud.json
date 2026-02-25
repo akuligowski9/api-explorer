@@ -1,0 +1,21 @@
+{
+  "id": "blynk-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Blynk-Cloud",
+    "description": "Control IoT Devices from Blynk IoT Cloud",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Blynk-Cloud",
+    "subtitle": "Control IoT Devices from Blynk IoT Cloud",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

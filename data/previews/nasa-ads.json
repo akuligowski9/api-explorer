@@ -1,0 +1,21 @@
+{
+  "id": "nasa-ads",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NASA ADS",
+    "description": "NASA Astrophysics Data System",
+    "category": "Science & Math",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NASA ADS",
+    "subtitle": "NASA Astrophysics Data System",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

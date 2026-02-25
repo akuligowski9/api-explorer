@@ -1,0 +1,21 @@
+{
+  "id": "autochangelog",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AutoChangelog",
+    "description": "Automatically creates changelog entries from deployments by analyzing pull requests, commits, and code diffs across your GitHub repositories",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AutoChangelog",
+    "subtitle": "Automatically creates changelog entries from deployments by…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

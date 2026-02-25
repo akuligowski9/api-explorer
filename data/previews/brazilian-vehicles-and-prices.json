@@ -1,0 +1,21 @@
+{
+  "id": "brazilian-vehicles-and-prices",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brazilian Vehicles and Prices",
+    "description": "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe",
+    "category": "Vehicle",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Brazilian Vehicles and Prices",
+    "subtitle": "Vehicles information from Fundação Instituto de Pesquisas…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

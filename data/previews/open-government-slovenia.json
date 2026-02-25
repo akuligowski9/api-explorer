@@ -1,0 +1,21 @@
+{
+  "id": "open-government-slovenia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Slovenia",
+    "description": "Slovenia Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Open Government, Slovenia",
+    "subtitle": "Slovenia Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

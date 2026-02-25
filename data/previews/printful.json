@@ -1,0 +1,21 @@
+{
+  "id": "printful",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Printful",
+    "description": "Printful's official API to manage and integrate their services",
+    "category": "Shopping",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Printful",
+    "subtitle": "Printful's official API to manage and integrate their…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

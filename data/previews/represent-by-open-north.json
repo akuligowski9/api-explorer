@@ -1,0 +1,21 @@
+{
+  "id": "represent-by-open-north",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Represent by Open North",
+    "description": "Find Canadian Government Representatives",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Represent by Open North",
+    "subtitle": "Find Canadian Government Representatives",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

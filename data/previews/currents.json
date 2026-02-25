@@ -1,0 +1,21 @@
+{
+  "id": "currents",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Currents",
+    "description": "Latest news published in various news sources, blogs and forums",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Currents",
+    "subtitle": "Latest news published in various news sources, blogs and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

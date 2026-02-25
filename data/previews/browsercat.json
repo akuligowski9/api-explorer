@@ -1,0 +1,21 @@
+{
+  "id": "browsercat",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BrowserCat",
+    "description": "Headless browser API for automation, scraping, and more",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BrowserCat",
+    "subtitle": "Headless browser API for automation, scraping, and more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

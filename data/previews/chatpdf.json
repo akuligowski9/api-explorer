@@ -1,0 +1,21 @@
+{
+  "id": "chatpdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Chatpdf",
+    "description": "Chat with pdf using GPT4 and ChatGPT",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Chatpdf",
+    "subtitle": "Chat with pdf using GPT4 and ChatGPT",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

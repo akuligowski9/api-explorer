@@ -1,0 +1,21 @@
+{
+  "id": "privacy-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Privacy.com",
+    "description": "Generate merchant-specific and one-time use credit card numbers that link back to your bank",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Privacy.com",
+    "subtitle": "Generate merchant-specific and one-time use credit card…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

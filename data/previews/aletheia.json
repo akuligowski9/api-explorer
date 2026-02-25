@@ -1,0 +1,21 @@
+{
+  "id": "aletheia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Aletheia",
+    "description": "Insider trading data, earnings call analysis, financial statements, and more",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Aletheia",
+    "subtitle": "Insider trading data, earnings call analysis, financial…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "openplz-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenPLZ API",
+    "description": "A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "OpenPLZ API",
+    "subtitle": "A public street and postal code directory for Austria,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

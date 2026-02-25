@@ -1,0 +1,21 @@
+{
+  "id": "format-json-online-dummy-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Format JSON Online Dummy API",
+    "description": "A free tool to generate dummy JSON data for testing and prototyping.",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Format JSON Online Dummy API",
+    "subtitle": "A free tool to generate dummy JSON data for testing and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

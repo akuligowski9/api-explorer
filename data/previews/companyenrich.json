@@ -1,0 +1,21 @@
+{
+  "id": "companyenrich",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CompanyEnrich",
+    "description": "API for B2B company data enrichment, domain enrichment, and website enrichment",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CompanyEnrich",
+    "subtitle": "API for B2B company data enrichment, domain enrichment, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

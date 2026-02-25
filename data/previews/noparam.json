@@ -1,0 +1,21 @@
+{
+  "id": "noparam",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NoParam",
+    "description": "Email validation API for real-time & bulk checking",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NoParam",
+    "subtitle": "Email validation API for real-time & bulk checking",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

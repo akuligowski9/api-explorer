@@ -1,0 +1,21 @@
+{
+  "id": "httpsms",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "httpSMS",
+    "description": "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple HTTP API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "httpSMS",
+    "subtitle": "Use your Android phone as an SMS gateway to send and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

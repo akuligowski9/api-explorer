@@ -1,0 +1,21 @@
+{
+  "id": "maldatabase",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MalDatabase",
+    "description": "Provide malware datasets and threat intelligence feeds",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MalDatabase",
+    "subtitle": "Provide malware datasets and threat intelligence feeds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

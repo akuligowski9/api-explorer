@@ -1,0 +1,21 @@
+{
+  "id": "uebermaps",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Uebermaps",
+    "description": "Discover and share maps with friends",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Uebermaps",
+    "subtitle": "Discover and share maps with friends",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

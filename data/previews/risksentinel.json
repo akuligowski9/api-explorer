@@ -1,0 +1,21 @@
+{
+  "id": "risksentinel",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RiskSentinel",
+    "description": "AI-powered news intelligence API delivering structured events with risk assessment, sentiment analysis, company impacts, geo tagging, ai generated summary and more",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "RiskSentinel",
+    "subtitle": "AI-powered news intelligence API delivering structured…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

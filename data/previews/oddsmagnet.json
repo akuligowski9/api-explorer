@@ -1,0 +1,21 @@
+{
+  "id": "oddsmagnet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Oddsmagnet",
+    "description": "Odds history from multiple UK bookmakers",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Oddsmagnet",
+    "subtitle": "Odds history from multiple UK bookmakers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

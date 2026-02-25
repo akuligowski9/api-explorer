@@ -1,0 +1,21 @@
+{
+  "id": "layer4",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Layer4",
+    "description": "Layer4 is a blockchain integration platform that supports no-code and API use",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Layer4",
+    "subtitle": "Layer4 is a blockchain integration platform that supports…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

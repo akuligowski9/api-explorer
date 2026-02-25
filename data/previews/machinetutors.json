@@ -1,0 +1,21 @@
+{
+  "id": "machinetutors",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Machinetutors",
+    "description": "AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Machinetutors",
+    "subtitle": "AI Solutions: Video/Image Classification & Tagging, NSFW,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

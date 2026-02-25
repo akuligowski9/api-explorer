@@ -1,0 +1,21 @@
+{
+  "id": "share",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SHARE",
+    "description": "A free, open, dataset about research and scholarly activities",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "SHARE",
+    "subtitle": "A free, open, dataset about research and scholarly…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

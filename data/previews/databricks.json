@@ -1,0 +1,21 @@
+{
+  "id": "databricks",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Databricks",
+    "description": "Manage Databricks workspaces, clusters, jobs, and notebooks via a Rest API",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Databricks",
+    "subtitle": "Manage Databricks workspaces, clusters, jobs, and notebooks…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

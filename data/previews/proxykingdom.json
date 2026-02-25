@@ -1,0 +1,21 @@
+{
+  "id": "proxykingdom",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ProxyKingdom",
+    "description": "Rotating Proxy API that produces a working proxy on every request",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ProxyKingdom",
+    "subtitle": "Rotating Proxy API that produces a working proxy on every…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "platzi-fake-store",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Platzi Fake Store",
+    "description": "A fake store API for your e-commerce or shopping website prototype. For testing and learning",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Platzi Fake Store",
+    "subtitle": "A fake store API for your e-commerce or shopping website…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

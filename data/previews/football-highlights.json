@@ -1,0 +1,21 @@
+{
+  "id": "football-highlights",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Football Highlights",
+    "description": "Real time football (soccer) highlights from over +950 leagues",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Football Highlights",
+    "subtitle": "Real time football (soccer) highlights from over +950…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

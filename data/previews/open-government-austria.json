@@ -1,0 +1,21 @@
+{
+  "id": "open-government-austria",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Austria",
+    "description": "Austria Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Austria",
+    "subtitle": "Austria Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

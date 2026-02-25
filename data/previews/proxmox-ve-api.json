@@ -1,0 +1,21 @@
+{
+  "id": "proxmox-ve-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Proxmox VE API",
+    "description": "API of self-hosted Proxmox VE. Address: https://your.server:8006/api2/json/ (configuring in installation process)",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Proxmox VE API",
+    "subtitle": "API of self-hosted Proxmox VE. Address:…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

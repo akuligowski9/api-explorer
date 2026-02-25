@@ -1,0 +1,21 @@
+{
+  "id": "haveibeenpwned",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HaveIBeenPwned",
+    "description": "Passwords which have previously been exposed in data breaches",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "HaveIBeenPwned",
+    "subtitle": "Passwords which have previously been exposed in data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

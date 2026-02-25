@@ -1,0 +1,21 @@
+{
+  "id": "faker",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Faker",
+    "description": "Generate massive amounts of fake (but realistic) data for testing and development.",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Faker",
+    "subtitle": "Generate massive amounts of fake (but realistic) data for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

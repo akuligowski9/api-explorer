@@ -1,0 +1,21 @@
+{
+  "id": "coinpaprika",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinpaprika",
+    "description": "Cryptocurrencies prices, volume and more",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Coinpaprika",
+    "subtitle": "Cryptocurrencies prices, volume and more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

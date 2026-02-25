@@ -1,0 +1,21 @@
+{
+  "id": "yadg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "YADG",
+    "description": "An API that scrapes music release data and renders it using different templates",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "YADG",
+    "subtitle": "An API that scrapes music release data and renders it using…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

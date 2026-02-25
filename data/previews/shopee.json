@@ -1,0 +1,21 @@
+{
+  "id": "shopee",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Shopee",
+    "description": "Shopee's official API for integration of various services from Shopee",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Shopee",
+    "subtitle": "Shopee's official API for integration of various services…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "validate-uk-postcodes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Validate UK Postcodes",
+    "description": "This API validates postal codes within UK",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Validate UK Postcodes",
+    "subtitle": "This API validates postal codes within UK",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

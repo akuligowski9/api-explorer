@@ -1,0 +1,21 @@
+{
+  "id": "danish-data-service-energi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Danish data service Energi",
+    "description": "Open energy data from Energinet to society",
+    "category": "Environment",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Danish data service Energi",
+    "subtitle": "Open energy data from Energinet to society",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

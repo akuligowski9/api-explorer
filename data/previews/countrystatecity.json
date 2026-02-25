@@ -1,0 +1,21 @@
+{
+  "id": "countrystatecity",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CountryStateCity",
+    "description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CountryStateCity",
+    "subtitle": "World countries, states, regions, provinces, cities & towns…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

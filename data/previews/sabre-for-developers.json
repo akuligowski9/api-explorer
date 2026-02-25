@@ -1,0 +1,21 @@
+{
+  "id": "sabre-for-developers",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sabre for Developers",
+    "description": "Travel Search - Limited usage",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sabre for Developers",
+    "subtitle": "Travel Search - Limited usage",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

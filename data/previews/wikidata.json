@@ -1,0 +1,21 @@
+{
+  "id": "wikidata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wikidata",
+    "description": "Collaboratively edited knowledge base operated by the Wikimedia Foundation",
+    "category": "Open Data",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wikidata",
+    "subtitle": "Collaboratively edited knowledge base operated by the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

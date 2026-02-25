@@ -1,0 +1,21 @@
+{
+  "id": "mgnet-me",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mgnet.me",
+    "description": "Torrent URL shorten API",
+    "category": "URL Shorteners",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Mgnet.me",
+    "subtitle": "Torrent URL shorten API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "openrouteservice-org",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "openrouteservice.org",
+    "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "openrouteservice.org",
+    "subtitle": "Directions, POIs, isochrones, geocoding (+reverse),…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

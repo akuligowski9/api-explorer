@@ -1,0 +1,21 @@
+{
+  "id": "covid-19-government-response",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid-19 Government Response",
+    "description": "Government measures tracker to fight against the Covid-19 pandemic",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Covid-19 Government Response",
+    "subtitle": "Government measures tracker to fight against the Covid-19…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

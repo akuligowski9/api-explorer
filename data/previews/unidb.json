@@ -1,0 +1,21 @@
+{
+  "id": "unidb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "UniDb",
+    "description": "Data that helps people gain useful insight into universities in the United Kingdom",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "UniDb",
+    "subtitle": "Data that helps people gain useful insight into…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

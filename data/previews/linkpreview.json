@@ -1,0 +1,21 @@
+{
+  "id": "linkpreview",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LinkPreview",
+    "description": "Get JSON formatted summary with title, description and preview image for any requested URL",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "LinkPreview",
+    "subtitle": "Get JSON formatted summary with title, description and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

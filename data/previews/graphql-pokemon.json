@@ -1,0 +1,21 @@
+{
+  "id": "graphql-pokemon",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GraphQL Pokemon",
+    "description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GraphQL Pokemon",
+    "subtitle": "GraphQL powered Pokemon API. Supports generations 1 through…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

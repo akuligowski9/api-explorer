@@ -1,0 +1,21 @@
+{
+  "id": "gazette-data-uk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gazette Data, UK",
+    "description": "UK official public record API",
+    "category": "Government",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gazette Data, UK",
+    "subtitle": "UK official public record API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

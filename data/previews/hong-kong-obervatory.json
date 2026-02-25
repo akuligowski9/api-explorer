@@ -1,0 +1,21 @@
+{
+  "id": "hong-kong-obervatory",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hong Kong Obervatory",
+    "description": "Provide weather information, earthquake information, and climate data",
+    "category": "Weather",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hong Kong Obervatory",
+    "subtitle": "Provide weather information, earthquake information, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

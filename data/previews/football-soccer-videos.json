@@ -1,0 +1,21 @@
+{
+  "id": "football-soccer-videos",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Football (Soccer) Videos",
+    "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Football (Soccer) Videos",
+    "subtitle": "Embed codes for goals and highlights from Premier League,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "supadata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Supadata",
+    "description": "Scrape YouTube, web, and files into text. Get AI-ready, clean data for your next project.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Supadata",
+    "subtitle": "Scrape YouTube, web, and files into text. Get AI-ready,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

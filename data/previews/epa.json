@@ -1,0 +1,21 @@
+{
+  "id": "epa",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "EPA",
+    "description": "Web services and data sets from the US Environmental Protection Agency",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "EPA",
+    "subtitle": "Web services and data sets from the US Environmental…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nexchange",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Nexchange",
+    "description": "Automated cryptocurrency exchange service",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": false,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Nexchange",
+    "subtitle": "Automated cryptocurrency exchange service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

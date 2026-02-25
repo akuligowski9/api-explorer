@@ -1,0 +1,21 @@
+{
+  "id": "mod-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "mod.io",
+    "description": "Cross Platform Mod API",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "mod.io",
+    "subtitle": "Cross Platform Mod API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

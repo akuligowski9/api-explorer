@@ -1,0 +1,21 @@
+{
+  "id": "wecantrack",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WeCanTrack",
+    "description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WeCanTrack",
+    "subtitle": "Automatically place subids in affiliate links to attribute…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

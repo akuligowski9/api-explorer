@@ -1,0 +1,21 @@
+{
+  "id": "football",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Football",
+    "description": "A simple Open Source Football API to get squads’ stats, best scorers and more",
+    "category": "Sports & Fitness",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Football",
+    "subtitle": "A simple Open Source Football API to get squads’ stats,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

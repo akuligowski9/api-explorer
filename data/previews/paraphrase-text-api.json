@@ -1,0 +1,21 @@
+{
+  "id": "paraphrase-text-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Paraphrase Text API",
+    "description": "The Paraphrase Text Generator API generates a paraphrased version of the provided text",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Paraphrase Text API",
+    "subtitle": "The Paraphrase Text Generator API generates a paraphrased…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

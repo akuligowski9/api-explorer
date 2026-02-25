@@ -1,0 +1,21 @@
+{
+  "id": "open-government-ireland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Ireland",
+    "description": "Ireland Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Ireland",
+    "subtitle": "Ireland Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

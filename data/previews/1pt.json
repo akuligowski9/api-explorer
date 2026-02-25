@@ -1,0 +1,21 @@
+{
+  "id": "1pt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "1pt",
+    "description": "A simple URL shortener",
+    "category": "URL Shorteners",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "1pt",
+    "subtitle": "A simple URL shortener",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

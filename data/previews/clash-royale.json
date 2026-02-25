@@ -1,0 +1,21 @@
+{
+  "id": "clash-royale",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Clash Royale",
+    "description": "Clash Royale Game Information",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Clash Royale",
+    "subtitle": "Clash Royale Game Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "emailrep",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "EmailRep",
+    "description": "Email address threat and risk prediction",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "EmailRep",
+    "subtitle": "Email address threat and risk prediction",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

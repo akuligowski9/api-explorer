@@ -1,0 +1,21 @@
+{
+  "id": "roadgoat-cities",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RoadGoat Cities",
+    "description": "Cities content & photos API",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "RoadGoat Cities",
+    "subtitle": "Cities content & photos API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sportmonks-cricket",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sportmonks Cricket",
+    "description": "Live cricket score, player statistics and fantasy API",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sportmonks Cricket",
+    "subtitle": "Live cricket score, player statistics and fantasy API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

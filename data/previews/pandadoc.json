@@ -1,0 +1,21 @@
+{
+  "id": "pandadoc",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PandaDoc",
+    "description": "DocGen and eSignatures API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "PandaDoc",
+    "subtitle": "DocGen and eSignatures API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

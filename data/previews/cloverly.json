@@ -1,0 +1,21 @@
+{
+  "id": "cloverly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloverly",
+    "description": "API calculates the impact of common carbon-intensive activities in real time",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Cloverly",
+    "subtitle": "API calculates the impact of common carbon-intensive…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

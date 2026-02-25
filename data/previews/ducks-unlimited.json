@@ -1,0 +1,21 @@
+{
+  "id": "ducks-unlimited",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ducks Unlimited",
+    "description": "API explorer that gives a query URL with a JSON response of locations and cities",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Ducks Unlimited",
+    "subtitle": "API explorer that gives a query URL with a JSON response of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

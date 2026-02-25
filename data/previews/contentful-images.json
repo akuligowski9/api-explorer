@@ -1,0 +1,21 @@
+{
+  "id": "contentful-images",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Contentful Images",
+    "description": "Used to retrieve and apply transformations to images",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Contentful Images",
+    "subtitle": "Used to retrieve and apply transformations to images",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

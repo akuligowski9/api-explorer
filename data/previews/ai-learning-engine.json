@@ -1,0 +1,21 @@
+{
+  "id": "ai-learning-engine",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AI Learning Engine",
+    "description": "Create, auto-grade, and analyze learning tasks with AI-based evaluations",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AI Learning Engine",
+    "subtitle": "Create, auto-grade, and analyze learning tasks with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

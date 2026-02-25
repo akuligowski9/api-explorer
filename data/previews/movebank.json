@@ -1,0 +1,21 @@
+{
+  "id": "movebank",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Movebank",
+    "description": "Movement and Migration data of animals",
+    "category": "Animals",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Movebank",
+    "subtitle": "Movement and Migration data of animals",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "intrinio",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Intrinio",
+    "description": "A wide selection of financial data feeds",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Intrinio",
+    "subtitle": "A wide selection of financial data feeds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

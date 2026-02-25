@@ -1,0 +1,21 @@
+{
+  "id": "complete-criminal-checks",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Complete Criminal Checks",
+    "description": "Provides data of offenders from all U.S. States and Puerto Rico",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Complete Criminal Checks",
+    "subtitle": "Provides data of offenders from all U.S. States and Puerto…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

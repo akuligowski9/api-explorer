@@ -1,0 +1,21 @@
+{
+  "id": "ip2location-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IP2Location.io",
+    "description": "Bundle of Free IP geolocation and WHOIS API",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IP2Location.io",
+    "subtitle": "Bundle of Free IP geolocation and WHOIS API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

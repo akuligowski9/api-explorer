@@ -1,0 +1,21 @@
+{
+  "id": "tinyurl",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TinyURL",
+    "description": "Shorten long URLs",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "TinyURL",
+    "subtitle": "Shorten long URLs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "czech-television",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Czech Television",
+    "description": "TV programme of Czech TV",
+    "category": "Video",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Czech Television",
+    "subtitle": "TV programme of Czech TV",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "beeceptor",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Beeceptor",
+    "description": "Build a mock Rest API endpoint in seconds",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Beeceptor",
+    "subtitle": "Build a mock Rest API endpoint in seconds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

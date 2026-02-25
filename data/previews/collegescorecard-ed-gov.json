@@ -1,0 +1,21 @@
+{
+  "id": "collegescorecard-ed-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CollegeScoreCard.ed.gov",
+    "description": "Data on higher education institutions in the United States",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CollegeScoreCard.ed.gov",
+    "subtitle": "Data on higher education institutions in the United States",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

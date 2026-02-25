@@ -1,0 +1,21 @@
+{
+  "id": "binaryedge",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BinaryEdge",
+    "description": "Provide access to BinaryEdge 40fy scanning platform",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BinaryEdge",
+    "subtitle": "Provide access to BinaryEdge 40fy scanning platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

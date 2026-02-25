@@ -1,0 +1,21 @@
+{
+  "id": "lowy-asia-power-index",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lowy Asia Power Index",
+    "description": "Get measure resources and influence to rank the relative power of states in Asia",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Lowy Asia Power Index",
+    "subtitle": "Get measure resources and influence to rank the relative…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

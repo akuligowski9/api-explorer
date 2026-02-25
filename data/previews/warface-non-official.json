@@ -1,0 +1,21 @@
+{
+  "id": "warface-non-official",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Warface (non-official)",
+    "description": "Official API proxy with better data structure and more features",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Warface (non-official)",
+    "subtitle": "Official API proxy with better data structure and more…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abacus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Abacus",
+    "description": "Free and simple counting service. You can use it to track page hits and specific events",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Abacus",
+    "subtitle": "Free and simple counting service. You can use it to track…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

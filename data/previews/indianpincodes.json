@@ -1,0 +1,21 @@
+{
+  "id": "indianpincodes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IndianPincodes",
+    "description": "API for getting Pincode details in India",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IndianPincodes",
+    "subtitle": "API for getting Pincode details in India",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

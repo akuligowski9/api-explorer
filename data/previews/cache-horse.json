@@ -1,0 +1,21 @@
+{
+  "id": "cache-horse",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cache Horse",
+    "description": "Combine/batch & cache multiple HTTP requests to save on API quotas, speed up & simplify your app",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cache Horse",
+    "subtitle": "Combine/batch & cache multiple HTTP requests to save on API…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

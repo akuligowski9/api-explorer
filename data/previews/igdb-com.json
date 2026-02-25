@@ -1,0 +1,21 @@
+{
+  "id": "igdb-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IGDB.com",
+    "description": "Video Game Database",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IGDB.com",
+    "subtitle": "Video Game Database",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "geolocated",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geolocated",
+    "description": "Free IP Geolocation API with multi-continent servers, and 60000 free requests/month",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Geolocated",
+    "subtitle": "Free IP Geolocation API with multi-continent servers, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

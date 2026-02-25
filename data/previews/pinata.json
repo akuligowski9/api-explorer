@@ -1,0 +1,21 @@
+{
+  "id": "pinata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pinata",
+    "description": "IPFS Pinning Services API",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pinata",
+    "subtitle": "IPFS Pinning Services API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

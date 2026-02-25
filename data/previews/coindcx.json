@@ -1,0 +1,21 @@
+{
+  "id": "coindcx",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CoinDCX",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CoinDCX",
+    "subtitle": "Cryptocurrency Trading Platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

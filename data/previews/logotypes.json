@@ -1,0 +1,21 @@
+{
+  "id": "logotypes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Logotypes",
+    "description": "Logotypes of the world in multiples format",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Logotypes",
+    "subtitle": "Logotypes of the world in multiples format",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

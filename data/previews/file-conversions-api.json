@@ -1,0 +1,21 @@
+{
+  "id": "file-conversions-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "File Conversions API",
+    "description": "APIs to handle all your file transformations. Word to PDF, Markdown to HTML, CSV to JSON, audio and many more",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "File Conversions API",
+    "subtitle": "APIs to handle all your file transformations. Word to PDF,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

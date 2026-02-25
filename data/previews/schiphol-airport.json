@@ -1,0 +1,21 @@
+{
+  "id": "schiphol-airport",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Schiphol Airport",
+    "description": "Schiphol",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Schiphol Airport",
+    "subtitle": "Schiphol",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

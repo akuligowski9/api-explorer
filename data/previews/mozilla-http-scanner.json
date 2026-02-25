@@ -1,0 +1,21 @@
+{
+  "id": "mozilla-http-scanner",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mozilla http scanner",
+    "description": "Mozilla observatory http scanner",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mozilla http scanner",
+    "subtitle": "Mozilla observatory http scanner",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "enigma-public",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Enigma Public",
+    "description": "Broadest collection of public data",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Enigma Public",
+    "subtitle": "Broadest collection of public data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

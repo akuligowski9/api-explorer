@@ -1,0 +1,21 @@
+{
+  "id": "genius",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Genius",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "category": "Music",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Genius",
+    "subtitle": "Crowdsourced lyrics and music knowledge",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

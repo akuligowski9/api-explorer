@@ -1,0 +1,21 @@
+{
+  "id": "visual-crossing",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Visual Crossing",
+    "description": "Global historical and weather forecast data",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Visual Crossing",
+    "subtitle": "Global historical and weather forecast data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

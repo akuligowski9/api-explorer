@@ -1,0 +1,21 @@
+{
+  "id": "code-detection-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Code Detection API",
+    "description": "Detect, label, format and enrich the code in your app or in your data pipeline",
+    "category": "Text Analysis",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Code Detection API",
+    "subtitle": "Detect, label, format and enrich the code in your app or in…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

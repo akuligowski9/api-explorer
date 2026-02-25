@@ -1,0 +1,21 @@
+{
+  "id": "csc-to-json-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CSC to JSON API",
+    "description": "Convert CSV files to JSON with this API. Ideal for developers who want to automate data workflows and integrate structured data",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CSC to JSON API",
+    "subtitle": "Convert CSV files to JSON with this API. Ideal for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

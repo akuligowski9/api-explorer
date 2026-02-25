@@ -1,0 +1,21 @@
+{
+  "id": "open-government-slovakia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Slovakia",
+    "description": "Slovakia Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Slovakia",
+    "subtitle": "Slovakia Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

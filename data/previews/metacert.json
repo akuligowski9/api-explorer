@@ -1,0 +1,21 @@
+{
+  "id": "metacert",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Metacert",
+    "description": "Metacert Link Flagging",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Metacert",
+    "subtitle": "Metacert Link Flagging",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

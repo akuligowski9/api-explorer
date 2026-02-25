@@ -1,0 +1,21 @@
+{
+  "id": "joshua-project",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Joshua Project",
+    "description": "People groups of the world with the fewest followers of Christ",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Joshua Project",
+    "subtitle": "People groups of the world with the fewest followers of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

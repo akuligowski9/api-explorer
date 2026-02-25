@@ -1,0 +1,21 @@
+{
+  "id": "zipcodestack",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Zipcodestack",
+    "description": "Zip Code API - Free Postal Code Validation",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Zipcodestack",
+    "subtitle": "Zip Code API - Free Postal Code Validation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

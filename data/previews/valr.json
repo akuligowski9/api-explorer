@@ -1,0 +1,21 @@
+{
+  "id": "valr",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "VALR",
+    "description": "Cryptocurrency Exchange based in South Africa",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "VALR",
+    "subtitle": "Cryptocurrency Exchange based in South Africa",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

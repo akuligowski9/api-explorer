@@ -1,0 +1,21 @@
+{
+  "id": "newsapi-ai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NewsAPI.ai",
+    "description": "News API access to real-time and archive news content",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NewsAPI.ai",
+    "subtitle": "News API access to real-time and archive news content",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

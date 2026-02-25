@@ -1,0 +1,21 @@
+{
+  "id": "spam-hunter",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Spam Hunter",
+    "description": "Free service to classify text as spam using ML",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Spam Hunter",
+    "subtitle": "Free service to classify text as spam using ML",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

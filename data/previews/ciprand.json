@@ -1,0 +1,21 @@
+{
+  "id": "ciprand",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ciprand",
+    "description": "Secure random string generator",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Ciprand",
+    "subtitle": "Secure random string generator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

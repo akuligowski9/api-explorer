@@ -1,0 +1,21 @@
+{
+  "id": "new-york-times",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "New York Times",
+    "description": "The New York Times Developer Network",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "New York Times",
+    "subtitle": "The New York Times Developer Network",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

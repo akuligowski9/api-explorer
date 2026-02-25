@@ -1,0 +1,21 @@
+{
+  "id": "tcgdex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TCGdex",
+    "description": "Multi languages Pokémon TCG Information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "TCGdex",
+    "subtitle": "Multi languages Pokémon TCG Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

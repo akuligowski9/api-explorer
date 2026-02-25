@@ -1,0 +1,21 @@
+{
+  "id": "google-earth-engine",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Google Earth Engine",
+    "description": "A cloud-based platform for planetary-scale environmental data analysis",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Google Earth Engine",
+    "subtitle": "A cloud-based platform for planetary-scale environmental…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

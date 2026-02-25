@@ -1,0 +1,21 @@
+{
+  "id": "nba-graphql",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NBA GraphQL",
+    "description": "Advanced NBA Player, Team, and Season Statistics and Data",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NBA GraphQL",
+    "subtitle": "Advanced NBA Player, Team, and Season Statistics and Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

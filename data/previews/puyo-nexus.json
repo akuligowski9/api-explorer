@@ -1,0 +1,21 @@
+{
+  "id": "puyo-nexus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Puyo Nexus",
+    "description": "Puyo Puyo information from Puyo Nexus Wiki",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Puyo Nexus",
+    "subtitle": "Puyo Puyo information from Puyo Nexus Wiki",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

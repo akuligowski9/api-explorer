@@ -1,0 +1,21 @@
+{
+  "id": "data-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Data.gov",
+    "description": "US Government Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Data.gov",
+    "subtitle": "US Government Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

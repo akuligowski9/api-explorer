@@ -1,0 +1,21 @@
+{
+  "id": "aylien-text-analysis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Aylien Text Analysis",
+    "description": "A collection of information retrieval and natural language APIs",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Aylien Text Analysis",
+    "subtitle": "A collection of information retrieval and natural language…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

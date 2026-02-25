@@ -1,0 +1,21 @@
+{
+  "id": "remove-background-from-images-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Remove Background from Images API",
+    "description": "This API helps you remove background from any image",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Remove Background from Images API",
+    "subtitle": "This API helps you remove background from any image",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

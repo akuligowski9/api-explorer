@@ -1,0 +1,21 @@
+{
+  "id": "imagga",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Imagga",
+    "description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Imagga",
+    "subtitle": "Image Recognition Solutions like Tagging, Visual Search,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ayrshare",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ayrshare",
+    "description": "Social media APIs to post, get analytics, and manage multiple users social media accounts",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Ayrshare",
+    "subtitle": "Social media APIs to post, get analytics, and manage…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

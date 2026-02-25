@@ -1,0 +1,21 @@
+{
+  "id": "real-time-finance",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Real Time Finance",
+    "description": "Websocket API to access realtime stock data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Real Time Finance",
+    "subtitle": "Websocket API to access realtime stock data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

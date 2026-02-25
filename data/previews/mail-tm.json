@@ -1,0 +1,21 @@
+{
+  "id": "mail-tm",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "mail.tm",
+    "description": "Temporary Email Service",
+    "category": "Email",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "mail.tm",
+    "subtitle": "Temporary Email Service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

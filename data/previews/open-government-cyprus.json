@@ -1,0 +1,21 @@
+{
+  "id": "open-government-cyprus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Cyprus",
+    "description": "Cyprus Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Cyprus",
+    "subtitle": "Cyprus Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

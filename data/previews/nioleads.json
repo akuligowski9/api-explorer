@@ -1,0 +1,21 @@
+{
+  "id": "nioleads",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NioLeads",
+    "description": "LinkedIn Email Finder and Email Verifier",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NioLeads",
+    "subtitle": "LinkedIn Email Finder and Email Verifier",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

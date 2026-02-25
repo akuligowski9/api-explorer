@@ -1,0 +1,21 @@
+{
+  "id": "multilingual-ai-zodiac",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Multilingual AI Zodiac",
+    "description": "Personalized daily horoscopes and zodiac insights in 100+ languages",
+    "category": "Entertainment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Multilingual AI Zodiac",
+    "subtitle": "Personalized daily horoscopes and zodiac insights in 100+…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

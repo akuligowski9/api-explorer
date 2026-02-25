@@ -1,0 +1,21 @@
+{
+  "id": "parityvend",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ParityVend",
+    "description": "Globalize your business by auto-adapting pricing for each visitor with Purchasing Power Parity",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ParityVend",
+    "subtitle": "Globalize your business by auto-adapting pricing for each…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

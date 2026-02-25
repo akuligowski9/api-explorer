@@ -1,0 +1,21 @@
+{
+  "id": "university-of-oslo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "University of Oslo",
+    "description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "University of Oslo",
+    "subtitle": "Courses, lecture videos, detailed information for courses…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

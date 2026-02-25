@@ -1,0 +1,21 @@
+{
+  "id": "mailtrap",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mailtrap",
+    "description": "A service for the safe testing of emails sent from the development and staging environments",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mailtrap",
+    "subtitle": "A service for the safe testing of emails sent from the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

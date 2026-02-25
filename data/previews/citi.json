@@ -1,0 +1,21 @@
+{
+  "id": "citi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Citi",
+    "description": "All Citigroup account and statement data APIs",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Citi",
+    "subtitle": "All Citigroup account and statement data APIs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

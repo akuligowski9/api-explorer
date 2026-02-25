@@ -1,0 +1,21 @@
+{
+  "id": "api-football",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "API-FOOTBALL",
+    "description": "Get information about Football Leagues & Cups",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "API-FOOTBALL",
+    "subtitle": "Get information about Football Leagues & Cups",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

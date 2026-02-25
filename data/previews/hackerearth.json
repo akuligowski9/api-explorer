@@ -1,0 +1,21 @@
+{
+  "id": "hackerearth",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hackerearth",
+    "description": "For compiling and running code in several languages",
+    "category": "Programming",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hackerearth",
+    "subtitle": "For compiling and running code in several languages",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "randommer",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Randommer",
+    "description": "Random data generator",
+    "category": "Test Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Randommer",
+    "subtitle": "Random data generator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

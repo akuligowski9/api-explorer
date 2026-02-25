@@ -1,0 +1,21 @@
+{
+  "id": "yamline",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "YAMLine",
+    "description": "Convert YAML to JSON (on-the-fly)",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "YAMLine",
+    "subtitle": "Convert YAML to JSON (on-the-fly)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

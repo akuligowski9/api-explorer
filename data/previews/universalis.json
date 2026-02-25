@@ -1,0 +1,21 @@
+{
+  "id": "universalis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Universalis",
+    "description": "Final Fantasy XIV market board data",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Universalis",
+    "subtitle": "Final Fantasy XIV market board data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "recreation-information-database",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Recreation Information Database",
+    "description": "Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Recreation Information Database",
+    "subtitle": "Recreational areas, federal lands, historic sites, museums,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-color",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Color",
+    "description": "Swiss army knife for color",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Color",
+    "subtitle": "Swiss army knife for color",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

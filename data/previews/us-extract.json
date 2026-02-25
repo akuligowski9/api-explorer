@@ -1,0 +1,21 @@
+{
+  "id": "us-extract",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "US Extract",
+    "description": "Extract postal addresses from any text including emails",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "US Extract",
+    "subtitle": "Extract postal addresses from any text including emails",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

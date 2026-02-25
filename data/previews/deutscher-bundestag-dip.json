@@ -1,0 +1,21 @@
+{
+  "id": "deutscher-bundestag-dip",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Deutscher Bundestag DIP",
+    "description": "This API provides read access to DIP entities (e.g. activities, persons, printed material)",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Deutscher Bundestag DIP",
+    "subtitle": "This API provides read access to DIP entities (e.g.…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

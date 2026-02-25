@@ -1,0 +1,21 @@
+{
+  "id": "ai-mastering",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AI Mastering",
+    "description": "Automated Music Mastering",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AI Mastering",
+    "subtitle": "Automated Music Mastering",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

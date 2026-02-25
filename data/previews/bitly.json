@@ -1,0 +1,21 @@
+{
+  "id": "bitly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bitly",
+    "description": "URL shortener and link management",
+    "category": "URL Shorteners",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bitly",
+    "subtitle": "URL shortener and link management",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

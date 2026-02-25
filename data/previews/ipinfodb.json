@@ -1,0 +1,21 @@
+{
+  "id": "ipinfodb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IPInfoDB",
+    "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IPInfoDB",
+    "subtitle": "Free Geolocation tools and APIs for country, region, city…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

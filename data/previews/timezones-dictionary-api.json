@@ -1,0 +1,21 @@
+{
+  "id": "timezones-dictionary-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Timezones Dictionary API",
+    "description": "This API returns a list of all available timezones for your application",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Timezones Dictionary API",
+    "subtitle": "This API returns a list of all available timezones for your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

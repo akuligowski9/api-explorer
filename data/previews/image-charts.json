@@ -1,0 +1,21 @@
+{
+  "id": "image-charts",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Image-Charts",
+    "description": "Generate charts, QR codes and graph images",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Image-Charts",
+    "subtitle": "Generate charts, QR codes and graph images",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

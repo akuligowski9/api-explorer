@@ -1,0 +1,21 @@
+{
+  "id": "convert-speech-to-text-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert Speech to Text API",
+    "description": "This API converts any speech to text multiple languages and dialects",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert Speech to Text API",
+    "subtitle": "This API converts any speech to text multiple languages and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

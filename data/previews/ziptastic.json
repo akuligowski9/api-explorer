@@ -1,0 +1,21 @@
+{
+  "id": "ziptastic",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ziptastic",
+    "description": "Get the country, state, and city of any US zip-code",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Ziptastic",
+    "subtitle": "Get the country, state, and city of any US zip-code",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

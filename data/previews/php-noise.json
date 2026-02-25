@@ -1,0 +1,21 @@
+{
+  "id": "php-noise",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PHP-Noise",
+    "description": "Noise Background Image Generator",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "PHP-Noise",
+    "subtitle": "Noise Background Image Generator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

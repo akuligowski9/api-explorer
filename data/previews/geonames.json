@@ -1,0 +1,21 @@
+{
+  "id": "geonames",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoNames",
+    "description": "Place names and other geographical data",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeoNames",
+    "subtitle": "Place names and other geographical data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

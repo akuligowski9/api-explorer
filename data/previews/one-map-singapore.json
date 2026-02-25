@@ -1,0 +1,21 @@
+{
+  "id": "one-map-singapore",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "One Map, Singapore",
+    "description": "Singapore Land Authority REST API services for Singapore addresses",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "One Map, Singapore",
+    "subtitle": "Singapore Land Authority REST API services for Singapore…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

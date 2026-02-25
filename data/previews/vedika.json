@@ -1,0 +1,21 @@
+{
+  "id": "vedika",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Vedika",
+    "description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
+    "category": "Personality",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Vedika",
+    "subtitle": "AI-powered Vedic astrology API with birth charts,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

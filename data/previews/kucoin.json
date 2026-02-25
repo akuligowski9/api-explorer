@@ -1,0 +1,21 @@
+{
+  "id": "kucoin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "KuCoin",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "KuCoin",
+    "subtitle": "Cryptocurrency Trading Platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

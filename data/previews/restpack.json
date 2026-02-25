@@ -1,0 +1,21 @@
+{
+  "id": "restpack",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Restpack",
+    "description": "Provides screenshot, HTML to PDF and content extraction APIs",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Restpack",
+    "subtitle": "Provides screenshot, HTML to PDF and content extraction APIs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chinese-text-project",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Chinese Text Project",
+    "description": "Online open-access digital library for pre-modern Chinese texts",
+    "category": "Dictionaries",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Chinese Text Project",
+    "subtitle": "Online open-access digital library for pre-modern Chinese…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

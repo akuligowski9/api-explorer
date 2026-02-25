@@ -1,0 +1,21 @@
+{
+  "id": "lecto-translation",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lecto Translation",
+    "description": "Translation API with free tier and reasonable prices",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Lecto Translation",
+    "subtitle": "Translation API with free tier and reasonable prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

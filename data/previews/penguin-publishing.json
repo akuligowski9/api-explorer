@@ -1,0 +1,21 @@
+{
+  "id": "penguin-publishing",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Penguin Publishing",
+    "description": "Books, book covers and related data",
+    "category": "Books",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Penguin Publishing",
+    "subtitle": "Books, book covers and related data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

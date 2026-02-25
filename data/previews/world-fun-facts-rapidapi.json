@@ -1,0 +1,21 @@
+{
+  "id": "world-fun-facts-rapidapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "World Fun Facts (RapidAPI)",
+    "description": "Fun and interesting facts with multi-language support",
+    "category": "Entertainment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "World Fun Facts (RapidAPI)",
+    "subtitle": "Fun and interesting facts with multi-language support",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

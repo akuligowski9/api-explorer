@@ -1,0 +1,21 @@
+{
+  "id": "glitterly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Glitterly",
+    "description": "Image generation API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Glitterly",
+    "subtitle": "Image generation API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

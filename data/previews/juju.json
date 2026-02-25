@@ -1,0 +1,21 @@
+{
+  "id": "juju",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Juju",
+    "description": "Job search engine",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Juju",
+    "subtitle": "Job search engine",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

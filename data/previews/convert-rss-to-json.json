@@ -1,0 +1,21 @@
+{
+  "id": "convert-rss-to-json",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert RSS to JSON",
+    "description": "Transform raw RSS data into structured JSON",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert RSS to JSON",
+    "subtitle": "Transform raw RSS data into structured JSON",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

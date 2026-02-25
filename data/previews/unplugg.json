@@ -1,0 +1,21 @@
+{
+  "id": "unplugg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Unplugg",
+    "description": "Forecasting API for timeseries data",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Unplugg",
+    "subtitle": "Forecasting API for timeseries data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

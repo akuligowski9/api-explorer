@@ -1,0 +1,21 @@
+{
+  "id": "poof",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Poof",
+    "description": "Image & video background removal API",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Poof",
+    "subtitle": "Image & video background removal API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

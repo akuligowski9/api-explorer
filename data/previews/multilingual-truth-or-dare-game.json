@@ -1,0 +1,21 @@
+{
+  "id": "multilingual-truth-or-dare-game",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Multilingual Truth or Dare Game ",
+    "description": "Truth or Dare party/date game with multilingual support and random challenges",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Multilingual Truth or Dare Game ",
+    "subtitle": "Truth or Dare party/date game with multilingual support and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

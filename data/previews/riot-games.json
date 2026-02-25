@@ -1,0 +1,21 @@
+{
+  "id": "riot-games",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Riot Games",
+    "description": "League of Legends, Teamfight Tactics, Legends of Runetera and Valorant information",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Riot Games",
+    "subtitle": "League of Legends, Teamfight Tactics, Legends of Runetera…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

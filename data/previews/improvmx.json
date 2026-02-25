@@ -1,0 +1,21 @@
+{
+  "id": "improvmx",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ImprovMX",
+    "description": "API for free email forwarding service",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ImprovMX",
+    "subtitle": "API for free email forwarding service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

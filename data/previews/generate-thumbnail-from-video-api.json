@@ -1,0 +1,21 @@
+{
+  "id": "generate-thumbnail-from-video-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Generate Thumbnail from video API",
+    "description": "This API generates image thumbnails from any input video file, in the desired size (pixels). The API supports multiple video formats including MP4, WEBM, FLV, AVI, MKV, MOV and 3GP",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Generate Thumbnail from video API",
+    "subtitle": "This API generates image thumbnails from any input video…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "google-firebase",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Google Firebase",
+    "description": "Google's mobile application development platform that helps build, improve, and grow app",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Google Firebase",
+    "subtitle": "Google's mobile application development platform that helps…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

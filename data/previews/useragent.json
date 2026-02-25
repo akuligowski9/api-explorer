@@ -1,0 +1,21 @@
+{
+  "id": "useragent",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "UserAgent",
+    "description": "User agent parsing API is designed to help you better understand and interact with your users. By identifying browser, device, and OS data from user agent strings, this API empowers you with accurate, real-time insights into your audience.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "UserAgent",
+    "subtitle": "User agent parsing API is designed to help you better…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

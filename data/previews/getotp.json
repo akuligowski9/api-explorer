@@ -1,0 +1,21 @@
+{
+  "id": "getotp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GetOTP",
+    "description": "Implement OTP flow quickly",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "GetOTP",
+    "subtitle": "Implement OTP flow quickly",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quran-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Quran-api",
+    "description": "Free Quran API Service with 90+ different languages and 400+ translations",
+    "category": "Books",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Quran-api",
+    "subtitle": "Free Quran API Service with 90+ different languages and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

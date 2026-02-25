@@ -1,0 +1,21 @@
+{
+  "id": "bigdatacloud-s-phone-and-email-verification-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BigDataCloud's Phone and Email Verification API",
+    "description": "Syntax and Format Validation of Phone Number and Email address.",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BigDataCloud's Phone and Email Verification API",
+    "subtitle": "Syntax and Format Validation of Phone Number and Email…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

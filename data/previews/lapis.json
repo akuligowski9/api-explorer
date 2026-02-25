@@ -1,0 +1,21 @@
+{
+  "id": "lapis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LAPIS",
+    "description": "SARS-CoV-2 genomic sequences from public sources",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "LAPIS",
+    "subtitle": "SARS-CoV-2 genomic sequences from public sources",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

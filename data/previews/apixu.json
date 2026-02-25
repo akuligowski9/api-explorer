@@ -1,0 +1,21 @@
+{
+  "id": "apixu",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "APIXU",
+    "description": "Weather",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "APIXU",
+    "subtitle": "Weather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

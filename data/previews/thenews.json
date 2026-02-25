@@ -1,0 +1,21 @@
+{
+  "id": "thenews",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TheNews",
+    "description": "Aggregated headlines, top story and live news JSON API",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "TheNews",
+    "subtitle": "Aggregated headlines, top story and live news JSON API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

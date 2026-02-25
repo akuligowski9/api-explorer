@@ -1,0 +1,21 @@
+{
+  "id": "twitterapi-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TwitterApi.IO",
+    "description": "Access Twitter's Real-time & Historical Data with Unmatched Simplicity",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "TwitterApi.IO",
+    "subtitle": "Access Twitter's Real-time & Historical Data with Unmatched…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

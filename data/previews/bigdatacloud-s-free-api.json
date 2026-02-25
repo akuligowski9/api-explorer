@@ -1,0 +1,21 @@
+{
+  "id": "bigdatacloud-s-free-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BigDataCloud's Free API",
+    "description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BigDataCloud's Free API",
+    "subtitle": "Get free client-side reverse geocoding API and Client Info…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

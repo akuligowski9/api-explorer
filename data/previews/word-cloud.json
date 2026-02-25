@@ -1,0 +1,21 @@
+{
+  "id": "word-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Word Cloud",
+    "description": "Easily create word clouds",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Word Cloud",
+    "subtitle": "Easily create word clouds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wallhaven",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wallhaven",
+    "description": "Wallpapers",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wallhaven",
+    "subtitle": "Wallpapers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

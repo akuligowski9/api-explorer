@@ -1,0 +1,21 @@
+{
+  "id": "jobdata-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "jobdata API",
+    "description": "Simple Job Data API",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "jobdata API",
+    "subtitle": "Simple Job Data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

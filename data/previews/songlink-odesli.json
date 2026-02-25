@@ -1,0 +1,21 @@
+{
+  "id": "songlink-odesli",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Songlink / Odesli",
+    "description": "Get all the services on which a song is available",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Songlink / Odesli",
+    "subtitle": "Get all the services on which a song is available",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rainviewer",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RainViewer",
+    "description": "Radar data collected from different websites across the Internet",
+    "category": "Weather",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "RainViewer",
+    "subtitle": "Radar data collected from different websites across the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

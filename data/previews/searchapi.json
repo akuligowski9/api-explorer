@@ -1,0 +1,21 @@
+{
+  "id": "searchapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SearchApi",
+    "description": "Real-Time Google SERP API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "SearchApi",
+    "subtitle": "Real-Time Google SERP API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mapquest",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MapQuest",
+    "description": "To access tools and resources to map the world",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "MapQuest",
+    "subtitle": "To access tools and resources to map the world",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "district-of-columbia-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "District of Columbia Open Data",
+    "description": "Contains D.C. government public datasets, including crime, GIS, financial data, and so on",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "District of Columbia Open Data",
+    "subtitle": "Contains D.C. government public datasets, including crime,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

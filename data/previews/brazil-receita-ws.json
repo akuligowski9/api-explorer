@@ -1,0 +1,21 @@
+{
+  "id": "brazil-receita-ws",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brazil Receita WS",
+    "description": "Consult companies by CNPJ for Brazilian companies",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Brazil Receita WS",
+    "subtitle": "Consult companies by CNPJ for Brazilian companies",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

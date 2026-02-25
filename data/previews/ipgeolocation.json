@@ -1,0 +1,21 @@
+{
+  "id": "ipgeolocation",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ipgeolocation",
+    "description": "IP Geolocation AP with free plan 30k requests per month",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ipgeolocation",
+    "subtitle": "IP Geolocation AP with free plan 30k requests per month",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

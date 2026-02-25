@@ -1,0 +1,21 @@
+{
+  "id": "the-graph",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Graph",
+    "description": "Indexing protocol for querying networks like Ethereum with GraphQL",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Graph",
+    "subtitle": "Indexing protocol for querying networks like Ethereum with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

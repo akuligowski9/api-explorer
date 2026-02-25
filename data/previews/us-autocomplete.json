@@ -1,0 +1,21 @@
+{
+  "id": "us-autocomplete",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "US Autocomplete",
+    "description": "Enter address data quickly with real-time address suggestions",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "US Autocomplete",
+    "subtitle": "Enter address data quickly with real-time address…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

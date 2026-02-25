@@ -1,0 +1,21 @@
+{
+  "id": "utah-agrc",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Utah AGRC",
+    "description": "Utah Web API for geocoding Utah addresses",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Utah AGRC",
+    "subtitle": "Utah Web API for geocoding Utah addresses",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "icons8",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Icons8",
+    "description": "Icons (find \"search icon\" hyperlink in page)",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Icons8",
+    "subtitle": "Icons (find \"search icon\" hyperlink in page)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

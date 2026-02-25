@@ -1,0 +1,21 @@
+{
+  "id": "exmo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "EXMO",
+    "description": "Cryptocurrencies exchange based in UK",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "EXMO",
+    "subtitle": "Cryptocurrencies exchange based in UK",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tle",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TLE",
+    "description": "Satellite information",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "TLE",
+    "subtitle": "Satellite information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

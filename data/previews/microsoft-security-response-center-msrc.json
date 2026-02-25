@@ -1,0 +1,21 @@
+{
+  "id": "microsoft-security-response-center-msrc",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Microsoft Security Response Center (MSRC)",
+    "description": "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Microsoft Security Response Center (MSRC)",
+    "subtitle": "Programmatic interfaces to engage with the Microsoft…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

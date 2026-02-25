@@ -1,0 +1,21 @@
+{
+  "id": "open-government-victoria-state-government",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Victoria State Government",
+    "description": "Victoria State Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Victoria State Government",
+    "subtitle": "Victoria State Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

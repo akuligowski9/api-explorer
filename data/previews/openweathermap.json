@@ -1,0 +1,21 @@
+{
+  "id": "openweathermap",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenWeatherMap",
+    "description": "Weather",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenWeatherMap",
+    "subtitle": "Weather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

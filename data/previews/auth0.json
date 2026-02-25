@@ -1,0 +1,21 @@
+{
+  "id": "auth0",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Auth0",
+    "description": "Easy to implement, adaptable authentication and authorization platform",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Auth0",
+    "subtitle": "Easy to implement, adaptable authentication and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

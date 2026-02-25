@@ -1,0 +1,21 @@
+{
+  "id": "block",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Block",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Block",
+    "subtitle": "Bitcoin Payment, Wallet & Transaction Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

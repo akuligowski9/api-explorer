@@ -1,0 +1,21 @@
+{
+  "id": "moogleapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "moogleAPI",
+    "description": "Final Fantasy franchise data",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "moogleAPI",
+    "subtitle": "Final Fantasy franchise data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

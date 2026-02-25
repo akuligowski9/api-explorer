@@ -1,0 +1,21 @@
+{
+  "id": "techmap-s-job-postings",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Techmap's Job Postings",
+    "description": "API for International Job postings",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Techmap's Job Postings",
+    "subtitle": "API for International Job postings",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

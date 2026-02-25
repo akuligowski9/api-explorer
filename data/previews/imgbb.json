@@ -1,0 +1,21 @@
+{
+  "id": "imgbb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Imgbb",
+    "description": "Simple and quick private image sharing",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Imgbb",
+    "subtitle": "Simple and quick private image sharing",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

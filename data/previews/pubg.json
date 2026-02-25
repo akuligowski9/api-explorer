@@ -1,0 +1,21 @@
+{
+  "id": "pubg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PUBG",
+    "description": "Access in-game PUBG data",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "PUBG",
+    "subtitle": "Access in-game PUBG data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

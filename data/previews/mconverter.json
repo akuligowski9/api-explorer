@@ -1,0 +1,21 @@
+{
+  "id": "mconverter",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MConverter",
+    "description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MConverter",
+    "subtitle": "File converter and PDF compressor. Extract images from…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "jcdecaux-bike",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JCDecaux Bike",
+    "description": "JCDecaux's self-service bicycles",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "JCDecaux Bike",
+    "subtitle": "JCDecaux's self-service bicycles",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

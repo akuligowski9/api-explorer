@@ -1,0 +1,21 @@
+{
+  "id": "open-government-luxembourg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Luxembourg",
+    "description": "Luxembourgish Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Luxembourg",
+    "subtitle": "Luxembourgish Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "istanbul-i-bb-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Istanbul (İBB) Open Data",
+    "description": "Data sets from the İstanbul Metropolitan Municipality (İBB)",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Istanbul (İBB) Open Data",
+    "subtitle": "Data sets from the İstanbul Metropolitan Municipality (İBB)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

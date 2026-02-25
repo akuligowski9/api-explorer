@@ -1,0 +1,21 @@
+{
+  "id": "quip",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Quip",
+    "description": "File Sharing and Storage for groups",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Quip",
+    "subtitle": "File Sharing and Storage for groups",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

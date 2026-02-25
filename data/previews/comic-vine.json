@@ -1,0 +1,21 @@
+{
+  "id": "comic-vine",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Comic Vine",
+    "description": "Comics",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Comic Vine",
+    "subtitle": "Comics",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

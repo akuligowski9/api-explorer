@@ -1,0 +1,21 @@
+{
+  "id": "prc-exam-schedule",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PRC Exam Schedule",
+    "description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "PRC Exam Schedule",
+    "subtitle": "Unofficial Philippine Professional Regulation Commission's…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

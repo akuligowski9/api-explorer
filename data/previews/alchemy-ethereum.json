@@ -1,0 +1,21 @@
+{
+  "id": "alchemy-ethereum",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Alchemy Ethereum",
+    "description": "Ethereum Node-as-a-Service Provider",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Alchemy Ethereum",
+    "subtitle": "Ethereum Node-as-a-Service Provider",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

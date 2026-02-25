@@ -1,0 +1,21 @@
+{
+  "id": "cartes-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cartes.io",
+    "description": "Create maps and markers for anything",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Cartes.io",
+    "subtitle": "Create maps and markers for anything",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

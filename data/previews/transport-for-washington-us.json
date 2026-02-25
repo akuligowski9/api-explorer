@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-washington-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Washington, US",
+    "description": "Washington Metro transport API",
+    "category": "Transportation",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Washington, US",
+    "subtitle": "Washington Metro transport API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

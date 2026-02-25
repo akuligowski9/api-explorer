@@ -1,0 +1,21 @@
+{
+  "id": "trackr-tms",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Trackr TMS",
+    "description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Trackr TMS",
+    "subtitle": "Trackr API makes it easy to create, assign, and track…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

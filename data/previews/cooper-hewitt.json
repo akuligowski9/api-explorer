@@ -1,0 +1,21 @@
+{
+  "id": "cooper-hewitt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cooper Hewitt",
+    "description": "Smithsonian Design Museum",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Cooper Hewitt",
+    "subtitle": "Smithsonian Design Museum",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

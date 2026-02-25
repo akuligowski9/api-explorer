@@ -1,0 +1,21 @@
+{
+  "id": "btcturk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BtcTurk",
+    "description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BtcTurk",
+    "subtitle": "Real-time cryptocurrency data, graphs and API that allows…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

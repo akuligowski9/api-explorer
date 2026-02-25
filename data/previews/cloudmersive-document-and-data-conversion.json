@@ -1,0 +1,21 @@
+{
+  "id": "cloudmersive-document-and-data-conversion",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudmersive Document and Data Conversion",
+    "description": "HTML/URL to PDF/PNG, Office documents to PDF, image conversion",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudmersive Document and Data Conversion",
+    "subtitle": "HTML/URL to PDF/PNG, Office documents to PDF, image…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

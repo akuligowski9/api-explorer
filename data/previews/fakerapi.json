@@ -1,0 +1,21 @@
+{
+  "id": "fakerapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FakerAPI",
+    "description": "APIs collection to get fake data",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "FakerAPI",
+    "subtitle": "APIs collection to get fake data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

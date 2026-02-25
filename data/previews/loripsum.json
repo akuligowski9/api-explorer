@@ -1,0 +1,21 @@
+{
+  "id": "loripsum",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Loripsum",
+    "description": "The \"lorem ipsum\" generator that doesn't suck",
+    "category": "Test Data",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Loripsum",
+    "subtitle": "The \"lorem ipsum\" generator that doesn't suck",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

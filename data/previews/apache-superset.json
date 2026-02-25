@@ -1,0 +1,21 @@
+{
+  "id": "apache-superset",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Apache Superset",
+    "description": "API to manage your BI dashboards and data sources on Superset",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Apache Superset",
+    "subtitle": "API to manage your BI dashboards and data sources on…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

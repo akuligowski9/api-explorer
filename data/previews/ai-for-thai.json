@@ -1,0 +1,21 @@
+{
+  "id": "ai-for-thai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AI For Thai",
+    "description": "Free Various Thai AI API",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AI For Thai",
+    "subtitle": "Free Various Thai AI API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

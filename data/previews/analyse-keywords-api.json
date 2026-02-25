@@ -1,0 +1,21 @@
+{
+  "id": "analyse-keywords-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Analyse Keywords API",
+    "description": "This API lets you extract high-frequency keywords, key phrases and latent semantic keywords from any URL",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Analyse Keywords API",
+    "subtitle": "This API lets you extract high-frequency keywords, key…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

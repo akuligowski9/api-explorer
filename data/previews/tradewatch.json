@@ -1,0 +1,21 @@
+{
+  "id": "tradewatch",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TradeWatch",
+    "description": "Real time financial market data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "TradeWatch",
+    "subtitle": "Real time financial market data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

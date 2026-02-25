@@ -1,0 +1,21 @@
+{
+  "id": "autom",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Autom",
+    "description": "Our SERP API delivers lightning-fast Google search results at unbeatable prices. Built for developers who need reliable, scalable access to search data without the complexity of web scraping or CAPTCHA challenges.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Autom",
+    "subtitle": "Our SERP API delivers lightning-fast Google search results…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

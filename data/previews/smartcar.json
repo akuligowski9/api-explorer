@@ -1,0 +1,21 @@
+{
+  "id": "smartcar",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Smartcar",
+    "description": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
+    "category": "Vehicle",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Smartcar",
+    "subtitle": "Lock and unlock vehicles and get data like odometer reading…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

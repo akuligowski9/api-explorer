@@ -1,0 +1,21 @@
+{
+  "id": "hearthstone",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hearthstone",
+    "description": "Hearthstone Cards Information",
+    "category": "Games & Comics",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hearthstone",
+    "subtitle": "Hearthstone Cards Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "realie-property-data-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Realie Property Data API",
+    "description": "Realie's property data is directly sourced from local municipalities and contains over 100 data fields. Realie covers the entire USA with 180 million parcels.",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Realie Property Data API",
+    "subtitle": "Realie's property data is directly sourced from local…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

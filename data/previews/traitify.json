@@ -1,0 +1,21 @@
+{
+  "id": "traitify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Traitify",
+    "description": "Assess, collect and analyze Personality",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Traitify",
+    "subtitle": "Assess, collect and analyze Personality",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

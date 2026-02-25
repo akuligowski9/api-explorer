@@ -1,0 +1,21 @@
+{
+  "id": "simkl",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Simkl",
+    "description": "Movie, TV and Anime data",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Simkl",
+    "subtitle": "Movie, TV and Anime data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

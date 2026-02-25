@@ -1,0 +1,21 @@
+{
+  "id": "coronavirus-in-the-uk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coronavirus in the UK",
+    "description": "UK Government coronavirus data, including deaths and cases by region",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coronavirus in the UK",
+    "subtitle": "UK Government coronavirus data, including deaths and cases…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

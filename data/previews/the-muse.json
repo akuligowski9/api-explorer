@@ -1,0 +1,21 @@
+{
+  "id": "the-muse",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Muse",
+    "description": "Job board and company profiles",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Muse",
+    "subtitle": "Job board and company profiles",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

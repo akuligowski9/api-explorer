@@ -1,0 +1,21 @@
+{
+  "id": "application-environment-verification",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Application Environment Verification",
+    "description": "Android library and API to verify the safety of user devices, detect rooted devices and other risks",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Application Environment Verification",
+    "subtitle": "Android library and API to verify the safety of user…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rba-exchange-rates-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RBA Exchange Rates API",
+    "description": "Real-time and historical Reserve Bank of Australia (RBA) exchange rates API",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "RBA Exchange Rates API",
+    "subtitle": "Real-time and historical Reserve Bank of Australia (RBA)…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

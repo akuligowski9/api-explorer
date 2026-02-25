@@ -1,0 +1,21 @@
+{
+  "id": "gyazo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gyazo",
+    "description": "Save & Share screen captures instantly",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gyazo",
+    "subtitle": "Save & Share screen captures instantly",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

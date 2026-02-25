@@ -1,0 +1,21 @@
+{
+  "id": "zipcodeapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ZipCodeAPI",
+    "description": "US zip code distance, radius and location API",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ZipCodeAPI",
+    "subtitle": "US zip code distance, radius and location API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

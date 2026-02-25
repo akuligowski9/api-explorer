@@ -1,0 +1,21 @@
+{
+  "id": "squiggle",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Squiggle",
+    "description": "Fixtures, results and predictions for Australian Football League matches",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Squiggle",
+    "subtitle": "Fixtures, results and predictions for Australian Football…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kutt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kutt",
+    "description": "Free Modern URL Shortener",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Kutt",
+    "subtitle": "Free Modern URL Shortener",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

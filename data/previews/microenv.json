@@ -1,0 +1,21 @@
+{
+  "id": "microenv",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MicroENV",
+    "description": "Fake Rest API for developers",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MicroENV",
+    "subtitle": "Fake Rest API for developers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

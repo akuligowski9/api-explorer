@@ -1,0 +1,21 @@
+{
+  "id": "cloudflare-trace",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudflare Trace",
+    "description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudflare Trace",
+    "subtitle": "Get IP Address, Timestamp, User Agent, Country Code, IATA,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

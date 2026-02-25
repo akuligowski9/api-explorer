@@ -1,0 +1,21 @@
+{
+  "id": "danbooru-anime",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Danbooru Anime",
+    "description": "Thousands of anime artist database to find good anime art",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Danbooru Anime",
+    "subtitle": "Thousands of anime artist database to find good anime art",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

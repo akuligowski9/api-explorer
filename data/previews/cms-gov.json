@@ -1,0 +1,21 @@
+{
+  "id": "cms-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CMS.gov",
+    "description": "Access to the data from the CMS - medicare.gov",
+    "category": "Health",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CMS.gov",
+    "subtitle": "Access to the data from the CMS - medicare.gov",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

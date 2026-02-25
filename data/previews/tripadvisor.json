@@ -1,0 +1,21 @@
+{
+  "id": "tripadvisor",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tripadvisor",
+    "description": "Rating content for a hotel, restaurant, attraction or destination",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tripadvisor",
+    "subtitle": "Rating content for a hotel, restaurant, attraction or…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

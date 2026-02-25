@@ -1,0 +1,21 @@
+{
+  "id": "songkick",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Songkick",
+    "description": "Music Events",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Songkick",
+    "subtitle": "Music Events",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

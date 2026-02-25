@@ -1,0 +1,21 @@
+{
+  "id": "national-park-service-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "National Park Service, US",
+    "description": "Data from the US National Park Service",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "National Park Service, US",
+    "subtitle": "Data from the US National Park Service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

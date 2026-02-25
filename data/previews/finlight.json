@@ -1,0 +1,21 @@
+{
+  "id": "finlight",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Finlight",
+    "description": "Realtime financial news with sentiment and article content",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Finlight",
+    "subtitle": "Realtime financial news with sentiment and article content",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

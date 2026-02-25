@@ -1,0 +1,21 @@
+{
+  "id": "rebrandly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Rebrandly",
+    "description": "Custom URL shortener for sharing branded links",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Rebrandly",
+    "subtitle": "Custom URL shortener for sharing branded links",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

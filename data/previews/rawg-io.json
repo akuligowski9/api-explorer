@@ -1,0 +1,21 @@
+{
+  "id": "rawg-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RAWG.io",
+    "description": "500,000+ games for 50 platforms including mobiles",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "RAWG.io",
+    "subtitle": "500,000+ games for 50 platforms including mobiles",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

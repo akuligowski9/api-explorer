@@ -1,0 +1,21 @@
+{
+  "id": "generate-image-thumbnails-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Generate Image Thumbnails API",
+    "description": "Generate and optimise Image Thumbnails from any image with this API and save hours of image editing",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Generate Image Thumbnails API",
+    "subtitle": "Generate and optimise Image Thumbnails from any image with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

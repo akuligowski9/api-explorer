@@ -1,0 +1,21 @@
+{
+  "id": "craftmypdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CraftMyPDF",
+    "description": "Generate PDF documents from templates with a drop-and-drop editor and a simple API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "CraftMyPDF",
+    "subtitle": "Generate PDF documents from templates with a drop-and-drop…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

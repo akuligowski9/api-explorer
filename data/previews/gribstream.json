@@ -1,0 +1,21 @@
+{
+  "id": "gribstream",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GribStream",
+    "description": "Global weather forecast API for any use. Leverage the NBM and GFS models. Great for bulk pulls",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GribStream",
+    "subtitle": "Global weather forecast API for any use. Leverage the NBM…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

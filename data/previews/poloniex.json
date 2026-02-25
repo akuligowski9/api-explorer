@@ -1,0 +1,21 @@
+{
+  "id": "poloniex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Poloniex",
+    "description": "US based digital asset exchange",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Poloniex",
+    "subtitle": "US based digital asset exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

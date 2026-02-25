@@ -1,0 +1,21 @@
+{
+  "id": "they-said-so-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "They Said So Quotes",
+    "description": "Quotes Trusted by many fortune brands around the world",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "They Said So Quotes",
+    "subtitle": "Quotes Trusted by many fortune brands around the world",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

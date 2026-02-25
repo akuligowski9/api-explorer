@@ -1,0 +1,21 @@
+{
+  "id": "gcore-storage",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gcore Storage",
+    "description": "S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin.",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Gcore Storage",
+    "subtitle": "S3-Compatible Object Storage is a fast and scalable cloud…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

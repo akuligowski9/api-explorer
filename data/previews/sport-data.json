@@ -1,0 +1,21 @@
+{
+  "id": "sport-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sport Data",
+    "description": "Get sports data from all over the world",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sport Data",
+    "subtitle": "Get sports data from all over the world",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

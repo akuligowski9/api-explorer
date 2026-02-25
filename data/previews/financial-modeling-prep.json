@@ -1,0 +1,21 @@
+{
+  "id": "financial-modeling-prep",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Financial Modeling Prep",
+    "description": "Realtime and historical stock data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Financial Modeling Prep",
+    "subtitle": "Realtime and historical stock data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

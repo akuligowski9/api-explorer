@@ -1,0 +1,21 @@
+{
+  "id": "wargaming-net",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wargaming.net",
+    "description": "Wargaming.net info and stats",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Wargaming.net",
+    "subtitle": "Wargaming.net info and stats",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

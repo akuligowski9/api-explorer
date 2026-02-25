@@ -1,0 +1,21 @@
+{
+  "id": "adzuna",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Adzuna",
+    "description": "Job board aggregator",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Adzuna",
+    "subtitle": "Job board aggregator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mockaroo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mockaroo",
+    "description": "Generate fake data to JSON, CSV, TXT, SQL and XML",
+    "category": "Test Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mockaroo",
+    "subtitle": "Generate fake data to JSON, CSV, TXT, SQL and XML",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

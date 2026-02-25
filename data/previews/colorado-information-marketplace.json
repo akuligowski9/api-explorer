@@ -1,0 +1,21 @@
+{
+  "id": "colorado-information-marketplace",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Colorado Information Marketplace",
+    "description": "Colorado State Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Colorado Information Marketplace",
+    "subtitle": "Colorado State Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

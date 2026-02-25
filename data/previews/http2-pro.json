@@ -1,0 +1,21 @@
+{
+  "id": "http2-pro",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HTTP2.Pro",
+    "description": "Test endpoints for client and server HTTP/2 protocol support",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "HTTP2.Pro",
+    "subtitle": "Test endpoints for client and server HTTP/2 protocol support",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

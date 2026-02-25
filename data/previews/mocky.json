@@ -1,0 +1,21 @@
+{
+  "id": "mocky",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mocky",
+    "description": "Mock user defined test JSON for REST API endpoints",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Mocky",
+    "subtitle": "Mock user defined test JSON for REST API endpoints",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

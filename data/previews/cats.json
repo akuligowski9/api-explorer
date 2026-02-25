@@ -1,0 +1,21 @@
+{
+  "id": "cats",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cats",
+    "description": "Pictures of cats from Tumblr",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Cats",
+    "subtitle": "Pictures of cats from Tumblr",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

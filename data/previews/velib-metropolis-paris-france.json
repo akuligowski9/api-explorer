@@ -1,0 +1,21 @@
+{
+  "id": "velib-metropolis-paris-france",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Velib metropolis, Paris, France",
+    "description": "Velib Open Data API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Velib metropolis, Paris, France",
+    "subtitle": "Velib Open Data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

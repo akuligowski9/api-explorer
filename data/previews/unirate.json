@@ -1,0 +1,21 @@
+{
+  "id": "unirate",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Unirate",
+    "description": "Free Exchange Rates and Currency Conversion",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Unirate",
+    "subtitle": "Free Exchange Rates and Currency Conversion",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

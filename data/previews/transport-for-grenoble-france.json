@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-grenoble-france",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Grenoble, France",
+    "description": "Grenoble public transport",
+    "category": "Transportation",
+    "auth": "None",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Transport for Grenoble, France",
+    "subtitle": "Grenoble public transport",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

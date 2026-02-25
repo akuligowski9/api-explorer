@@ -1,0 +1,21 @@
+{
+  "id": "vatcomply-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "VATComply.com",
+    "description": "Exchange rates, geolocation and VAT number validation",
+    "category": "Currency Exchange",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "VATComply.com",
+    "subtitle": "Exchange rates, geolocation and VAT number validation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

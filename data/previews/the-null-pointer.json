@@ -1,0 +1,21 @@
+{
+  "id": "the-null-pointer",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Null Pointer",
+    "description": "No-bullshit file hosting and URL shortening service",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Null Pointer",
+    "subtitle": "No-bullshit file hosting and URL shortening service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

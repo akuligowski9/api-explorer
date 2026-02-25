@@ -1,0 +1,21 @@
+{
+  "id": "noun-project",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Noun Project",
+    "description": "Icons",
+    "category": "Art & Design",
+    "auth": "OAuth",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Noun Project",
+    "subtitle": "Icons",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

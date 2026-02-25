@@ -1,0 +1,21 @@
+{
+  "id": "currencyscoop",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CurrencyScoop",
+    "description": "Real-time and historical currency rates JSON API",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CurrencyScoop",
+    "subtitle": "Real-time and historical currency rates JSON API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

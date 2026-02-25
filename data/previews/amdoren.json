@@ -1,0 +1,21 @@
+{
+  "id": "amdoren",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Amdoren",
+    "description": "Free currency API with over 150 currencies",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Amdoren",
+    "subtitle": "Free currency API with over 150 currencies",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

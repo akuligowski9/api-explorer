@@ -1,0 +1,21 @@
+{
+  "id": "mattermost",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mattermost",
+    "description": "An open source platform for developer collaboration",
+    "category": "Documents & Productivity",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mattermost",
+    "subtitle": "An open source platform for developer collaboration",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

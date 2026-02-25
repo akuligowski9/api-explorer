@@ -1,0 +1,21 @@
+{
+  "id": "newsdatahub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NewsDataHub",
+    "description": "NewsDataHub provides a production-ready REST API delivering near-real-time global news data at scale",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NewsDataHub",
+    "subtitle": "NewsDataHub provides a production-ready REST API delivering…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "geodatasource",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoDataSource",
+    "description": "Geocoding of city name by using latitude and longitude coordinates",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeoDataSource",
+    "subtitle": "Geocoding of city name by using latitude and longitude…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

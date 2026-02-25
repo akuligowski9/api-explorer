@@ -1,0 +1,21 @@
+{
+  "id": "lazada",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lazada",
+    "description": "Retrieve product ratings and seller performance metrics",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Lazada",
+    "subtitle": "Retrieve product ratings and seller performance metrics",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "messengerx-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MessengerX.io",
+    "description": "A FREE API for developers to build and monetize personalized ML based chat apps",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "MessengerX.io",
+    "subtitle": "A FREE API for developers to build and monetize…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "city-toronto-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Toronto Open Data",
+    "description": "Toronto (CA) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "City, Toronto Open Data",
+    "subtitle": "Toronto (CA) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

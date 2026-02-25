@@ -1,0 +1,21 @@
+{
+  "id": "dydx",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "dYdX",
+    "description": "Decentralized cryptocurrency exchange",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "dYdX",
+    "subtitle": "Decentralized cryptocurrency exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

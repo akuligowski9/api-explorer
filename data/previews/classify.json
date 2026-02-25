@@ -1,0 +1,21 @@
+{
+  "id": "classify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Classify",
+    "description": "Encrypting & decrypting text messages",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Classify",
+    "subtitle": "Encrypting & decrypting text messages",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

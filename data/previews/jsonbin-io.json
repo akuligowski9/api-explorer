@@ -1,0 +1,21 @@
+{
+  "id": "jsonbin-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JSONbin.io",
+    "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "JSONbin.io",
+    "subtitle": "Free JSON storage service. Ideal for small scale Web apps,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

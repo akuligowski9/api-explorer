@@ -1,0 +1,21 @@
+{
+  "id": "okjob",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OkJob",
+    "description": "4 day week job board",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OkJob",
+    "subtitle": "4 day week job board",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

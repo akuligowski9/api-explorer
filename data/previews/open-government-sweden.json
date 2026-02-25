@@ -1,0 +1,21 @@
+{
+  "id": "open-government-sweden",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Sweden",
+    "description": "Sweden Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Sweden",
+    "subtitle": "Sweden Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

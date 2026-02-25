@@ -1,0 +1,21 @@
+{
+  "id": "openfda",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "openFDA",
+    "description": "Public FDA data about drugs, devices and foods",
+    "category": "Health",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "openFDA",
+    "subtitle": "Public FDA data about drugs, devices and foods",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

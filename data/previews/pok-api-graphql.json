@@ -1,0 +1,21 @@
+{
+  "id": "pok-api-graphql",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PokéAPI (GraphQL)",
+    "description": "The Unofficial GraphQL for PokeAPI",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "PokéAPI (GraphQL)",
+    "subtitle": "The Unofficial GraphQL for PokeAPI",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

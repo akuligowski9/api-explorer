@@ -1,0 +1,21 @@
+{
+  "id": "microlink-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Microlink.io",
+    "description": "Extract structured data from any website",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Microlink.io",
+    "subtitle": "Extract structured data from any website",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

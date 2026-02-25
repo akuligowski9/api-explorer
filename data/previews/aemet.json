@@ -1,0 +1,21 @@
+{
+  "id": "aemet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Aemet",
+    "description": "Weather and forecast data from Spain",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Aemet",
+    "subtitle": "Weather and forecast data from Spain",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

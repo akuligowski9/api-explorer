@@ -1,0 +1,21 @@
+{
+  "id": "softwium",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Softwium",
+    "description": "Validate SQL queries",
+    "category": "Programming",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Softwium",
+    "subtitle": "Validate SQL queries",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

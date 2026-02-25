@@ -1,0 +1,21 @@
+{
+  "id": "brazilian-chamber-of-deputies-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brazilian Chamber of Deputies Open Data",
+    "description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Brazilian Chamber of Deputies Open Data",
+    "subtitle": "Provides legislative information in Apis XML and JSON, as…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

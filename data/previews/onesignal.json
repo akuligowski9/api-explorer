@@ -1,0 +1,21 @@
+{
+  "id": "onesignal",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OneSignal",
+    "description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OneSignal",
+    "subtitle": "Self-serve customer engagement solution for Push…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

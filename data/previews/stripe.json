@@ -1,0 +1,21 @@
+{
+  "id": "stripe",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Stripe",
+    "description": "Payment processing, subscriptions, and financial management",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Stripe",
+    "subtitle": "Payment processing, subscriptions, and financial management",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

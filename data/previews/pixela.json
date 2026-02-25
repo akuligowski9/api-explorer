@@ -1,0 +1,21 @@
+{
+  "id": "pixela",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pixela",
+    "description": "API for recording and tracking habits or effort, routines",
+    "category": "Tracking",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Pixela",
+    "subtitle": "API for recording and tracking habits or effort, routines",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

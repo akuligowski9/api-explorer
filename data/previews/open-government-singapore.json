@@ -1,0 +1,21 @@
+{
+  "id": "open-government-singapore",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Singapore",
+    "description": "Singapore Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Singapore",
+    "subtitle": "Singapore Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

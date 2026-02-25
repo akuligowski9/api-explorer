@@ -1,0 +1,21 @@
+{
+  "id": "box",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Box",
+    "description": "File Sharing and Storage",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Box",
+    "subtitle": "File Sharing and Storage",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "atlas-academy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Atlas Academy",
+    "description": "API for Fate/Grand Order game data",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Atlas Academy",
+    "subtitle": "API for Fate/Grand Order game data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

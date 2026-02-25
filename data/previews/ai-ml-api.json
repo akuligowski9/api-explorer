@@ -1,0 +1,21 @@
+{
+  "id": "ai-ml-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AI/ML API",
+    "description": "Access 100+ curated AI Models over 1 API",
+    "category": "Machine Learning",
+    "auth": "Yes",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AI/ML API",
+    "subtitle": "Access 100+ curated AI Models over 1 API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

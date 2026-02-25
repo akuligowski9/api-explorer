@@ -1,0 +1,21 @@
+{
+  "id": "waifu-it",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Waifu.it",
+    "description": "Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More!",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Waifu.it",
+    "subtitle": "Free RESTful API for Anime Quotes, Facts, Emotes, Gifs,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

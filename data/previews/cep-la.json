@@ -1,0 +1,21 @@
+{
+  "id": "cep-la",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cep.la",
+    "description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Cep.la",
+    "subtitle": "Brazil RESTful API to find information about streets, zip…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

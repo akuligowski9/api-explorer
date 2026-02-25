@@ -1,0 +1,21 @@
+{
+  "id": "rijksmuseum",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Rijksmuseum",
+    "description": "RijksMuseum Data",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Rijksmuseum",
+    "subtitle": "RijksMuseum Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

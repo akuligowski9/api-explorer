@@ -1,0 +1,21 @@
+{
+  "id": "jmespath",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JMESPath",
+    "description": "Run JMESPath queries on JSON data for filtering, transforming, and extracting results",
+    "category": "Programming",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "JMESPath",
+    "subtitle": "Run JMESPath queries on JSON data for filtering,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

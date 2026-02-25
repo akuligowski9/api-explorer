@@ -1,0 +1,21 @@
+{
+  "id": "mercedes-benz",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mercedes-Benz",
+    "description": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers",
+    "category": "Vehicle",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Mercedes-Benz",
+    "subtitle": "Telematics data, remotely access vehicle functions, car…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

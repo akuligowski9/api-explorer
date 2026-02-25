@@ -1,0 +1,21 @@
+{
+  "id": "carto",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CARTO",
+    "description": "Location Information Prediction",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CARTO",
+    "subtitle": "Location Information Prediction",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

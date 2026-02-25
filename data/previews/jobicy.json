@@ -1,0 +1,21 @@
+{
+  "id": "jobicy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Jobicy",
+    "description": "Remote Jobs API Feed",
+    "category": "Jobs",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Jobicy",
+    "subtitle": "Remote Jobs API Feed",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fraudlabs-pro",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FraudLabs Pro",
+    "description": "Screen order information using AI to detect frauds",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FraudLabs Pro",
+    "subtitle": "Screen order information using AI to detect frauds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

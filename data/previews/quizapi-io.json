@@ -1,0 +1,21 @@
+{
+  "id": "quizapi-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "quizapi.io",
+    "description": "Access to various kind of quiz questions",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "quizapi.io",
+    "subtitle": "Access to various kind of quiz questions",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

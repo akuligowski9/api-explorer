@@ -1,0 +1,21 @@
+{
+  "id": "cloudmersive",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudmersive",
+    "description": "Image captioning, face recognition, NSFW classification",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudmersive",
+    "subtitle": "Image captioning, face recognition, NSFW classification",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

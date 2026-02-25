@@ -1,0 +1,21 @@
+{
+  "id": "bootprint",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bootprint",
+    "description": "Random facts and images of space",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Bootprint",
+    "subtitle": "Random facts and images of space",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

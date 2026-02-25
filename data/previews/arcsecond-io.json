@@ -1,0 +1,21 @@
+{
+  "id": "arcsecond-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "arcsecond.io",
+    "description": "Multiple astronomy data sources",
+    "category": "Science & Math",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "arcsecond.io",
+    "subtitle": "Multiple astronomy data sources",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

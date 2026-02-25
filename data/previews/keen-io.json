@@ -1,0 +1,21 @@
+{
+  "id": "keen-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Keen IO",
+    "description": "Data Analytics",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Keen IO",
+    "subtitle": "Data Analytics",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

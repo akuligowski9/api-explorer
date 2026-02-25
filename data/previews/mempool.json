@@ -1,0 +1,21 @@
+{
+  "id": "mempool",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mempool",
+    "description": "Bitcoin API Service focusing on the transaction fee",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Mempool",
+    "subtitle": "Bitcoin API Service focusing on the transaction fee",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

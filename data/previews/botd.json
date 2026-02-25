@@ -1,0 +1,21 @@
+{
+  "id": "botd",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Botd",
+    "description": "Botd is a browser library for JavaScript bot detection",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Botd",
+    "subtitle": "Botd is a browser library for JavaScript bot detection",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

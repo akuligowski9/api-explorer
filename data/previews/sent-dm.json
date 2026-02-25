@@ -1,0 +1,21 @@
+{
+  "id": "sent-dm",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sent.dm",
+    "description": "Sent is a unified API for messaging across SMS and apps\nlike WhatsApp",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Sent.dm",
+    "subtitle": "Sent is a unified API for messaging across SMS and apps…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

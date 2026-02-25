@@ -1,0 +1,21 @@
+{
+  "id": "ig",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IG",
+    "description": "Spreadbetting and CFD Market Data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IG",
+    "subtitle": "Spreadbetting and CFD Market Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

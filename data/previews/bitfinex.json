@@ -1,0 +1,21 @@
+{
+  "id": "bitfinex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bitfinex",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bitfinex",
+    "subtitle": "Cryptocurrency Trading Platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

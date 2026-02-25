@@ -1,0 +1,21 @@
+{
+  "id": "geokeo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geokeo",
+    "description": "Geokeo geocoding service- with 2500 free api requests daily",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Geokeo",
+    "subtitle": "Geokeo geocoding service- with 2500 free api requests daily",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

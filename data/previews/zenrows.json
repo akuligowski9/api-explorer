@@ -1,0 +1,21 @@
+{
+  "id": "zenrows",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ZenRows",
+    "description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ZenRows",
+    "subtitle": "Web Scraping API that bypasses anti-bot solutions while…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

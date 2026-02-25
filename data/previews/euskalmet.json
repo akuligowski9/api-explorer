@@ -1,0 +1,21 @@
+{
+  "id": "euskalmet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Euskalmet",
+    "description": "Meteorological data of the Basque Country",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Euskalmet",
+    "subtitle": "Meteorological data of the Basque Country",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

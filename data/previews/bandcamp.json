@@ -1,0 +1,21 @@
+{
+  "id": "bandcamp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bandcamp",
+    "description": "API of Music store Bandcamp",
+    "category": "Music",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bandcamp",
+    "subtitle": "API of Music store Bandcamp",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

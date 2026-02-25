@@ -1,0 +1,21 @@
+{
+  "id": "rwanda-locations",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Rwanda Locations",
+    "description": "Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Rwanda Locations",
+    "subtitle": "Rwanda Provinces, Districts, Cities, Capital City, Sector,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

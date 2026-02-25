@@ -1,0 +1,21 @@
+{
+  "id": "binance",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Binance",
+    "description": "Exchange for Trading Cryptocurrencies based in China",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Binance",
+    "subtitle": "Exchange for Trading Cryptocurrencies based in China",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

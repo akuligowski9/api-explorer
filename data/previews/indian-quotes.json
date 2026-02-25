@@ -1,0 +1,21 @@
+{
+  "id": "indian-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Indian Quotes",
+    "description": "Curated quotes from India's most successful entrepreneurs",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Indian Quotes",
+    "subtitle": "Curated quotes from India's most successful entrepreneurs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "openuv",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenUV",
+    "description": "Real-time UV Index Forecast",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenUV",
+    "subtitle": "Real-time UV Index Forecast",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

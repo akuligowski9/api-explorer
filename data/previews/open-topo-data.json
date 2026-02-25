@@ -1,0 +1,21 @@
+{
+  "id": "open-topo-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Topo Data",
+    "description": "Elevation and ocean depth for a latitude and longitude",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Open Topo Data",
+    "subtitle": "Elevation and ocean depth for a latitude and longitude",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

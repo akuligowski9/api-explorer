@@ -1,0 +1,21 @@
+{
+  "id": "city-gdynia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Gdynia",
+    "description": "Gdynia (PL) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, Gdynia",
+    "subtitle": "Gdynia (PL) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

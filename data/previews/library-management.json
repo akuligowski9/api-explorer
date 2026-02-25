@@ -1,0 +1,21 @@
+{
+  "id": "library-management",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Library Management",
+    "description": "Manage users, books, authors, loans and reviews",
+    "category": "Books",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Library Management",
+    "subtitle": "Manage users, books, authors, loans and reviews",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

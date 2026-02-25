@@ -1,0 +1,21 @@
+{
+  "id": "web-scraping-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Web Scraping API",
+    "description": "Extract structured data from any public URL",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Web Scraping API",
+    "subtitle": "Extract structured data from any public URL",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

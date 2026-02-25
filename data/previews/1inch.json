@@ -1,0 +1,21 @@
+{
+  "id": "1inch",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "1inch",
+    "description": "API for querying decentralize exchange",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "1inch",
+    "subtitle": "API for querying decentralize exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "barter-vg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Barter.VG",
+    "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Barter.VG",
+    "subtitle": "Provides information about Game, DLC, Bundles, Giveaways,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

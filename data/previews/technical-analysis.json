@@ -1,0 +1,21 @@
+{
+  "id": "technical-analysis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Technical Analysis",
+    "description": "Cryptocurrency prices and technical analysis",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Technical Analysis",
+    "subtitle": "Cryptocurrency prices and technical analysis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

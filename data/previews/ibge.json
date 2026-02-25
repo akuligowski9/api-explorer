@@ -1,0 +1,21 @@
+{
+  "id": "ibge",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IBGE",
+    "description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IBGE",
+    "subtitle": "Aggregate services of IBGE (Brazilian Institute of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

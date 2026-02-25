@@ -1,0 +1,21 @@
+{
+  "id": "ibm-text-to-speech",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IBM Text to Speech",
+    "description": "Convert text to speech",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "IBM Text to Speech",
+    "subtitle": "Convert text to speech",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

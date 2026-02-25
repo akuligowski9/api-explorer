@@ -1,0 +1,21 @@
+{
+  "id": "dribbble",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dribbble",
+    "description": "Discover the world’s top designers & creatives",
+    "category": "Art & Design",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dribbble",
+    "subtitle": "Discover the world’s top designers & creatives",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

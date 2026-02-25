@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-chicago-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Chicago, US",
+    "description": "Chicago Transit Authority (CTA)",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Chicago, US",
+    "subtitle": "Chicago Transit Authority (CTA)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

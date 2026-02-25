@@ -1,0 +1,21 @@
+{
+  "id": "clockify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Clockify",
+    "description": "Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Clockify",
+    "subtitle": "Clockify's REST-based API can be used to push/pull data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

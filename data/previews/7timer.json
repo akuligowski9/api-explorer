@@ -1,0 +1,21 @@
+{
+  "id": "7timer",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "7Timer!",
+    "description": "Weather, especially for Astroweather",
+    "category": "Weather",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "7Timer!",
+    "subtitle": "Weather, especially for Astroweather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

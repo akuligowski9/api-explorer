@@ -1,0 +1,21 @@
+{
+  "id": "screenshotbase",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Screenshotbase",
+    "description": "Screenshot API, 1000 free requests per month",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Screenshotbase",
+    "subtitle": "Screenshot API, 1000 free requests per month",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

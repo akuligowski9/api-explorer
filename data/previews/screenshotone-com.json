@@ -1,0 +1,21 @@
+{
+  "id": "screenshotone-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScreenshotOne.com",
+    "description": "Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or PDF with a simple screenshot API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ScreenshotOne.com",
+    "subtitle": "Convert URLs, HTML, or Markdown into PNG, JPEG, WebP, or…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

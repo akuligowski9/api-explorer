@@ -1,0 +1,21 @@
+{
+  "id": "4chan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "4chan",
+    "description": "Simple image-based bulletin board dedicated to a variety of topics",
+    "category": "Social",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "4chan",
+    "subtitle": "Simple image-based bulletin board dedicated to a variety of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

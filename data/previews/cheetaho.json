@@ -1,0 +1,21 @@
+{
+  "id": "cheetaho",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CheetahO",
+    "description": "Photo optimization and resize",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CheetahO",
+    "subtitle": "Photo optimization and resize",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

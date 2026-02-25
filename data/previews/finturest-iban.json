@@ -1,0 +1,21 @@
+{
+  "id": "finturest-iban",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Finturest IBAN",
+    "description": "Fast, accurate IBAN validation and generation",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Finturest IBAN",
+    "subtitle": "Fast, accurate IBAN validation and generation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

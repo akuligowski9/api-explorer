@@ -1,0 +1,21 @@
+{
+  "id": "geodb-cities",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoDB Cities",
+    "description": "Get global city, region, and country data",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeoDB Cities",
+    "subtitle": "Get global city, region, and country data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

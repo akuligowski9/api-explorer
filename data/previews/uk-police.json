@@ -1,0 +1,21 @@
+{
+  "id": "uk-police",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "UK Police",
+    "description": "UK Police data",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "UK Police",
+    "subtitle": "UK Police data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

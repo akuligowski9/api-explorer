@@ -1,0 +1,21 @@
+{
+  "id": "materials-platform-for-data-science",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Materials Platform for Data Science",
+    "description": "Curated experimental data for materials science",
+    "category": "Science & Math",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Materials Platform for Data Science",
+    "subtitle": "Curated experimental data for materials science",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

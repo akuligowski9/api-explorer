@@ -1,0 +1,21 @@
+{
+  "id": "wordsapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WordsAPI",
+    "description": "An API for the English Language. Find definitions, related words, and more",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WordsAPI",
+    "subtitle": "An API for the English Language. Find definitions, related…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "shodan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Shodan",
+    "description": "Search engine for Internet connected devices",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Shodan",
+    "subtitle": "Search engine for Internet connected devices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

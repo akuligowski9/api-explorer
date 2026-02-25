@@ -1,0 +1,21 @@
+{
+  "id": "tipo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TIPO",
+    "description": "Taiwan patent search system api",
+    "category": "Patent",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TIPO",
+    "subtitle": "Taiwan patent search system api",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hackerone",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HackerOne",
+    "description": "The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "HackerOne",
+    "subtitle": "The industry’s first hacker API that helps increase…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

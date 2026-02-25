@@ -1,0 +1,21 @@
+{
+  "id": "gateio",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gateio",
+    "description": "API provides spot, margin and futures trading operations",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gateio",
+    "subtitle": "API provides spot, margin and futures trading operations",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

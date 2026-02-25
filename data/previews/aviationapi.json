@@ -1,0 +1,21 @@
+{
+  "id": "aviationapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AviationAPI",
+    "description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "AviationAPI",
+    "subtitle": "FAA Aeronautical Charts and Publications, Airport…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wolne-lektury",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wolne Lektury",
+    "description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+    "category": "Books",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wolne Lektury",
+    "subtitle": "API for obtaining information about e-books available on…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

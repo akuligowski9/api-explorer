@@ -1,0 +1,21 @@
+{
+  "id": "brave-search-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brave Search API",
+    "description": "An index of billions of pages in a single call",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Brave Search API",
+    "subtitle": "An index of billions of pages in a single call",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

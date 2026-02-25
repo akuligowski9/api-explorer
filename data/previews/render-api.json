@@ -1,0 +1,21 @@
+{
+  "id": "render-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Render API",
+    "description": "Lets you programmatically manage your Render services (web apps, APIs, and static sites) including deployments, scaling, and configuration",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Render API",
+    "subtitle": "Lets you programmatically manage your Render services (web…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

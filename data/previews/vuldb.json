@@ -1,0 +1,21 @@
+{
+  "id": "vuldb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "VulDB",
+    "description": "VulDB API allows to initiate queries for one or more items along with transactional bots",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "VulDB",
+    "subtitle": "VulDB API allows to initiate queries for one or more items…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vadivelu-http-codes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Vadivelu HTTP Codes",
+    "description": "On demand HTTP Codes with images",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Vadivelu HTTP Codes",
+    "subtitle": "On demand HTTP Codes with images",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

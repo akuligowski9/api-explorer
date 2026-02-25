@@ -1,0 +1,21 @@
+{
+  "id": "geocode-xyz",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geocode.xyz",
+    "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Geocode.xyz",
+    "subtitle": "Provides worldwide forward/reverse geocoding, batch…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

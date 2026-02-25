@@ -1,0 +1,21 @@
+{
+  "id": "kraken",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kraken",
+    "description": "Cryptocurrencies Exchange",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Kraken",
+    "subtitle": "Cryptocurrencies Exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

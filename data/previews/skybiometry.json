@@ -1,0 +1,21 @@
+{
+  "id": "skybiometry",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SkyBiometry",
+    "description": "Face Detection, Face Recognition and Face Grouping",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SkyBiometry",
+    "subtitle": "Face Detection, Face Recognition and Face Grouping",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

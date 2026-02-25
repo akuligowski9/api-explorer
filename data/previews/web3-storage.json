@@ -1,0 +1,21 @@
+{
+  "id": "web3-storage",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Web3 Storage",
+    "description": "File Sharing and Storage for Free with 1TB Space",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Web3 Storage",
+    "subtitle": "File Sharing and Storage for Free with 1TB Space",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

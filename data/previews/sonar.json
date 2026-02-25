@@ -1,0 +1,21 @@
+{
+  "id": "sonar",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sonar",
+    "description": "Project Sonar DNS Enumeration API",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Sonar",
+    "subtitle": "Project Sonar DNS Enumeration API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

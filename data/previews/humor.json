@@ -1,0 +1,21 @@
+{
+  "id": "humor",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Humor",
+    "description": "Humor, Jokes, and Memes",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Humor",
+    "subtitle": "Humor, Jokes, and Memes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

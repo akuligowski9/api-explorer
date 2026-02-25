@@ -1,0 +1,21 @@
+{
+  "id": "eight-ball",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Eight Ball",
+    "description": "Fortune-telling API with random, sentiment-biased, and multi-language responses",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Eight Ball",
+    "subtitle": "Fortune-telling API with random, sentiment-biased, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

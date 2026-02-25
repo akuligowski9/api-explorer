@@ -1,0 +1,21 @@
+{
+  "id": "hackernews-node",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HackerNews Node",
+    "description": "Api to get related articles about Node.js in Hacker News",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "HackerNews Node",
+    "subtitle": "Api to get related articles about Node.js in Hacker News",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

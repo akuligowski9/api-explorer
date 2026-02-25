@@ -1,0 +1,21 @@
+{
+  "id": "photoroom",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PhotoRoom",
+    "description": "Remove background from images",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PhotoRoom",
+    "subtitle": "Remove background from images",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

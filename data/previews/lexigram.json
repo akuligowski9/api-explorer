@@ -1,0 +1,21 @@
+{
+  "id": "lexigram",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lexigram",
+    "description": "NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology",
+    "category": "Health",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Lexigram",
+    "subtitle": "NLP that extracts mentions of clinical concepts from text,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

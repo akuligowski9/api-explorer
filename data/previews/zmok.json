@@ -1,0 +1,21 @@
+{
+  "id": "zmok",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ZMOK",
+    "description": "Ethereum JSON RPC API and Web3 provider",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ZMOK",
+    "subtitle": "Ethereum JSON RPC API and Web3 provider",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

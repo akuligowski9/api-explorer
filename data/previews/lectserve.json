@@ -1,0 +1,21 @@
+{
+  "id": "lectserve",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LectServe",
+    "description": "Protestant liturgical calendar",
+    "category": "Calendar",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "LectServe",
+    "subtitle": "Protestant liturgical calendar",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

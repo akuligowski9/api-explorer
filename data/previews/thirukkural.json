@@ -1,0 +1,21 @@
+{
+  "id": "thirukkural",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Thirukkural",
+    "description": "1330 Thirukkural poems and explanation in Tamil and English",
+    "category": "Books",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Thirukkural",
+    "subtitle": "1330 Thirukkural poems and explanation in Tamil and English",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

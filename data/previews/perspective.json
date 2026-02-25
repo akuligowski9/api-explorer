@@ -1,0 +1,21 @@
+{
+  "id": "perspective",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Perspective",
+    "description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Perspective",
+    "subtitle": "NLP API to return probability that if text is toxic,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

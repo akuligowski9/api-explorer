@@ -1,0 +1,21 @@
+{
+  "id": "roboflow-universe",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Roboflow Universe",
+    "description": "Pre-trained computer vision models",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Roboflow Universe",
+    "subtitle": "Pre-trained computer vision models",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

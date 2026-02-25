@@ -1,0 +1,21 @@
+{
+  "id": "mapbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mapbox",
+    "description": "Create/customize beautiful digital maps",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mapbox",
+    "subtitle": "Create/customize beautiful digital maps",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

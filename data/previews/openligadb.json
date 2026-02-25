@@ -1,0 +1,21 @@
+{
+  "id": "openligadb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenLigaDB",
+    "description": "Crowd sourced sports league results",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "OpenLigaDB",
+    "subtitle": "Crowd sourced sports league results",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "open-government-czech-republic",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Czech Republic",
+    "description": "Czech Republic Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Czech Republic",
+    "subtitle": "Czech Republic Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

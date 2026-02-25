@@ -1,0 +1,21 @@
+{
+  "id": "bing-maps",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bing Maps",
+    "description": "Create/customize digital maps based on Bing Maps data",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bing Maps",
+    "subtitle": "Create/customize digital maps based on Bing Maps data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

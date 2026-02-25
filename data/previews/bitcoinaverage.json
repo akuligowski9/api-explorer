@@ -1,0 +1,21 @@
+{
+  "id": "bitcoinaverage",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BitcoinAverage",
+    "description": "Digital Asset Price Data for the blockchain industry",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "BitcoinAverage",
+    "subtitle": "Digital Asset Price Data for the blockchain industry",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

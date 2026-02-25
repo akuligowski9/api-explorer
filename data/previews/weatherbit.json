@@ -1,0 +1,21 @@
+{
+  "id": "weatherbit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Weatherbit",
+    "description": "Weather",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Weatherbit",
+    "subtitle": "Weather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

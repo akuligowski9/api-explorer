@@ -1,0 +1,21 @@
+{
+  "id": "ebird",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "eBird",
+    "description": "Retrieve recent or notable birding observations within a region",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "eBird",
+    "subtitle": "Retrieve recent or notable birding observations within a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

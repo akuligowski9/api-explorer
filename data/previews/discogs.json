@@ -1,0 +1,21 @@
+{
+  "id": "discogs",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Discogs",
+    "description": "Music",
+    "category": "Music",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Discogs",
+    "subtitle": "Music",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

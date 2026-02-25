@@ -1,0 +1,21 @@
+{
+  "id": "kroki",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kroki",
+    "description": "Creates diagrams from textual descriptions",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Kroki",
+    "subtitle": "Creates diagrams from textual descriptions",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

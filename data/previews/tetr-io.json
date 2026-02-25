@@ -1,0 +1,21 @@
+{
+  "id": "tetr-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TETR.IO",
+    "description": "TETR.IO Tetra Channel API",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TETR.IO",
+    "subtitle": "TETR.IO Tetra Channel API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

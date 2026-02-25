@@ -1,0 +1,21 @@
+{
+  "id": "compress-video-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Compress Video API",
+    "description": "Compress video files through an asynchronous workflow, a practical API for large-scale or long-duration videos / tasks",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Compress Video API",
+    "subtitle": "Compress video files through an asynchronous workflow, a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

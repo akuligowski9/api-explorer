@@ -1,0 +1,21 @@
+{
+  "id": "prexview",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PrexView",
+    "description": "Data from XML or JSON to PDF, HTML or Image",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PrexView",
+    "subtitle": "Data from XML or JSON to PDF, HTML or Image",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

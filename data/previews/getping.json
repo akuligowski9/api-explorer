@@ -1,0 +1,21 @@
+{
+  "id": "getping",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GETPing",
+    "description": "Trigger an email notification with a simple GET request",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GETPing",
+    "subtitle": "Trigger an email notification with a simple GET request",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

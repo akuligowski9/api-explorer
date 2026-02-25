@@ -1,0 +1,21 @@
+{
+  "id": "carapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CarAPI",
+    "description": "The developer friendly vehicle API. Make, model, trims and more via a RESTFul API",
+    "category": "Vehicle",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "CarAPI",
+    "subtitle": "The developer friendly vehicle API. Make, model, trims and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

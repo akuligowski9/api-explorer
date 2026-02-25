@@ -1,0 +1,21 @@
+{
+  "id": "hg-weather",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HG Weather",
+    "description": "Provides weather forecast data for cities in Brazil",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "HG Weather",
+    "subtitle": "Provides weather forecast data for cities in Brazil",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

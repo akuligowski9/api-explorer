@@ -1,0 +1,21 @@
+{
+  "id": "mail-gw",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "mail.gw",
+    "description": "10 Minute Mail",
+    "category": "Email",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "mail.gw",
+    "subtitle": "10 Minute Mail",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

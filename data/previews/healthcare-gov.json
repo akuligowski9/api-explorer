@@ -1,0 +1,21 @@
+{
+  "id": "healthcare-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Healthcare.gov",
+    "description": "Educational content about the US Health Insurance Marketplace",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Healthcare.gov",
+    "subtitle": "Educational content about the US Health Insurance…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

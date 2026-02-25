@@ -1,0 +1,21 @@
+{
+  "id": "airtable",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Airtable",
+    "description": "Integrate with Airtable",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Airtable",
+    "subtitle": "Integrate with Airtable",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

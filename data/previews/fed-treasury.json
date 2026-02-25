@@ -1,0 +1,21 @@
+{
+  "id": "fed-treasury",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Fed Treasury",
+    "description": "U.S. Department of the Treasury Data",
+    "category": "Finance",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Fed Treasury",
+    "subtitle": "U.S. Department of the Treasury Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metadapi-zip-code",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Metadapi Zip Code",
+    "description": "Enhanced United States zip code information. Census, IRS, demographics, radius, distances and more",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Metadapi Zip Code",
+    "subtitle": "Enhanced United States zip code information. Census, IRS,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

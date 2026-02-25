@@ -1,0 +1,21 @@
+{
+  "id": "watchdata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Watchdata",
+    "description": "Provide simple and reliable API access to Ethereum blockchain",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Watchdata",
+    "subtitle": "Provide simple and reliable API access to Ethereum…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

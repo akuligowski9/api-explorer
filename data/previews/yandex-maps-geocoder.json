@@ -1,0 +1,21 @@
+{
+  "id": "yandex-maps-geocoder",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Yandex.Maps Geocoder",
+    "description": "Use geocoding to get an object's coordinates from its address",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Yandex.Maps Geocoder",
+    "subtitle": "Use geocoding to get an object's coordinates from its…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

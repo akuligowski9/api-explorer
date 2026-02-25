@@ -1,0 +1,21 @@
+{
+  "id": "redash",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Redash",
+    "description": "Access your queries and dashboards on Redash",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Redash",
+    "subtitle": "Access your queries and dashboards on Redash",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

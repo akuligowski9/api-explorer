@@ -1,0 +1,21 @@
+{
+  "id": "academic-email-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Academic Email API",
+    "description": "This API allows you to verify whether an email belongs to a recognized educational institution",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Academic Email API",
+    "subtitle": "This API allows you to verify whether an email belongs to a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

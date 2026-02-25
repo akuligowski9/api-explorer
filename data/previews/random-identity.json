@@ -1,0 +1,21 @@
+{
+  "id": "random-identity",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Random Identity",
+    "description": "Random Identity Generator with custom response format",
+    "category": "Test Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Random Identity",
+    "subtitle": "Random Identity Generator with custom response format",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

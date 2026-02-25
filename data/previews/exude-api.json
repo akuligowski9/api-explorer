@@ -1,0 +1,21 @@
+{
+  "id": "exude-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "EXUDE-API",
+    "description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
+    "category": "Machine Learning",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "EXUDE-API",
+    "subtitle": "Used for the primary ways for filtering the stopping,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nlp-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NLP Cloud",
+    "description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NLP Cloud",
+    "subtitle": "NLP API using spaCy and transformers for NER, sentiments,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

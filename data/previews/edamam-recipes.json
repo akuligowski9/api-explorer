@@ -1,0 +1,21 @@
+{
+  "id": "edamam-recipes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Edamam recipes",
+    "description": "Recipe Search",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Edamam recipes",
+    "subtitle": "Recipe Search",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

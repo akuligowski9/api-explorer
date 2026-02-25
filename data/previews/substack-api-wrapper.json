@@ -1,0 +1,21 @@
+{
+  "id": "substack-api-wrapper",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Substack API Wrapper",
+    "description": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts",
+    "category": "News",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Substack API Wrapper",
+    "subtitle": "Substack's newsletter platform now has an API wrapper, for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "codex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Codex",
+    "description": "Online Compiler for Various Languages",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Codex",
+    "subtitle": "Online Compiler for Various Languages",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

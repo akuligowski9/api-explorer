@@ -1,0 +1,21 @@
+{
+  "id": "open-data-nhs-scotland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Data NHS Scotland",
+    "description": "Medical reference data and statistics by Public Health Scotland",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Data NHS Scotland",
+    "subtitle": "Medical reference data and statistics by Public Health…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

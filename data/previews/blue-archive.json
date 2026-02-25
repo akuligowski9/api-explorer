@@ -1,0 +1,21 @@
+{
+  "id": "blue-archive",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Blue Archive",
+    "description": "Provides Blue Archive characters information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Blue Archive",
+    "subtitle": "Provides Blue Archive characters information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rules-of-acquisition",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Rules of Acquisition",
+    "description": "Ferengi Rules of Acquisition from Star Trek with episode references",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Rules of Acquisition",
+    "subtitle": "Ferengi Rules of Acquisition from Star Trek with episode…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

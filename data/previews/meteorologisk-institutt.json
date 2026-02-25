@@ -1,0 +1,21 @@
+{
+  "id": "meteorologisk-institutt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Meteorologisk Institutt",
+    "description": "Weather and climate data",
+    "category": "Weather",
+    "auth": "User-Agent",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Meteorologisk Institutt",
+    "subtitle": "Weather and climate data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

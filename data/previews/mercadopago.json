@@ -1,0 +1,21 @@
+{
+  "id": "mercadopago",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MercadoPago",
+    "description": "Mercado Pago API reference - all the information you need to develop your integrations",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MercadoPago",
+    "subtitle": "Mercado Pago API reference - all the information you need…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

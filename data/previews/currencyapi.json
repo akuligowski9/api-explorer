@@ -1,0 +1,21 @@
+{
+  "id": "currencyapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Currencyapi",
+    "description": "Currency Conversion API and cryptocurrency prices, updated minutely",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Currencyapi",
+    "subtitle": "Currency Conversion API and cryptocurrency prices, updated…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

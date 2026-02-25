@@ -1,0 +1,21 @@
+{
+  "id": "bugcrowd",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bugcrowd",
+    "description": "Bugcrowd API for interacting and tracking the reported issues programmatically",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bugcrowd",
+    "subtitle": "Bugcrowd API for interacting and tracking the reported…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

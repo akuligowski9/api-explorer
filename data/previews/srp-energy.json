@@ -1,0 +1,21 @@
+{
+  "id": "srp-energy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Srp Energy",
+    "description": "Hourly usage energy report for Srp customers",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Srp Energy",
+    "subtitle": "Hourly usage energy report for Srp customers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

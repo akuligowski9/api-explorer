@@ -1,0 +1,21 @@
+{
+  "id": "sheet2api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sheet2API",
+    "description": "Easy Google Sheets and Excel Online API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sheet2API",
+    "subtitle": "Easy Google Sheets and Excel Online API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

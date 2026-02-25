@@ -1,0 +1,21 @@
+{
+  "id": "harvard-art-museums",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Harvard Art Museums",
+    "description": "Art",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Harvard Art Museums",
+    "subtitle": "Art",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

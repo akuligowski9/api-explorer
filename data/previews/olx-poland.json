@@ -1,0 +1,21 @@
+{
+  "id": "olx-poland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OLX Poland",
+    "description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OLX Poland",
+    "subtitle": "Integrate with local sites by posting, managing adverts and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gnews",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GNews",
+    "description": "Search for news from various sources",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GNews",
+    "subtitle": "Search for news from various sources",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

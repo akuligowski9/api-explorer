@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-atlanta-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Atlanta, US",
+    "description": "Marta",
+    "category": "Transportation",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Atlanta, US",
+    "subtitle": "Marta",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

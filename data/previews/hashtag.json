@@ -1,0 +1,21 @@
+{
+  "id": "hashtag",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hashtag",
+    "description": "Generate Hashtags using a keyword or an Image",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hashtag",
+    "subtitle": "Generate Hashtags using a keyword or an Image",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

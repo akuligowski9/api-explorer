@@ -1,0 +1,21 @@
+{
+  "id": "statically",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Statically",
+    "description": "A free CDN for developers",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Statically",
+    "subtitle": "A free CDN for developers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

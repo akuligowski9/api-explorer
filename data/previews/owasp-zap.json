@@ -1,0 +1,21 @@
+{
+  "id": "owasp-zap",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OWASP ZAP",
+    "description": "Automated security testing API for web apps",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OWASP ZAP",
+    "subtitle": "Automated security testing API for web apps",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

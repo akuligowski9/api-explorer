@@ -1,0 +1,21 @@
+{
+  "id": "fxfeed-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FxFeed.io",
+    "description": "Foreign exchange rates, currency conversion and time series data",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "FxFeed.io",
+    "subtitle": "Foreign exchange rates, currency conversion and time series…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

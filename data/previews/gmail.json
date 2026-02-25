@@ -1,0 +1,21 @@
+{
+  "id": "gmail",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gmail",
+    "description": "Flexible, RESTful access to the user's inbox",
+    "category": "Business",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gmail",
+    "subtitle": "Flexible, RESTful access to the user's inbox",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zuplo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Zuplo",
+    "description": "API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Zuplo",
+    "subtitle": "API platform for Development, Deployment, and Docs - add…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nekosia-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Nekosia API",
+    "description": "Anime API with cute random images. Dominated colors & compressed images & avoiding duplicates.",
+    "category": "Anime",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Nekosia API",
+    "subtitle": "Anime API with cute random images. Dominated colors &…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

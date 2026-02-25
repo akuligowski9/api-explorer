@@ -1,0 +1,21 @@
+{
+  "id": "bitquery",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bitquery",
+    "description": "Onchain GraphQL APIs & DEX APIs",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Bitquery",
+    "subtitle": "Onchain GraphQL APIs & DEX APIs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sendinblue",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sendinblue",
+    "description": "A service that provides solutions relating to marketing and/or transactional email and/or SMS",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sendinblue",
+    "subtitle": "A service that provides solutions relating to marketing…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

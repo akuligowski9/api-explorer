@@ -1,0 +1,21 @@
+{
+  "id": "yelp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Yelp",
+    "description": "Find Local Business",
+    "category": "Open Data",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Yelp",
+    "subtitle": "Find Local Business",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

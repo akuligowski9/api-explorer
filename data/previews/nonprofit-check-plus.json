@@ -1,0 +1,21 @@
+{
+  "id": "nonprofit-check-plus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Nonprofit Check Plus",
+    "description": "Verify charities via EIN using IRS, PUB78, BMF & OFAC data for compliance and legitimacy",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Nonprofit Check Plus",
+    "subtitle": "Verify charities via EIN using IRS, PUB78, BMF & OFAC data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

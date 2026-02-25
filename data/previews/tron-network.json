@@ -1,0 +1,21 @@
+{
+  "id": "tron-network",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tron Network",
+    "description": "Provides various endpoints to interact with the Tron Blockchain",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tron Network",
+    "subtitle": "Provides various endpoints to interact with the Tron…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

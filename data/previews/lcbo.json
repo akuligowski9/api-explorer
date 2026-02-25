@@ -1,0 +1,21 @@
+{
+  "id": "lcbo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LCBO",
+    "description": "Alcohol",
+    "category": "Food & Drink",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "LCBO",
+    "subtitle": "Alcohol",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

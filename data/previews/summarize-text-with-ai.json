@@ -1,0 +1,21 @@
+{
+  "id": "summarize-text-with-ai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Summarize Text with AI",
+    "description": "This API generates customizable summaries of text and web pages using AI",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Summarize Text with AI",
+    "subtitle": "This API generates customizable summaries of text and web…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

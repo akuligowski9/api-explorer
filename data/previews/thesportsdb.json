@@ -1,0 +1,21 @@
+{
+  "id": "thesportsdb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TheSportsDB",
+    "description": "Crowd-Sourced Sports Data and Artwork",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "TheSportsDB",
+    "subtitle": "Crowd-Sourced Sports Data and Artwork",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "brainshop-ai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brainshop.ai",
+    "description": "Make A Free A.I Brain",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Brainshop.ai",
+    "subtitle": "Make A Free A.I Brain",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

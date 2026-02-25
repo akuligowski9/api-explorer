@@ -1,0 +1,21 @@
+{
+  "id": "woocommerce",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WooCommerce",
+    "description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WooCommerce",
+    "subtitle": "WooCommerce REST APIS to create, read, update, and delete…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

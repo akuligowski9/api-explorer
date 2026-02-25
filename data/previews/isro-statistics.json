@@ -1,0 +1,21 @@
+{
+  "id": "isro-statistics",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ISRO Statistics",
+    "description": "ISRO Launches and Spacecrafts details",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ISRO Statistics",
+    "subtitle": "ISRO Launches and Spacecrafts details",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

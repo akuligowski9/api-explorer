@@ -1,0 +1,21 @@
+{
+  "id": "virustotal",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "VirusTotal",
+    "description": "VirusTotal File/URL Analysis",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "VirusTotal",
+    "subtitle": "VirusTotal File/URL Analysis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

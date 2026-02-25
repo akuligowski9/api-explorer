@@ -1,0 +1,21 @@
+{
+  "id": "url-to-markdown",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "URL to Markdown",
+    "description": "Convert web page to MarkDown",
+    "category": "Documents & Productivity",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "URL to Markdown",
+    "subtitle": "Convert web page to MarkDown",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

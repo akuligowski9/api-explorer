@@ -1,0 +1,21 @@
+{
+  "id": "newsx",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NewsX",
+    "description": "Get or Search Latest Breaking News with ML Powered Summaries 🤖",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NewsX",
+    "subtitle": "Get or Search Latest Breaking News with ML Powered…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bclaws",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BCLaws",
+    "description": "Access to the laws of British Columbia",
+    "category": "Government",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "BCLaws",
+    "subtitle": "Access to the laws of British Columbia",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

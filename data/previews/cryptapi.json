@@ -1,0 +1,21 @@
+{
+  "id": "cryptapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CryptAPI",
+    "description": "Cryptocurrency Payment Processor",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CryptAPI",
+    "subtitle": "Cryptocurrency Payment Processor",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "safe-text",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Safe text",
+    "description": "Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results.",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Safe text",
+    "subtitle": "Clean short and long texts. It is probably world most…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "finfeedapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FinFeedAPI",
+    "description": "Developer-first market data API",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FinFeedAPI",
+    "subtitle": "Developer-first market data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

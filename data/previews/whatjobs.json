@@ -1,0 +1,21 @@
+{
+  "id": "whatjobs",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WhatJobs",
+    "description": "Job search engine",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WhatJobs",
+    "subtitle": "Job search engine",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

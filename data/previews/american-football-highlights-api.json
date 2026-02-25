@@ -1,0 +1,21 @@
+{
+  "id": "american-football-highlights-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "American Football Highlights API",
+    "description": "Real time American Football (NFL/NCAA) highlights",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "American Football Highlights API",
+    "subtitle": "Real time American Football (NFL/NCAA) highlights",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

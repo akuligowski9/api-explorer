@@ -1,0 +1,21 @@
+{
+  "id": "the-report-of-the-week",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Report of the Week",
+    "description": "Food & Drink Reviews",
+    "category": "Food & Drink",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Report of the Week",
+    "subtitle": "Food & Drink Reviews",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

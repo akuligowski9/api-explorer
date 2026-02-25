@@ -1,0 +1,21 @@
+{
+  "id": "argentofx",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ArgentoFX",
+    "description": "Real-time foreign exchange rates for Argentina",
+    "category": "Finance",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ArgentoFX",
+    "subtitle": "Real-time foreign exchange rates for Argentina",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-switzerland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Switzerland",
+    "description": "Official Swiss Public Transport Open Data",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Switzerland",
+    "subtitle": "Official Swiss Public Transport Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tebex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tebex",
+    "description": "Tebex API for information about game purchases",
+    "category": "Games & Comics",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Tebex",
+    "subtitle": "Tebex API for information about game purchases",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

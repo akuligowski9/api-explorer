@@ -1,0 +1,21 @@
+{
+  "id": "country",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Country",
+    "description": "Get your visitor's country from their IP",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Country",
+    "subtitle": "Get your visitor's country from their IP",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

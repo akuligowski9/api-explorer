@@ -1,0 +1,21 @@
+{
+  "id": "open-government-new-south-wales",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, New South Wales",
+    "description": "New South Wales Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, New South Wales",
+    "subtitle": "New South Wales Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

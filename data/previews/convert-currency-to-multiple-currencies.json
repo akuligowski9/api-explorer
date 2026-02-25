@@ -1,0 +1,21 @@
+{
+  "id": "convert-currency-to-multiple-currencies",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert Currency to Multiple Currencies",
+    "description": "Convert currencies from a source currency to multiple target currencies.",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert Currency to Multiple Currencies",
+    "subtitle": "Convert currencies from a source currency to multiple…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

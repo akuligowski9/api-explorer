@@ -1,0 +1,21 @@
+{
+  "id": "game-brain",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Game Brain",
+    "description": "Search and discover video games with AI",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Game Brain",
+    "subtitle": "Search and discover video games with AI",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

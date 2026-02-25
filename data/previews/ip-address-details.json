@@ -1,0 +1,21 @@
+{
+  "id": "ip-address-details",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IP Address Details",
+    "description": "Find geolocation with ip address",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IP Address Details",
+    "subtitle": "Find geolocation with ip address",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

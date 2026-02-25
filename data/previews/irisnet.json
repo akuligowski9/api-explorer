@@ -1,0 +1,21 @@
+{
+  "id": "irisnet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Irisnet",
+    "description": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Irisnet",
+    "subtitle": "Realtime content moderation API that blocks or blurs…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

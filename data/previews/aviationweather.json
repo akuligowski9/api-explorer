@@ -1,0 +1,21 @@
+{
+  "id": "aviationweather",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AviationWeather",
+    "description": "NOAA aviation weather forecasts and observations",
+    "category": "Weather",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "AviationWeather",
+    "subtitle": "NOAA aviation weather forecasts and observations",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

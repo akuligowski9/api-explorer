@@ -1,0 +1,21 @@
+{
+  "id": "html2pdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Html2PDF",
+    "description": "HTML/URL to PDF",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Html2PDF",
+    "subtitle": "HTML/URL to PDF",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

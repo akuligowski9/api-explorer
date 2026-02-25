@@ -1,0 +1,21 @@
+{
+  "id": "meteoblue",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Meteoblue",
+    "description": "Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data.",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Meteoblue",
+    "subtitle": "Global weather data with 100+ weather variables, 14 days…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

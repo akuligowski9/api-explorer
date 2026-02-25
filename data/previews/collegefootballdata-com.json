@@ -1,0 +1,21 @@
+{
+  "id": "collegefootballdata-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CollegeFootballData.com",
+    "description": "Unofficial detailed American college football statistics, records, and results API",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CollegeFootballData.com",
+    "subtitle": "Unofficial detailed American college football statistics,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

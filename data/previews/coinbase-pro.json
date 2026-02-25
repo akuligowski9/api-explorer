@@ -1,0 +1,21 @@
+{
+  "id": "coinbase-pro",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinbase Pro",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coinbase Pro",
+    "subtitle": "Cryptocurrency Trading Platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

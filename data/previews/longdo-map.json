@@ -1,0 +1,21 @@
+{
+  "id": "longdo-map",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Longdo Map",
+    "description": "Interactive map with detailed places and information portal in Thailand",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Longdo Map",
+    "subtitle": "Interactive map with detailed places and information portal…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

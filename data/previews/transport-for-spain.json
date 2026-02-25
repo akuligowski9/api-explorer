@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-spain",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Spain",
+    "description": "Public trains of Spain",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Spain",
+    "subtitle": "Public trains of Spain",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

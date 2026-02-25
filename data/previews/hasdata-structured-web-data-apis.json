@@ -1,0 +1,21 @@
+{
+  "id": "hasdata-structured-web-data-apis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HasData: Structured Web Data APIs",
+    "description": "Real-time Google News, SERP, and Web Scraping APIs. Extract structured public data from any news outlet or search engine at scale without blocks",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "HasData: Structured Web Data APIs",
+    "subtitle": "Real-time Google News, SERP, and Web Scraping APIs. Extract…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

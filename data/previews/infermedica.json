@@ -1,0 +1,21 @@
+{
+  "id": "infermedica",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Infermedica",
+    "description": "NLP based symptom checker and patient triage API for health diagnosis from text",
+    "category": "Health",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Infermedica",
+    "subtitle": "NLP based symptom checker and patient triage API for health…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

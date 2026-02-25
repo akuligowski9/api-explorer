@@ -1,0 +1,21 @@
+{
+  "id": "buddy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Buddy",
+    "description": "The fastest continuous integration and continuous delivery platform",
+    "category": "Continuous Integration",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Buddy",
+    "subtitle": "The fastest continuous integration and continuous delivery…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

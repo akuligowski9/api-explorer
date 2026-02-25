@@ -1,0 +1,21 @@
+{
+  "id": "phphub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PHPhub",
+    "description": "PHP syntax checker",
+    "category": "Programming",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "PHPhub",
+    "subtitle": "PHP syntax checker",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

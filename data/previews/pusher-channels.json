@@ -1,0 +1,21 @@
+{
+  "id": "pusher-channels",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pusher Channels",
+    "description": "Realtime features",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pusher Channels",
+    "subtitle": "Realtime features",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

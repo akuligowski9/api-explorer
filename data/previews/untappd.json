@@ -1,0 +1,21 @@
+{
+  "id": "untappd",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Untappd",
+    "description": "Social beer sharing",
+    "category": "Food & Drink",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Untappd",
+    "subtitle": "Social beer sharing",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

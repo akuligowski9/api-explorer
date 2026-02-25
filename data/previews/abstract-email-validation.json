@@ -1,0 +1,21 @@
+{
+  "id": "abstract-email-validation",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Abstract Email Validation",
+    "description": "Validate email addresses for deliverability and spam",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Abstract Email Validation",
+    "subtitle": "Validate email addresses for deliverability and spam",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

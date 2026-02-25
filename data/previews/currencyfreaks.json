@@ -1,0 +1,21 @@
+{
+  "id": "currencyfreaks",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CurrencyFreaks",
+    "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CurrencyFreaks",
+    "subtitle": "Provides current and historical currency exchange rates…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

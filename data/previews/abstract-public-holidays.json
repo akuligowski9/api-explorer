@@ -1,0 +1,21 @@
+{
+  "id": "abstract-public-holidays",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Abstract Public Holidays",
+    "description": "Data on national, regional, and religious holidays via API",
+    "category": "Calendar",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Abstract Public Holidays",
+    "subtitle": "Data on national, regional, and religious holidays via API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

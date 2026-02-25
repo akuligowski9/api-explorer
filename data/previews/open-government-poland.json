@@ -1,0 +1,21 @@
+{
+  "id": "open-government-poland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Poland",
+    "description": "Poland Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Open Government, Poland",
+    "subtitle": "Poland Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lordicon",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lordicon",
+    "description": "Icons with predone Animations",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Lordicon",
+    "subtitle": "Icons with predone Animations",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "news",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "News",
+    "description": "Headlines currently published on a range of news sources and blogs",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "News",
+    "subtitle": "Headlines currently published on a range of news sources…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

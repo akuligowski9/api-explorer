@@ -1,0 +1,21 @@
+{
+  "id": "aftership",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Aftership",
+    "description": "API to update, manage and track shipment efficiently",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Aftership",
+    "subtitle": "API to update, manage and track shipment efficiently",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

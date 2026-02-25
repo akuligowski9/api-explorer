@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-finland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Finland",
+    "description": "Finnish transport API",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Finland",
+    "subtitle": "Finnish transport API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

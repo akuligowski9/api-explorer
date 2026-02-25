@@ -1,0 +1,21 @@
+{
+  "id": "gemini",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gemini",
+    "description": "Cryptocurrencies Exchange",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gemini",
+    "subtitle": "Cryptocurrencies Exchange",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

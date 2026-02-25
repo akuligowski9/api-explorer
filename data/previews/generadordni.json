@@ -1,0 +1,21 @@
+{
+  "id": "generadordni",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeneradorDNI",
+    "description": "Data generator API. Profiles, vehicles, banks and cards, etc",
+    "category": "Test Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeneradorDNI",
+    "subtitle": "Data generator API. Profiles, vehicles, banks and cards, etc",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

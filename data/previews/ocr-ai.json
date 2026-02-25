@@ -1,0 +1,21 @@
+{
+  "id": "ocr-ai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OCR AI",
+    "description": "Document validation API using OCR and AI. Automatically extracts data from documents  and compares it with user-provided data to verify consistency",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "OCR AI",
+    "subtitle": "Document validation API using OCR and AI. Automatically…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

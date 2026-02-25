@@ -1,0 +1,21 @@
+{
+  "id": "instatus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Instatus",
+    "description": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Instatus",
+    "subtitle": "Post to and update maintenance and incidents on your status…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

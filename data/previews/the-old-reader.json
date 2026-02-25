@@ -1,0 +1,21 @@
+{
+  "id": "the-old-reader",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Old Reader",
+    "description": "RSS reader",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Old Reader",
+    "subtitle": "RSS reader",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

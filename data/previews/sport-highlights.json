@@ -1,0 +1,21 @@
+{
+  "id": "sport-highlights",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sport Highlights",
+    "description": "Real time Sport Highlights",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sport Highlights",
+    "subtitle": "Real time Sport Highlights",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

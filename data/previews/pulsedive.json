@@ -1,0 +1,21 @@
+{
+  "id": "pulsedive",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pulsedive",
+    "description": "Scan, search and collect threat intelligence data in real-time",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pulsedive",
+    "subtitle": "Scan, search and collect threat intelligence data in…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

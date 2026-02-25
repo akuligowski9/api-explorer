@@ -1,0 +1,21 @@
+{
+  "id": "odweather",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ODWeather",
+    "description": "Weather and weather webcams",
+    "category": "Weather",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ODWeather",
+    "subtitle": "Weather and weather webcams",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

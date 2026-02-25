@@ -1,0 +1,21 @@
+{
+  "id": "covid-19-jhu-csse",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid-19 JHU CSSE",
+    "description": "Open-source API for exploring Covid19 cases based on JHU CSSE",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Covid-19 JHU CSSE",
+    "subtitle": "Open-source API for exploring Covid19 cases based on JHU…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

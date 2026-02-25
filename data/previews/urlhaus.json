@@ -1,0 +1,21 @@
+{
+  "id": "urlhaus",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "URLhaus",
+    "description": "Bulk queries and Download Malware Samples",
+    "category": "Anti-Malware",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "URLhaus",
+    "subtitle": "Bulk queries and Download Malware Samples",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

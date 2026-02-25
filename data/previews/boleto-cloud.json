@@ -1,0 +1,21 @@
+{
+  "id": "boleto-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Boleto.Cloud",
+    "description": "A api to generate boletos in Brazil",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Boleto.Cloud",
+    "subtitle": "A api to generate boletos in Brazil",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

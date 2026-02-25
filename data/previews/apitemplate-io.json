@@ -1,0 +1,21 @@
+{
+  "id": "apitemplate-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "APITemplate.io",
+    "description": "Dynamically generate images and PDFs from templates with a simple API",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "APITemplate.io",
+    "subtitle": "Dynamically generate images and PDFs from templates with a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

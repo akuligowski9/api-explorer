@@ -1,0 +1,21 @@
+{
+  "id": "screenshot-scout",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Screenshot Scout",
+    "description": "Screenshot API for developers that captures any URL in one HTTP request with predictable output",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Screenshot Scout",
+    "subtitle": "Screenshot API for developers that captures any URL in one…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

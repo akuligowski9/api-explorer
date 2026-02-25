@@ -1,0 +1,21 @@
+{
+  "id": "pdfendpoint",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PDFEndpoint",
+    "description": "HTML and URL to PDF API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "PDFEndpoint",
+    "subtitle": "HTML and URL to PDF API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

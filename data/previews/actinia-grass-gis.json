@@ -1,0 +1,21 @@
+{
+  "id": "actinia-grass-gis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Actinia Grass GIS",
+    "description": "Actinia is an open source REST API for geographical data that uses GRASS GIS",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Actinia Grass GIS",
+    "subtitle": "Actinia is an open source REST API for geographical data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "azure-devops-health",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Azure DevOps Health",
+    "description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
+    "category": "Continuous Integration",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Azure DevOps Health",
+    "subtitle": "Resource health helps you diagnose and get support when an…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

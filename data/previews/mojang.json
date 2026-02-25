@@ -1,0 +1,21 @@
+{
+  "id": "mojang",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mojang",
+    "description": "Mojang / Minecraft API",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mojang",
+    "subtitle": "Mojang / Minecraft API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

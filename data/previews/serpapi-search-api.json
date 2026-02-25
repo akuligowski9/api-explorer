@@ -1,0 +1,21 @@
+{
+  "id": "serpapi-search-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SerpApi - Search API",
+    "description": "SerpApi's Search API makes it easy and fast to scrape Google and other search engines",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "SerpApi - Search API",
+    "subtitle": "SerpApi's Search API makes it easy and fast to scrape…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ipwhois",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IPWhois",
+    "description": "Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IPWhois",
+    "subtitle": "Identify website, IP, or email owners with geolocation,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

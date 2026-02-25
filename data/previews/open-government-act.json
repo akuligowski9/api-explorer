@@ -1,0 +1,21 @@
+{
+  "id": "open-government-act",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, ACT",
+    "description": "Australian Capital Territory Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, ACT",
+    "subtitle": "Australian Capital Territory Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

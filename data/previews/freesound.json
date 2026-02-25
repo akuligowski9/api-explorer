@@ -1,0 +1,21 @@
+{
+  "id": "freesound",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Freesound",
+    "description": "Music Samples",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Freesound",
+    "subtitle": "Music Samples",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

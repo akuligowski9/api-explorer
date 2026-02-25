@@ -1,0 +1,21 @@
+{
+  "id": "sportmonks-football",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sportmonks Football",
+    "description": "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sportmonks Football",
+    "subtitle": "Football score/schedule, news api, tv channels, stats,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

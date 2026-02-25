@@ -1,0 +1,21 @@
+{
+  "id": "theirstack-s-job-postings",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TheirStack's Job Postings",
+    "description": "Access simultaneously to jobs from Linkedin, Glassdoor, Indeed and 16+ other job sites",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TheirStack's Job Postings",
+    "subtitle": "Access simultaneously to jobs from Linkedin, Glassdoor,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

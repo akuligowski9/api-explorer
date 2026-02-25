@@ -1,0 +1,21 @@
+{
+  "id": "geocodify-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geocodify.com",
+    "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Geocodify.com",
+    "subtitle": "Worldwide geocoding, geoparsing and autocomplete for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

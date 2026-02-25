@@ -1,0 +1,21 @@
+{
+  "id": "arvancloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ArvanCloud",
+    "description": "Enables you to use ArvanCloud services",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "ArvanCloud",
+    "subtitle": "Enables you to use ArvanCloud services",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

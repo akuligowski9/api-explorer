@@ -1,0 +1,21 @@
+{
+  "id": "coinigy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinigy",
+    "description": "Interacting with Coinigy Accounts and Exchange Directly",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coinigy",
+    "subtitle": "Interacting with Coinigy Accounts and Exchange Directly",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

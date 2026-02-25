@@ -1,0 +1,21 @@
+{
+  "id": "mockae",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mockae",
+    "description": "Fake REST API powered by Lua",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Mockae",
+    "subtitle": "Fake REST API powered by Lua",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

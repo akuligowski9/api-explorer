@@ -1,0 +1,21 @@
+{
+  "id": "eden",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Eden",
+    "description": "Get all AI models in one place, e.g. OpenAI, Google and lots more!",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Eden",
+    "subtitle": "Get all AI models in one place, e.g. OpenAI, Google and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

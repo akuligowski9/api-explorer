@@ -1,0 +1,21 @@
+{
+  "id": "code-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Code.gov",
+    "description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Code.gov",
+    "subtitle": "The primary platform for Open Source and code sharing for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

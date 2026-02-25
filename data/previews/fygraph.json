@@ -1,0 +1,21 @@
+{
+  "id": "fygraph",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FyGraph",
+    "description": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated every minute",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "FyGraph",
+    "subtitle": "GraphQL API of latest 1.000+ crypto and 167+ fiat updated…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

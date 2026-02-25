@@ -1,0 +1,21 @@
+{
+  "id": "chainpoint",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Chainpoint",
+    "description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
+    "category": "Blockchain",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Chainpoint",
+    "subtitle": "Chainpoint is a global network for anchoring data to the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

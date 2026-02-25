@@ -1,0 +1,21 @@
+{
+  "id": "world-news",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "World News",
+    "description": "Search through millions of semantically tagged worldwide news",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "World News",
+    "subtitle": "Search through millions of semantically tagged worldwide…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

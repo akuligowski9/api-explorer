@@ -1,0 +1,21 @@
+{
+  "id": "fuel-prices-at-spanish-gas-stations",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Fuel Prices at Spanish Gas Stations",
+    "description": "Provides information about fuel prices at gas stations in Spain",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Fuel Prices at Spanish Gas Stations",
+    "subtitle": "Provides information about fuel prices at gas stations in…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

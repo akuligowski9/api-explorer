@@ -1,0 +1,21 @@
+{
+  "id": "ipapi-co",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ipapi.co",
+    "description": "Find IP address location information",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ipapi.co",
+    "subtitle": "Find IP address location information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

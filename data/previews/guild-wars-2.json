@@ -1,0 +1,21 @@
+{
+  "id": "guild-wars-2",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Guild Wars 2",
+    "description": "Guild Wars 2 Game Information",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Guild Wars 2",
+    "subtitle": "Guild Wars 2 Game Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

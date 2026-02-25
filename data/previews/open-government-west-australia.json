@@ -1,0 +1,21 @@
+{
+  "id": "open-government-west-australia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, West Australia",
+    "description": "West Australia Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, West Australia",
+    "subtitle": "West Australia Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

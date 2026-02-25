@@ -1,0 +1,21 @@
+{
+  "id": "circleci",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CircleCI",
+    "description": "Automate the software development process using continuous integration and continuous delivery",
+    "category": "Continuous Integration",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CircleCI",
+    "subtitle": "Automate the software development process using continuous…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

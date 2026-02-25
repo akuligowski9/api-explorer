@@ -1,0 +1,21 @@
+{
+  "id": "covid-tracking-project",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid Tracking Project",
+    "description": "Covid-19 data for the US",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Covid Tracking Project",
+    "subtitle": "Covid-19 data for the US",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

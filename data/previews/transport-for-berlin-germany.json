@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-berlin-germany",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Berlin, Germany",
+    "description": "Third-party VBB API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Berlin, Germany",
+    "subtitle": "Third-party VBB API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

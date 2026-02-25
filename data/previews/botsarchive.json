@@ -1,0 +1,21 @@
+{
+  "id": "botsarchive",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BotsArchive",
+    "description": "JSON formatted details about Telegram Bots available in database",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "BotsArchive",
+    "subtitle": "JSON formatted details about Telegram Bots available in…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

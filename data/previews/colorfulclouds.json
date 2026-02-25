@@ -1,0 +1,21 @@
+{
+  "id": "colorfulclouds",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ColorfulClouds",
+    "description": "Weather",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ColorfulClouds",
+    "subtitle": "Weather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

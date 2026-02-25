@@ -1,0 +1,21 @@
+{
+  "id": "exchangerate-host",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Exchangerate.host",
+    "description": "Free foreign exchange & crypto rates API",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Exchangerate.host",
+    "subtitle": "Free foreign exchange & crypto rates API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

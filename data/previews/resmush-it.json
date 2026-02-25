@@ -1,0 +1,21 @@
+{
+  "id": "resmush-it",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ReSmush.it",
+    "description": "Photo optimization",
+    "category": "Photography",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ReSmush.it",
+    "subtitle": "Photo optimization",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

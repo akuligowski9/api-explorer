@@ -1,0 +1,21 @@
+{
+  "id": "validate-swift-bic",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Validate Swift/BIC ",
+    "description": "Validates BIC/SWIFT code",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Validate Swift/BIC ",
+    "subtitle": "Validates BIC/SWIFT code",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cloudbet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudbet",
+    "description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudbet",
+    "subtitle": "Official Cloudbet API provides real-time sports odds and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

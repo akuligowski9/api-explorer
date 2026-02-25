@@ -1,0 +1,21 @@
+{
+  "id": "ume-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Umeå Open Data",
+    "description": "Open data of the city Umeå in northern Sweden",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Umeå Open Data",
+    "subtitle": "Open data of the city Umeå in northern Sweden",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

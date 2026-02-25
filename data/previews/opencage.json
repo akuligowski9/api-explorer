@@ -1,0 +1,21 @@
+{
+  "id": "opencage",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenCage",
+    "description": "Forward and reverse geocoding using open data",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "OpenCage",
+    "subtitle": "Forward and reverse geocoding using open data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "coinremitter",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinremitter",
+    "description": "Cryptocurrencies Payment & Prices",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coinremitter",
+    "subtitle": "Cryptocurrencies Payment & Prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

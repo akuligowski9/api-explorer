@@ -1,0 +1,21 @@
+{
+  "id": "ogli",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ogli",
+    "description": "Generate short links like any other shortener but with custom OG/meta tags for perfect previews. Ideal for SPAs, apps, and anyone who wants control over what gets shared.",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Ogli",
+    "subtitle": "Generate short links like any other shortener but with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

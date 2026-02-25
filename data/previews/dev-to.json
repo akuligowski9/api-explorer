@@ -1,0 +1,21 @@
+{
+  "id": "dev-to",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dev.to",
+    "description": "Access Forem articles, users and other resources via API",
+    "category": "Personality",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dev.to",
+    "subtitle": "Access Forem articles, users and other resources via API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

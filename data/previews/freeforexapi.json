@@ -1,0 +1,21 @@
+{
+  "id": "freeforexapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FreeForexAPI",
+    "description": "Real-time foreign exchange rates for major currency pairs",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "FreeForexAPI",
+    "subtitle": "Real-time foreign exchange rates for major currency pairs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

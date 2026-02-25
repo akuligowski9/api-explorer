@@ -1,0 +1,21 @@
+{
+  "id": "open-government-india",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, India",
+    "description": "Indian Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, India",
+    "subtitle": "Indian Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

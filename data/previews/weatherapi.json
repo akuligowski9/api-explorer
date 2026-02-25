@@ -1,0 +1,21 @@
+{
+  "id": "weatherapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WeatherAPI",
+    "description": "Weather API with other stuff like Astronomy and Geolocation API",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WeatherAPI",
+    "subtitle": "Weather API with other stuff like Astronomy and Geolocation…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

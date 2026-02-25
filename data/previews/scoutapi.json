@@ -1,0 +1,21 @@
+{
+  "id": "scoutapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScoutAPI",
+    "description": "Affordable, Swift, and Reliable Amazon Data in Real-Time",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ScoutAPI",
+    "subtitle": "Affordable, Swift, and Reliable Amazon Data in Real-Time",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

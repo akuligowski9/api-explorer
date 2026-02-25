@@ -1,0 +1,21 @@
+{
+  "id": "iqair",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IQAir",
+    "description": "Air quality and weather data",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IQAir",
+    "subtitle": "Air quality and weather data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

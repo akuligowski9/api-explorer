@@ -1,0 +1,21 @@
+{
+  "id": "xcolors",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "xColors",
+    "description": "Generate & convert colors",
+    "category": "Art & Design",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "xColors",
+    "subtitle": "Generate & convert colors",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "strava",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Strava",
+    "description": "Connect with athletes, activities and more",
+    "category": "Sports & Fitness",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Strava",
+    "subtitle": "Connect with athletes, activities and more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

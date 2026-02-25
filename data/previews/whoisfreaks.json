@@ -1,0 +1,21 @@
+{
+  "id": "whoisfreaks",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Whoisfreaks",
+    "description": "Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Whoisfreaks",
+    "subtitle": "Domain and DNS related information that will equip…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

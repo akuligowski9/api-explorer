@@ -1,0 +1,21 @@
+{
+  "id": "animenewsnetwork",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AnimeNewsNetwork",
+    "description": "Anime industry news",
+    "category": "Anime",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "AnimeNewsNetwork",
+    "subtitle": "Anime industry news",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

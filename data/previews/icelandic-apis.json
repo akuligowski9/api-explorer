@@ -1,0 +1,21 @@
+{
+  "id": "icelandic-apis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Icelandic APIs",
+    "description": "Open APIs that deliver services in or regarding Iceland",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Icelandic APIs",
+    "subtitle": "Open APIs that deliver services in or regarding Iceland",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

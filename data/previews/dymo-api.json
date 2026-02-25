@@ -1,0 +1,21 @@
+{
+  "id": "dymo-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dymo API",
+    "description": "Fraud & reputation detection",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Dymo API",
+    "subtitle": "Fraud & reputation detection",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

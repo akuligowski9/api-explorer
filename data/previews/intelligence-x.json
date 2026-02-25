@@ -1,0 +1,21 @@
+{
+  "id": "intelligence-x",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Intelligence X",
+    "description": "Perform OSINT via Intelligence X",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Intelligence X",
+    "subtitle": "Perform OSINT via Intelligence X",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "clash-of-clans",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Clash of Clans",
+    "description": "Clash of Clans Game Information",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Clash of Clans",
+    "subtitle": "Clash of Clans Game Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

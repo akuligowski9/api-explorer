@@ -1,0 +1,21 @@
+{
+  "id": "storj",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Storj",
+    "description": "Decentralized Open-Source Cloud Storage",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Storj",
+    "subtitle": "Decentralized Open-Source Cloud Storage",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

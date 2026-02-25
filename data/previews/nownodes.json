@@ -1,0 +1,21 @@
+{
+  "id": "nownodes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Nownodes",
+    "description": "Blockchain-as-a-service solution that provides high-quality connection via API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Nownodes",
+    "subtitle": "Blockchain-as-a-service solution that provides high-quality…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

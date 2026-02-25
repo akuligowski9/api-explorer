@@ -1,0 +1,21 @@
+{
+  "id": "mailjet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "mailjet",
+    "description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "mailjet",
+    "subtitle": "Marketing email can be sent and mail templates made in MJML…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

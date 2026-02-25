@@ -1,0 +1,21 @@
+{
+  "id": "sofiaplan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sofiaplan",
+    "description": "Access to urban research data for the Bulgarian capital Sofia",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Sofiaplan",
+    "subtitle": "Access to urban research data for the Bulgarian capital…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

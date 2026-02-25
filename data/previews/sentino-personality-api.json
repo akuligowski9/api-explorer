@@ -1,0 +1,21 @@
+{
+  "id": "sentino-personality-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sentino Personality API",
+    "description": "AI-powered personality profiling and psychology analysis using NLP and Big 5, NEO, HEXACO, DISC inventories",
+    "category": "Personality",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Sentino Personality API",
+    "subtitle": "AI-powered personality profiling and psychology analysis…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

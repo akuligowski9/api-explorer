@@ -1,0 +1,21 @@
+{
+  "id": "lob-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lob.com",
+    "description": "US Address Verification",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Lob.com",
+    "subtitle": "US Address Verification",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

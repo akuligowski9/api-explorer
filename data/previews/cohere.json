@@ -1,0 +1,21 @@
+{
+  "id": "cohere",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cohere",
+    "description": "Harness the power of language understanding. Join the developers and businesses who are using Cohere to generate, categorize and organize text at a scale that was previously unimaginable.",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cohere",
+    "subtitle": "Harness the power of language understanding. Join the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

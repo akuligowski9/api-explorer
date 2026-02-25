@@ -1,0 +1,21 @@
+{
+  "id": "languagetool",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LanguageTool",
+    "description": "Style and Grammar Checker for 25+ Languages",
+    "category": "Text Analysis",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "LanguageTool",
+    "subtitle": "Style and Grammar Checker for 25+ Languages",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

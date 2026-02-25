@@ -1,0 +1,21 @@
+{
+  "id": "ec2-shop-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "EC2.shop API",
+    "description": "Get AWS service price right from your terminal",
+    "category": "Continuous Integration",
+    "auth": "None",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "EC2.shop API",
+    "subtitle": "Get AWS service price right from your terminal",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "open-page-rank",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Page Rank",
+    "description": "API for calculating and comparing metrics of different websites using Page Rank algorithm",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Page Rank",
+    "subtitle": "API for calculating and comparing metrics of different…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

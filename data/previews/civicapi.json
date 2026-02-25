@@ -1,0 +1,21 @@
+{
+  "id": "civicapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "civicAPI",
+    "description": "Provides live and historic election results for races across the world",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "civicAPI",
+    "subtitle": "Provides live and historic election results for races…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

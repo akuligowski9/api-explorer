@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-united-states",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for United States",
+    "description": "NextBus API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for United States",
+    "subtitle": "NextBus API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

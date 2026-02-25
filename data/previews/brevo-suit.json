@@ -1,0 +1,21 @@
+{
+  "id": "brevo-suit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brevo Suit",
+    "description": "Connection for brevo CRM suite",
+    "category": "Data Validation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Brevo Suit",
+    "subtitle": "Connection for brevo CRM suite",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eli",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ELI",
+    "description": "Natural Language Processing Tools for Thai Language",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ELI",
+    "subtitle": "Natural Language Processing Tools for Thai Language",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

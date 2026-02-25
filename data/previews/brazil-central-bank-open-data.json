@@ -1,0 +1,21 @@
+{
+  "id": "brazil-central-bank-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brazil Central Bank Open Data",
+    "description": "Brazil Central Bank Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Brazil Central Bank Open Data",
+    "subtitle": "Brazil Central Bank Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

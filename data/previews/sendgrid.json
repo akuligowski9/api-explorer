@@ -1,0 +1,21 @@
+{
+  "id": "sendgrid",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sendgrid",
+    "description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sendgrid",
+    "subtitle": "A cloud-based SMTP provider that allows you to send emails…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

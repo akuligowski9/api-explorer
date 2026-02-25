@@ -1,0 +1,21 @@
+{
+  "id": "openholidays-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenHolidays API",
+    "description": "Public and school holidays for many countries via an open REST API",
+    "category": "Calendar",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "OpenHolidays API",
+    "subtitle": "Public and school holidays for many countries via an open…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

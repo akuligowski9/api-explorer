@@ -1,0 +1,21 @@
+{
+  "id": "humble-bundle",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Humble Bundle",
+    "description": "Humble Bundle's current bundles",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Humble Bundle",
+    "subtitle": "Humble Bundle's current bundles",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

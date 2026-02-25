@@ -1,0 +1,21 @@
+{
+  "id": "dialogflow",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dialogflow",
+    "description": "Natural Language Processing",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dialogflow",
+    "subtitle": "Natural Language Processing",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

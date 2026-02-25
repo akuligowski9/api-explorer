@@ -1,0 +1,21 @@
+{
+  "id": "covid-19-datenhub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid-19 Datenhub",
+    "description": "Maps, datasets, applications and more in the context of COVID-19",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Covid-19 Datenhub",
+    "subtitle": "Maps, datasets, applications and more in the context of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-paris-france",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Paris, France",
+    "description": "RATP Open Data API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Paris, France",
+    "subtitle": "RATP Open Data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

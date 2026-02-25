@@ -1,0 +1,21 @@
+{
+  "id": "manyapis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Manyapis",
+    "description": "Exchange rates and currency conversion with free plan 50 requests/day",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Manyapis",
+    "subtitle": "Exchange rates and currency conversion with free plan 50…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

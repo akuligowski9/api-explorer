@@ -1,0 +1,21 @@
+{
+  "id": "pythonium",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pythonium",
+    "description": "Validate Python code syntax",
+    "category": "Programming",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Pythonium",
+    "subtitle": "Validate Python code syntax",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

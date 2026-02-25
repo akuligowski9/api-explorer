@@ -1,0 +1,21 @@
+{
+  "id": "taddy-podcasts",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Taddy Podcasts",
+    "description": "Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications",
+    "category": "Podcasts",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Taddy Podcasts",
+    "subtitle": "Get details on podcasts & episodes, Podcast & Episode…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

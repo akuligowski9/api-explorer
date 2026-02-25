@@ -1,0 +1,21 @@
+{
+  "id": "nppes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NPPES",
+    "description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NPPES",
+    "subtitle": "National Plan & Provider Enumeration System, info on…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

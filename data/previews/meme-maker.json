@@ -1,0 +1,21 @@
+{
+  "id": "meme-maker",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Meme Maker",
+    "description": "REST API for create your own meme",
+    "category": "Entertainment",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Meme Maker",
+    "subtitle": "REST API for create your own meme",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

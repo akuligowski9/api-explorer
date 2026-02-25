@@ -1,0 +1,21 @@
+{
+  "id": "reed",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Reed",
+    "description": "Job board aggregator",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Reed",
+    "subtitle": "Job board aggregator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

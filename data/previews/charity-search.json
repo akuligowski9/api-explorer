@@ -1,0 +1,21 @@
+{
+  "id": "charity-search",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Charity Search",
+    "description": "Non-profit charity data",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Charity Search",
+    "subtitle": "Non-profit charity data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

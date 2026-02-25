@@ -1,0 +1,21 @@
+{
+  "id": "jsonsilo-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JSONsilo.com",
+    "description": "Hassle-free JSON hosting. Convert your JSON file to an API in minutes at no cost.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "JSONsilo.com",
+    "subtitle": "Hassle-free JSON hosting. Convert your JSON file to an API…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

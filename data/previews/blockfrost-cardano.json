@@ -1,0 +1,21 @@
+{
+  "id": "blockfrost-cardano",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "blockfrost Cardano",
+    "description": "Interaction with the Cardano mainnet and several testnets",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "blockfrost Cardano",
+    "subtitle": "Interaction with the Cardano mainnet and several testnets",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

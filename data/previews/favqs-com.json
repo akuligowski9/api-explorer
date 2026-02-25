@@ -1,0 +1,21 @@
+{
+  "id": "favqs-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FavQs.com",
+    "description": "FavQs allows you to collect, discover and share your favorite quotes",
+    "category": "Personality",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FavQs.com",
+    "subtitle": "FavQs allows you to collect, discover and share your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

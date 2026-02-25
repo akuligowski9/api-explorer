@@ -1,0 +1,21 @@
+{
+  "id": "tastedive",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TasteDive",
+    "description": "Similar artist API (also works for movies and TV shows)",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TasteDive",
+    "subtitle": "Similar artist API (also works for movies and TV shows)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

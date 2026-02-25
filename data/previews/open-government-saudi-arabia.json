@@ -1,0 +1,21 @@
+{
+  "id": "open-government-saudi-arabia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Saudi Arabia",
+    "description": "Saudi Arabia Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Saudi Arabia",
+    "subtitle": "Saudi Arabia Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

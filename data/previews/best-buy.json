@@ -1,0 +1,21 @@
+{
+  "id": "best-buy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Best Buy",
+    "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Best Buy",
+    "subtitle": "Products, Buying Options, Categories, Recommendations,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

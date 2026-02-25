@@ -1,0 +1,21 @@
+{
+  "id": "ais-hub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AIS Hub",
+    "description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "AIS Hub",
+    "subtitle": "Real-time data of any marine and inland vessel equipped…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

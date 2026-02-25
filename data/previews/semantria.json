@@ -1,0 +1,21 @@
+{
+  "id": "semantria",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Semantria",
+    "description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
+    "category": "Text Analysis",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Semantria",
+    "subtitle": "Text Analytics with sentiment analysis, categorization &…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

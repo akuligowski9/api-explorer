@@ -1,0 +1,21 @@
+{
+  "id": "udemy-coupons-courses-instructors-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Udemy Coupons, Courses & Instructors Data",
+    "description": "Retrieve Udemy courses, coupons, instructors, and metadata",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Udemy Coupons, Courses & Instructors Data",
+    "subtitle": "Retrieve Udemy courses, coupons, instructors, and metadata",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

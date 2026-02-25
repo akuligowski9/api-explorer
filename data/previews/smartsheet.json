@@ -1,0 +1,21 @@
+{
+  "id": "smartsheet",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Smartsheet",
+    "description": "Allows you to programmatically access and Smartsheet data and account information",
+    "category": "Business",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Smartsheet",
+    "subtitle": "Allows you to programmatically access and Smartsheet data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

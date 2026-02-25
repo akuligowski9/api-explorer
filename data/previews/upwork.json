@@ -1,0 +1,21 @@
+{
+  "id": "upwork",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Upwork",
+    "description": "Freelance job board and management system",
+    "category": "Jobs",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Upwork",
+    "subtitle": "Freelance job board and management system",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

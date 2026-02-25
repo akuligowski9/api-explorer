@@ -1,0 +1,21 @@
+{
+  "id": "callook-info",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Callook.info",
+    "description": "United States ham radio callsigns",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Callook.info",
+    "subtitle": "United States ham radio callsigns",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

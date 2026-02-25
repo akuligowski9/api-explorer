@@ -1,0 +1,21 @@
+{
+  "id": "openstreetmap",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenStreetMap",
+    "description": "Navigation, geolocation and geographical data",
+    "category": "Geocoding",
+    "auth": "OAuth",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenStreetMap",
+    "subtitle": "Navigation, geolocation and geographical data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

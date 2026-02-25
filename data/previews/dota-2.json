@@ -1,0 +1,21 @@
+{
+  "id": "dota-2",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dota 2",
+    "description": "Provides information about Player stats, Match stats, Rankings for Dota 2",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dota 2",
+    "subtitle": "Provides information about Player stats, Match stats,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "delta-lake",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Delta Lake",
+    "description": "Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Delta Lake",
+    "subtitle": "Open-source storage framework enabling Lakehouse…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

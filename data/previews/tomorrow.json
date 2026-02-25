@@ -1,0 +1,21 @@
+{
+  "id": "tomorrow",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tomorrow",
+    "description": "Weather API Powered by Proprietary Technology",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tomorrow",
+    "subtitle": "Weather API Powered by Proprietary Technology",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kelley-blue-book",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kelley Blue Book",
+    "description": "Vehicle info, pricing, configuration, plus much more",
+    "category": "Vehicle",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Kelley Blue Book",
+    "subtitle": "Vehicle info, pricing, configuration, plus much more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

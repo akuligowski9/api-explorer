@@ -1,0 +1,21 @@
+{
+  "id": "final-fantasy-xiv",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Final Fantasy XIV",
+    "description": "Final Fantasy XIV Game data API",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Final Fantasy XIV",
+    "subtitle": "Final Fantasy XIV Game data API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

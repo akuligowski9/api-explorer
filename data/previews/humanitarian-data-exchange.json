@@ -1,0 +1,21 @@
+{
+  "id": "humanitarian-data-exchange",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Humanitarian Data Exchange",
+    "description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Humanitarian Data Exchange",
+    "subtitle": "Humanitarian Data Exchange (HDX) is open platform for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

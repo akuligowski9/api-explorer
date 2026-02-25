@@ -1,0 +1,21 @@
+{
+  "id": "scrapingdog",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScrapingDog",
+    "description": "Proxy API for Web scraping",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ScrapingDog",
+    "subtitle": "Proxy API for Web scraping",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

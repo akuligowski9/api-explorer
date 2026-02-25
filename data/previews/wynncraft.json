@@ -1,0 +1,21 @@
+{
+  "id": "wynncraft",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wynncraft",
+    "description": "Wynncraft Information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wynncraft",
+    "subtitle": "Wynncraft Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

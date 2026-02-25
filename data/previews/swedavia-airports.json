@@ -1,0 +1,21 @@
+{
+  "id": "swedavia-airports",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Swedavia Airports",
+    "description": "Airport and flight information of Swedish Airports operated by Swedavia",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Swedavia Airports",
+    "subtitle": "Airport and flight information of Swedish Airports operated…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

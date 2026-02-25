@@ -1,0 +1,21 @@
+{
+  "id": "iex-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IEX Cloud",
+    "description": "Realtime & Historical Stock and Market Data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "IEX Cloud",
+    "subtitle": "Realtime & Historical Stock and Market Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

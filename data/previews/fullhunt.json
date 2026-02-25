@@ -1,0 +1,21 @@
+{
+  "id": "fullhunt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FullHunt",
+    "description": "Searchable attack surface database of the entire internet",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FullHunt",
+    "subtitle": "Searchable attack surface database of the entire internet",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

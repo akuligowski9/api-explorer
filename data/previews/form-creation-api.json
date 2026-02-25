@@ -1,0 +1,21 @@
+{
+  "id": "form-creation-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Form Creation API",
+    "description": "Create and manage customizable forms within your applications",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Form Creation API",
+    "subtitle": "Create and manage customizable forms within your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

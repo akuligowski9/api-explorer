@@ -1,0 +1,21 @@
+{
+  "id": "swiftkanban",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SwiftKanban",
+    "description": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SwiftKanban",
+    "subtitle": "Kanban software, Visualize Work, Increase Organizations…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "scrapeninja",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScrapeNinja",
+    "description": "Scraping API with Chrome fingerprint and residential proxies",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ScrapeNinja",
+    "subtitle": "Scraping API with Chrome fingerprint and residential proxies",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

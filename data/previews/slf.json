@@ -1,0 +1,21 @@
+{
+  "id": "slf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SLF",
+    "description": "German city, country, river, database",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "SLF",
+    "subtitle": "German city, country, river, database",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

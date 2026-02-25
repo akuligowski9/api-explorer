@@ -1,0 +1,21 @@
+{
+  "id": "resend",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Resend",
+    "description": "Email API for developers",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Resend",
+    "subtitle": "Email API for developers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "digimon-tcg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Digimon TCG",
+    "description": "Search for Digimon cards in digimoncard.io",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Digimon TCG",
+    "subtitle": "Search for Digimon cards in digimoncard.io",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

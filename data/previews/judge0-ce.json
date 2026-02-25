@@ -1,0 +1,21 @@
+{
+  "id": "judge0-ce",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Judge0 CE",
+    "description": "Online code execution system",
+    "category": "Programming",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Judge0 CE",
+    "subtitle": "Online code execution system",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hashnode",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hashnode",
+    "description": "A blogging platform built for developers",
+    "category": "Social",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hashnode",
+    "subtitle": "A blogging platform built for developers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "worms",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WoRMS",
+    "description": "Authoritative list of marine species names and taxonomy",
+    "category": "Animals",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WoRMS",
+    "subtitle": "Authoritative list of marine species names and taxonomy",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dataflow-kit-covid-19",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dataflow Kit COVID-19",
+    "description": "COVID-19 live statistics into sites per hour",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dataflow Kit COVID-19",
+    "subtitle": "COVID-19 live statistics into sites per hour",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

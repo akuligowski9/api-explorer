@@ -1,0 +1,21 @@
+{
+  "id": "city-nantes-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Nantes Open Data",
+    "description": "Nantes(FR) City Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, Nantes Open Data",
+    "subtitle": "Nantes(FR) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

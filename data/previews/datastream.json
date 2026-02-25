@@ -1,0 +1,21 @@
+{
+  "id": "datastream",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DataStream",
+    "description": "An open access platform for sharing Canadian water quality data",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "DataStream",
+    "subtitle": "An open access platform for sharing Canadian water quality…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

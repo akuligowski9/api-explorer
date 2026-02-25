@@ -1,0 +1,21 @@
+{
+  "id": "aqicn",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AQICN",
+    "description": "Air Quality Index Data for over 1000 cities",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "AQICN",
+    "subtitle": "Air Quality Index Data for over 1000 cities",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

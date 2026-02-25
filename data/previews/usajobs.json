@@ -1,0 +1,21 @@
+{
+  "id": "usajobs",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "USAJOBS",
+    "description": "US government job board",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "USAJOBS",
+    "subtitle": "US government job board",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

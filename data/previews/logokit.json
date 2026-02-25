@@ -1,0 +1,21 @@
+{
+  "id": "logokit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LogoKit",
+    "description": "Logo API for brands, stocks, and cryptocurrencies",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "LogoKit",
+    "subtitle": "Logo API for brands, stocks, and cryptocurrencies",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

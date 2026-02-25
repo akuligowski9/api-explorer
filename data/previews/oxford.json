@@ -1,0 +1,21 @@
+{
+  "id": "oxford",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Oxford",
+    "description": "Dictionary Data",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Oxford",
+    "subtitle": "Dictionary Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

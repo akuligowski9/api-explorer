@@ -1,0 +1,21 @@
+{
+  "id": "pixabay",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pixabay",
+    "description": "Photography",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pixabay",
+    "subtitle": "Photography",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

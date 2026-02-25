@@ -1,0 +1,21 @@
+{
+  "id": "open-government-queensland-government",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Queensland Government",
+    "description": "Queensland Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Queensland Government",
+    "subtitle": "Queensland Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

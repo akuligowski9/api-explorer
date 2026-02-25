@@ -1,0 +1,21 @@
+{
+  "id": "mercadolibre",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mercadolibre",
+    "description": "Manage sales, ads, products, services and Shops",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mercadolibre",
+    "subtitle": "Manage sales, ads, products, services and Shops",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

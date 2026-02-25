@@ -1,0 +1,21 @@
+{
+  "id": "accuweather",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "AccuWeather",
+    "description": "Weather and forecast data",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "AccuWeather",
+    "subtitle": "Weather and forecast data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

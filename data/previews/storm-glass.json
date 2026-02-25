@@ -1,0 +1,21 @@
+{
+  "id": "storm-glass",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Storm Glass",
+    "description": "Global marine weather from multiple sources",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Storm Glass",
+    "subtitle": "Global marine weather from multiple sources",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

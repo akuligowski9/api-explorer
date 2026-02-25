@@ -1,0 +1,21 @@
+{
+  "id": "tomba-email-finder",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tomba email finder",
+    "description": "Email Finder for B2B sales and email marketing and email verifier",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Tomba email finder",
+    "subtitle": "Email Finder for B2B sales and email marketing and email…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

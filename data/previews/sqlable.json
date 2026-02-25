@@ -1,0 +1,21 @@
+{
+  "id": "sqlable",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SQLable",
+    "description": "CSV to JSONL conversion API",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "SQLable",
+    "subtitle": "CSV to JSONL conversion API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

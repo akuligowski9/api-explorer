@@ -1,0 +1,21 @@
+{
+  "id": "bigdatacloud-s-reverse-geocoding-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BigDataCloud's Reverse Geocoding API",
+    "description": "Get rich locality information from the geographical coordinates.",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "BigDataCloud's Reverse Geocoding API",
+    "subtitle": "Get rich locality information from the geographical…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "api2convert",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Api2Convert",
+    "description": "Online File Conversion API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Api2Convert",
+    "subtitle": "Online File Conversion API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

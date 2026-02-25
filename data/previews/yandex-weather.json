@@ -1,0 +1,21 @@
+{
+  "id": "yandex-weather",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Yandex.Weather",
+    "description": "Assesses weather condition in specific locations",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Yandex.Weather",
+    "subtitle": "Assesses weather condition in specific locations",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

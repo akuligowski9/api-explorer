@@ -1,0 +1,21 @@
+{
+  "id": "heybounce",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Heybounce",
+    "description": "Email Verification API",
+    "category": "Email",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Heybounce",
+    "subtitle": "Email Verification API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

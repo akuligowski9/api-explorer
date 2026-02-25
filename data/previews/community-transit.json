@@ -1,0 +1,21 @@
+{
+  "id": "community-transit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Community Transit",
+    "description": "Transitland API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Community Transit",
+    "subtitle": "Transitland API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

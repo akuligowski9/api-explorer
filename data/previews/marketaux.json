@@ -1,0 +1,21 @@
+{
+  "id": "marketaux",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MarketAux",
+    "description": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "MarketAux",
+    "subtitle": "Live stock market news with tagged tickers + sentiment and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

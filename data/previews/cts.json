@@ -1,0 +1,21 @@
+{
+  "id": "cts",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CTS",
+    "description": "CTS Realtime API",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CTS",
+    "subtitle": "CTS Realtime API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

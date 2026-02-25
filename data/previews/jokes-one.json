@@ -1,0 +1,21 @@
+{
+  "id": "jokes-one",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Jokes One",
+    "description": "Joke of the day and large category of jokes accessible via REST API",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Jokes One",
+    "subtitle": "Joke of the day and large category of jokes accessible via…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

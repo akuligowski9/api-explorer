@@ -1,0 +1,21 @@
+{
+  "id": "json2video",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "JSON2Video",
+    "description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "JSON2Video",
+    "subtitle": "Create and edit videos programmatically:…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

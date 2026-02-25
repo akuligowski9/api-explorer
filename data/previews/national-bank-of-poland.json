@@ -1,0 +1,21 @@
+{
+  "id": "national-bank-of-poland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "National Bank of Poland",
+    "description": "A collection of currency exchange rates (data in XML and JSON)",
+    "category": "Currency Exchange",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "National Bank of Poland",
+    "subtitle": "A collection of currency exchange rates (data in XML and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

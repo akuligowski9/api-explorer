@@ -1,0 +1,21 @@
+{
+  "id": "detect-language-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Detect Language API",
+    "description": "This API detects the language from any text (+ 50 languages supported)",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Detect Language API",
+    "subtitle": "This API detects the language from any text (+ 50 languages…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

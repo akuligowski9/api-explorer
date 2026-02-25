@@ -1,0 +1,21 @@
+{
+  "id": "what3words",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "What3Words",
+    "description": "Three words as rememberable and unique coordinates worldwide",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "What3Words",
+    "subtitle": "Three words as rememberable and unique coordinates worldwide",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

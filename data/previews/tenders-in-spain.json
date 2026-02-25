@@ -1,0 +1,21 @@
+{
+  "id": "tenders-in-spain",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tenders in Spain",
+    "description": "Get data for procurements in Spain in JSON format",
+    "category": "Business",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tenders in Spain",
+    "subtitle": "Get data for procurements in Spain in JSON format",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

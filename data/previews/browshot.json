@@ -1,0 +1,21 @@
+{
+  "id": "browshot",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Browshot",
+    "description": "Easily make screenshots of web pages in any screen size, as any device",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Browshot",
+    "subtitle": "Easily make screenshots of web pages in any screen size, as…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

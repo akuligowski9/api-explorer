@@ -1,0 +1,21 @@
+{
+  "id": "scraperapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScraperApi",
+    "description": "Easily build scalable web scrapers",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ScraperApi",
+    "subtitle": "Easily build scalable web scrapers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

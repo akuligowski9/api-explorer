@@ -1,0 +1,21 @@
+{
+  "id": "ipwho-ip-geolocation-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IPWho IP Geolocation API",
+    "description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "IPWho IP Geolocation API",
+    "subtitle": "2,000 free API calls per day. Production grade IP…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "city-helsinki",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, Helsinki",
+    "description": "Helsinki(FI) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, Helsinki",
+    "subtitle": "Helsinki(FI) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

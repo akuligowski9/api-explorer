@@ -1,0 +1,21 @@
+{
+  "id": "openapihub",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenAPIHub",
+    "description": "The All-in-one API Platform",
+    "category": "Development",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenAPIHub",
+    "subtitle": "The All-in-one API Platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

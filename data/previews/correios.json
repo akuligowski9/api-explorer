@@ -1,0 +1,21 @@
+{
+  "id": "correios",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Correios",
+    "description": "Integration to provide information and prepare shipments using Correio's services",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Correios",
+    "subtitle": "Integration to provide information and prepare shipments…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

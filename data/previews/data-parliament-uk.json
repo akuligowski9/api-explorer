@@ -1,0 +1,21 @@
+{
+  "id": "data-parliament-uk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Data.parliament.uk",
+    "description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
+    "category": "Government",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Data.parliament.uk",
+    "subtitle": "Contains live datasets including information about…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

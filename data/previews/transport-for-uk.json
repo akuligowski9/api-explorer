@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-uk",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for UK",
+    "description": "Transport API and dataset for UK",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for UK",
+    "subtitle": "Transport API and dataset for UK",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

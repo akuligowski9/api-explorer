@@ -1,0 +1,21 @@
+{
+  "id": "bank-negara-malaysia-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bank Negara Malaysia Open Data",
+    "description": "Malaysia Central Bank Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bank Negara Malaysia Open Data",
+    "subtitle": "Malaysia Central Bank Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t-ly",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "T.LY",
+    "description": "URL shortener and link management service",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "T.LY",
+    "subtitle": "URL shortener and link management service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

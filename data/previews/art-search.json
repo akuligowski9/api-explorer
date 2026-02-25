@@ -1,0 +1,21 @@
+{
+  "id": "art-search",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Art Search",
+    "description": "Search and discover art with semantic AI search",
+    "category": "Art & Design",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Art Search",
+    "subtitle": "Search and discover art with semantic AI search",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

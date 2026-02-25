@@ -1,0 +1,21 @@
+{
+  "id": "what-s-on-the-menu",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "What's on the menu?",
+    "description": "NYPL human-transcribed historical menu collection",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "What's on the menu?",
+    "subtitle": "NYPL human-transcribed historical menu collection",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

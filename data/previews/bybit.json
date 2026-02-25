@@ -1,0 +1,21 @@
+{
+  "id": "bybit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bybit",
+    "description": "Cryptocurrency data feed and algorithmic trading",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bybit",
+    "subtitle": "Cryptocurrency data feed and algorithmic trading",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gaana",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gaana",
+    "description": "API to retrieve song information from Gaana",
+    "category": "Music",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Gaana",
+    "subtitle": "API to retrieve song information from Gaana",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

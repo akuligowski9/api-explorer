@@ -1,0 +1,21 @@
+{
+  "id": "monday",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Monday",
+    "description": "Programmatically access and update data inside a monday.com account",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Monday",
+    "subtitle": "Programmatically access and update data inside a monday.com…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

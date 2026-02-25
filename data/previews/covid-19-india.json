@@ -1,0 +1,21 @@
+{
+  "id": "covid-19-india",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Covid-19 India",
+    "description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
+    "category": "Health",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Covid-19 India",
+    "subtitle": "Covid 19 statistics state and district wise about cases,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

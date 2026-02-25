@@ -1,0 +1,21 @@
+{
+  "id": "breezometer-pollen",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "BreezoMeter Pollen",
+    "description": "Daily Forecast pollen conditions data for a specific location",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "BreezoMeter Pollen",
+    "subtitle": "Daily Forecast pollen conditions data for a specific…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

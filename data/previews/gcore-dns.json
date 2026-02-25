@@ -1,0 +1,21 @@
+{
+  "id": "gcore-dns",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Gcore DNS",
+    "description": "Fast and resilient DNS hosting service by Gcore. Improve the performance and availability of your online business.",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Gcore DNS",
+    "subtitle": "Fast and resilient DNS hosting service by Gcore. Improve…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

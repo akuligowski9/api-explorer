@@ -1,0 +1,21 @@
+{
+  "id": "webscraping-ai",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WebScraping.AI",
+    "description": "Web Scraping API with built-in proxies and JS rendering",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "WebScraping.AI",
+    "subtitle": "Web Scraping API with built-in proxies and JS rendering",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "securitytrails",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SecurityTrails",
+    "description": "Domain and IP related information such as current and historical WHOIS and DNS records",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SecurityTrails",
+    "subtitle": "Domain and IP related information such as current and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mcu-countdown",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MCU Countdown",
+    "description": "A Countdown to the next MCU Film",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "MCU Countdown",
+    "subtitle": "A Countdown to the next MCU Film",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

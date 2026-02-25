@@ -1,0 +1,21 @@
+{
+  "id": "bitrise",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bitrise",
+    "description": "Build tool and processes integrations to create efficient development pipelines",
+    "category": "Continuous Integration",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Bitrise",
+    "subtitle": "Build tool and processes integrations to create efficient…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

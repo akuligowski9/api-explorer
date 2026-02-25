@@ -1,0 +1,21 @@
+{
+  "id": "loginradius",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LoginRadius",
+    "description": "Managed User Authentication Service",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "LoginRadius",
+    "subtitle": "Managed User Authentication Service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

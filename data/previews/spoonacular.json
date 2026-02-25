@@ -1,0 +1,21 @@
+{
+  "id": "spoonacular",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Spoonacular",
+    "description": "Recipes, Food Products, and Meal Planning",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Spoonacular",
+    "subtitle": "Recipes, Food Products, and Meal Planning",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

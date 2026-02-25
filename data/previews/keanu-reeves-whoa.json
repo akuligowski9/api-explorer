@@ -1,0 +1,21 @@
+{
+  "id": "keanu-reeves-whoa",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Keanu Reeves Whoa",
+    "description": "JSON API for every \"whoa\" said by actor Keanu Reeves in his movies",
+    "category": "Entertainment",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Keanu Reeves Whoa",
+    "subtitle": "JSON API for every \"whoa\" said by actor Keanu Reeves in his…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

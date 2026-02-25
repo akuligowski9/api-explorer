@@ -1,0 +1,21 @@
+{
+  "id": "serialif-color",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Serialif Color",
+    "description": "Color conversion, complementary, grayscale and contrasted text",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Serialif Color",
+    "subtitle": "Color conversion, complementary, grayscale and contrasted…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

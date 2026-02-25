@@ -1,0 +1,21 @@
+{
+  "id": "geodescription",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GeoDescription",
+    "description": "Reverse geocoding - Converting geographic coordinates to address-like location description",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GeoDescription",
+    "subtitle": "Reverse geocoding - Converting geographic coordinates to…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

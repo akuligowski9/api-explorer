@@ -1,0 +1,21 @@
+{
+  "id": "screenshotapi-net",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ScreenshotAPI.net",
+    "description": "Create pixel-perfect website screenshots",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ScreenshotAPI.net",
+    "subtitle": "Create pixel-perfect website screenshots",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

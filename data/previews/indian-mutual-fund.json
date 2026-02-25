@@ -1,0 +1,21 @@
+{
+  "id": "indian-mutual-fund",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Indian Mutual Fund",
+    "description": "Get complete history of India Mutual Funds Data",
+    "category": "Finance",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Indian Mutual Fund",
+    "subtitle": "Get complete history of India Mutual Funds Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

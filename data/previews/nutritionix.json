@@ -1,0 +1,21 @@
+{
+  "id": "nutritionix",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Nutritionix",
+    "description": "Worlds largest verified nutrition database",
+    "category": "Health",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Nutritionix",
+    "subtitle": "Worlds largest verified nutrition database",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

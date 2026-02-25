@@ -1,0 +1,21 @@
+{
+  "id": "graphhopper",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GraphHopper",
+    "description": "A-to-B routing with turn-by-turn instructions",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GraphHopper",
+    "subtitle": "A-to-B routing with turn-by-turn instructions",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

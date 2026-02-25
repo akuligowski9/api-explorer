@@ -1,0 +1,21 @@
+{
+  "id": "open-government-malaysia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Malaysia",
+    "description": "Malaysia Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Malaysia",
+    "subtitle": "Malaysia Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ifttt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IFTTT",
+    "description": "IFTTT Connect API",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IFTTT",
+    "subtitle": "IFTTT Connect API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

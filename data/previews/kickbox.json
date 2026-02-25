@@ -1,0 +1,21 @@
+{
+  "id": "kickbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kickbox",
+    "description": "Email verification API",
+    "category": "Email",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Kickbox",
+    "subtitle": "Email verification API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

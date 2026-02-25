@@ -1,0 +1,21 @@
+{
+  "id": "transitland",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TransitLand",
+    "description": "Transit Aggregation",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TransitLand",
+    "subtitle": "Transit Aggregation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

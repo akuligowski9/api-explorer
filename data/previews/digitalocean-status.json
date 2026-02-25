@@ -1,0 +1,21 @@
+{
+  "id": "digitalocean-status",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DigitalOcean Status",
+    "description": "Status of all DigitalOcean services",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "DigitalOcean Status",
+    "subtitle": "Status of all DigitalOcean services",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

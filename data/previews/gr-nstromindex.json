@@ -1,0 +1,21 @@
+{
+  "id": "gr-nstromindex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GrünstromIndex",
+    "description": "Green Power Index for Germany (Grünstromindex/GSI)",
+    "category": "Environment",
+    "auth": "None",
+    "https": false,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GrünstromIndex",
+    "subtitle": "Green Power Index for Germany (Grünstromindex/GSI)",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

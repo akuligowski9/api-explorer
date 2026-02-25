@@ -1,0 +1,21 @@
+{
+  "id": "mailsac",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mailsac",
+    "description": "Disposable Email",
+    "category": "Test Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mailsac",
+    "subtitle": "Disposable Email",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

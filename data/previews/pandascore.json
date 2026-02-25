@@ -1,0 +1,21 @@
+{
+  "id": "pandascore",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PandaScore",
+    "description": "E-sports games and results",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PandaScore",
+    "subtitle": "E-sports games and results",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

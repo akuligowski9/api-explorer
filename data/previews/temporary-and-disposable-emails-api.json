@@ -1,0 +1,21 @@
+{
+  "id": "temporary-and-disposable-emails-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Temporary and Disposable emails API",
+    "description": "This API provides temporary & disposable email addresses",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Temporary and Disposable emails API",
+    "subtitle": "This API provides temporary & disposable email addresses",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

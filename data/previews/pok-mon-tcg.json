@@ -1,0 +1,21 @@
+{
+  "id": "pok-mon-tcg",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pokémon TCG",
+    "description": "Pokémon TCG Information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pokémon TCG",
+    "subtitle": "Pokémon TCG Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sirv",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sirv",
+    "description": "Image management solutions like optimization, manipulation, hosting",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sirv",
+    "subtitle": "Image management solutions like optimization, manipulation,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

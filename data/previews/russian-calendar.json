@@ -1,0 +1,21 @@
+{
+  "id": "russian-calendar",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Russian Calendar",
+    "description": "Check if a date is a Russian holiday or not",
+    "category": "Calendar",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Russian Calendar",
+    "subtitle": "Check if a date is a Russian holiday or not",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

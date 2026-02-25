@@ -1,0 +1,21 @@
+{
+  "id": "dagpi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Dagpi",
+    "description": "Image manipulation and processing",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Dagpi",
+    "subtitle": "Image manipulation and processing",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "black-history-facts",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Black History Facts",
+    "description": "Contribute or search one of the largest black history fact databases on the web",
+    "category": "Open Data",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Black History Facts",
+    "subtitle": "Contribute or search one of the largest black history fact…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

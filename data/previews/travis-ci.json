@@ -1,0 +1,21 @@
+{
+  "id": "travis-ci",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Travis CI",
+    "description": "Sync your GitHub projects with Travis CI to test your code in minutes",
+    "category": "Continuous Integration",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Travis CI",
+    "subtitle": "Sync your GitHub projects with Travis CI to test your code…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

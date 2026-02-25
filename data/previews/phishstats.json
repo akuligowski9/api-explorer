@@ -1,0 +1,21 @@
+{
+  "id": "phishstats",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PhishStats",
+    "description": "Phishing database",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PhishStats",
+    "subtitle": "Phishing database",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "runescape",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RuneScape",
+    "description": "RuneScape and OSRS RPGs information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "RuneScape",
+    "subtitle": "RuneScape and OSRS RPGs information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

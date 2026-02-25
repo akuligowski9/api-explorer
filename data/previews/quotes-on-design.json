@@ -1,0 +1,21 @@
+{
+  "id": "quotes-on-design",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Quotes on Design",
+    "description": "Inspirational Quotes",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Quotes on Design",
+    "subtitle": "Inspirational Quotes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

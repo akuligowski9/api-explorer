@@ -1,0 +1,21 @@
+{
+  "id": "jsonai-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "jsonAi.cloud",
+    "description": "Save JSON schemas as api endpoints, feed it with your data and get structured JSON responses with AI",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "jsonAi.cloud",
+    "subtitle": "Save JSON schemas as api endpoints, feed it with your data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

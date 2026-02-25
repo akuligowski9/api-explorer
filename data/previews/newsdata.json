@@ -1,0 +1,21 @@
+{
+  "id": "newsdata",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NewsData",
+    "description": "News data API for live-breaking news and headlines from reputed news sources",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NewsData",
+    "subtitle": "News data API for live-breaking news and headlines from…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

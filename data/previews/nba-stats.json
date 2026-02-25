@@ -1,0 +1,21 @@
+{
+  "id": "nba-stats",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NBA Stats",
+    "description": "NBA player statistics, season totals, advanced metrics, game data, and shot chart data",
+    "category": "Sports & Fitness",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NBA Stats",
+    "subtitle": "NBA player statistics, season totals, advanced metrics,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

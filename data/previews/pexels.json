@@ -1,0 +1,21 @@
+{
+  "id": "pexels",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pexels",
+    "description": "Free Stock Photos and Videos",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Pexels",
+    "subtitle": "Free Stock Photos and Videos",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

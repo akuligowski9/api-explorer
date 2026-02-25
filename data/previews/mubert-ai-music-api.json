@@ -1,0 +1,21 @@
+{
+  "id": "mubert-ai-music-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mubert AI Music API",
+    "description": "Integrate AI music into your app, game or service",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mubert AI Music API",
+    "subtitle": "Integrate AI music into your app, game or service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

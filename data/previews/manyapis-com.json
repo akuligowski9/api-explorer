@@ -1,0 +1,21 @@
+{
+  "id": "manyapis-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Manyapis.com",
+    "description": "Free URL shortener API with up to 50 requests per day",
+    "category": "URL Shorteners",
+    "auth": "Yes",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Manyapis.com",
+    "subtitle": "Free URL shortener API with up to 50 requests per day",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

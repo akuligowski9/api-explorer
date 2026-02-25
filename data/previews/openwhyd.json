@@ -1,0 +1,21 @@
+{
+  "id": "openwhyd",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Openwhyd",
+    "description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
+    "category": "Music",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Openwhyd",
+    "subtitle": "Download curated playlists of streaming tracks (YouTube,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

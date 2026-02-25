@@ -1,0 +1,21 @@
+{
+  "id": "canadian-football-league-cfl",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Canadian Football League (CFL)",
+    "description": "Official JSON API providing real-time league, team and player statistics about the CFL",
+    "category": "Sports & Fitness",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Canadian Football League (CFL)",
+    "subtitle": "Official JSON API providing real-time league, team and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

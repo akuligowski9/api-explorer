@@ -1,0 +1,21 @@
+{
+  "id": "tomtom",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TomTom",
+    "description": "Maps, Directions, Places and Traffic APIs",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "TomTom",
+    "subtitle": "Maps, Directions, Places and Traffic APIs",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

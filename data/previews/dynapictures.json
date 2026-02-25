@@ -1,0 +1,21 @@
+{
+  "id": "dynapictures",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "DynaPictures",
+    "description": "Generate Hundreds of Personalized Images in Minutes",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "DynaPictures",
+    "subtitle": "Generate Hundreds of Personalized Images in Minutes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

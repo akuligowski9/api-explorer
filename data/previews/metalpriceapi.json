@@ -1,0 +1,21 @@
+{
+  "id": "metalpriceapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MetalpriceAPI",
+    "description": "Real-time and historical exchange rates and currency conversion API",
+    "category": "Currency Exchange",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MetalpriceAPI",
+    "subtitle": "Real-time and historical exchange rates and currency…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

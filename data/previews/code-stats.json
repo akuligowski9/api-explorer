@@ -1,0 +1,21 @@
+{
+  "id": "code-stats",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Code::Stats",
+    "description": "Automatic time tracking for programmers",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Code::Stats",
+    "subtitle": "Automatic time tracking for programmers",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

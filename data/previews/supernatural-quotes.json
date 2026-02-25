@@ -1,0 +1,21 @@
+{
+  "id": "supernatural-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Supernatural Quotes",
+    "description": "100+ Supernatural quotes",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Supernatural Quotes",
+    "subtitle": "100+ Supernatural quotes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

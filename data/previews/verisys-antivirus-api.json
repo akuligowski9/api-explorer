@@ -1,0 +1,21 @@
+{
+  "id": "verisys-antivirus-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Verisys Antivirus API",
+    "description": "Antivirus as a service - REST API that scans provided files for malware and NSFW content",
+    "category": "Anti-Malware",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Verisys Antivirus API",
+    "subtitle": "Antivirus as a service - REST API that scans provided files…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

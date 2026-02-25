@@ -1,0 +1,21 @@
+{
+  "id": "indodax",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Indodax",
+    "description": "Trade your Bitcoin and other assets with rupiah",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Indodax",
+    "subtitle": "Trade your Bitcoin and other assets with rupiah",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bly-to",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Bly.to",
+    "description": "URL shortening service with analytics and tracking capabilities",
+    "category": "URL Shorteners",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Bly.to",
+    "subtitle": "URL shortening service with analytics and tracking…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

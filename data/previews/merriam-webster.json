@@ -1,0 +1,21 @@
+{
+  "id": "merriam-webster",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Merriam-Webster",
+    "description": "Dictionary and Thesaurus Data",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Merriam-Webster",
+    "subtitle": "Dictionary and Thesaurus Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

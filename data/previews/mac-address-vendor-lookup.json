@@ -1,0 +1,21 @@
+{
+  "id": "mac-address-vendor-lookup",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MAC address vendor lookup",
+    "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "MAC address vendor lookup",
+    "subtitle": "Retrieve vendor details and other information regarding a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

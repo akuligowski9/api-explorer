@@ -1,0 +1,21 @@
+{
+  "id": "klarna",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Klarna",
+    "description": "Klarna payment and shopping service",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Klarna",
+    "subtitle": "Klarna payment and shopping service",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

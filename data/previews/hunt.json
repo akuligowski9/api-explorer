@@ -1,0 +1,21 @@
+{
+  "id": "hunt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hunt",
+    "description": "Video To API. Get video or audio and metadata for all video platforms with one provider.",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Hunt",
+    "subtitle": "Video To API. Get video or audio and metadata for all video…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

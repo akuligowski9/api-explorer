@@ -1,0 +1,21 @@
+{
+  "id": "crxcavator",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CRXcavator",
+    "description": "Chrome extension risk scoring",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CRXcavator",
+    "subtitle": "Chrome extension risk scoring",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

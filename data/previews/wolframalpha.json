@@ -1,0 +1,21 @@
+{
+  "id": "wolframalpha",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WolframAlpha",
+    "description": "Provides specific answers to questions using data and algorithms",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "WolframAlpha",
+    "subtitle": "Provides specific answers to questions using data and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

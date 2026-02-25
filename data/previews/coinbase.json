@@ -1,0 +1,21 @@
+{
+  "id": "coinbase",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Coinbase",
+    "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Coinbase",
+    "subtitle": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

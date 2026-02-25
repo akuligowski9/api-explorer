@@ -1,0 +1,21 @@
+{
+  "id": "hong-kong-geodata-store",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Hong Kong GeoData Store",
+    "description": "API for accessing geo-data of Hong Kong",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Hong Kong GeoData Store",
+    "subtitle": "API for accessing geo-data of Hong Kong",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

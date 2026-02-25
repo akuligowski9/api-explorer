@@ -1,0 +1,21 @@
+{
+  "id": "polygon",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Polygon",
+    "description": "Historical stock market data",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Polygon",
+    "subtitle": "Historical stock market data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "valorant-non-official",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Valorant (non-official)",
+    "description": "An extensive API containing data of most Valorant in-game items, assets and more",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Valorant (non-official)",
+    "subtitle": "An extensive API containing data of most Valorant in-game…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

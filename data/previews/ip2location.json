@@ -1,0 +1,21 @@
+{
+  "id": "ip2location",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IP2Location",
+    "description": "IP geolocation web service to get more than 55 parameters",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IP2Location",
+    "subtitle": "IP geolocation web service to get more than 55 parameters",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

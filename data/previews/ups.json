@@ -1,0 +1,21 @@
+{
+  "id": "ups",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "UPS",
+    "description": "Shipment and Address information",
+    "category": "Tracking",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "UPS",
+    "subtitle": "Shipment and Address information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

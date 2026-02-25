@@ -1,0 +1,21 @@
+{
+  "id": "mailchimp",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mailchimp",
+    "description": "Send marketing campaigns and transactional mails",
+    "category": "Business",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mailchimp",
+    "subtitle": "Send marketing campaigns and transactional mails",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

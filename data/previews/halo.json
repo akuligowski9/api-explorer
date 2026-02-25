@@ -1,0 +1,21 @@
+{
+  "id": "halo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Halo",
+    "description": "Halo 5 and Halo Wars 2 Information",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Halo",
+    "subtitle": "Halo 5 and Halo Wars 2 Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

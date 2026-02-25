@@ -1,0 +1,21 @@
+{
+  "id": "associated-press",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Associated Press",
+    "description": "Search for news and metadata from Associated Press",
+    "category": "News",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Associated Press",
+    "subtitle": "Search for news and metadata from Associated Press",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

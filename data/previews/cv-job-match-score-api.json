@@ -1,0 +1,21 @@
+{
+  "id": "cv-job-match-score-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CV - Job match score API",
+    "description": "This API use multiple criteria to evaluate how well a candidate fits a job position",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CV - Job match score API",
+    "subtitle": "This API use multiple criteria to evaluate how well a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

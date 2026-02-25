@@ -1,0 +1,21 @@
+{
+  "id": "pastebin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pastebin",
+    "description": "Plain Text Storage",
+    "category": "Cloud Storage & File Sharing",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pastebin",
+    "subtitle": "Plain Text Storage",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

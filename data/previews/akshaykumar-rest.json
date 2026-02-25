@@ -1,0 +1,21 @@
+{
+  "id": "akshaykumar-rest",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "akshaykumar-rest",
+    "description": "Akshay Kumar for every HTTP status code",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "akshaykumar-rest",
+    "subtitle": "Akshay Kumar for every HTTP status code",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "emailvalidation",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Emailvalidation",
+    "description": "E-Mail address validation",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Emailvalidation",
+    "subtitle": "E-Mail address validation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "coinapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CoinAPI",
+    "description": "All Currency Exchanges integrate under a single api",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "CoinAPI",
+    "subtitle": "All Currency Exchanges integrate under a single api",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

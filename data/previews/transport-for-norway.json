@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-norway",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Norway",
+    "description": "Transport APIs and dataset for Norway",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Norway",
+    "subtitle": "Transport APIs and dataset for Norway",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

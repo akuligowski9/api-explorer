@@ -1,0 +1,21 @@
+{
+  "id": "finage",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Finage",
+    "description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Finage",
+    "subtitle": "Finage is a stock, currency, cryptocurrency, indices, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

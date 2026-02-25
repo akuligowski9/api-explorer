@@ -1,0 +1,21 @@
+{
+  "id": "canopy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Canopy",
+    "description": "A modern API for Amazon Data",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Canopy",
+    "subtitle": "A modern API for Amazon Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

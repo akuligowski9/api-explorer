@@ -1,0 +1,21 @@
+{
+  "id": "geodata-gov-gr",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geodata.gov.gr",
+    "description": "Open geospatial data and API service for Greece",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Geodata.gov.gr",
+    "subtitle": "Open geospatial data and API service for Greece",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

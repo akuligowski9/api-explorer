@@ -1,0 +1,21 @@
+{
+  "id": "advanced-multilanguage-ai-translator-rapidapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Advanced Multilanguage AI Translator (RapidAPI)",
+    "description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
+    "category": "Machine Learning",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Advanced Multilanguage AI Translator (RapidAPI)",
+    "subtitle": "AI-powered translator supporting multiple languages with…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

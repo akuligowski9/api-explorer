@@ -1,0 +1,21 @@
+{
+  "id": "github-contribution-chart-generator",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GitHub Contribution Chart Generator",
+    "description": "Create an image of your GitHub contributions",
+    "category": "Open Source Projects",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GitHub Contribution Chart Generator",
+    "subtitle": "Create an image of your GitHub contributions",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

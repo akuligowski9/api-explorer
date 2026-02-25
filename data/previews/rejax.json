@@ -1,0 +1,21 @@
+{
+  "id": "rejax",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Rejax",
+    "description": "Reverse AJAX service to notify clients",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Rejax",
+    "subtitle": "Reverse AJAX service to notify clients",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

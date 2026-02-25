@@ -1,0 +1,21 @@
+{
+  "id": "locationiq",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "LocationIQ",
+    "description": "Provides forward/reverse geocoding and batch geocoding",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "LocationIQ",
+    "subtitle": "Provides forward/reverse geocoding and batch geocoding",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

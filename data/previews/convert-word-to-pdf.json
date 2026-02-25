@@ -1,0 +1,21 @@
+{
+  "id": "convert-word-to-pdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Convert Word to PDF",
+    "description": "Convert a Word document (doc, docx, or ODF formats) to a PDF document",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Convert Word to PDF",
+    "subtitle": "Convert a Word document (doc, docx, or ODF formats) to a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

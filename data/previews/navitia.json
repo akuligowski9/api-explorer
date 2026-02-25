@@ -1,0 +1,21 @@
+{
+  "id": "navitia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Navitia",
+    "description": "The open API for building cool stuff with transport data",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Navitia",
+    "subtitle": "The open API for building cool stuff with transport data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

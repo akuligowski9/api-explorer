@@ -1,0 +1,21 @@
+{
+  "id": "city-new-york-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "City, New York Open Data",
+    "description": "New York (US) City Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "City, New York Open Data",
+    "subtitle": "New York (US) City Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

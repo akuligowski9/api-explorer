@@ -1,0 +1,21 @@
+{
+  "id": "open-government-portugal",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Portugal",
+    "description": "Portugal Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Open Government, Portugal",
+    "subtitle": "Portugal Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

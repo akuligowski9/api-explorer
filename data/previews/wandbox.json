@@ -1,0 +1,21 @@
+{
+  "id": "wandbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Wandbox",
+    "description": "Code compiler supporting 35+ languages mentioned at wandbox.org",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Wandbox",
+    "subtitle": "Code compiler supporting 35+ languages mentioned at…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

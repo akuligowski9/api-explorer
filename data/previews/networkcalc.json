@@ -1,0 +1,21 @@
+{
+  "id": "networkcalc",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NetworkCalc",
+    "description": "Network calculators, including subnets, DNS, binary, and security tools",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "NetworkCalc",
+    "subtitle": "Network calculators, including subnets, DNS, binary, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

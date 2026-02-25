@@ -1,0 +1,21 @@
+{
+  "id": "minecraft-server-status",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Minecraft Server Status",
+    "description": "API to get Information about a Minecraft Server",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Minecraft Server Status",
+    "subtitle": "API to get Information about a Minecraft Server",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

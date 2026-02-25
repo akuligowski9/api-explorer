@@ -1,0 +1,21 @@
+{
+  "id": "boston-mbta-transit",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Boston MBTA Transit",
+    "description": "Stations and predicted arrivals for MBTA",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Boston MBTA Transit",
+    "subtitle": "Stations and predicted arrivals for MBTA",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

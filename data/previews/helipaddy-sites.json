@@ -1,0 +1,21 @@
+{
+  "id": "helipaddy-sites",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Helipaddy sites",
+    "description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
+    "category": "Vehicle",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Helipaddy sites",
+    "subtitle": "Helicopter and passenger drone landing site directory,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

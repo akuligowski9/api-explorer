@@ -1,0 +1,21 @@
+{
+  "id": "mozilla-tls-scanner",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Mozilla tls scanner",
+    "description": "Mozilla observatory tls scanner",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Mozilla tls scanner",
+    "subtitle": "Mozilla observatory tls scanner",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

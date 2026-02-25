@@ -1,0 +1,21 @@
+{
+  "id": "quoterism",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Quoterism",
+    "description": "The Web's Largest Collection of Human Inspiration",
+    "category": "Personality",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Quoterism",
+    "subtitle": "The Web's Largest Collection of Human Inspiration",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

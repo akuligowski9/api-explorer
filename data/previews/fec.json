@@ -1,0 +1,21 @@
+{
+  "id": "fec",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FEC",
+    "description": "Information on campaign donations in federal elections",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FEC",
+    "subtitle": "Information on campaign donations in federal elections",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

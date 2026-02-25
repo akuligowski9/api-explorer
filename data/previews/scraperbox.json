@@ -1,0 +1,21 @@
+{
+  "id": "scraperbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "scraperBox",
+    "description": "Undetectable web scraping API",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "scraperBox",
+    "subtitle": "Undetectable web scraping API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

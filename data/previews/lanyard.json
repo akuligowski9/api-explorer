@@ -1,0 +1,21 @@
+{
+  "id": "lanyard",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Lanyard",
+    "description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
+    "category": "Social",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Lanyard",
+    "subtitle": "Retrieve your presence on Discord through an HTTP REST API…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "itis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ITIS",
+    "description": "Integrated Taxonomic Information System",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "ITIS",
+    "subtitle": "Integrated Taxonomic Information System",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

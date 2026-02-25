@@ -1,0 +1,21 @@
+{
+  "id": "validate-iban-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Validate IBAN API ",
+    "description": "This API lets you quickly validate IBAN bank codes",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Validate IBAN API ",
+    "subtitle": "This API lets you quickly validate IBAN bank codes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

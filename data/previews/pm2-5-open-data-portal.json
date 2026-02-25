@@ -1,0 +1,21 @@
+{
+  "id": "pm2-5-open-data-portal",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "PM2.5 Open Data Portal",
+    "description": "Open low-cost PM2.5 sensor data",
+    "category": "Environment",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "PM2.5 Open Data Portal",
+    "subtitle": "Open low-cost PM2.5 sensor data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

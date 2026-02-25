@@ -1,0 +1,21 @@
+{
+  "id": "azure-devops",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Azure DevOps",
+    "description": "The Azure DevOps basic components of a REST API request/response pair",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Azure DevOps",
+    "subtitle": "The Azure DevOps basic components of a REST API…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "church-calendar",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Church Calendar",
+    "description": "Catholic liturgical calendar",
+    "category": "Calendar",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Church Calendar",
+    "subtitle": "Catholic liturgical calendar",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

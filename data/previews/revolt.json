@@ -1,0 +1,21 @@
+{
+  "id": "revolt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Revolt",
+    "description": "Revolt open source Discord alternative",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Revolt",
+    "subtitle": "Revolt open source Discord alternative",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

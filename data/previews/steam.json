@@ -1,0 +1,21 @@
+{
+  "id": "steam",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Steam",
+    "description": "Steam Web API documentation",
+    "category": "Games & Comics",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Steam",
+    "subtitle": "Steam Web API documentation",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

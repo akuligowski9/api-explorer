@@ -1,0 +1,21 @@
+{
+  "id": "imdbot",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IMDbOT",
+    "description": "Unofficial IMDb Movie / Series Information",
+    "category": "Video",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "IMDbOT",
+    "subtitle": "Unofficial IMDb Movie / Series Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

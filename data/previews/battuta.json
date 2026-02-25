@@ -1,0 +1,21 @@
+{
+  "id": "battuta",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Battuta",
+    "description": "A (country/region/city) in-cascade location API",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Battuta",
+    "subtitle": "A (country/region/city) in-cascade location API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

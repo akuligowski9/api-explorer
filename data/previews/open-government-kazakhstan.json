@@ -1,0 +1,21 @@
+{
+  "id": "open-government-kazakhstan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Kazakhstan",
+    "description": "Kazakhstan Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Kazakhstan",
+    "subtitle": "Kazakhstan Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

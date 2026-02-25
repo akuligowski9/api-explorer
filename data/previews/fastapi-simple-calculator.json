@@ -1,0 +1,21 @@
+{
+  "id": "fastapi-simple-calculator",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FastApi Simple Calculator",
+    "description": "Math, Stadistics, Conversions, Currency and more",
+    "category": "Documents & Productivity",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FastApi Simple Calculator",
+    "subtitle": "Math, Stadistics, Conversions, Currency and more",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

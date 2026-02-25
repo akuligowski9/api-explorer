@@ -1,0 +1,21 @@
+{
+  "id": "football-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Football-Data",
+    "description": "Football data with matches info, players, teams, and competitions",
+    "category": "Sports & Fitness",
+    "auth": "X-Mashape-Key",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Football-Data",
+    "subtitle": "Football data with matches info, players, teams, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

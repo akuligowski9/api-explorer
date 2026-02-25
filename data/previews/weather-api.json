@@ -1,0 +1,21 @@
+{
+  "id": "weather-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "weather-api",
+    "description": "A RESTful free API to check the weather",
+    "category": "Weather",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "weather-api",
+    "subtitle": "A RESTful free API to check the weather",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

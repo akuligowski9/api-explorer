@@ -1,0 +1,21 @@
+{
+  "id": "meetup",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Meetup",
+    "description": "Data about Meetups from Meetup.com",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Meetup",
+    "subtitle": "Data about Meetups from Meetup.com",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

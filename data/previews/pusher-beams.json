@@ -1,0 +1,21 @@
+{
+  "id": "pusher-beams",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pusher Beams",
+    "description": "Push notifications for Android & iOS",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Pusher Beams",
+    "subtitle": "Push notifications for Android & iOS",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

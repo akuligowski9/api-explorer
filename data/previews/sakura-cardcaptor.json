@@ -1,0 +1,21 @@
+{
+  "id": "sakura-cardcaptor",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sakura CardCaptor",
+    "description": "Sakura CardCaptor Cards Information",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Sakura CardCaptor",
+    "subtitle": "Sakura CardCaptor Cards Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

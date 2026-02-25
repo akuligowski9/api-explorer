@@ -1,0 +1,21 @@
+{
+  "id": "land-transport-authority-datamall-singapore",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Land Transport Authority DataMall, Singapore",
+    "description": "Singapore transport information",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Land Transport Authority DataMall, Singapore",
+    "subtitle": "Singapore transport information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

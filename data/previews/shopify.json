@@ -1,0 +1,21 @@
+{
+  "id": "shopify",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Shopify",
+    "description": "Manage sales channels, customers, products, and discounts for a retail business",
+    "category": "Shopping",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Shopify",
+    "subtitle": "Manage sales channels, customers, products, and discounts…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

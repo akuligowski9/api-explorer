@@ -1,0 +1,21 @@
+{
+  "id": "gbif",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GBIF",
+    "description": "Global Biodiversity Information Facility",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "GBIF",
+    "subtitle": "Global Biodiversity Information Facility",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

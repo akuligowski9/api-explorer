@@ -1,0 +1,21 @@
+{
+  "id": "urban-observatory",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Urban Observatory",
+    "description": "The largest set of publicly available real time urban data in the UK",
+    "category": "Open Data",
+    "auth": "None",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Urban Observatory",
+    "subtitle": "The largest set of publicly available real time urban data…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "geocod-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Geocod.io",
+    "description": "Address geocoding / reverse geocoding in bulk",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Geocod.io",
+    "subtitle": "Address geocoding / reverse geocoding in bulk",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

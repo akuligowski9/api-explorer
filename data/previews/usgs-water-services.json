@@ -1,0 +1,21 @@
+{
+  "id": "usgs-water-services",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "USGS Water Services",
+    "description": "Water quality and level info for rivers and lakes",
+    "category": "Science & Math",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "USGS Water Services",
+    "subtitle": "Water quality and level info for rivers and lakes",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

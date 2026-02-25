@@ -1,0 +1,21 @@
+{
+  "id": "supportivekoala",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Supportivekoala",
+    "description": "Autogenerate images with template",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Supportivekoala",
+    "subtitle": "Autogenerate images with template",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

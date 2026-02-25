@@ -1,0 +1,21 @@
+{
+  "id": "ilovepdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "iLovePDF",
+    "description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "iLovePDF",
+    "subtitle": "Convert, merge, split, extract text and add page numbers…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

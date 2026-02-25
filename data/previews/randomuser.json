@@ -1,0 +1,21 @@
+{
+  "id": "randomuser",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "RandomUser",
+    "description": "Generates and list user data",
+    "category": "Test Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "RandomUser",
+    "subtitle": "Generates and list user data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "messari",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Messari",
+    "description": "Provides API endpoints for thousands of crypto assets",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Messari",
+    "subtitle": "Provides API endpoints for thousands of crypto assets",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

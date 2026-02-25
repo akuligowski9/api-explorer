@@ -1,0 +1,21 @@
+{
+  "id": "1clickimpact",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "1ClickImpact",
+    "description": "Environmental impact API for tree planting, carbon offsetting and ocean cleanup",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "1ClickImpact",
+    "subtitle": "Environmental impact API for tree planting, carbon…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

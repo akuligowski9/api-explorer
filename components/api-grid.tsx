@@ -1,13 +1,15 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import { AnimatePresence } from "framer-motion";
+import { useState, useMemo, useCallback } from "react";
+import { AnimatePresence, motion } from "framer-motion";
 import { SearchBar } from "./search-bar";
 import { CategoryChips } from "./category-chips";
 import { ApiCard } from "./api-card";
 import { searchApis } from "@/lib/search";
 import { getCategoriesForFilter } from "@/lib/categories";
 import type { ApiEntry } from "@/lib/types";
+
+const PAGE_SIZE = 36;
 
 interface ApiGridProps {
   apis: ApiEntry[];
@@ -16,6 +18,7 @@ interface ApiGridProps {
 export function ApiGrid({ apis }: ApiGridProps) {
   const [query, setQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState("All");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const filtered = useMemo(() => {
     let result = apis;
@@ -40,20 +43,33 @@ export function ApiGrid({ apis }: ApiGridProps) {
     return result;
   }, [apis, query, activeFilter]);
 
+  // Reset visible count when filters change
+  const handleFilterChange = useCallback((cat: string) => {
+    setActiveFilter(cat);
+    setQuery("");
+    setVisibleCount(PAGE_SIZE);
+  }, []);
+
+  const handleSearchChange = useCallback((value: string) => {
+    setQuery(value);
+    setVisibleCount(PAGE_SIZE);
+  }, []);
+
+  const visible = filtered.slice(0, visibleCount);
+  const hasMore = visibleCount < filtered.length;
+  const remaining = filtered.length - visibleCount;
+
   return (
     <div className="space-y-6">
       <SearchBar
         value={query}
-        onChange={setQuery}
+        onChange={handleSearchChange}
         resultCount={filtered.length}
       />
 
       <CategoryChips
         selected={activeFilter}
-        onSelect={(cat) => {
-          setActiveFilter(cat);
-          setQuery("");
-        }}
+        onSelect={handleFilterChange}
       />
 
       {filtered.length === 0 ? (
@@ -64,18 +80,39 @@ export function ApiGrid({ apis }: ApiGridProps) {
           </p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <AnimatePresence mode="popLayout">
-            {filtered.map((api, i) => (
-              <ApiCard
-                key={api.slug}
-                api={api}
-                index={i}
-                featured={!!api.preview}
-              />
-            ))}
-          </AnimatePresence>
-        </div>
+        <>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <AnimatePresence mode="popLayout">
+              {visible.map((api, i) => (
+                <ApiCard
+                  key={api.slug}
+                  api={api}
+                  index={i}
+                  featured={!!api.preview}
+                />
+              ))}
+            </AnimatePresence>
+          </div>
+
+          {hasMore && (
+            <motion.div
+              className="flex justify-center pt-4 pb-2"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.3 }}
+            >
+              <button
+                onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+                className="group flex items-center gap-2 rounded-full bg-foreground/5 px-8 py-3 text-sm font-medium text-foreground transition-all hover:bg-foreground/10 hover:shadow-md active:scale-[0.98]"
+              >
+                Show more
+                <span className="text-xs text-muted-foreground">
+                  ({Math.min(remaining, PAGE_SIZE)} of {remaining} remaining)
+                </span>
+              </button>
+            </motion.div>
+          )}
+        </>
       )}
     </div>
   );

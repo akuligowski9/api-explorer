@@ -1,0 +1,21 @@
+{
+  "id": "mercadobitcoin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MercadoBitcoin",
+    "description": "Brazilian Cryptocurrency Information",
+    "category": "Cryptocurrency",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "MercadoBitcoin",
+    "subtitle": "Brazilian Cryptocurrency Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

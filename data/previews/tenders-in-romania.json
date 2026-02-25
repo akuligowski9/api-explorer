@@ -1,0 +1,21 @@
+{
+  "id": "tenders-in-romania",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tenders in Romania",
+    "description": "Get data for procurements in Romania in JSON format",
+    "category": "Business",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Tenders in Romania",
+    "subtitle": "Get data for procurements in Romania in JSON format",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

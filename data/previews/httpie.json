@@ -1,0 +1,21 @@
+{
+  "id": "httpie",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "HTTPie",
+    "description": "a free command-line HTTP client for the API era",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "HTTPie",
+    "subtitle": "a free command-line HTTP client for the API era",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ghost",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Ghost",
+    "description": "Get Published content into your Website, App or other embedded media",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Ghost",
+    "subtitle": "Get Published content into your Website, App or other…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

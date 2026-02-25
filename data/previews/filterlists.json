@@ -1,0 +1,21 @@
+{
+  "id": "filterlists",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FilterLists",
+    "description": "Lists of filters for adblockers and firewalls",
+    "category": "Security",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "FilterLists",
+    "subtitle": "Lists of filters for adblockers and firewalls",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

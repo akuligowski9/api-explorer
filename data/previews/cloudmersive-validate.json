@@ -1,0 +1,21 @@
+{
+  "id": "cloudmersive-validate",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudmersive Validate",
+    "description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudmersive Validate",
+    "subtitle": "Validate email addresses, phone numbers, VAT numbers and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

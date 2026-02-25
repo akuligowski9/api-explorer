@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-the-netherlands",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for The Netherlands",
+    "description": "NS, only trains",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for The Netherlands",
+    "subtitle": "NS, only trains",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

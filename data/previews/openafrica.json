@@ -1,0 +1,21 @@
+{
+  "id": "openafrica",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "openAFRICA",
+    "description": "Large datasets repository of African open data",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "openAFRICA",
+    "subtitle": "Large datasets repository of African open data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

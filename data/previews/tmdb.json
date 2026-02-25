@@ -1,0 +1,21 @@
+{
+  "id": "tmdb",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "TMDb",
+    "description": "Community-based movie data",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "TMDb",
+    "subtitle": "Community-based movie data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

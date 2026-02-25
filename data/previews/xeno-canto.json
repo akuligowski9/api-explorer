@@ -1,0 +1,21 @@
+{
+  "id": "xeno-canto",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "xeno-canto",
+    "description": "Bird recordings",
+    "category": "Animals",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "xeno-canto",
+    "subtitle": "Bird recordings",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

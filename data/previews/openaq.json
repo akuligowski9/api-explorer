@@ -1,0 +1,21 @@
+{
+  "id": "openaq",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OpenAQ",
+    "description": "Open air quality data",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OpenAQ",
+    "subtitle": "Open air quality data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

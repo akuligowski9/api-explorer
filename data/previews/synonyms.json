@@ -1,0 +1,21 @@
+{
+  "id": "synonyms",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Synonyms",
+    "description": "Synonyms, thesaurus and antonyms information for any given word",
+    "category": "Dictionaries",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Synonyms",
+    "subtitle": "Synonyms, thesaurus and antonyms information for any given…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

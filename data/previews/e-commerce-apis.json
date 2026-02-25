@@ -1,0 +1,21 @@
+{
+  "id": "e-commerce-apis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "E-Commerce APIs",
+    "description": "All around e-commerce APIs. Generate QR codes, product categories and thumbnails, barcodes and many more.",
+    "category": "Shopping",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "E-Commerce APIs",
+    "subtitle": "All around e-commerce APIs. Generate QR codes, product…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

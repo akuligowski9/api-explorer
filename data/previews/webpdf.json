@@ -1,0 +1,21 @@
+{
+  "id": "webpdf",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "WebPDF",
+    "description": "Work with PDF files via API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "WebPDF",
+    "subtitle": "Work with PDF files via API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

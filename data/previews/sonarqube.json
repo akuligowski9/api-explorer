@@ -1,0 +1,21 @@
+{
+  "id": "sonarqube",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SonarQube",
+    "description": "SonarQube REST APIs to detect bugs, code smells & security vulnerabilities",
+    "category": "Development",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "SonarQube",
+    "subtitle": "SonarQube REST APIs to detect bugs, code smells & security…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

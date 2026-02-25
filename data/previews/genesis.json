@@ -1,0 +1,21 @@
+{
+  "id": "genesis",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GENESIS",
+    "description": "Federal Statistical Office Germany",
+    "category": "Open Data",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GENESIS",
+    "subtitle": "Federal Statistical Office Germany",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

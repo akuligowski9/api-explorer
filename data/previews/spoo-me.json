@@ -1,0 +1,21 @@
+{
+  "id": "spoo-me",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Spoo.me",
+    "description": "Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support",
+    "category": "URL Shorteners",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Spoo.me",
+    "subtitle": "Free URL shortener with custom alias, max-clicks, password…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

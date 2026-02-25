@@ -1,0 +1,21 @@
+{
+  "id": "open-government-taiwan",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Taiwan",
+    "description": "Taiwan Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Taiwan",
+    "subtitle": "Taiwan Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

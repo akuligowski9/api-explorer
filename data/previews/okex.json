@@ -1,0 +1,21 @@
+{
+  "id": "okex",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "OKEx",
+    "description": "Cryptocurrency exchange based in Seychelles",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "OKEx",
+    "subtitle": "Cryptocurrency exchange based in Seychelles",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

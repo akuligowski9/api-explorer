@@ -1,0 +1,21 @@
+{
+  "id": "microsoft-graph",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Microsoft Graph",
+    "description": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",
+    "category": "Social",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Microsoft Graph",
+    "subtitle": "Access the data and intelligence in Microsoft 365, Windows…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

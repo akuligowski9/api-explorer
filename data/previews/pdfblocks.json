@@ -1,0 +1,21 @@
+{
+  "id": "pdfblocks",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Pdfblocks",
+    "description": "Generate PDF documents using API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Pdfblocks",
+    "subtitle": "Generate PDF documents using API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

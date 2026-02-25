@@ -1,0 +1,21 @@
+{
+  "id": "raider",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Raider",
+    "description": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft",
+    "category": "Games & Comics",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Raider",
+    "subtitle": "Provides detailed character and guild rankings for Raiding…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zyntra",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Zyntra",
+    "description": "Unlimited e-mail inboxes with API access. Catch OTPs, reset links, and sign-up emails in test flows",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Zyntra",
+    "subtitle": "Unlimited e-mail inboxes with API access. Catch OTPs, reset…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

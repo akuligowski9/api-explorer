@@ -1,0 +1,21 @@
+{
+  "id": "kakao-maps",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kakao Maps",
+    "description": "Kakao Maps provide multiple APIs for Korean maps",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Kakao Maps",
+    "subtitle": "Kakao Maps provide multiple APIs for Korean maps",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

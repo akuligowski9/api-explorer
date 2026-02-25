@@ -1,0 +1,21 @@
+{
+  "id": "kroger",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kroger",
+    "description": "Supermarket Data",
+    "category": "Food & Drink",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Kroger",
+    "subtitle": "Supermarket Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

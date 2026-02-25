@@ -1,0 +1,21 @@
+{
+  "id": "steem",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Steem",
+    "description": "Blockchain-based blogging and social media website",
+    "category": "Blockchain",
+    "auth": "None",
+    "https": false,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Steem",
+    "subtitle": "Blockchain-based blogging and social media website",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-honolulu-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Honolulu, US",
+    "description": "Honolulu Transportation Information",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Honolulu, US",
+    "subtitle": "Honolulu Transportation Information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

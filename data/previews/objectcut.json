@@ -1,0 +1,21 @@
+{
+  "id": "objectcut",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "ObjectCut",
+    "description": "Image Background removal",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "ObjectCut",
+    "subtitle": "Image Background removal",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

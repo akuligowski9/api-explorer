@@ -1,0 +1,21 @@
+{
+  "id": "tolgee",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Tolgee",
+    "description": "Open-source localization (i18n) platform enabling you to translate you app fast",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Tolgee",
+    "subtitle": "Open-source localization (i18n) platform enabling you to…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

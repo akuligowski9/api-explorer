@@ -1,0 +1,21 @@
+{
+  "id": "vertopal",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Vertopal",
+    "description": "Convert your files to a variety of formats using Vertopal API",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Vertopal",
+    "subtitle": "Convert your files to a variety of formats using Vertopal…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "open-government-norway",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Norway",
+    "description": "Norwegian Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Open Government, Norway",
+    "subtitle": "Norwegian Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

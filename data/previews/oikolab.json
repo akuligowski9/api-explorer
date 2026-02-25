@@ -1,0 +1,21 @@
+{
+  "id": "oikolab",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Oikolab",
+    "description": "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Oikolab",
+    "subtitle": "70+ years of global, hourly historical and forecast weather…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

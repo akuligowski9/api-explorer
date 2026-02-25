@@ -1,0 +1,21 @@
+{
+  "id": "transport-rest",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "transport.rest",
+    "description": "Community maintained, developer-friendly public transport API",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "transport.rest",
+    "subtitle": "Community maintained, developer-friendly public transport…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

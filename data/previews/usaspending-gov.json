@@ -1,0 +1,21 @@
+{
+  "id": "usaspending-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "USAspending.gov",
+    "description": "US federal spending data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "USAspending.gov",
+    "subtitle": "US federal spending data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

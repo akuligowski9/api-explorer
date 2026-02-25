@@ -1,0 +1,21 @@
+{
+  "id": "climatiq",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Climatiq",
+    "description": "Calculate the environmental footprint created by a broad range of emission-generating activities",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Climatiq",
+    "subtitle": "Calculate the environmental footprint created by a broad…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

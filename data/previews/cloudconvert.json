@@ -1,0 +1,21 @@
+{
+  "id": "cloudconvert",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CloudConvert",
+    "description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+    "category": "Documents & Productivity",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "CloudConvert",
+    "subtitle": "Online file converter for audio, video, document, ebook,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

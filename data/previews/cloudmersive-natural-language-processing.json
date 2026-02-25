@@ -1,0 +1,21 @@
+{
+  "id": "cloudmersive-natural-language-processing",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Cloudmersive Natural Language Processing",
+    "description": "Natural language processing and text analysis",
+    "category": "Text Analysis",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Cloudmersive Natural Language Processing",
+    "subtitle": "Natural language processing and text analysis",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

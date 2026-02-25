@@ -1,0 +1,21 @@
+{
+  "id": "apiip",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Apiip",
+    "description": "Get location information by IP address",
+    "category": "Geocoding",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Apiip",
+    "subtitle": "Get location information by IP address",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

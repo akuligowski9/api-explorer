@@ -1,0 +1,21 @@
+{
+  "id": "markdown-to-html-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Markdown to HTML API",
+    "description": "This API lets you upload and transform a Markdown file to HTML",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Markdown to HTML API",
+    "subtitle": "This API lets you upload and transform a Markdown file to…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "jobs2careers",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Jobs2Careers",
+    "description": "Job aggregator",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Jobs2Careers",
+    "subtitle": "Job aggregator",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

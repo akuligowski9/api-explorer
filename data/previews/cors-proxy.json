@@ -1,0 +1,21 @@
+{
+  "id": "cors-proxy",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "CORS Proxy",
+    "description": "Get around the dreaded CORS error by using this proxy as a middle man",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "CORS Proxy",
+    "subtitle": "Get around the dreaded CORS error by using this proxy as a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

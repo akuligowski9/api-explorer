@@ -1,0 +1,21 @@
+{
+  "id": "carbon-interface",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Carbon Interface",
+    "description": "API to calculate carbon (C02) emissions estimates for common C02 emitting activities",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Carbon Interface",
+    "subtitle": "API to calculate carbon (C02) emissions estimates for…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

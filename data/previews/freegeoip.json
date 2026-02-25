@@ -1,0 +1,21 @@
+{
+  "id": "freegeoip",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "FreeGeoIP",
+    "description": "Free geo ip information, no registration required. 15k/hour rate limit",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "FreeGeoIP",
+    "subtitle": "Free geo ip information, no registration required. 15k/hour…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

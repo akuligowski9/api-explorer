@@ -1,0 +1,21 @@
+{
+  "id": "thames-water-open-data",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Thames Water Open Data",
+    "description": "Open Data from the UK's largest water and wastewater services company",
+    "category": "Environment",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Thames Water Open Data",
+    "subtitle": "Open Data from the UK's largest water and wastewater…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

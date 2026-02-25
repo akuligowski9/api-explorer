@@ -1,0 +1,21 @@
+{
+  "id": "vagalume",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Vagalume",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Vagalume",
+    "subtitle": "Crowdsourced lyrics and music knowledge",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

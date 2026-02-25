@@ -1,0 +1,21 @@
+{
+  "id": "french-address-search",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "French Address Search",
+    "description": "Address search via the French Government",
+    "category": "Open Data",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "French Address Search",
+    "subtitle": "Address search via the French Government",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "socialdata-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "SocialData API",
+    "description": "Read Twitter data",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "SocialData API",
+    "subtitle": "Read Twitter data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

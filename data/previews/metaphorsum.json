@@ -1,0 +1,21 @@
+{
+  "id": "metaphorsum",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Metaphorsum",
+    "description": "Generate demo paragraphs giving number of words and sentences",
+    "category": "Test Data",
+    "auth": "None",
+    "https": false,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Metaphorsum",
+    "subtitle": "Generate demo paragraphs giving number of words and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

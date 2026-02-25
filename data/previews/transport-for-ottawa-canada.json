@@ -1,0 +1,21 @@
+{
+  "id": "transport-for-ottawa-canada",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Transport for Ottawa, Canada",
+    "description": "OC Transpo API",
+    "category": "Transportation",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Transport for Ottawa, Canada",
+    "subtitle": "OC Transpo API",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

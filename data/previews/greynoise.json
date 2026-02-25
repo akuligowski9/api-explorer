@@ -1,0 +1,21 @@
+{
+  "id": "greynoise",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GreyNoise",
+    "description": "Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data",
+    "category": "Security",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GreyNoise",
+    "subtitle": "Query IPs in the GreyNoise dataset and retrieve a subset of…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

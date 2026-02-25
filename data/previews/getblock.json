@@ -1,0 +1,21 @@
+{
+  "id": "getblock",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "GetBlock",
+    "description": "Blockchain RPC Node provider that supports over 50 multiple blockchains",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "GetBlock",
+    "subtitle": "Blockchain RPC Node provider that supports over 50 multiple…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

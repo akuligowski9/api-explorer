@@ -1,0 +1,21 @@
+{
+  "id": "phishin",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Phishin",
+    "description": "A web-based archive of legal live audio recordings of the improvisational rock band Phish",
+    "category": "Music",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Phishin",
+    "subtitle": "A web-based archive of legal live audio recordings of the…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ipgeo",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "IPGEO",
+    "description": "Unlimited free IP Address API with useful information",
+    "category": "Geocoding",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "IPGEO",
+    "subtitle": "Unlimited free IP Address API with useful information",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-bible",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "The Bible",
+    "description": "Everything you need from the Bible in one discoverable place",
+    "category": "Books",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "The Bible",
+    "subtitle": "Everything you need from the Bible in one discoverable place",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mta",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "MTA",
+    "description": "MTA Subway Realtime Feeds",
+    "category": "Transportation",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "MTA",
+    "subtitle": "MTA Subway Realtime Feeds",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

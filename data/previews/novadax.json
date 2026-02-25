@@ -1,0 +1,21 @@
+{
+  "id": "novadax",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "NovaDax",
+    "description": "NovaDAX API to access all market data, trading management endpoints",
+    "category": "Cryptocurrency",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "NovaDax",
+    "subtitle": "NovaDAX API to access all market data, trading management…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

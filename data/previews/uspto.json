@@ -1,0 +1,21 @@
+{
+  "id": "uspto",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "USPTO",
+    "description": "USA patent api services",
+    "category": "Patent",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "USPTO",
+    "subtitle": "USA patent api services",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "domainsdb-info",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Domainsdb.info",
+    "description": "Registered Domain Names Search",
+    "category": "Business",
+    "auth": "None",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Domainsdb.info",
+    "subtitle": "Registered Domain Names Search",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

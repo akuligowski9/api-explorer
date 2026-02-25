@@ -1,0 +1,21 @@
+{
+  "id": "trueguard",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Trueguard",
+    "description": "Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots",
+    "category": "Email",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Trueguard",
+    "subtitle": "Trueguard offers API for detecting temporary emails,…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

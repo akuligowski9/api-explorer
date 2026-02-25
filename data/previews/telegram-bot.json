@@ -1,0 +1,21 @@
+{
+  "id": "telegram-bot",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Telegram Bot",
+    "description": "Simplified HTTP version of the MTProto API for bots",
+    "category": "Social",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Telegram Bot",
+    "subtitle": "Simplified HTTP version of the MTProto API for bots",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

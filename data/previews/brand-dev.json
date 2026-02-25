@@ -1,0 +1,21 @@
+{
+  "id": "brand-dev",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Brand.dev",
+    "description": "API to personalize your product with logos, colors, and company info from any domain",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Brand.dev",
+    "subtitle": "API to personalize your product with logos, colors, and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

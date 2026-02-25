@@ -1,0 +1,21 @@
+{
+  "id": "kite-connect",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kite Connect",
+    "description": "Stock market investment and trading platform",
+    "category": "Finance",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Kite Connect",
+    "subtitle": "Stock market investment and trading platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

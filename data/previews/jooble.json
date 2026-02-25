@@ -1,0 +1,21 @@
+{
+  "id": "jooble",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Jooble",
+    "description": "Job search engine",
+    "category": "Jobs",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Jooble",
+    "subtitle": "Job search engine",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "watchmode",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Watchmode",
+    "description": "API for finding out the streaming availability of movies & shows",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Watchmode",
+    "subtitle": "API for finding out the streaming availability of movies &…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

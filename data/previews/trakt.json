@@ -1,0 +1,21 @@
+{
+  "id": "trakt",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Trakt",
+    "description": "Movie and TV Data",
+    "category": "Video",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Trakt",
+    "subtitle": "Movie and TV Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

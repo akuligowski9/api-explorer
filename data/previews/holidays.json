@@ -1,0 +1,21 @@
+{
+  "id": "holidays",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Holidays",
+    "description": "Historical data regarding holidays",
+    "category": "Calendar",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Holidays",
+    "subtitle": "Historical data regarding holidays",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

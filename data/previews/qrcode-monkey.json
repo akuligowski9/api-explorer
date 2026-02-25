@@ -1,0 +1,21 @@
+{
+  "id": "qrcode-monkey",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Qrcode Monkey",
+    "description": "Integrate custom and unique looking QR codes into your system or workflow",
+    "category": "Development",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Qrcode Monkey",
+    "subtitle": "Integrate custom and unique looking QR codes into your…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "open-government-thailand",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Thailand",
+    "description": "Thailand Government Open Data",
+    "category": "Government",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Thailand",
+    "subtitle": "Thailand Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

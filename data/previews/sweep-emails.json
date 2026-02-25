@@ -1,0 +1,21 @@
+{
+  "id": "sweep-emails",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Sweep Emails",
+    "description": "Reliable email validation API with Free tier",
+    "category": "Email",
+    "auth": "apikey",
+    "https": true,
+    "cors": "no"
+  },
+  "previewConfig": {
+    "title": "Sweep Emails",
+    "subtitle": "Reliable email validation API with Free tier",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

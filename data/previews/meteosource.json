@@ -1,0 +1,21 @@
+{
+  "id": "meteosource",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Meteosource",
+    "description": "Global weather forecasts based on machine learning and historical data",
+    "category": "Weather",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Meteosource",
+    "subtitle": "Global weather forecasts based on machine learning and…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

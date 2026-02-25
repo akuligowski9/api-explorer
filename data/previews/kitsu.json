@@ -1,0 +1,21 @@
+{
+  "id": "kitsu",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Kitsu",
+    "description": "Anime discovery platform",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Kitsu",
+    "subtitle": "Anime discovery platform",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

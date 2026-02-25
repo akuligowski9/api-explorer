@@ -1,0 +1,21 @@
+{
+  "id": "open-government-australia",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Open Government, Australia",
+    "description": "Australian Government Open Data",
+    "category": "Government",
+    "auth": "None",
+    "https": true,
+    "cors": "unknown"
+  },
+  "previewConfig": {
+    "title": "Open Government, Australia",
+    "subtitle": "Australian Government Open Data",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}

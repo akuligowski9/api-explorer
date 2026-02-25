@@ -1,0 +1,21 @@
+{
+  "id": "templated",
+  "previewType": "card",
+  "sampleResponse": {
+    "api": "Templated",
+    "description": "Generate images and PDFs with a simple API. Design in a Canva-like editor and render images with code",
+    "category": "Photography",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "yes"
+  },
+  "previewConfig": {
+    "title": "Templated",
+    "subtitle": "Generate images and PDFs with a simple API. Design in a…",
+    "displayFields": [
+      "description",
+      "category",
+      "auth"
+    ]
+  }
+}
