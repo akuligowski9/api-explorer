@@ -2,15 +2,25 @@
   "id": "infermedica",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Headache",
-    "common_name": "Headache",
-    "category": "Neurology",
-    "seriousness": "mild",
-    "prevalence": "very common"
+    "condition": "Migraine",
+    "condition_id": "c_123",
+    "probability": 0.82,
+    "severity": "moderate",
+    "common_symptoms": 4,
+    "triage_level": "self_care",
+    "evidence_count": 6,
+    "recommended_specialist": "Neurologist"
   },
   "previewConfig": {
-    "title": "Headache",
-    "subtitle": "Infermedica Symptom",
-    "displayFields": ["name", "common_name", "category", "seriousness", "prevalence"]
+    "title": "Symptom Analysis Result",
+    "subtitle": "Migraine — 82% probability",
+    "displayFields": [
+      "condition",
+      "probability",
+      "severity",
+      "common_symptoms",
+      "triage_level",
+      "evidence_count"
+    ]
   }
 }

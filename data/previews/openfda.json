@@ -1,16 +1,52 @@
 {
   "id": "openfda",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "brand_name": "Ibuprofen",
-    "generic_name": "ibuprofen",
-    "dosage_form": "TABLET",
-    "route": "ORAL",
-    "manufacturer": "Advil"
+    "drug": "ibuprofen",
+    "total_reports": 48219,
+    "events": [
+      {
+        "reaction": "Drug ineffective",
+        "count": 4871,
+        "serious": false,
+        "outcome": "Recovered",
+        "report_date": "2025-11-14"
+      },
+      {
+        "reaction": "Nausea",
+        "count": 3502,
+        "serious": false,
+        "outcome": "Recovered",
+        "report_date": "2025-12-02"
+      },
+      {
+        "reaction": "Gastrointestinal haemorrhage",
+        "count": 2187,
+        "serious": true,
+        "outcome": "Hospitalized",
+        "report_date": "2026-01-08"
+      },
+      {
+        "reaction": "Renal impairment",
+        "count": 1643,
+        "serious": true,
+        "outcome": "Hospitalized",
+        "report_date": "2025-10-22"
+      },
+      {
+        "reaction": "Dizziness",
+        "count": 1298,
+        "serious": false,
+        "outcome": "Recovered",
+        "report_date": "2026-02-01"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Ibuprofen",
-    "subtitle": "openFDA Drug",
-    "displayFields": ["brand_name", "generic_name", "dosage_form", "route", "manufacturer"]
+    "title": "Drug Adverse Events",
+    "subtitle": "Ibuprofen — 48,219 total reports",
+    "itemKey": "reaction",
+    "secondaryKey": "outcome",
+    "badgeKey": "count"
   }
 }

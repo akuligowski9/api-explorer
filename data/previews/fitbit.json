@@ -2,15 +2,24 @@
   "id": "fitbit",
   "previewType": "card",
   "sampleResponse": {
-    "steps": 12483,
-    "distance": "9.2 km",
-    "calories": 2841,
-    "activeMinutes": 68,
-    "floors": 14
+    "date": "2026-02-25",
+    "steps": 12847,
+    "calories_burned": 2340,
+    "distance_km": 9.8,
+    "active_minutes": 67,
+    "floors": 14,
+    "resting_heart_rate": 62
   },
   "previewConfig": {
     "title": "Daily Activity Summary",
-    "subtitle": "Fitbit",
-    "displayFields": ["steps", "distance", "calories", "activeMinutes", "floors"]
+    "subtitle": "Feb 25, 2026",
+    "displayFields": [
+      "steps",
+      "calories_burned",
+      "distance_km",
+      "active_minutes",
+      "floors",
+      "resting_heart_rate"
+    ]
   }
 }

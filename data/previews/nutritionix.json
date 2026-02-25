@@ -2,15 +2,31 @@
   "id": "nutritionix",
   "previewType": "card",
   "sampleResponse": {
-    "food_name": "Grilled Salmon",
-    "calories": 367,
-    "protein": "34g",
-    "fat": "22g",
-    "serving_size": "6 oz"
+    "food_name": "avocado",
+    "serving_qty": 1,
+    "serving_unit": "large",
+    "serving_weight_g": 201,
+    "calories": 322,
+    "total_fat_g": 29.5,
+    "saturated_fat_g": 4.3,
+    "cholesterol_mg": 0,
+    "sodium_mg": 14,
+    "total_carbohydrate_g": 17.1,
+    "dietary_fiber_g": 13.5,
+    "sugars_g": 1.3,
+    "protein_g": 4,
+    "potassium_mg": 975
   },
   "previewConfig": {
-    "title": "Grilled Salmon",
-    "subtitle": "Nutritionix Food",
-    "displayFields": ["food_name", "calories", "protein", "fat", "serving_size"]
+    "title": "Nutrition Lookup",
+    "subtitle": "1 large avocado (201g)",
+    "displayFields": [
+      "calories",
+      "total_fat_g",
+      "protein_g",
+      "dietary_fiber_g",
+      "potassium_mg",
+      "serving_weight_g"
+    ]
   }
 }
