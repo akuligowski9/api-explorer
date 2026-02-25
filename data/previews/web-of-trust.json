@@ -1,0 +1,1 @@
+{"id":"web-of-trust","previewType":"card","sampleResponse":{"domain":"github.com","trustworthiness":94,"childSafety":93,"categories":"Technology","confidence":87},"previewConfig":{"title":"Web of Trust","subtitle":"API","displayFields":["domain","trustworthiness","childSafety","categories","confidence"]}}

@@ -1,0 +1,1 @@
+{"id":"opensea","previewType":"card","sampleResponse":{"name":"Bored Ape Yacht Club","floorPrice":"12.4 ETH","totalVolume":"680,432 ETH","owners":"6,421","items":"10,000"},"previewConfig":{"title":"Bored Ape Yacht Club","subtitle":"OpenSea API","displayFields":["name","floorPrice","totalVolume","owners","items"]}}

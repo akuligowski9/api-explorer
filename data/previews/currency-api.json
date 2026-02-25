@@ -1,0 +1,1 @@
+{"id":"currency-api","previewType":"card","sampleResponse":{"from":"USD","to":"GBP","rate":"0.7891","amount":"100.00","result":"78.91"},"previewConfig":{"title":"USD to GBP Conversion","subtitle":"Currency API","displayFields":["from","to","rate","amount","result"]}}

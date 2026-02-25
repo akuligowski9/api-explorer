@@ -1,0 +1,20 @@
+{
+  "id": "tenders-in-hungary",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Budapest Metro Line 5 Extension", "secondary": "BKK Centre for Budapest Transport", "badge": 148000000 },
+      { "title": "Debrecen Hospital IT Modernization", "secondary": "University of Debrecen", "badge": 3200000 },
+      { "title": "M4 Motorway Bridge Maintenance", "secondary": "National Infrastructure Developing", "badge": 21500000 },
+      { "title": "Szeged Wastewater Treatment Upgrade", "secondary": "Szeged Municipality", "badge": 8700000 },
+      { "title": "Pecs School Solar Panel Installation", "secondary": "Baranya County Government", "badge": 1450000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Tenders in Hungary",
+    "subtitle": "Public procurement tenders",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"okex","previewType":"card","sampleResponse":{"instId":"BTC-USDT-SWAP","last":"67530.00","vol24h":"52847.92","high24h":"68200.00","low24h":"66750.00"},"previewConfig":{"title":"BTC Perpetual Futures","subtitle":"OKX API","displayFields":["instId","last","vol24h","high24h","low24h"]}}

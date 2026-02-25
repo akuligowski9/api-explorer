@@ -1,0 +1,16 @@
+{
+  "id": "nexchange",
+  "previewType": "card",
+  "sampleResponse": {
+    "pair": "LTC/BTC",
+    "rate": "0.00234",
+    "minAmount": "0.5 LTC",
+    "maxAmount": "500 LTC",
+    "status": "Active"
+  },
+  "previewConfig": {
+    "title": "Crypto Exchange",
+    "subtitle": "N.exchange API",
+    "displayFields": ["pair", "rate", "minAmount", "maxAmount", "status"]
+  }
+}

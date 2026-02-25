@@ -1,0 +1,1 @@
+{"id":"instatus","previewType":"card","sampleResponse":{"name":"Acme Cloud Services","status":"Operational","uptime":"99.98%","lastIncident":"2026-01-14T09:22:00Z","subscribers":4830},"previewConfig":{"title":"Acme Cloud Services","subtitle":"Instatus","displayFields":["name","status","uptime","lastIncident","subscribers"]}}

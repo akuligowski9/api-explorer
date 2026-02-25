@@ -1,0 +1,1 @@
+{"id":"arvancloud","previewType":"card","sampleResponse":{"domain":"cdn.example.ir","status":"active","ssl":"managed","cacheStatus":"HIT","bandwidth":"2.4 TB"},"previewConfig":{"title":"CDN Domain","subtitle":"ArvanCloud API","displayFields":["domain","status","ssl","cacheStatus","bandwidth"]}}

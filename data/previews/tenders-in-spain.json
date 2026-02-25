@@ -1,0 +1,20 @@
+{
+  "id": "tenders-in-spain",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Madrid Cercanias Line C5 Extension", "secondary": "ADIF Alta Velocidad", "badge": 275000000 },
+      { "title": "Barcelona Beach Erosion Protection", "secondary": "Ajuntament de Barcelona", "badge": 18900000 },
+      { "title": "Seville Hospital Medical Equipment", "secondary": "Servicio Andaluz de Salud", "badge": 7200000 },
+      { "title": "Valencia Desalination Plant Upgrade", "secondary": "Aguas de Valencia", "badge": 53000000 },
+      { "title": "Bilbao School Digital Infrastructure", "secondary": "Gobierno Vasco", "badge": 4100000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Tenders in Spain",
+    "subtitle": "Public procurement tenders",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

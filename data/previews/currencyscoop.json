@@ -1,0 +1,1 @@
+{"id":"currencyscoop","previewType":"card","sampleResponse":{"baseCurrency":"USD","date":"2026-02-25","rates_EUR":"0.9217","rates_GBP":"0.7891","rates_JPY":"149.85"},"previewConfig":{"title":"USD Exchange Rates","subtitle":"CurrencyScoop API","displayFields":["baseCurrency","date","rates_EUR","rates_GBP","rates_JPY"]}}

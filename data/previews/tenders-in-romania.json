@@ -1,0 +1,20 @@
+{
+  "id": "tenders-in-romania",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Bucharest Flood Defence System", "secondary": "Romanian Waters Administration", "badge": 42000000 },
+      { "title": "Cluj-Napoca Regional Hospital Construction", "secondary": "Ministry of Health", "badge": 310000000 },
+      { "title": "Timisoara Airport Terminal Expansion", "secondary": "Timisoara Airport Authority", "badge": 87000000 },
+      { "title": "Brasov Electric Bus Procurement", "secondary": "City of Brasov", "badge": 15400000 },
+      { "title": "Constanta Port Rail Access Upgrade", "secondary": "CFR Infrastructure", "badge": 63000000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Tenders in Romania",
+    "subtitle": "Public procurement tenders",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

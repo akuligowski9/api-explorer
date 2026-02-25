@@ -1,0 +1,1 @@
+{"id":"library-management","previewType":"card","sampleResponse":{"title":"One Hundred Years of Solitude","author":"Gabriel Garcia Marquez","isbn":"978-0060883287","available":true,"dueDate":"2026-03-15"},"previewConfig":{"title":"Library Book","subtitle":"Library Management API","displayFields":["title","author","isbn","available","dueDate"]}}

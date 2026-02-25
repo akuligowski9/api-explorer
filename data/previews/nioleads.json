@@ -1,0 +1,1 @@
+{"id":"nioleads","previewType":"card","sampleResponse":{"name":"Sarah Chen","email":"s.chen@techcorp.io","company":"TechCorp Solutions","title":"VP of Engineering","linkedinUrl":"https://linkedin.com/in/sarahchen"},"previewConfig":{"title":"Lead Profile","subtitle":"NioLeads API","displayFields":["name","email","company","title","linkedinUrl"]}}

@@ -1,0 +1,1 @@
+{"id":"azure-devops-health","previewType":"card","sampleResponse":{"service":"Azure Pipelines","status":"Healthy","region":"East US","lastUpdated":"2026-02-25T08:10:00Z","impact":"None"},"previewConfig":{"title":"Azure Pipelines","subtitle":"Azure DevOps Health","displayFields":["service","status","region","lastUpdated","impact"]}}

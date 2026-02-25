@@ -1,0 +1,1 @@
+{"id":"bybit","previewType":"card","sampleResponse":{"symbol":"BTCUSDT","lastPrice":"97,342.50","fundingRate":"0.0001","openInterest":"$4,215,000,000","volume24h":"$12,870,000,000"},"previewConfig":{"title":"BTCUSDT Perpetual","subtitle":"Bybit","displayFields":["symbol","lastPrice","fundingRate","openInterest","volume24h"]}}

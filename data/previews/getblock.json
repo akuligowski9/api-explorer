@@ -1,0 +1,1 @@
+{"id":"getblock","previewType":"card","sampleResponse":{"chain":"Ethereum","network":"Mainnet","blockHeight":19284561,"synced":true,"latency":"42ms"},"previewConfig":{"title":"Blockchain Node","subtitle":"GetBlock API","displayFields":["chain","network","blockHeight","synced","latency"]}}

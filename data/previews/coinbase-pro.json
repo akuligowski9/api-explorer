@@ -1,0 +1,1 @@
+{"id":"coinbase-pro","previewType":"card","sampleResponse":{"product":"BTC-USD","price":"67234.51","volume24h":"12847.93","spread":"0.01","change24h":"+2.34%"},"previewConfig":{"title":"BTC-USD","subtitle":"Coinbase Pro","displayFields":["product","price","volume24h","spread","change24h"]}}

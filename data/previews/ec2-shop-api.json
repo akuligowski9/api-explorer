@@ -1,0 +1,1 @@
+{"id":"ec2-shop-api","previewType":"card","sampleResponse":{"instanceType":"m6i.xlarge","vcpus":4,"memory":"16 GiB","pricePerHour":"$0.192","region":"us-east-1"},"previewConfig":{"title":"m6i.xlarge","subtitle":"EC2 Shop API","displayFields":["instanceType","vcpus","memory","pricePerHour","region"]}}

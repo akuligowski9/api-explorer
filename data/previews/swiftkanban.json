@@ -1,0 +1,16 @@
+{
+  "id": "swiftkanban",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Migrate auth to OAuth 2.0",
+    "board": "Platform Engineering",
+    "status": "In Progress",
+    "assignee": "Maria Chen",
+    "priority": "High"
+  },
+  "previewConfig": {
+    "title": "Kanban Card",
+    "subtitle": "SwiftKanban API",
+    "displayFields": ["title", "board", "status", "assignee", "priority"]
+  }
+}

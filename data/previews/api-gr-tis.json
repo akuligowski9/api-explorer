@@ -1,0 +1,1 @@
+{"id":"api-gr-tis","previewType":"card","sampleResponse":{"name":"Random User Generator","category":"Data","method":"GET","baseUrl":"https://api.gratis.dev/v1/users","rateLimit":"1000 req/day"},"previewConfig":{"title":"Free API Endpoint","subtitle":"API Gratis","displayFields":["name","category","method","baseUrl","rateLimit"]}}

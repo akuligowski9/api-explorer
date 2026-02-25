@@ -1,0 +1,16 @@
+{
+  "id": "redash",
+  "previewType": "card",
+  "sampleResponse": {
+    "queryName": "Daily Active Users",
+    "rows": 1482,
+    "runtime": "3.27s",
+    "dataSource": "Production PostgreSQL",
+    "lastExecuted": "2026-02-25T09:15:00Z"
+  },
+  "previewConfig": {
+    "title": "Query Result",
+    "subtitle": "Redash API",
+    "displayFields": ["queryName", "rows", "runtime", "dataSource", "lastExecuted"]
+  }
+}

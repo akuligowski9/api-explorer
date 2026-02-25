@@ -1,0 +1,16 @@
+{
+  "id": "zmok",
+  "previewType": "card",
+  "sampleResponse": {
+    "method": "eth_blockNumber",
+    "blockNumber": "19482731",
+    "gasPrice": "28.4 Gwei",
+    "chainId": "0x1",
+    "networkId": "1"
+  },
+  "previewConfig": {
+    "title": "Ethereum RPC",
+    "subtitle": "Zmok API",
+    "displayFields": ["method", "blockNumber", "gasPrice", "chainId", "networkId"]
+  }
+}

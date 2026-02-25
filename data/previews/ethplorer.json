@@ -1,0 +1,1 @@
+{"id":"ethplorer","previewType":"card","sampleResponse":{"name":"Tether USD","symbol":"USDT","price":"1.0001","holdersCount":"4832917","transfersCount":"219483650"},"previewConfig":{"title":"Tether USD","subtitle":"Ethplorer","displayFields":["name","symbol","price","holdersCount","transfersCount"]}}

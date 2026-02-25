@@ -1,0 +1,1 @@
+{"id":"metacert","previewType":"card","sampleResponse":{"url":"https://suspicious-offer.example.com/free-iphone","type":"web","category":"Phishing","safe":false,"confidence":94},"previewConfig":{"title":"URL Classification","subtitle":"MetaCert API","displayFields":["url","type","category","safe","confidence"]}}

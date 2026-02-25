@@ -1,0 +1,1 @@
+{"id":"huobi","previewType":"card","sampleResponse":{"symbol":"btcusdt","close":"67195.32","high":"68050.00","low":"66380.10","vol":"9874.56"},"previewConfig":{"title":"BTC/USDT","subtitle":"Huobi","displayFields":["symbol","close","high","low","vol"]}}

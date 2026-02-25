@@ -1,0 +1,1 @@
+{"id":"manyapis","previewType":"card","sampleResponse":{"name":"Weather Forecast","category":"Weather","auth":"apiKey","https":true,"cors":"yes"},"previewConfig":{"title":"API Listing","subtitle":"ManyAPIs Directory","displayFields":["name","category","auth","https","cors"]}}

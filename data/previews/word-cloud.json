@@ -1,0 +1,1 @@
+{"id":"word-cloud","previewType":"card","sampleResponse":{"text":"innovation technology design data cloud","maxWords":150,"width":800,"height":600,"format":"PNG"},"previewConfig":{"title":"Word Cloud","subtitle":"API","displayFields":["text","maxWords","width","height","format"]}}

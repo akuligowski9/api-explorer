@@ -1,0 +1,1 @@
+{"id":"unirate","previewType":"card","sampleResponse":{"from":"USD","to":"JPY","rate":"149.8320","provider":"ECB","timestamp":"2026-02-25T12:00:00Z"},"previewConfig":{"title":"Universal Currency Rate","subtitle":"Unirate API","displayFields":["from","to","rate","provider","timestamp"]}}

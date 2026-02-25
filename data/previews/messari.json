@@ -1,0 +1,1 @@
+{"id":"messari","previewType":"card","sampleResponse":{"name":"Ethereum","symbol":"ETH","sector":"Smart Contract Platforms","marketCap":"$389.2B","allTimeHigh":"$4,891.70"},"previewConfig":{"title":"Ethereum Profile","subtitle":"Messari API","displayFields":["name","symbol","sector","marketCap","allTimeHigh"]}}

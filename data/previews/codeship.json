@@ -1,0 +1,1 @@
+{"id":"codeship","previewType":"card","sampleResponse":{"project":"backend-api","branch":"feature/auth-v2","status":"success","duration":"5m 56s","commitMessage":"Add OAuth2 token refresh logic"},"previewConfig":{"title":"backend-api","subtitle":"Codeship","displayFields":["project","branch","status","duration","commitMessage"]}}

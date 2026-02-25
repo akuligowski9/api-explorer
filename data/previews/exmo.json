@@ -1,0 +1,1 @@
+{"id":"exmo","previewType":"card","sampleResponse":{"pair":"BTC_USDT","lastTrade":"67189.24","high":"68100.00","low":"66450.30","volume":"1523.41"},"previewConfig":{"title":"BTC/USDT","subtitle":"EXMO","displayFields":["pair","lastTrade","high","low","volume"]}}

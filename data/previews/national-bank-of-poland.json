@@ -1,0 +1,1 @@
+{"id":"national-bank-of-poland","previewType":"card","sampleResponse":{"currency":"Euro","code":"EUR","rate":"4.3215","date":"2026-02-25","table":"A"},"previewConfig":{"title":"PLN Exchange Rate","subtitle":"National Bank of Poland API","displayFields":["currency","code","rate","date","table"]}}

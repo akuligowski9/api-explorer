@@ -1,0 +1,1 @@
+{"id":"mercadobitcoin","previewType":"card","sampleResponse":{"pair":"BTC/BRL","last":"352847.50","high":"358120.00","low":"349500.00","volume":"1284.73"},"previewConfig":{"title":"BTC/BRL Ticker","subtitle":"Mercado Bitcoin API","displayFields":["pair","last","high","low","volume"]}}

@@ -1,0 +1,1 @@
+{"id":"valr","previewType":"card","sampleResponse":{"pair":"BTCZAR","lastTradedPrice":"1,234,580.00","bid":"1,234,200.00","ask":"1,234,960.00","volume":"42.38"},"previewConfig":{"title":"BTC/ZAR Ticker","subtitle":"VALR API","displayFields":["pair","lastTradedPrice","bid","ask","volume"]}}

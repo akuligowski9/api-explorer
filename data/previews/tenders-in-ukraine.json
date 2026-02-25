@@ -1,0 +1,20 @@
+{
+  "id": "tenders-in-ukraine",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Kyiv Bridge Reconstruction Project", "secondary": "Ukravtodor", "badge": 38000000 },
+      { "title": "Lviv Water Supply Modernization", "secondary": "Lvivvodokanal", "badge": 12500000 },
+      { "title": "Odesa Port Grain Terminal Expansion", "secondary": "Ukrainian Sea Ports Authority", "badge": 67000000 },
+      { "title": "Dnipro School Shelter Construction", "secondary": "Dnipro City Council", "badge": 8300000 },
+      { "title": "Kharkiv Power Grid Restoration", "secondary": "Ukrenergo", "badge": 94000000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Tenders in Ukraine",
+    "subtitle": "Public procurement tenders",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

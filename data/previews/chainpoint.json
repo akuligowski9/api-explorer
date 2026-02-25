@@ -1,0 +1,1 @@
+{"id":"chainpoint","previewType":"card","sampleResponse":{"hash":"a1b2c3d4e5f6...7890abcd","type":"cal","sourceId":"bf3a12c9","status":"verified","timestamp":"2025-11-14T08:32:17Z"},"previewConfig":{"title":"Blockchain Anchor","subtitle":"Chainpoint API","displayFields":["hash","type","sourceId","status","timestamp"]}}

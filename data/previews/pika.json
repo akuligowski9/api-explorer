@@ -1,0 +1,1 @@
+{"id":"pika","previewType":"card","sampleResponse":{"prompt":"A sunset over mountains","width":1024,"height":768,"format":"webp","seed":83746},"previewConfig":{"title":"Generated Image","subtitle":"Pika API","displayFields":["prompt","width","height","format","seed"]}}

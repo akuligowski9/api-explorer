@@ -1,0 +1,1 @@
+{"id":"gemini","previewType":"card","sampleResponse":{"symbol":"btcusd","last":"67210.45","bid":"67208.30","ask":"67212.60","volume":"4521.78"},"previewConfig":{"title":"BTC/USD","subtitle":"Gemini","displayFields":["symbol","last","bid","ask","volume"]}}

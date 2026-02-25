@@ -1,0 +1,1 @@
+{"id":"verisys-antivirus-api","previewType":"card","sampleResponse":{"fileName":"quarterly-report.pdf","status":"clean","threats":0,"engine":"VeriSys Core 4.2","scanTime":"1.34s"},"previewConfig":{"title":"VeriSys Antivirus","subtitle":"API","displayFields":["fileName","status","threats","engine","scanTime"]}}

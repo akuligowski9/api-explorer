@@ -1,0 +1,1 @@
+{"id":"trace-moe","previewType":"card","sampleResponse":{"anime":"Sword Art Online","episode":3,"timestamp":"00:14:32","similarity":"96.7%","filename":"sao_ep3_scene.jpg"},"previewConfig":{"title":"Anime Scene Search","subtitle":"trace.moe API","displayFields":["anime","episode","timestamp","similarity","filename"]}}

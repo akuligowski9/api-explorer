@@ -1,0 +1,1 @@
+{"id":"fxratesapi","previewType":"card","sampleResponse":{"base":"EUR","date":"2026-02-25","USD":"1.0842","EUR":"1.0000","GBP":"0.8591"},"previewConfig":{"title":"Forex Rates","subtitle":"FXRatesAPI","displayFields":["base","date","USD","EUR","GBP"]}}

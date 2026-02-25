@@ -1,0 +1,1 @@
+{"id":"blitapp","previewType":"card","sampleResponse":{"url":"https://example.com","viewport":"1920x1080","format":"PNG","fileSize":"482 KB","timestamp":"2026-02-25T09:15:30Z"},"previewConfig":{"title":"Website Screenshot","subtitle":"BlitApp API","displayFields":["url","viewport","format","fileSize","timestamp"]}}

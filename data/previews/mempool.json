@@ -1,0 +1,1 @@
+{"id":"mempool","previewType":"card","sampleResponse":{"txCount":"48213","totalFee":"3.42 BTC","minFee":"6 sat/vB","medianFee":"14 sat/vB","size":"124.5 MB"},"previewConfig":{"title":"Bitcoin Mempool","subtitle":"Mempool.space","displayFields":["txCount","totalFee","minFee","medianFee","size"]}}

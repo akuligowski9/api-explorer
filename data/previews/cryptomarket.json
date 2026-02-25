@@ -1,0 +1,1 @@
+{"id":"cryptomarket","previewType":"card","sampleResponse":{"symbol":"ETHBTC","lastPrice":"0.05241","volume":"8743.12","bidPrice":"0.05240","askPrice":"0.05242"},"previewConfig":{"title":"ETH/BTC","subtitle":"CryptoMarket","displayFields":["symbol","lastPrice","volume","bidPrice","askPrice"]}}

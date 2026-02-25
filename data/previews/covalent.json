@@ -1,0 +1,1 @@
+{"id":"covalent","previewType":"card","sampleResponse":{"address":"0x1a2b...9f0e","chain":"Ethereum Mainnet","tokenCount":14,"totalValueUsd":"$23,841.57","lastActivity":"2025-12-01T14:22:05Z"},"previewConfig":{"title":"Wallet Balance","subtitle":"Covalent API","displayFields":["address","chain","tokenCount","totalValueUsd","lastActivity"]}}

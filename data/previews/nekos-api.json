@@ -1,0 +1,1 @@
+{"id":"nekos-api","previewType":"card","sampleResponse":{"category":"neko","artist":"mika_pikazo","source":"https://www.pixiv.net/artworks/99712345","width":1920,"height":1080},"previewConfig":{"title":"Neko Image","subtitle":"Nekos API","displayFields":["category","artist","source","width","height"]}}

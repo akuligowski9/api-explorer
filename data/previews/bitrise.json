@@ -1,0 +1,1 @@
+{"id":"bitrise","previewType":"card","sampleResponse":{"app":"mobile-app-ios","branch":"main","status":"success","duration":"8m 42s","triggeredBy":"push"},"previewConfig":{"title":"mobile-app-ios","subtitle":"Bitrise","displayFields":["app","branch","status","duration","triggeredBy"]}}

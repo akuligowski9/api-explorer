@@ -1,0 +1,1 @@
+{"id":"maldatabase","previewType":"card","sampleResponse":{"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","malwareType":"Trojan","family":"Emotet","firstSeen":"2025-08-14","detections":58},"previewConfig":{"title":"Malware Sample","subtitle":"Maldatabase API","displayFields":["sha256","malwareType","family","firstSeen","detections"]}}

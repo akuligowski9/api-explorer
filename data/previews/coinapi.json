@@ -1,0 +1,1 @@
+{"id":"coinapi","previewType":"card","sampleResponse":{"assetIdBase":"BTC","assetIdQuote":"USD","rate":"97,285.43","time":"2026-02-25T08:00:00Z","volume":"28,450,000,000"},"previewConfig":{"title":"BTC/USD Exchange Rate","subtitle":"CoinAPI","displayFields":["assetIdBase","assetIdQuote","rate","time","volume"]}}

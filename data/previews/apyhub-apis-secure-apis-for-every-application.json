@@ -1,0 +1,1 @@
+{"id":"apyhub-apis-secure-apis-for-every-application","previewType":"card","sampleResponse":{"name":"Image Compress","category":"Media","type":"REST","rateLimit":"500 req/min","responseTime":"120ms"},"previewConfig":{"title":"ApyHub API Tool","subtitle":"ApyHub - Secure APIs for Every Application","displayFields":["name","category","type","rateLimit","responseTime"]}}

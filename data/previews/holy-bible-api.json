@@ -1,0 +1,1 @@
+{"id":"holy-bible-api","previewType":"card","sampleResponse":{"book":"Psalms","chapter":23,"verse":1,"text":"The LORD is my shepherd; I shall not want.","translation":"King James Version"},"previewConfig":{"title":"Psalm 23:1","subtitle":"Holy Bible API","displayFields":["book","chapter","verse","text","translation"]}}

@@ -1,0 +1,1 @@
+{"id":"buddy","previewType":"card","sampleResponse":{"name":"Deploy to Production","project":"web-frontend","status":"successful","duration":"3m 18s","lastRun":"2026-02-25T07:30:00Z"},"previewConfig":{"title":"Deploy to Production","subtitle":"Buddy","displayFields":["name","project","status","duration","lastRun"]}}

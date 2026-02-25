@@ -1,0 +1,1 @@
+{"id":"coindcx","previewType":"card","sampleResponse":{"market":"BTCINR","lastPrice":"5765432.10","volume":"342.87","high":"5802100.00","low":"5698000.00"},"previewConfig":{"title":"BTC/INR","subtitle":"CoinDCX","displayFields":["market","lastPrice","volume","high","low"]}}

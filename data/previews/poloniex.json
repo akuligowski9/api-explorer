@@ -1,0 +1,1 @@
+{"id":"poloniex","previewType":"card","sampleResponse":{"symbol":"BTC_USDT","last":"67495.12","highestBid":"67490.00","lowestAsk":"67500.25","percentChange":"1.24%"},"previewConfig":{"title":"BTC/USDT Ticker","subtitle":"Poloniex API","displayFields":["symbol","last","highestBid","lowestAsk","percentChange"]}}

@@ -1,0 +1,1 @@
+{"id":"convert-currency-to-multiple-currencies","previewType":"card","sampleResponse":{"base":"GBP","amount":"100.00","USD":"126.34","EUR":"117.52","GBP":"100.00"},"previewConfig":{"title":"Multi-Currency Conversion","subtitle":"Currency Conversion API","displayFields":["base","amount","USD","EUR","GBP"]}}

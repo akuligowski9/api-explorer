@@ -1,0 +1,16 @@
+{
+  "id": "trading-view",
+  "previewType": "card",
+  "sampleResponse": {
+    "symbol": "MSFT",
+    "recommendation": "Strong Buy",
+    "oscillators": "Buy (8/11)",
+    "movingAverages": "Strong Buy (14/15)",
+    "summary": "Buy (22/26)"
+  },
+  "previewConfig": {
+    "title": "Chart Analysis",
+    "subtitle": "TradingView API",
+    "displayFields": ["symbol", "recommendation", "oscillators", "movingAverages", "summary"]
+  }
+}

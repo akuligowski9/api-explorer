@@ -1,0 +1,1 @@
+{"id":"quran-api","previewType":"card","sampleResponse":{"surah":"Al-Fatiha","ayah":1,"text":"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ","translation":"In the name of Allah, the Entirely Merciful, the Especially Merciful","juz":1},"previewConfig":{"title":"Al-Fatiha 1:1","subtitle":"Quran API","displayFields":["surah","ayah","text","translation","juz"]}}

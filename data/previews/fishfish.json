@@ -1,0 +1,1 @@
+{"id":"fishfish","previewType":"card","sampleResponse":{"domain":"paypa1-secure-login.com","category":"Credential Phishing","firstSeen":"2025-11-03","reportCount":347,"status":"Active"},"previewConfig":{"title":"Phishing Domain","subtitle":"FishFish API","displayFields":["domain","category","firstSeen","reportCount","status"]}}

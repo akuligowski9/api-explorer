@@ -1,0 +1,1 @@
+{"id":"tomba-email-finder","previewType":"card","sampleResponse":{"email":"j.smith@example.com","firstName":"Jordan","lastName":"Smith","company":"Example Corp","confidence":94},"previewConfig":{"title":"Email Finder Result","subtitle":"Tomba","displayFields":["email","firstName","lastName","company","confidence"]}}

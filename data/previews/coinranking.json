@@ -1,0 +1,1 @@
+{"id":"coinranking","previewType":"card","sampleResponse":{"name":"Ethereum","symbol":"ETH","price":"3521.87","change":"+1.76%","marketCap":"423.5B"},"previewConfig":{"title":"Ethereum","subtitle":"Coinranking","displayFields":["name","symbol","price","change","marketCap"]}}

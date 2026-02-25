@@ -1,0 +1,1 @@
+{"id":"worldcoinindex","previewType":"card","sampleResponse":{"name":"Solana","symbol":"SOL","priceUsd":"$148.32","volume24h":"$2.1B","supply":"441,202,853"},"previewConfig":{"title":"Solana","subtitle":"WorldCoinIndex API","displayFields":["name","symbol","priceUsd","volume24h","supply"]}}

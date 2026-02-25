@@ -1,0 +1,16 @@
+{
+  "id": "logokit",
+  "previewType": "card",
+  "sampleResponse": {
+    "brand": "Anthropic",
+    "format": "SVG",
+    "size": "512x512",
+    "url": "https://cdn.logokit.com/anthropic.svg",
+    "backgroundColor": "#FFFFFF"
+  },
+  "previewConfig": {
+    "title": "Logo",
+    "subtitle": "LogoKit API",
+    "displayFields": ["brand", "format", "size", "url", "backgroundColor"]
+  }
+}

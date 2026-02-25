@@ -1,0 +1,1 @@
+{"id":"gateio","previewType":"card","sampleResponse":{"currencyPair":"SOL_USDT","last":"142.58","high24h":"146.20","low24h":"139.75","baseVolume":"2341876.5"},"previewConfig":{"title":"SOL/USDT","subtitle":"Gate.io","displayFields":["currencyPair","last","high24h","low24h","baseVolume"]}}

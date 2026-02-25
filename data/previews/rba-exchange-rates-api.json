@@ -1,0 +1,1 @@
+{"id":"rba-exchange-rates-api","previewType":"card","sampleResponse":{"base":"AUD","target":"USD","rate":"0.6483","date":"2026-02-25","source":"Reserve Bank of Australia"},"previewConfig":{"title":"AUD Exchange Rate","subtitle":"RBA Exchange Rates API","displayFields":["base","target","rate","date","source"]}}

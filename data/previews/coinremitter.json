@@ -1,0 +1,16 @@
+{
+  "id": "coinremitter",
+  "previewType": "card",
+  "sampleResponse": {
+    "coin": "ETH",
+    "amount": "1.2500",
+    "address": "0x7a3b...f91e",
+    "status": "Pending",
+    "expiry": "2026-02-26T14:30:00Z"
+  },
+  "previewConfig": {
+    "title": "Crypto Invoice",
+    "subtitle": "CoinRemitter API",
+    "displayFields": ["coin", "amount", "address", "status", "expiry"]
+  }
+}

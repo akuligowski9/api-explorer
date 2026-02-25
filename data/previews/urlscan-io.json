@@ -1,0 +1,1 @@
+{"id":"urlscan-io","previewType":"card","sampleResponse":{"url":"https://login-verify.example.com/secure","domain":"login-verify.example.com","ip":"192.0.2.47","country":"RU","verdicts":"Malicious"},"previewConfig":{"title":"URL Scan Result","subtitle":"urlscan.io API","displayFields":["url","domain","ip","country","verdicts"]}}

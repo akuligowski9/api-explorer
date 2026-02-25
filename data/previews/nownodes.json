@@ -1,0 +1,1 @@
+{"id":"nownodes","previewType":"card","sampleResponse":{"chain":"Bitcoin","endpoint":"https://btc.nownodes.io","blockHeight":878214,"status":"active","responseTime":"35ms"},"previewConfig":{"title":"Node Connection","subtitle":"NOWNodes API","displayFields":["chain","endpoint","blockHeight","status","responseTime"]}}

@@ -1,0 +1,1 @@
+{"id":"blynk-cloud","previewType":"card","sampleResponse":{"deviceName":"Living Room Sensor","status":"online","lastActive":"2026-02-25T14:32:10Z","dataStreams":6,"firmware":"1.4.2"},"previewConfig":{"title":"IoT Device Status","subtitle":"Blynk Cloud API","displayFields":["deviceName","status","lastActive","dataStreams","firmware"]}}

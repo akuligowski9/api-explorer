@@ -1,0 +1,1 @@
+{"id":"novadax","previewType":"card","sampleResponse":{"symbol":"BTC_USDT","lastPrice":"67482.30","high24h":"68150.00","low24h":"66890.50","volume24h":"3841.27"},"previewConfig":{"title":"BTC/USDT Pair","subtitle":"NovaDAX API","displayFields":["symbol","lastPrice","high24h","low24h","volume24h"]}}

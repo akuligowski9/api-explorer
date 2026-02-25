@@ -1,0 +1,1 @@
+{"id":"currencyfreaks","previewType":"card","sampleResponse":{"base":"USD","target":"CHF","rate":"0.8834","date":"2026-02-25","source":"CurrencyFreaks"},"previewConfig":{"title":"USD to CHF Rate","subtitle":"CurrencyFreaks API","displayFields":["base","target","rate","date","source"]}}

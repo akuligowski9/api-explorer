@@ -1,0 +1,1 @@
+{"id":"brainshop-ai","previewType":"card","sampleResponse":{"input":"How are you today?","response":"I am doing great, thanks for asking!","chatId":"a7b3c9d2","mood":"cheerful","confidence":"0.94"},"previewConfig":{"title":"Chatbot Response","subtitle":"Brainshop AI","displayFields":["input","response","chatId","mood","confidence"]}}

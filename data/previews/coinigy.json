@@ -1,0 +1,16 @@
+{
+  "id": "coinigy",
+  "previewType": "card",
+  "sampleResponse": {
+    "exchange": "Binance",
+    "pair": "BTC/USDT",
+    "lastPrice": "67482.50",
+    "position": "0.4821 BTC",
+    "profitLoss": "+$2,314.87"
+  },
+  "previewConfig": {
+    "title": "Crypto Portfolio",
+    "subtitle": "Coinigy API",
+    "displayFields": ["exchange", "pair", "lastPrice", "position", "profitLoss"]
+  }
+}

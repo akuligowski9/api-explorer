@@ -1,0 +1,1 @@
+{"id":"metalpriceapi","previewType":"card","sampleResponse":{"metal":"Gold (XAU)","pricePerOz":"$2,934.50","pricePerGram":"$94.35","currency":"USD","date":"2026-02-25"},"previewConfig":{"title":"Gold Spot Price","subtitle":"MetalpriceAPI","displayFields":["metal","pricePerOz","pricePerGram","currency","date"]}}

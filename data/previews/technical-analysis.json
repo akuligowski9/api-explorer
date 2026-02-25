@@ -1,0 +1,16 @@
+{
+  "id": "technical-analysis",
+  "previewType": "card",
+  "sampleResponse": {
+    "symbol": "AAPL",
+    "indicator": "RSI (14)",
+    "signal": "Buy",
+    "value": "34.82",
+    "timeframe": "1D"
+  },
+  "previewConfig": {
+    "title": "TA Signal",
+    "subtitle": "Technical Analysis API",
+    "displayFields": ["symbol", "indicator", "signal", "value", "timeframe"]
+  }
+}

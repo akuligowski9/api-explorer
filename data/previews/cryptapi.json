@@ -1,0 +1,1 @@
+{"id":"cryptapi","previewType":"card","sampleResponse":{"coin":"btc","address":"bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh","received":"0.00245000","confirmations":"3","status":"confirmed"},"previewConfig":{"title":"BTC Payment","subtitle":"CryptAPI","displayFields":["coin","address","received","confirmations","status"]}}

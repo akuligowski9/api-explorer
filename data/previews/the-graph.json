@@ -1,0 +1,1 @@
+{"id":"the-graph","previewType":"card","sampleResponse":{"subgraph":"uniswap/uniswap-v3","entity":"Pool","field":"totalValueLockedUSD","value":"1284573920.47","blockNumber":19482651},"previewConfig":{"title":"Uniswap V3 Pool","subtitle":"The Graph API","displayFields":["subgraph","entity","field","value","blockNumber"]}}

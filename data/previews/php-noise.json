@@ -1,0 +1,1 @@
+{"id":"php-noise","previewType":"card","sampleResponse":{"type":"perlin","width":512,"height":512,"colors":"grayscale","seed":48291},"previewConfig":{"title":"Noise Pattern","subtitle":"PHP Noise API","displayFields":["type","width","height","colors","seed"]}}

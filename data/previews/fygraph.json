@@ -1,0 +1,1 @@
+{"id":"fygraph","previewType":"card","sampleResponse":{"equation":"sin(x)*cos(x/2)","xMin":"-6.28","xMax":"6.28","imageUrl":"https://fygraph.com/render/abc123.png","format":"PNG"},"previewConfig":{"title":"Math Graph","subtitle":"FyGraph API","displayFields":["equation","xMin","xMax","imageUrl","format"]}}

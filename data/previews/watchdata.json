@@ -1,0 +1,1 @@
+{"id":"watchdata","previewType":"card","sampleResponse":{"chain":"Ethereum","address":"0x742d35Cc6634C0532925a3b844Bc9e7595f2bD1e","balance":"14.2837 ETH","txCount":1542,"lastBlock":19483102},"previewConfig":{"title":"Wallet Overview","subtitle":"WatchData API","displayFields":["chain","address","balance","txCount","lastBlock"]}}

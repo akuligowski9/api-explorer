@@ -1,0 +1,1 @@
+{"id":"indodax","previewType":"card","sampleResponse":{"pair":"btc_idr","last":"1072500000","high":"1085000000","low":"1060200000","volume":"287.43"},"previewConfig":{"title":"BTC/IDR","subtitle":"Indodax","displayFields":["pair","last","high","low","volume"]}}

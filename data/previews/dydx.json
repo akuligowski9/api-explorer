@@ -1,0 +1,1 @@
+{"id":"dydx","previewType":"card","sampleResponse":{"market":"ETH-USD","indexPrice":"3518.42","oraclePrice":"3519.10","fundingRate":"0.000124","openInterest":"185432100"},"previewConfig":{"title":"ETH-USD Perpetual","subtitle":"dYdX","displayFields":["market","indexPrice","oraclePrice","fundingRate","openInterest"]}}

@@ -1,0 +1,1 @@
+{"id":"dymo-api","previewType":"card","sampleResponse":{"domain":"tempmail-quick.xyz","score":92,"isDisposable":true,"isFree":true,"riskLevel":"High"},"previewConfig":{"title":"Fraud Detection Result","subtitle":"Dymo API","displayFields":["domain","score","isDisposable","isFree","riskLevel"]}}

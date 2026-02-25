@@ -1,0 +1,1 @@
+{"id":"layer4","previewType":"card","sampleResponse":{"chain":"Polygon","method":"eth_getBlockByNumber","status":"success","latency":"28ms","blockNumber":54102938},"previewConfig":{"title":"Blockchain Integration","subtitle":"Layer4 API","displayFields":["chain","method","status","latency","blockNumber"]}}

@@ -1,0 +1,1 @@
+{"id":"infura-ethereum","previewType":"card","sampleResponse":{"network":"mainnet","blockNumber":"19482731","gasPrice":"24.5 gwei","peerCount":"142","syncing":"false"},"previewConfig":{"title":"Ethereum Mainnet","subtitle":"Infura","displayFields":["network","blockNumber","gasPrice","peerCount","syncing"]}}

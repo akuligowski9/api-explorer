@@ -1,0 +1,16 @@
+{
+  "id": "markerapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "TESLA",
+    "serial": "97120578",
+    "status": "Registered",
+    "owner": "Tesla, Inc.",
+    "filingDate": "2021-08-19"
+  },
+  "previewConfig": {
+    "title": "Trademark",
+    "subtitle": "MarkerAPI",
+    "displayFields": ["name", "serial", "status", "owner", "filingDate"]
+  }
+}

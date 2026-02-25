@@ -1,0 +1,1 @@
+{"id":"vatcomply-com","previewType":"card","sampleResponse":{"country":"Germany","standardRate":"19%","reducedRate":"7%","currency":"EUR","memberState":true},"previewConfig":{"title":"VAT Rate Lookup","subtitle":"VATcomply API","displayFields":["country","standardRate","reducedRate","currency","memberState"]}}

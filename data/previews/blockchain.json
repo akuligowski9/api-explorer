@@ -1,0 +1,1 @@
+{"id":"blockchain","previewType":"card","sampleResponse":{"address":"1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa","balance":"72.48531263 BTC","txCount":3842,"totalReceived":"99.71583019 BTC","totalSent":"27.23051756 BTC"},"previewConfig":{"title":"Bitcoin Wallet","subtitle":"Blockchain.com","displayFields":["address","balance","txCount","totalReceived","totalSent"]}}

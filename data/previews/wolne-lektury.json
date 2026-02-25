@@ -1,0 +1,1 @@
+{"id":"wolne-lektury","previewType":"card","sampleResponse":{"title":"Pan Tadeusz","author":"Adam Mickiewicz","epoch":"Romantyzm","genre":"Poemat epicki","kind":"Epika"},"previewConfig":{"title":"Pan Tadeusz","subtitle":"Wolne Lektury API","displayFields":["title","author","epoch","genre","kind"]}}

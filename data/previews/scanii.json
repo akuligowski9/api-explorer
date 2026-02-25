@@ -1,0 +1,1 @@
+{"id":"scanii","previewType":"card","sampleResponse":{"fileId":"f-7c2a91d3e4b5","findings":"Trojan.GenericKD.46892103","contentType":"application/x-dosexec","contentLength":245760,"checksum":"9f86d081884c7d659a2feaa0c55ad015"},"previewConfig":{"title":"File Scan Result","subtitle":"Scanii API","displayFields":["fileId","findings","contentType","contentLength","checksum"]}}

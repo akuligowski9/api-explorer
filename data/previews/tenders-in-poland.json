@@ -1,0 +1,20 @@
+{
+  "id": "tenders-in-poland",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Warsaw Tram Fleet Replacement", "secondary": "Tramwaje Warszawskie", "badge": 95000000 },
+      { "title": "Krakow Ring Road Phase III", "secondary": "General Directorate for National Roads", "badge": 210000000 },
+      { "title": "Gdansk Port Dredging Project", "secondary": "Port of Gdansk Authority", "badge": 34000000 },
+      { "title": "Wroclaw Public Library Renovation", "secondary": "City of Wroclaw", "badge": 5600000 },
+      { "title": "Poznan Smart Traffic System", "secondary": "Poznan City Roads Authority", "badge": 12300000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Tenders in Poland",
+    "subtitle": "Public procurement tenders",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}
