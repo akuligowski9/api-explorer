@@ -1,7 +1,7 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import { cn } from "@/lib/utils";
 import type { PreviewData } from "@/lib/types";
 
@@ -10,9 +10,6 @@ interface MediaPreviewProps {
   compact?: boolean;
 }
 
-/**
- * Resolve a nested key path like "urls.regular" from an object.
- */
 function resolveKey(obj: Record<string, unknown>, path: string): unknown {
   return path
     .split(".")
@@ -32,31 +29,28 @@ export function MediaPreview({ data, compact = false }: MediaPreviewProps) {
     ? (resolveKey(sampleResponse, imageKey) as string | undefined)
     : undefined;
 
-  // ── Compact Mode ───────────────────────────────────────────────────
   if (compact) {
     return (
       <div
         className={cn(
           "relative overflow-hidden rounded-xl",
-          "ring-1 ring-black/[0.06] dark:ring-white/[0.06]",
+          "ring-1 ring-border/50",
           "h-full min-h-[160px]",
         )}
       >
-        {/* Loading shimmer */}
         {!loaded && (
           <div className="absolute inset-0 animate-pulse bg-muted" />
         )}
 
         {imageUrl ? (
-          <Image
+          <img
             src={imageUrl}
             alt={title}
-            fill
-            sizes="(max-width: 640px) 100vw, 50vw"
             className={cn(
-              "object-cover transition-opacity duration-500",
+              "h-full w-full object-cover transition-opacity duration-500",
               loaded ? "opacity-100" : "opacity-0",
             )}
+            loading="lazy"
             onLoad={() => setLoaded(true)}
           />
         ) : (
@@ -65,7 +59,6 @@ export function MediaPreview({ data, compact = false }: MediaPreviewProps) {
           </div>
         )}
 
-        {/* Bottom gradient overlay with title */}
         <div className="pointer-events-none absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 via-black/30 to-transparent px-4 pb-3 pt-10">
           <p className="truncate text-sm font-semibold text-white drop-shadow-sm">
             {title}
@@ -80,7 +73,6 @@ export function MediaPreview({ data, compact = false }: MediaPreviewProps) {
     );
   }
 
-  // ── Full Mode ──────────────────────────────────────────────────────
   return (
     <div
       className={cn(
@@ -89,23 +81,20 @@ export function MediaPreview({ data, compact = false }: MediaPreviewProps) {
         "dark:bg-neutral-800 dark:ring-white/[0.06]",
       )}
     >
-      {/* Image container */}
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-muted">
-        {/* Loading shimmer */}
         {!loaded && (
           <div className="absolute inset-0 animate-pulse bg-muted" />
         )}
 
         {imageUrl ? (
-          <Image
+          <img
             src={imageUrl}
             alt={title}
-            fill
-            sizes="(max-width: 640px) 100vw, 800px"
             className={cn(
-              "object-cover transition-opacity duration-500",
+              "h-full w-full object-cover transition-opacity duration-500",
               loaded ? "opacity-100" : "opacity-0",
             )}
+            loading="lazy"
             onLoad={() => setLoaded(true)}
           />
         ) : (
@@ -117,7 +106,6 @@ export function MediaPreview({ data, compact = false }: MediaPreviewProps) {
         )}
       </div>
 
-      {/* Title / subtitle below the image */}
       <div className="px-6 py-4">
         <h3 className="text-lg font-semibold text-foreground">{title}</h3>
         {subtitle && (

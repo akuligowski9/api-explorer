@@ -1,6 +1,6 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
-import Image from "next/image";
 import { cn } from "@/lib/utils";
 import type { PreviewData } from "@/lib/types";
 
@@ -116,20 +116,15 @@ export function ListPreview({ data, compact = false }: ListPreviewProps) {
       >
         {/* Optional flag / image */}
         {flagUrl && (
-          <div
+          <img
+            src={flagUrl}
+            alt=""
             className={cn(
-              "relative shrink-0 overflow-hidden rounded-sm ring-1 ring-black/[0.06]",
+              "shrink-0 rounded-sm object-cover ring-1 ring-black/[0.06]",
               compact ? "h-5 w-7" : "h-6 w-9",
             )}
-          >
-            <Image
-              src={flagUrl}
-              alt=""
-              fill
-              sizes="36px"
-              className="object-cover"
-            />
-          </div>
+            loading="lazy"
+          />
         )}
 
         {/* Text content */}

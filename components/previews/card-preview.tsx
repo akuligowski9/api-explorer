@@ -1,6 +1,6 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
-import Image from "next/image";
 import { cn } from "@/lib/utils";
 import type { PreviewData } from "@/lib/types";
 
@@ -130,16 +130,15 @@ export function CardPreview({ data, compact = false }: CardPreviewProps) {
         {imageUrl && (
           <div
             className={cn(
-              "relative shrink-0 overflow-hidden rounded-lg bg-muted",
+              "shrink-0 overflow-hidden rounded-lg bg-muted",
               compact ? "h-14 w-14" : "h-20 w-20",
             )}
           >
-            <Image
+            <img
               src={imageUrl}
               alt={title}
-              fill
-              sizes="80px"
-              className="object-contain"
+              className="h-full w-full object-contain"
+              loading="lazy"
             />
           </div>
         )}
