@@ -3,10 +3,12 @@
 import { useState, useMemo, useCallback } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { SearchBar } from "./search-bar";
+import { FilterBar } from "./filter-bar";
 import { CategoryChips } from "./category-chips";
 import { ApiCard } from "./api-card";
 import { searchApis } from "@/lib/search";
 import { getCategoriesForFilter } from "@/lib/categories";
+import { applyFilters, DEFAULT_FILTERS, type FilterState } from "@/lib/filters";
 import { cn } from "@/lib/utils";
 import type { ApiEntry } from "@/lib/types";
 import type { Columns } from "./home-client";
@@ -27,6 +29,7 @@ interface ApiGridProps {
 export function ApiGrid({ apis, columns }: ApiGridProps) {
   const [query, setQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState("All");
+  const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const filtered = useMemo(() => {
@@ -37,6 +40,9 @@ export function ApiGrid({ apis, columns }: ApiGridProps) {
     if (categories) {
       result = result.filter((api) => categories.includes(api.Category));
     }
+
+    // Apply attribute filters (auth, https, cors)
+    result = applyFilters(result, filters);
 
     // Apply search
     result = searchApis(result, query);
@@ -50,12 +56,17 @@ export function ApiGrid({ apis, columns }: ApiGridProps) {
     });
 
     return result;
-  }, [apis, query, activeFilter]);
+  }, [apis, query, activeFilter, filters]);
 
   // Reset visible count when filters change
   const handleFilterChange = useCallback((cat: string) => {
     setActiveFilter(cat);
     setQuery("");
+    setVisibleCount(PAGE_SIZE);
+  }, []);
+
+  const handleFiltersChange = useCallback((f: FilterState) => {
+    setFilters(f);
     setVisibleCount(PAGE_SIZE);
   }, []);
 
@@ -75,6 +86,8 @@ export function ApiGrid({ apis, columns }: ApiGridProps) {
         onChange={handleSearchChange}
         resultCount={filtered.length}
       />
+
+      <FilterBar filters={filters} onChange={handleFiltersChange} />
 
       <CategoryChips
         selected={activeFilter}
