@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { cn } from "@/lib/utils";
+import { colorizeCode } from "@/lib/syntax-highlight";
 import { CopyButton } from "@/components/copy-button";
 import { generateCurl, generateJavaScript, generatePython } from "@/lib/generate-snippets";
 import type { ApiEntry } from "@/lib/types";
@@ -87,7 +88,7 @@ export function CodeSnippets({ api }: CodeSnippetsProps) {
                   </span>
                   <span
                     dangerouslySetInnerHTML={{
-                      __html: colorizeLine(line, activeTab),
+                      __html: colorizeCode(line, activeTab),
                     }}
                   />
                 </div>
@@ -100,61 +101,3 @@ export function CodeSnippets({ api }: CodeSnippetsProps) {
   );
 }
 
-function escapeHtml(str: string): string {
-  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-}
-
-function colorizeLine(line: string, lang: TabId): string {
-  const escaped = escapeHtml(line);
-
-  switch (lang) {
-    case "curl":
-      return colorizeCurl(escaped);
-    case "javascript":
-      return colorizeJavaScript(escaped);
-    case "python":
-      return colorizePython(escaped);
-  }
-}
-
-function colorizeCurl(line: string): string {
-  return line
-    .replace(/^(curl)\b/, '<span style="color:#c084fc">$1</span>')
-    .replace(/(-X\s+)(GET|POST|PUT|DELETE)/, '$1<span style="color:#fbbf24">$2</span>')
-    .replace(/(-H)\s/, '<span style="color:#60a5fa">$1</span> ')
-    .replace(/"([^"]*)"/g, '<span style="color:#4ade80">"$1"</span>');
-}
-
-function colorizeJavaScript(line: string): string {
-  return line
-    .replace(
-      /\b(const|let|var|await|async|function)\b/g,
-      '<span style="color:#c084fc">$1</span>',
-    )
-    .replace(
-      /\b(fetch|console|response|JSON)\b/g,
-      '<span style="color:#60a5fa">$1</span>',
-    )
-    .replace(
-      /\.(json|log|stringify)\b/g,
-      '.<span style="color:#fbbf24">$1</span>',
-    )
-    .replace(/"([^"]*)"/g, '<span style="color:#4ade80">"$1"</span>');
-}
-
-function colorizePython(line: string): string {
-  return line
-    .replace(
-      /^(import|from)\b/,
-      '<span style="color:#c084fc">$1</span>',
-    )
-    .replace(
-      /\b(requests|response|print)\b/g,
-      '<span style="color:#60a5fa">$1</span>',
-    )
-    .replace(
-      /\.(get|post|json)\b/g,
-      '.<span style="color:#fbbf24">$1</span>',
-    )
-    .replace(/"([^"]*)"/g, '<span style="color:#4ade80">"$1"</span>');
-}

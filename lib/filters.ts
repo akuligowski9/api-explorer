@@ -1,3 +1,4 @@
+import type { FilterOption } from "@/components/inline-filter";
 import type { ApiEntry } from "./types";
 
 export interface FilterState {
@@ -11,6 +12,25 @@ export const DEFAULT_FILTERS: FilterState = {
   https: "any",
   cors: "any",
 };
+
+export const AUTH_OPTIONS: FilterOption[] = [
+  { value: "any", label: "Any" },
+  { value: "free", label: "Free" },
+  { value: "apiKey", label: "API Key" },
+  { value: "OAuth", label: "OAuth" },
+];
+
+export const HTTPS_OPTIONS: FilterOption[] = [
+  { value: "any", label: "Any" },
+  { value: "yes", label: "HTTPS Only" },
+];
+
+export const CORS_OPTIONS: FilterOption[] = [
+  { value: "any", label: "Any" },
+  { value: "yes", label: "Enabled" },
+  { value: "no", label: "Disabled" },
+  { value: "unknown", label: "Unknown" },
+];
 
 export function applyFilters(apis: ApiEntry[], filters: FilterState): ApiEntry[] {
   let result = apis;

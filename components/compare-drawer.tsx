@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useCallback } from "react";
+import { useEffect } from "react";
 import { AnimatePresence, motion } from "framer-motion";
+import { useKeydown } from "@/hooks/useKeydown";
 import {
   X,
   Shield,
@@ -159,23 +160,16 @@ function CompareRow({
 export function CompareDrawer({ open, onClose }: CompareDrawerProps) {
   const { selectedApis } = useCompare();
 
-  const handleKeyDown = useCallback(
-    (e: KeyboardEvent) => {
-      if (e.key === "Escape") onClose();
-    },
-    [onClose],
-  );
+  useKeydown("Escape", onClose, open);
 
   useEffect(() => {
     if (open) {
-      document.addEventListener("keydown", handleKeyDown);
       document.body.style.overflow = "hidden";
     }
     return () => {
-      document.removeEventListener("keydown", handleKeyDown);
       document.body.style.overflow = "";
     };
-  }, [open, handleKeyDown]);
+  }, [open]);
 
   return (
     <AnimatePresence>

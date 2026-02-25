@@ -4,30 +4,9 @@ import { useState, useCallback } from "react";
 import { Search, X, ShieldCheck, Globe } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { DEFAULT_FILTERS, countActiveFilters, type FilterState } from "@/lib/filters";
-import { InlineFilter, type FilterOption } from "@/components/inline-filter";
+import { DEFAULT_FILTERS, AUTH_OPTIONS, HTTPS_OPTIONS, CORS_OPTIONS, countActiveFilters, type FilterState } from "@/lib/filters";
+import { InlineFilter } from "@/components/inline-filter";
 import { authAccent, authIcon } from "@/lib/auth-utils";
-
-// ── Filter option arrays ─────────────────────────────────────────────
-
-const AUTH_OPTIONS: FilterOption[] = [
-  { value: "any", label: "Any" },
-  { value: "free", label: "Free" },
-  { value: "apiKey", label: "API Key" },
-  { value: "OAuth", label: "OAuth" },
-];
-
-const HTTPS_OPTIONS: FilterOption[] = [
-  { value: "any", label: "Any" },
-  { value: "yes", label: "HTTPS Only" },
-];
-
-const CORS_OPTIONS: FilterOption[] = [
-  { value: "any", label: "Any" },
-  { value: "yes", label: "Enabled" },
-  { value: "no", label: "Disabled" },
-  { value: "unknown", label: "Unknown" },
-];
 
 type FilterKey = "auth" | "https" | "cors";
 

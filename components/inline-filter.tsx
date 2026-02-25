@@ -1,9 +1,11 @@
 "use client";
 
-import { useRef, useEffect } from "react";
+import { useRef } from "react";
 import { ChevronDown } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import { cn } from "@/lib/utils";
+import { useKeydown } from "@/hooks/useKeydown";
+import { useClickOutside } from "@/hooks/useClickOutside";
 
 export interface FilterOption {
   value: string;
@@ -37,26 +39,8 @@ export function InlineFilter({
   const isActive = value !== "any";
   const selectedLabel = options.find((o) => o.value === value)?.label ?? label;
 
-  useEffect(() => {
-    if (!isOpen) return;
-
-    function handleClickOutside(e: MouseEvent) {
-      if (ref.current && !ref.current.contains(e.target as Node)) {
-        onClose();
-      }
-    }
-
-    function handleEscape(e: KeyboardEvent) {
-      if (e.key === "Escape") onClose();
-    }
-
-    document.addEventListener("mousedown", handleClickOutside);
-    document.addEventListener("keydown", handleEscape);
-    return () => {
-      document.removeEventListener("mousedown", handleClickOutside);
-      document.removeEventListener("keydown", handleEscape);
-    };
-  }, [isOpen, onClose]);
+  useClickOutside(ref, onClose, isOpen);
+  useKeydown("Escape", onClose, isOpen);
 
   return (
     <div ref={ref} className="relative">

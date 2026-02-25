@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
 import { CopyButton } from "./copy-button";
+import { colorizeJson } from "@/lib/syntax-highlight";
 import { cn } from "@/lib/utils";
 
 interface SampleResponseProps {
@@ -49,7 +50,7 @@ export function SampleResponse({ data }: SampleResponseProps) {
                   </span>
                   <span
                     dangerouslySetInnerHTML={{
-                      __html: colorizeJsonLine(line),
+                      __html: colorizeJson(line),
                     }}
                   />
                 </div>
@@ -85,31 +86,4 @@ export function SampleResponse({ data }: SampleResponseProps) {
       </div>
     </section>
   );
-}
-
-function colorizeJsonLine(line: string): string {
-  return line
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(
-      /("(?:[^"\\]|\\.)*")(\s*:)/g,
-      '<span style="color:#c084fc">$1</span>$2',
-    )
-    .replace(
-      /:\s*("(?:[^"\\]|\\.)*")/g,
-      ': <span style="color:#4ade80">$1</span>',
-    )
-    .replace(
-      /:\s*(\d+\.?\d*)/g,
-      ': <span style="color:#60a5fa">$1</span>',
-    )
-    .replace(
-      /:\s*(true|false)/g,
-      ': <span style="color:#fbbf24">$1</span>',
-    )
-    .replace(
-      /:\s*(null)/g,
-      ': <span style="color:#f87171">$1</span>',
-    );
 }
