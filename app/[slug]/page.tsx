@@ -7,6 +7,7 @@ import { AuthBadge } from "@/components/auth-badge";
 import { SimilarApis } from "@/components/similar-apis";
 import { DetailPreview } from "./detail-preview";
 import { DetailSampleResponse } from "./detail-sample-response";
+import { CodeSnippets } from "@/components/code-snippets";
 import type { Metadata } from "next";
 
 interface PageProps {
@@ -113,6 +114,11 @@ export default async function ApiDetailPage({ params }: PageProps) {
           <DetailSampleResponse sampleResponse={api.preview.sampleResponse} />
         </div>
       )}
+
+      {/* Code snippets */}
+      <div className="mb-10">
+        <CodeSnippets api={api} />
+      </div>
 
       {/* Links */}
       <section className="mb-10 flex flex-wrap gap-3">
