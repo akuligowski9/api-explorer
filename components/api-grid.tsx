@@ -7,7 +7,35 @@ import { CategoryChips } from "./category-chips";
 import { ApiCard } from "./api-card";
 import { searchApis } from "@/lib/search";
 import { getCategoriesForFilter } from "@/lib/categories";
+import { cn } from "@/lib/utils";
 import type { ApiEntry } from "@/lib/types";
+
+type Columns = 1 | 2 | 3;
+
+function ColIcon({ cols }: { cols: Columns }) {
+  const sq = "bg-current rounded-[1px]";
+  if (cols === 1) return (
+    <div className="grid grid-cols-1 gap-[2px] w-4 h-4">
+      <div className={sq} />
+    </div>
+  );
+  if (cols === 2) return (
+    <div className="grid grid-cols-2 gap-[2px] w-4 h-4">
+      <div className={sq} /><div className={sq} />
+    </div>
+  );
+  return (
+    <div className="grid grid-cols-3 gap-[2px] w-4 h-4">
+      <div className={sq} /><div className={sq} /><div className={sq} />
+    </div>
+  );
+}
+
+const GRID_COLS: Record<Columns, string> = {
+  1: "grid-cols-1",
+  2: "grid-cols-1 sm:grid-cols-2",
+  3: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3",
+};
 
 const PAGE_SIZE = 36;
 
@@ -19,6 +47,9 @@ export function ApiGrid({ apis }: ApiGridProps) {
   const [query, setQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState("All");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [columns, setColumns] = useState<Columns>(() =>
+    typeof window !== "undefined" && window.innerWidth < 640 ? 1 : 3
+  );
 
   const filtered = useMemo(() => {
     let result = apis;
@@ -67,10 +98,30 @@ export function ApiGrid({ apis }: ApiGridProps) {
         resultCount={filtered.length}
       />
 
-      <CategoryChips
-        selected={activeFilter}
-        onSelect={handleFilterChange}
-      />
+      <div className="flex items-center gap-2">
+        <CategoryChips
+          selected={activeFilter}
+          onSelect={handleFilterChange}
+          className="flex-1"
+        />
+        <div className="flex shrink-0 items-center gap-1 rounded-lg border border-border bg-card p-1">
+          {([1, 2, 3] as Columns[]).map((cols) => (
+            <button
+              key={cols}
+              onClick={() => setColumns(cols)}
+              aria-label={`${cols} column layout`}
+              className={cn(
+                "rounded-md p-1.5 transition-colors",
+                columns === cols
+                  ? "bg-foreground text-background"
+                  : "text-muted-foreground hover:text-foreground"
+              )}
+            >
+              <ColIcon cols={cols} />
+            </button>
+          ))}
+        </div>
+      </div>
 
       {filtered.length === 0 ? (
         <div className="py-20 text-center">
@@ -81,7 +132,7 @@ export function ApiGrid({ apis }: ApiGridProps) {
         </div>
       ) : (
         <>
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className={cn("grid gap-4", GRID_COLS[columns])}>
             <AnimatePresence mode="popLayout">
               {visible.map((api, i) => (
                 <ApiCard
