@@ -18,7 +18,7 @@ const GRID_COLS: Record<Columns, string> = {
   3: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3",
 };
 
-const PAGE_SIZE = 36;
+const PAGE_SIZE = 48;
 
 interface ApiGridProps {
   apis: ApiEntry[];
