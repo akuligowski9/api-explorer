@@ -2,8 +2,7 @@
 
 import { useState, useMemo, useCallback } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { SearchBar } from "./search-bar";
-import { FilterBar } from "./filter-bar";
+import { SearchFilterBar } from "./search-filter-bar";
 import { CategoryChips } from "./category-chips";
 import { ApiCard } from "./api-card";
 import { searchApis } from "@/lib/search";
@@ -81,16 +80,17 @@ export function ApiGrid({ apis, columns }: ApiGridProps) {
 
   return (
     <div className="space-y-6">
-      <SearchBar
-        value={query}
-        onChange={handleSearchChange}
+      <SearchFilterBar
+        query={query}
+        onQueryChange={handleSearchChange}
+        filters={filters}
+        onFiltersChange={handleFiltersChange}
         resultCount={filtered.length}
       />
 
       <CategoryChips
         selected={activeFilter}
         onSelect={handleFilterChange}
-        leading={<FilterBar filters={filters} onChange={handleFiltersChange} />}
       />
 
       {filtered.length === 0 ? (
