@@ -1,0 +1,21 @@
+{
+  "id": "tacofancy",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Classic Carnitas",
+    "slug": "classic-carnitas",
+    "recipe": "Slow-cooked pork shoulder with cumin, oregano, and citrus.",
+    "shell": "Corn Tortilla",
+    "condiment": "Salsa Verde",
+    "mixin": "Cilantro Lime Rice"
+  },
+  "previewConfig": {
+    "title": "Classic Carnitas",
+    "subtitle": "TacoFancy",
+    "displayFields": [
+      "recipe",
+      "shell",
+      "condiment"
+    ]
+  }
+}

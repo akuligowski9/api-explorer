@@ -1,0 +1,23 @@
+{
+  "id": "genshin-impact",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Raiden Shogun",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Polearm",
+    "region": "Inazuma",
+    "description": "The Raiden Shogun is the awesome and terrible power of thunder incarnate.",
+    "constellation": "Imperatrix Umbrosa"
+  },
+  "previewConfig": {
+    "title": "Raiden Shogun",
+    "subtitle": "Genshin Impact",
+    "displayFields": [
+      "element",
+      "weapon",
+      "rarity",
+      "region"
+    ]
+  }
+}

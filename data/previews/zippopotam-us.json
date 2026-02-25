@@ -1,0 +1,26 @@
+{
+  "id": "zippopotam-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "post code": "90210",
+    "country": "United States",
+    "country abbreviation": "US",
+    "places": [
+      {
+        "place name": "Beverly Hills",
+        "longitude": "-118.4065",
+        "state": "California",
+        "state abbreviation": "CA",
+        "latitude": "34.0901"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "90210",
+    "subtitle": "Beverly Hills, CA",
+    "displayFields": [
+      "post code",
+      "country"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "when-is-next-mcu-film",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Thunderbolts*",
+    "release_date": "2025-05-02",
+    "days_until": 120,
+    "overview": "A group of antiheroes are recruited to go on a dangerous mission.",
+    "following_production": {
+      "title": "The Fantastic Four: First Steps",
+      "release_date": "2025-07-25"
+    }
+  },
+  "previewConfig": {
+    "title": "Next MCU Film",
+    "subtitle": "Thunderbolts*",
+    "displayFields": [
+      "title",
+      "release_date",
+      "days_until"
+    ]
+  }
+}

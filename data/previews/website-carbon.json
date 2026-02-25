@@ -1,0 +1,29 @@
+{
+  "id": "website-carbon",
+  "previewType": "card",
+  "sampleResponse": {
+    "url": "https://www.google.com",
+    "green": true,
+    "bytes": 1234567,
+    "cleanerThan": 0.78,
+    "statistics": {
+      "co2": {
+        "grid": {
+          "grams": 0.27
+        },
+        "renewable": {
+          "grams": 0.21
+        }
+      },
+      "energy": 0.000645
+    }
+  },
+  "previewConfig": {
+    "title": "Website Carbon",
+    "subtitle": "google.com",
+    "displayFields": [
+      "green",
+      "cleanerThan"
+    ]
+  }
+}

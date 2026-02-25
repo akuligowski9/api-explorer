@@ -1,0 +1,48 @@
+{
+  "id": "frankfurter",
+  "previewType": "chart",
+  "sampleResponse": {
+    "base": "EUR",
+    "rates": [
+      {
+        "label": "Jan",
+        "value": 1.08
+      },
+      {
+        "label": "Feb",
+        "value": 1.07
+      },
+      {
+        "label": "Mar",
+        "value": 1.09
+      },
+      {
+        "label": "Apr",
+        "value": 1.07
+      },
+      {
+        "label": "May",
+        "value": 1.08
+      },
+      {
+        "label": "Jun",
+        "value": 1.07
+      },
+      {
+        "label": "Jul",
+        "value": 1.09
+      },
+      {
+        "label": "Aug",
+        "value": 1.10
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "EUR/USD Rate",
+    "subtitle": "Frankfurter",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

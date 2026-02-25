@@ -1,0 +1,37 @@
+{
+  "id": "launch-library-2",
+  "previewType": "list",
+  "sampleResponse": {
+    "results": [
+      {
+        "name": "Falcon 9 | Starlink Group 6-38",
+        "net": "2024-03-18T18:20:00Z"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Upcoming Launches",
+    "items": [
+      {
+        "name": "Falcon 9 | Starlink Group 6-38",
+        "region": "SpaceX"
+      },
+      {
+        "name": "Ariane 6 | First Flight",
+        "region": "Arianespace"
+      },
+      {
+        "name": "Electron | NROL-199",
+        "region": "Rocket Lab"
+      },
+      {
+        "name": "Falcon Heavy | Europa Clipper",
+        "region": "SpaceX"
+      },
+      {
+        "name": "New Glenn | First Flight",
+        "region": "Blue Origin"
+      }
+    ]
+  }
+}

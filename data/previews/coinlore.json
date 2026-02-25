@@ -1,0 +1,38 @@
+{
+  "id": "coinlore",
+  "previewType": "list",
+  "sampleResponse": {
+    "data": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price_usd": "67100"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Top Cryptocurrencies",
+    "items": [
+      {
+        "name": "Bitcoin (BTC)",
+        "score": 67100
+      },
+      {
+        "name": "Ethereum (ETH)",
+        "score": 3421
+      },
+      {
+        "name": "Solana (SOL)",
+        "score": 142
+      },
+      {
+        "name": "Cardano (ADA)",
+        "score": 0.62
+      },
+      {
+        "name": "Polkadot (DOT)",
+        "score": 8.45
+      }
+    ]
+  }
+}

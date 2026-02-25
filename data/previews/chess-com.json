@@ -1,0 +1,25 @@
+{
+  "id": "chess-com",
+  "previewType": "card",
+  "sampleResponse": {
+    "username": "MagnusCarlsen",
+    "title": "GM",
+    "rating_rapid": 2830,
+    "rating_blitz": 2886,
+    "rating_bullet": 3176,
+    "country": "NO",
+    "followers": 523481,
+    "joined": "2017-03-17",
+    "status": "premium"
+  },
+  "previewConfig": {
+    "title": "Magnus Carlsen",
+    "subtitle": "GM — Chess.com",
+    "displayFields": [
+      "rating_rapid",
+      "rating_blitz",
+      "rating_bullet",
+      "followers"
+    ]
+  }
+}

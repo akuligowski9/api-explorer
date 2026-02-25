@@ -1,0 +1,14 @@
+{
+  "id": "this-person-does-not-exist",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://thispersondoesnotexist.com/",
+    "description": "AI-generated human face",
+    "model": "StyleGAN"
+  },
+  "previewConfig": {
+    "title": "AI-Generated Face",
+    "subtitle": "thispersondoesnotexist.com",
+    "imageKey": "url"
+  }
+}

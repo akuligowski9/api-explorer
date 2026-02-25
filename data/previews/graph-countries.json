@@ -1,0 +1,43 @@
+{
+  "id": "graph-countries",
+  "previewType": "list",
+  "sampleResponse": {
+    "countries": [
+      {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "currency": "JPY"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "World Countries",
+    "items": [
+      {
+        "name": "Japan",
+        "region": "Asia",
+        "population": 125800000
+      },
+      {
+        "name": "France",
+        "region": "Europe",
+        "population": 67390000
+      },
+      {
+        "name": "Brazil",
+        "region": "South America",
+        "population": 214300000
+      },
+      {
+        "name": "Nigeria",
+        "region": "Africa",
+        "population": 218500000
+      },
+      {
+        "name": "Canada",
+        "region": "North America",
+        "population": 38250000
+      }
+    ]
+  }
+}

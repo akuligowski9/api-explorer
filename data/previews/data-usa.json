@@ -1,0 +1,20 @@
+{
+  "id": "data-usa",
+  "previewType": "card",
+  "sampleResponse": {
+    "data": [
+      {
+        "Year": "2022",
+        "Population": 331893745,
+        "Nation": "United States"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "United States",
+    "subtitle": "Data USA",
+    "displayFields": [
+      "Nation"
+    ]
+  }
+}

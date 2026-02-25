@@ -1,0 +1,14 @@
+{
+  "id": "yo-momma-jokes",
+  "previewType": "card",
+  "sampleResponse": {
+    "joke": "Yo momma so slow, she took 9 months to make a joke."
+  },
+  "previewConfig": {
+    "title": "Yo Momma Joke",
+    "subtitle": "yo-momma-jokes",
+    "displayFields": [
+      "joke"
+    ]
+  }
+}

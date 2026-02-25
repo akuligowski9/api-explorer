@@ -1,0 +1,14 @@
+{
+  "id": "geek-jokes",
+  "previewType": "card",
+  "sampleResponse": {
+    "joke": "There are only 10 types of people in the world: those who understand binary and those who don't."
+  },
+  "previewConfig": {
+    "title": "Geek Joke",
+    "subtitle": "geek-jokes",
+    "displayFields": [
+      "joke"
+    ]
+  }
+}

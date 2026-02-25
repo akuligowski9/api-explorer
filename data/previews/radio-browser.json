@@ -1,0 +1,44 @@
+{
+  "id": "radio-browser",
+  "previewType": "list",
+  "sampleResponse": {
+    "stations": [
+      {
+        "name": "BBC Radio 1",
+        "country": "United Kingdom",
+        "codec": "MP3",
+        "votes": 12453
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Internet Radio",
+    "items": [
+      {
+        "name": "BBC Radio 1",
+        "region": "United Kingdom",
+        "stars": 12453
+      },
+      {
+        "name": "NPR",
+        "region": "United States",
+        "stars": 9876
+      },
+      {
+        "name": "NRJ",
+        "region": "France",
+        "stars": 8234
+      },
+      {
+        "name": "Radio Paradise",
+        "region": "United States",
+        "stars": 7654
+      },
+      {
+        "name": "FIP",
+        "region": "France",
+        "stars": 6543
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "wizard-world",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Albus Dumbledore",
+    "species": "Human",
+    "gender": "Male",
+    "house": "Gryffindor",
+    "dateOfBirth": "1881-08-01",
+    "wizard": true,
+    "ancestry": "Half-blood",
+    "patronus": "Phoenix",
+    "boggart": "The corpse of Ariana Dumbledore"
+  },
+  "previewConfig": {
+    "title": "Albus Dumbledore",
+    "subtitle": "Wizard World",
+    "displayFields": [
+      "house",
+      "ancestry",
+      "patronus",
+      "boggart"
+    ]
+  }
+}

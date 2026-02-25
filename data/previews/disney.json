@@ -1,0 +1,32 @@
+{
+  "id": "disney",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Elsa",
+    "films": [
+      "Frozen",
+      "Frozen II"
+    ],
+    "shortFilms": [
+      "Frozen Fever",
+      "Olaf's Frozen Adventure"
+    ],
+    "allies": [
+      "Anna",
+      "Kristoff",
+      "Olaf",
+      "Sven"
+    ],
+    "enemies": [
+      "Hans",
+      "Duke of Weselton"
+    ]
+  },
+  "previewConfig": {
+    "title": "Elsa",
+    "subtitle": "Disney Character",
+    "displayFields": [
+      "name"
+    ]
+  }
+}

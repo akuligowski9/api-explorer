@@ -1,0 +1,48 @@
+{
+  "id": "dolarapi",
+  "previewType": "chart",
+  "sampleResponse": {
+    "currency": "USD/ARS",
+    "rates": [
+      {
+        "label": "Jan",
+        "value": 830
+      },
+      {
+        "label": "Feb",
+        "value": 845
+      },
+      {
+        "label": "Mar",
+        "value": 860
+      },
+      {
+        "label": "Apr",
+        "value": 880
+      },
+      {
+        "label": "May",
+        "value": 900
+      },
+      {
+        "label": "Jun",
+        "value": 920
+      },
+      {
+        "label": "Jul",
+        "value": 945
+      },
+      {
+        "label": "Aug",
+        "value": 960
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "USD/ARS Rate",
+    "subtitle": "DolarAPI",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

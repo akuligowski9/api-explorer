@@ -1,0 +1,29 @@
+{
+  "id": "npm-registry",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "next",
+    "description": "The React Framework",
+    "dist-tags": {
+      "latest": "15.3.1"
+    },
+    "license": "MIT",
+    "homepage": "https://nextjs.org",
+    "repository": {
+      "url": "https://github.com/vercel/next.js"
+    },
+    "maintainers": [
+      {
+        "name": "vercel-release-bot"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "next",
+    "subtitle": "npm Registry",
+    "displayFields": [
+      "description",
+      "license"
+    ]
+  }
+}

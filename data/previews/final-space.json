@@ -1,0 +1,26 @@
+{
+  "id": "final-space",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Gary Goodspeed",
+    "status": "Alive",
+    "species": "Human",
+    "gender": "Male",
+    "origin": "Earth",
+    "abilities": [
+      "Marksmanship",
+      "Hand-to-hand combat"
+    ],
+    "img_url": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.png"
+  },
+  "previewConfig": {
+    "title": "Gary Goodspeed",
+    "subtitle": "Final Space",
+    "displayFields": [
+      "species",
+      "status",
+      "gender",
+      "origin"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "open-disease",
+  "previewType": "chart",
+  "sampleResponse": {
+    "country": "Global",
+    "timeline": [
+      {
+        "label": "Jan",
+        "value": 102345678
+      },
+      {
+        "label": "Feb",
+        "value": 108234567
+      },
+      {
+        "label": "Mar",
+        "value": 115678901
+      },
+      {
+        "label": "Apr",
+        "value": 120345678
+      },
+      {
+        "label": "May",
+        "value": 128901234
+      },
+      {
+        "label": "Jun",
+        "value": 135678901
+      },
+      {
+        "label": "Jul",
+        "value": 142345678
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "COVID-19 Cases",
+    "subtitle": "Global Cumulative",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

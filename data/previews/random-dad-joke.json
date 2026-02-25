@@ -1,0 +1,16 @@
+{
+  "id": "random-dad-joke",
+  "previewType": "card",
+  "sampleResponse": {
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything!"
+  },
+  "previewConfig": {
+    "title": "Dad Joke",
+    "subtitle": "Random Dad Joke API",
+    "displayFields": [
+      "setup",
+      "punchline"
+    ]
+  }
+}

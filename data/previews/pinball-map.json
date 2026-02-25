@@ -1,0 +1,44 @@
+{
+  "id": "pinball-map",
+  "previewType": "list",
+  "sampleResponse": {
+    "locations": [
+      {
+        "name": "Ground Kontrol",
+        "city": "Portland",
+        "state": "OR",
+        "num_machines": 54
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Pinball Locations",
+    "items": [
+      {
+        "name": "Ground Kontrol",
+        "region": "Portland, OR",
+        "score": 54
+      },
+      {
+        "name": "Barcade",
+        "region": "Brooklyn, NY",
+        "score": 32
+      },
+      {
+        "name": "Logan Arcade",
+        "region": "Chicago, IL",
+        "score": 28
+      },
+      {
+        "name": "Cidercade",
+        "region": "Dallas, TX",
+        "score": 45
+      },
+      {
+        "name": "Free Gold Watch",
+        "region": "San Francisco, CA",
+        "score": 22
+      }
+    ]
+  }
+}

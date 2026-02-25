@@ -1,0 +1,25 @@
+{
+  "id": "swapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Luke Skywalker",
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "homeworld": "Tatooine",
+    "species": "Human"
+  },
+  "previewConfig": {
+    "title": "Luke Skywalker",
+    "subtitle": "Star Wars",
+    "displayFields": [
+      "height",
+      "mass",
+      "birth_year",
+      "homeworld"
+    ]
+  }
+}

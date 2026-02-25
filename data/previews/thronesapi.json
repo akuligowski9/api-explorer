@@ -1,0 +1,22 @@
+{
+  "id": "thronesapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "firstName": "Daenerys",
+    "lastName": "Targaryen",
+    "fullName": "Daenerys Targaryen",
+    "title": "Mother of Dragons",
+    "family": "House Targaryen",
+    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+  },
+  "previewConfig": {
+    "title": "Daenerys Targaryen",
+    "subtitle": "Mother of Dragons",
+    "displayFields": [
+      "fullName",
+      "title",
+      "family"
+    ]
+  }
+}

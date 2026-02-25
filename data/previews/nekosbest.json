@@ -1,0 +1,19 @@
+{
+  "id": "nekosbest",
+  "previewType": "media",
+  "sampleResponse": {
+    "results": [
+      {
+        "url": "https://nekos.best/api/v2/neko/0001.png",
+        "artist_name": "aoi",
+        "source_url": "https://www.pixiv.net/en/artworks/12345"
+      }
+    ],
+    "url": "https://nekos.best/api/v2/neko/0001.png"
+  },
+  "previewConfig": {
+    "title": "Neko Image",
+    "subtitle": "nekos.best",
+    "imageKey": "url"
+  }
+}

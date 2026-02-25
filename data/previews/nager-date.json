@@ -1,0 +1,38 @@
+{
+  "id": "nager-date",
+  "previewType": "list",
+  "sampleResponse": {
+    "holidays": [
+      {
+        "date": "2024-01-01",
+        "name": "New Year's Day",
+        "countryCode": "US"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "US Public Holidays",
+    "items": [
+      {
+        "name": "New Year's Day",
+        "language": "January 1"
+      },
+      {
+        "name": "Independence Day",
+        "language": "July 4"
+      },
+      {
+        "name": "Thanksgiving Day",
+        "language": "November 28"
+      },
+      {
+        "name": "Christmas Day",
+        "language": "December 25"
+      },
+      {
+        "name": "Labor Day",
+        "language": "September 2"
+      }
+    ]
+  }
+}

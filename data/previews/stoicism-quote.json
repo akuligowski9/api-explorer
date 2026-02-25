@@ -1,0 +1,18 @@
+{
+  "id": "stoicism-quote",
+  "previewType": "card",
+  "sampleResponse": {
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations"
+  },
+  "previewConfig": {
+    "title": "Stoic Wisdom",
+    "subtitle": "Marcus Aurelius",
+    "displayFields": [
+      "quote",
+      "author",
+      "source"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "universities-list",
+  "previewType": "list",
+  "sampleResponse": {
+    "universities": [
+      {
+        "name": "Massachusetts Institute of Technology",
+        "country": "United States",
+        "domains": [
+          "mit.edu"
+        ]
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "World Universities",
+    "items": [
+      {
+        "name": "MIT",
+        "region": "United States"
+      },
+      {
+        "name": "University of Oxford",
+        "region": "United Kingdom"
+      },
+      {
+        "name": "ETH Zurich",
+        "region": "Switzerland"
+      },
+      {
+        "name": "University of Tokyo",
+        "region": "Japan"
+      },
+      {
+        "name": "University of Melbourne",
+        "region": "Australia"
+      }
+    ]
+  }
+}

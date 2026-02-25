@@ -1,0 +1,24 @@
+{
+  "id": "stapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Jean-Luc Picard",
+    "gender": "M",
+    "yearOfBirth": 2305,
+    "placeOfBirth": "La Barre, France",
+    "rank": "Captain",
+    "species": "Human",
+    "serialNumber": "SP 937-215",
+    "mirror": false
+  },
+  "previewConfig": {
+    "title": "Jean-Luc Picard",
+    "subtitle": "Star Trek — Captain",
+    "displayFields": [
+      "rank",
+      "yearOfBirth",
+      "placeOfBirth",
+      "species"
+    ]
+  }
+}

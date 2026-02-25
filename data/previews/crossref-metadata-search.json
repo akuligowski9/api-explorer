@@ -1,0 +1,37 @@
+{
+  "id": "crossref-metadata-search",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Attention Is All You Need",
+        "DOI": "10.48550/arXiv.1706.03762"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Research Papers",
+    "items": [
+      {
+        "title": "Attention Is All You Need",
+        "author": "Vaswani et al."
+      },
+      {
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers",
+        "author": "Devlin et al."
+      },
+      {
+        "title": "Deep Residual Learning",
+        "author": "He et al."
+      },
+      {
+        "title": "ImageNet Classification with Deep CNNs",
+        "author": "Krizhevsky et al."
+      },
+      {
+        "title": "Generative Adversarial Nets",
+        "author": "Goodfellow et al."
+      }
+    ]
+  }
+}

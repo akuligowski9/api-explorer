@@ -135,6 +135,111 @@ import codeforces from "@/data/previews/codeforces.json";
 import inshortsNews from "@/data/previews/inshorts-news.json";
 import arbeitnow from "@/data/previews/arbeitnow.json";
 import ticketmaster from "@/data/previews/ticketmaster.json";
+// Batch 9
+import chessCom from "@/data/previews/chess-com.json";
+import disney from "@/data/previews/disney.json";
+import dungeonsAndDragons from "@/data/previews/dungeons-and-dragons.json";
+import freetogame from "@/data/previews/freetogame.json";
+import hyruleCompendium from "@/data/previews/hyrule-compendium.json";
+import magicTheGathering from "@/data/previews/magic-the-gathering.json";
+import swapi from "@/data/previews/swapi.json";
+import yuGiOh from "@/data/previews/yu-gi-oh.json";
+import zelda from "@/data/previews/zelda.json";
+import tvmaze from "@/data/previews/tvmaze.json";
+import gameOfThronesQuotes from "@/data/previews/game-of-thrones-quotes.json";
+import strangerThingsQuotes from "@/data/previews/stranger-things-quotes.json";
+import movieQuote from "@/data/previews/movie-quote.json";
+import thronesapi from "@/data/previews/thronesapi.json";
+import finalSpace from "@/data/previews/final-space.json";
+import stapi from "@/data/previews/stapi.json";
+import cdnjs from "@/data/previews/cdnjs.json";
+import httpbin from "@/data/previews/httpbin.json";
+import npmRegistry from "@/data/previews/npm-registry.json";
+import reqres from "@/data/previews/reqres.json";
+// Batch 10
+import nominatim from "@/data/previews/nominatim.json";
+import postcodesIo from "@/data/previews/postcodes-io.json";
+import zippopotamUs from "@/data/previews/zippopotam-us.json";
+import launchLibrary2 from "@/data/previews/launch-library-2.json";
+import newton from "@/data/previews/newton.json";
+import openNotify from "@/data/previews/open-notify.json";
+import usgsEarthquake from "@/data/previews/usgs-earthquake-hazards-program.json";
+import nobelPrize from "@/data/previews/nobel-prize.json";
+import universitiesList from "@/data/previews/universities-list.json";
+import poetrydb from "@/data/previews/poetrydb.json";
+import wizardWorld from "@/data/previews/wizard-world.json";
+import coincap from "@/data/previews/coincap.json";
+import coinlore from "@/data/previews/coinlore.json";
+import frankfurter from "@/data/previews/frankfurter.json";
+import nagerDate from "@/data/previews/nager-date.json";
+import ukBankHolidays from "@/data/previews/uk-bank-holidays.json";
+import usWeather from "@/data/previews/us-weather.json";
+import ukCarbonIntensity from "@/data/previews/uk-carbon-intensity.json";
+import websiteCarbon from "@/data/previews/website-carbon.json";
+import airQualityIndex from "@/data/previews/air-quality-index.json";
+// Batch 11
+import metropolitanMuseum from "@/data/previews/metropolitan-museum-of-art.json";
+import stoicismQuote from "@/data/previews/stoicism-quote.json";
+import zenQuotes from "@/data/previews/zen-quotes.json";
+import musicbrainz from "@/data/previews/musicbrainz.json";
+import radioBrowser from "@/data/previews/radio-browser.json";
+import randomdog from "@/data/previews/randomdog.json";
+import randomduck from "@/data/previews/randomduck.json";
+import yoMommaJokes from "@/data/previews/yo-momma-jokes.json";
+import randomDadJoke from "@/data/previews/random-dad-joke.json";
+import tacofancy from "@/data/previews/tacofancy.json";
+import whiskyhunter from "@/data/previews/whiskyhunter.json";
+import mlbRecords from "@/data/previews/mlb-records-and-stats.json";
+import nhlRecords from "@/data/previews/nhl-records-and-stats.json";
+import footballStandings from "@/data/previews/football-standings.json";
+import makeup from "@/data/previews/makeup.json";
+import openCollective from "@/data/previews/open-collective.json";
+import pinballMap from "@/data/previews/pinball-map.json";
+import robohash from "@/data/previews/robohash.json";
+import thisPersonDoesNotExist from "@/data/previews/this-person-does-not-exist.json";
+import placekeanu from "@/data/previews/placekeanu.json";
+// Batch 12
+import ipify from "@/data/previews/ipify.json";
+import jsdelivr from "@/data/previews/jsdelivr.json";
+import quickchart from "@/data/previews/quickchart.json";
+import yesNo from "@/data/previews/yes-no.json";
+import whatTheCommit from "@/data/previews/what-the-commit.json";
+import uuidGenerator from "@/data/previews/uuid-generator.json";
+import crossrefMetadata from "@/data/previews/crossref-metadata-search.json";
+import stephenKing from "@/data/previews/stephen-king.json";
+import quran from "@/data/previews/quran.json";
+import spaceflightNews from "@/data/previews/spaceflight-news.json";
+import mmoGames from "@/data/previews/mmo-games.json";
+import genshinImpact from "@/data/previews/genshin-impact.json";
+import fbiWanted from "@/data/previews/fbi-wanted.json";
+import interpolRedNotices from "@/data/previews/interpol-red-notices.json";
+import dataUsa from "@/data/previews/data-usa.json";
+import openDisease from "@/data/previews/open-disease.json";
+import libretranslate from "@/data/previews/libretranslate.json";
+import wakatime from "@/data/previews/wakatime.json";
+import passwordinator from "@/data/previews/passwordinator.json";
+import statusPizza from "@/data/previews/status-pizza.json";
+// Batch 13
+import arxiv from "@/data/previews/arxiv.json";
+import worldBank from "@/data/previews/world-bank.json";
+import kimiquotes from "@/data/previews/kimiquotes.json";
+import jokeFather from "@/data/previews/joke-father.json";
+import geekJokes from "@/data/previews/geek-jokes.json";
+import funtranslations from "@/data/previews/funtranslations.json";
+import crafatar from "@/data/previews/crafatar.json";
+import digimonInformation from "@/data/previews/digimon-information.json";
+import monsterHunterWorld from "@/data/previews/monster-hunter-world.json";
+import scryfall from "@/data/previews/scryfall.json";
+import lrclib from "@/data/previews/lrclib.json";
+import graphCountries from "@/data/previews/graph-countries.json";
+import transportForBelgium from "@/data/previews/transport-for-belgium.json";
+import refugeRestrooms from "@/data/previews/refuge-restrooms.json";
+import whenIsNextMcuFilm from "@/data/previews/when-is-next-mcu-film.json";
+import waifuPics from "@/data/previews/waifu-pics.json";
+import nekosbest from "@/data/previews/nekosbest.json";
+import dolarapi from "@/data/previews/dolarapi.json";
+import razorpayIfsc from "@/data/previews/razorpay-ifsc.json";
+import onwater from "@/data/previews/onwater.json";
 
 const catalog = catalogRaw as CatalogData;
 
@@ -165,6 +270,26 @@ const previewFiles: PreviewData[] = [
   hebrewCalendar, czechNamedaysCalendar, apiColombia, brazil, bandsintown,
   chineseCharacterWeb, wiktionary, administrativeDivisonsDb, colourlovers, disify,
   codeforces, inshortsNews, arbeitnow, ticketmaster,
+  chessCom, disney, dungeonsAndDragons, freetogame, hyruleCompendium,
+  magicTheGathering, swapi, yuGiOh, zelda, tvmaze,
+  gameOfThronesQuotes, strangerThingsQuotes, movieQuote, thronesapi, finalSpace,
+  stapi, cdnjs, httpbin, npmRegistry, reqres,
+  nominatim, postcodesIo, zippopotamUs, launchLibrary2, newton,
+  openNotify, usgsEarthquake, nobelPrize, universitiesList, poetrydb,
+  wizardWorld, coincap, coinlore, frankfurter, nagerDate,
+  ukBankHolidays, usWeather, ukCarbonIntensity, websiteCarbon, airQualityIndex,
+  metropolitanMuseum, stoicismQuote, zenQuotes, musicbrainz, radioBrowser,
+  randomdog, randomduck, yoMommaJokes, randomDadJoke, tacofancy,
+  whiskyhunter, mlbRecords, nhlRecords, footballStandings, makeup,
+  openCollective, pinballMap, robohash, thisPersonDoesNotExist, placekeanu,
+  ipify, jsdelivr, quickchart, yesNo, whatTheCommit,
+  uuidGenerator, crossrefMetadata, stephenKing, quran, spaceflightNews,
+  mmoGames, genshinImpact, fbiWanted, interpolRedNotices, dataUsa,
+  openDisease, libretranslate, wakatime, passwordinator, statusPizza,
+  arxiv, worldBank, kimiquotes, jokeFather, geekJokes,
+  funtranslations, crafatar, digimonInformation, monsterHunterWorld, scryfall,
+  lrclib, graphCountries, transportForBelgium, refugeRestrooms, whenIsNextMcuFilm,
+  waifuPics, nekosbest, dolarapi, razorpayIfsc, onwater,
 ] as PreviewData[];
 
 const previewMap = new Map<string, PreviewData>();

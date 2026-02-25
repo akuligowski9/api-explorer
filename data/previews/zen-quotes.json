@@ -1,0 +1,17 @@
+{
+  "id": "zen-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "q": "The only way to do great work is to love what you do.",
+    "a": "Steve Jobs",
+    "h": "<blockquote>The only way to do great work is to love what you do. &mdash; <footer>Steve Jobs</footer></blockquote>"
+  },
+  "previewConfig": {
+    "title": "Zen Quote",
+    "subtitle": "Steve Jobs",
+    "displayFields": [
+      "q",
+      "a"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "what-the-commit",
+  "previewType": "card",
+  "sampleResponse": {
+    "commit_message": "Fixed a bug that mass-introduced bugs",
+    "hash": "a1b2c3d"
+  },
+  "previewConfig": {
+    "title": "Random Commit",
+    "subtitle": "whatthecommit.com",
+    "displayFields": [
+      "commit_message"
+    ]
+  }
+}

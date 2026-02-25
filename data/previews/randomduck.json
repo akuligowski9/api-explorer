@@ -1,0 +1,13 @@
+{
+  "id": "randomduck",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://random-d.uk/api/93.jpg",
+    "message": "Quack!"
+  },
+  "previewConfig": {
+    "title": "Random Duck",
+    "subtitle": "random-d.uk",
+    "imageKey": "url"
+  }
+}

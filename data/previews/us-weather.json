@@ -1,0 +1,23 @@
+{
+  "id": "us-weather",
+  "previewType": "card",
+  "sampleResponse": {
+    "location": "New York, NY",
+    "temperature": "72°F",
+    "shortForecast": "Partly Cloudy",
+    "detailedForecast": "Partly cloudy, with a high near 72. South wind 5 to 10 mph.",
+    "windSpeed": "5 to 10 mph",
+    "windDirection": "S",
+    "humidity": "55%"
+  },
+  "previewConfig": {
+    "title": "New York, NY",
+    "subtitle": "US National Weather Service",
+    "displayFields": [
+      "temperature",
+      "shortForecast",
+      "windSpeed",
+      "humidity"
+    ]
+  }
+}

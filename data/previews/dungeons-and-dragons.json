@@ -1,0 +1,28 @@
+{
+  "id": "dungeons-and-dragons",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Red Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "alignment": "chaotic evil",
+    "armor_class": 19,
+    "hit_points": 256,
+    "challenge_rating": 17,
+    "speed": {
+      "walk": "40 ft.",
+      "fly": "80 ft."
+    }
+  },
+  "previewConfig": {
+    "title": "Red Dragon",
+    "subtitle": "D&D 5e Monster",
+    "displayFields": [
+      "size",
+      "type",
+      "armor_class",
+      "hit_points",
+      "challenge_rating"
+    ]
+  }
+}

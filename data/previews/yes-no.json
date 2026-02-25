@@ -1,0 +1,14 @@
+{
+  "id": "yes-no",
+  "previewType": "media",
+  "sampleResponse": {
+    "answer": "yes",
+    "forced": false,
+    "image": "https://yesno.wtf/assets/yes/2.gif"
+  },
+  "previewConfig": {
+    "title": "Yes or No?",
+    "subtitle": "yesno.wtf",
+    "imageKey": "image"
+  }
+}

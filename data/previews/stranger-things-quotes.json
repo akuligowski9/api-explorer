@@ -1,0 +1,18 @@
+{
+  "id": "stranger-things-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "quote": "Friends don't lie.",
+    "author": "Eleven",
+    "season": 1
+  },
+  "previewConfig": {
+    "title": "Stranger Things",
+    "subtitle": "Eleven",
+    "displayFields": [
+      "quote",
+      "author",
+      "season"
+    ]
+  }
+}

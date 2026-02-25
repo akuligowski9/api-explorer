@@ -1,0 +1,48 @@
+{
+  "id": "whiskyhunter",
+  "previewType": "chart",
+  "sampleResponse": {
+    "distillery": "Macallan",
+    "auctions": [
+      {
+        "label": "Jan",
+        "value": 245
+      },
+      {
+        "label": "Feb",
+        "value": 312
+      },
+      {
+        "label": "Mar",
+        "value": 289
+      },
+      {
+        "label": "Apr",
+        "value": 356
+      },
+      {
+        "label": "May",
+        "value": 423
+      },
+      {
+        "label": "Jun",
+        "value": 398
+      },
+      {
+        "label": "Jul",
+        "value": 467
+      },
+      {
+        "label": "Aug",
+        "value": 512
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Macallan Auction Prices",
+    "subtitle": "WhiskyHunter",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

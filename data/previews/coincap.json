@@ -1,0 +1,47 @@
+{
+  "id": "coincap",
+  "previewType": "chart",
+  "sampleResponse": {
+    "id": "ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "priceUsd": "3421.52",
+    "history": [
+      {
+        "label": "Mon",
+        "value": 3280
+      },
+      {
+        "label": "Tue",
+        "value": 3310
+      },
+      {
+        "label": "Wed",
+        "value": 3390
+      },
+      {
+        "label": "Thu",
+        "value": 3350
+      },
+      {
+        "label": "Fri",
+        "value": 3420
+      },
+      {
+        "label": "Sat",
+        "value": 3380
+      },
+      {
+        "label": "Sun",
+        "value": 3421
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Ethereum (ETH)",
+    "subtitle": "$3,421.52",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

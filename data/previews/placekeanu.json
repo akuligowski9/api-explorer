@@ -1,0 +1,14 @@
+{
+  "id": "placekeanu",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://placekeanu.com/400/300",
+    "width": 400,
+    "height": 300
+  },
+  "previewConfig": {
+    "title": "Keanu Reeves",
+    "subtitle": "placekeanu.com",
+    "imageKey": "url"
+  }
+}

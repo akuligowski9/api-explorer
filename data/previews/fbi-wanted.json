@@ -1,0 +1,35 @@
+{
+  "id": "fbi-wanted",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "ALEJANDRO ROSALES CASTILLO",
+        "subjects": [
+          "Crimes Against Children"
+        ]
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "FBI Most Wanted",
+    "items": [
+      {
+        "name": "Ten Most Wanted Fugitives",
+        "region": "FBI"
+      },
+      {
+        "name": "Seeking Information",
+        "region": "FBI"
+      },
+      {
+        "name": "Kidnappings/Missing Persons",
+        "region": "FBI"
+      },
+      {
+        "name": "Most Wanted Terrorists",
+        "region": "FBI"
+      }
+    ]
+  }
+}

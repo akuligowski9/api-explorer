@@ -1,0 +1,37 @@
+{
+  "id": "spaceflight-news",
+  "previewType": "list",
+  "sampleResponse": {
+    "results": [
+      {
+        "title": "SpaceX launches Starship",
+        "newsSite": "SpaceNews"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Spaceflight News",
+    "items": [
+      {
+        "title": "SpaceX launches Starship on historic test flight",
+        "author": "SpaceNews"
+      },
+      {
+        "title": "NASA's Artemis II crew prepares for lunar flyby",
+        "author": "NASA Spaceflight"
+      },
+      {
+        "title": "Blue Origin's New Glenn reaches orbit",
+        "author": "Ars Technica"
+      },
+      {
+        "title": "India's ISRO announces Venus mission timeline",
+        "author": "The Hindu"
+      },
+      {
+        "title": "ESA's JUICE spacecraft approaches Jupiter",
+        "author": "ESA"
+      }
+    ]
+  }
+}

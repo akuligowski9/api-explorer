@@ -1,0 +1,28 @@
+{
+  "id": "nominatim",
+  "previewType": "card",
+  "sampleResponse": {
+    "place_id": 282969,
+    "lat": "48.8588897",
+    "lon": "2.3200410",
+    "display_name": "Eiffel Tower, Avenue Anatole France, Paris, Île-de-France, France",
+    "type": "attraction",
+    "importance": 0.823,
+    "address": {
+      "tourism": "Eiffel Tower",
+      "road": "Avenue Anatole France",
+      "city": "Paris",
+      "country": "France"
+    }
+  },
+  "previewConfig": {
+    "title": "Eiffel Tower",
+    "subtitle": "Nominatim Geocoder",
+    "displayFields": [
+      "display_name",
+      "lat",
+      "lon",
+      "type"
+    ]
+  }
+}

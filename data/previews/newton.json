@@ -1,0 +1,18 @@
+{
+  "id": "newton",
+  "previewType": "card",
+  "sampleResponse": {
+    "operation": "derive",
+    "expression": "x^2+2x",
+    "result": "2x+2"
+  },
+  "previewConfig": {
+    "title": "Newton Math",
+    "subtitle": "d/dx (x²+2x) = 2x+2",
+    "displayFields": [
+      "operation",
+      "expression",
+      "result"
+    ]
+  }
+}

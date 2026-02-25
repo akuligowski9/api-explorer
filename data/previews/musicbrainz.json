@@ -1,0 +1,35 @@
+{
+  "id": "musicbrainz",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Radiohead",
+    "type": "Group",
+    "country": "GB",
+    "life-span": {
+      "begin": "1985",
+      "ended": false
+    },
+    "area": {
+      "name": "Abingdon"
+    },
+    "tags": [
+      {
+        "name": "alternative rock"
+      },
+      {
+        "name": "art rock"
+      },
+      {
+        "name": "electronic"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Radiohead",
+    "subtitle": "MusicBrainz",
+    "displayFields": [
+      "type",
+      "country"
+    ]
+  }
+}

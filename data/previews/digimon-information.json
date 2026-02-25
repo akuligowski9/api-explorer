@@ -1,0 +1,20 @@
+{
+  "id": "digimon-information",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Agumon",
+    "img": "https://digimon-api.com/images/digimon/agumon.png",
+    "level": "Rookie",
+    "attribute": "Vaccine",
+    "type": "Reptile"
+  },
+  "previewConfig": {
+    "title": "Agumon",
+    "subtitle": "Digimon",
+    "displayFields": [
+      "level",
+      "attribute",
+      "type"
+    ]
+  }
+}

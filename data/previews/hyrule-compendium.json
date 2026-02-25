@@ -1,0 +1,23 @@
+{
+  "id": "hyrule-compendium",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Master Sword",
+    "category": "equipment",
+    "description": "The legendary blade that seals the darkness. Only a hero chosen by the sword itself may wield it.",
+    "attack": 30,
+    "common_locations": [
+      "Korok Forest"
+    ],
+    "image": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/master_sword/image"
+  },
+  "previewConfig": {
+    "title": "Master Sword",
+    "subtitle": "Zelda: BOTW",
+    "displayFields": [
+      "name",
+      "category",
+      "attack"
+    ]
+  }
+}

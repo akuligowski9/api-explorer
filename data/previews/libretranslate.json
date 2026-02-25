@@ -1,0 +1,22 @@
+{
+  "id": "libretranslate",
+  "previewType": "card",
+  "sampleResponse": {
+    "translatedText": "Bonjour le monde",
+    "detectedLanguage": {
+      "language": "en",
+      "confidence": 98.5
+    },
+    "source": "en",
+    "target": "fr"
+  },
+  "previewConfig": {
+    "title": "LibreTranslate",
+    "subtitle": "EN → FR",
+    "displayFields": [
+      "translatedText",
+      "source",
+      "target"
+    ]
+  }
+}

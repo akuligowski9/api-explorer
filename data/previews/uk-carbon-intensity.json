@@ -1,0 +1,45 @@
+{
+  "id": "uk-carbon-intensity",
+  "previewType": "chart",
+  "sampleResponse": {
+    "regionid": 1,
+    "shortname": "UK",
+    "intensity": [
+      {
+        "label": "00:00",
+        "value": 180
+      },
+      {
+        "label": "04:00",
+        "value": 155
+      },
+      {
+        "label": "08:00",
+        "value": 210
+      },
+      {
+        "label": "12:00",
+        "value": 195
+      },
+      {
+        "label": "16:00",
+        "value": 230
+      },
+      {
+        "label": "20:00",
+        "value": 205
+      },
+      {
+        "label": "23:30",
+        "value": 170
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "UK Carbon Intensity",
+    "subtitle": "gCO₂/kWh",
+    "chartType": "line",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

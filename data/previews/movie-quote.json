@@ -1,0 +1,19 @@
+{
+  "id": "movie-quote",
+  "previewType": "card",
+  "sampleResponse": {
+    "quote": "Here's looking at you, kid.",
+    "movie": "Casablanca",
+    "character": "Rick Blaine",
+    "year": 1942
+  },
+  "previewConfig": {
+    "title": "Movie Quote",
+    "subtitle": "Casablanca (1942)",
+    "displayFields": [
+      "quote",
+      "character",
+      "movie"
+    ]
+  }
+}

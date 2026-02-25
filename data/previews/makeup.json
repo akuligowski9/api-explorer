@@ -1,0 +1,38 @@
+{
+  "id": "makeup",
+  "previewType": "list",
+  "sampleResponse": {
+    "products": [
+      {
+        "name": "Voluminous Lash Paradise",
+        "brand": "L'Oréal",
+        "price": "10.99"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Makeup Products",
+    "items": [
+      {
+        "name": "Voluminous Lash Paradise",
+        "author": "L'Oréal"
+      },
+      {
+        "name": "Fit Me Matte Foundation",
+        "author": "Maybelline"
+      },
+      {
+        "name": "Soft Matte Lip Cream",
+        "author": "NYX"
+      },
+      {
+        "name": "Better Than Sex Mascara",
+        "author": "Too Faced"
+      },
+      {
+        "name": "Pro Filt'r Foundation",
+        "author": "Fenty Beauty"
+      }
+    ]
+  }
+}

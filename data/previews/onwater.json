@@ -1,0 +1,18 @@
+{
+  "id": "onwater",
+  "previewType": "card",
+  "sampleResponse": {
+    "lat": 40.7128,
+    "lon": -74.006,
+    "water": false
+  },
+  "previewConfig": {
+    "title": "On Water?",
+    "subtitle": "40.71°N, 74.01°W",
+    "displayFields": [
+      "water",
+      "lat",
+      "lon"
+    ]
+  }
+}

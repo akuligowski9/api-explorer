@@ -1,0 +1,37 @@
+{
+  "id": "stephen-king",
+  "previewType": "list",
+  "sampleResponse": {
+    "books": [
+      {
+        "title": "The Shining",
+        "year": 1977
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Stephen King",
+    "items": [
+      {
+        "title": "The Shining",
+        "language": "1977"
+      },
+      {
+        "title": "It",
+        "language": "1986"
+      },
+      {
+        "title": "The Stand",
+        "language": "1978"
+      },
+      {
+        "title": "Misery",
+        "language": "1987"
+      },
+      {
+        "title": "The Dark Tower: The Gunslinger",
+        "language": "1982"
+      }
+    ]
+  }
+}

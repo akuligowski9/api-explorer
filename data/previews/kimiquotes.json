@@ -1,0 +1,19 @@
+{
+  "id": "kimiquotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "quote": "Leave me alone, I know what I'm doing.",
+    "driver": "Kimi Räikkönen",
+    "race": "2012 Abu Dhabi Grand Prix",
+    "type": "team_radio"
+  },
+  "previewConfig": {
+    "title": "Kimi Quote",
+    "subtitle": "Kimi Räikkönen",
+    "displayFields": [
+      "quote",
+      "race",
+      "type"
+    ]
+  }
+}

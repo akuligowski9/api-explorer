@@ -1,0 +1,12 @@
+{
+  "id": "waifu-pics",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://i.waifu.pics/hGjKIp5.png"
+  },
+  "previewConfig": {
+    "title": "Anime Art",
+    "subtitle": "waifu.pics",
+    "imageKey": "url"
+  }
+}

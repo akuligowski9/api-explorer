@@ -1,0 +1,18 @@
+{
+  "id": "uuid-generator",
+  "previewType": "card",
+  "sampleResponse": {
+    "uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "version": 4,
+    "variant": "RFC 4122"
+  },
+  "previewConfig": {
+    "title": "UUID Generator",
+    "subtitle": "v4 — RFC 4122",
+    "displayFields": [
+      "uuid",
+      "version",
+      "variant"
+    ]
+  }
+}

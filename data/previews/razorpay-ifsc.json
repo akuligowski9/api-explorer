@@ -1,0 +1,25 @@
+{
+  "id": "razorpay-ifsc",
+  "previewType": "card",
+  "sampleResponse": {
+    "BANK": "State Bank of India",
+    "IFSC": "SBIN0001234",
+    "BRANCH": "Mumbai Main Branch",
+    "CENTRE": "Mumbai",
+    "DISTRICT": "Mumbai",
+    "STATE": "Maharashtra",
+    "ADDRESS": "Horniman Circle, Fort, Mumbai - 400001",
+    "CONTACT": "+912222740000",
+    "CITY": "Mumbai"
+  },
+  "previewConfig": {
+    "title": "SBIN0001234",
+    "subtitle": "State Bank of India",
+    "displayFields": [
+      "BANK",
+      "BRANCH",
+      "CITY",
+      "STATE"
+    ]
+  }
+}

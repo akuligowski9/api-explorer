@@ -1,0 +1,14 @@
+{
+  "id": "robohash",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://robohash.org/hello.png",
+    "set": "set1",
+    "format": "png"
+  },
+  "previewConfig": {
+    "title": "Robot Avatar",
+    "subtitle": "robohash.org",
+    "imageKey": "url"
+  }
+}

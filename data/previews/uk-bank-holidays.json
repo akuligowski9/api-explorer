@@ -1,0 +1,37 @@
+{
+  "id": "uk-bank-holidays",
+  "previewType": "list",
+  "sampleResponse": {
+    "events": [
+      {
+        "title": "New Year's Day",
+        "date": "2024-01-01"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "UK Bank Holidays",
+    "items": [
+      {
+        "name": "New Year's Day",
+        "language": "1 January"
+      },
+      {
+        "name": "Good Friday",
+        "language": "29 March"
+      },
+      {
+        "name": "Early May bank holiday",
+        "language": "6 May"
+      },
+      {
+        "name": "Spring bank holiday",
+        "language": "27 May"
+      },
+      {
+        "name": "Christmas Day",
+        "language": "25 December"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "football-standings",
+  "previewType": "list",
+  "sampleResponse": {
+    "standings": [
+      {
+        "team": "Arsenal",
+        "points": 89
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Premier League",
+    "items": [
+      {
+        "name": "Arsenal",
+        "score": 89
+      },
+      {
+        "name": "Manchester City",
+        "score": 91
+      },
+      {
+        "name": "Liverpool",
+        "score": 82
+      },
+      {
+        "name": "Aston Villa",
+        "score": 68
+      },
+      {
+        "name": "Tottenham",
+        "score": 66
+      }
+    ]
+  }
+}

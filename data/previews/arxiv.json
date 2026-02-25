@@ -1,0 +1,40 @@
+{
+  "id": "arxiv",
+  "previewType": "list",
+  "sampleResponse": {
+    "entries": [
+      {
+        "title": "Attention Is All You Need",
+        "authors": [
+          "Vaswani et al."
+        ],
+        "category": "cs.CL"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "arXiv Papers",
+    "items": [
+      {
+        "title": "Attention Is All You Need",
+        "author": "cs.CL"
+      },
+      {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "author": "cs.LG"
+      },
+      {
+        "title": "Language Models are Few-Shot Learners",
+        "author": "cs.CL"
+      },
+      {
+        "title": "An Image is Worth 16x16 Words",
+        "author": "cs.CV"
+      },
+      {
+        "title": "Scaling Laws for Neural Language Models",
+        "author": "cs.LG"
+      }
+    ]
+  }
+}

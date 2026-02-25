@@ -1,0 +1,30 @@
+{
+  "id": "open-notify",
+  "previewType": "card",
+  "sampleResponse": {
+    "message": "success",
+    "iss_position": {
+      "latitude": "-14.8201",
+      "longitude": "29.3566"
+    },
+    "timestamp": 1710764400,
+    "number": 7,
+    "people": [
+      {
+        "name": "Jasmin Moghbeli",
+        "craft": "ISS"
+      },
+      {
+        "name": "Andreas Mogensen",
+        "craft": "ISS"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "ISS Location",
+    "subtitle": "Open Notify",
+    "displayFields": [
+      "number"
+    ]
+  }
+}

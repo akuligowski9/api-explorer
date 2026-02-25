@@ -1,0 +1,31 @@
+{
+  "id": "monster-hunter-world",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Rathalos",
+    "type": "large",
+    "species": "Flying Wyvern",
+    "description": "The apex monster of the Ancient Forest, also known as the 'King of the Skies'.",
+    "elements": [
+      "Fire"
+    ],
+    "weaknesses": [
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Thunder",
+        "stars": 2
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Rathalos",
+    "subtitle": "Monster Hunter World",
+    "displayFields": [
+      "species",
+      "type"
+    ]
+  }
+}

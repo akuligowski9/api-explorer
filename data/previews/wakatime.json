@@ -1,0 +1,43 @@
+{
+  "id": "wakatime",
+  "previewType": "card",
+  "sampleResponse": {
+    "username": "devuser",
+    "total_seconds_logged": 8640000,
+    "human_readable_total": "2,400 hrs",
+    "languages": [
+      {
+        "name": "TypeScript",
+        "percent": 42.3
+      },
+      {
+        "name": "Python",
+        "percent": 28.1
+      },
+      {
+        "name": "Go",
+        "percent": 15.7
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "percent": 89.2
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "percent": 95.1
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Developer Stats",
+    "subtitle": "WakaTime",
+    "displayFields": [
+      "human_readable_total",
+      "username"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mmo-games",
+  "previewType": "list",
+  "sampleResponse": {
+    "games": [
+      {
+        "title": "World of Warcraft",
+        "genre": "MMORPG"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "MMO Games",
+    "items": [
+      {
+        "name": "World of Warcraft",
+        "region": "MMORPG"
+      },
+      {
+        "name": "Final Fantasy XIV",
+        "region": "MMORPG"
+      },
+      {
+        "name": "Guild Wars 2",
+        "region": "MMORPG"
+      },
+      {
+        "name": "EVE Online",
+        "region": "Sci-Fi MMO"
+      },
+      {
+        "name": "Path of Exile",
+        "region": "Action RPG"
+      }
+    ]
+  }
+}

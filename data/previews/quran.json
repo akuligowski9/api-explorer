@@ -1,0 +1,21 @@
+{
+  "id": "quran",
+  "previewType": "card",
+  "sampleResponse": {
+    "number": 1,
+    "name": "Al-Fatihah",
+    "englishName": "The Opening",
+    "numberOfAyahs": 7,
+    "revelationType": "Meccan",
+    "text": "In the name of God, the Most Gracious, the Most Merciful."
+  },
+  "previewConfig": {
+    "title": "Al-Fatihah",
+    "subtitle": "The Opening",
+    "displayFields": [
+      "englishName",
+      "numberOfAyahs",
+      "revelationType"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "funtranslations",
+  "previewType": "card",
+  "sampleResponse": {
+    "success": {
+      "total": 1
+    },
+    "contents": {
+      "translated": "Translated into Yoda speak, this sentence is.",
+      "text": "This sentence is translated into Yoda speak.",
+      "translation": "yoda"
+    }
+  },
+  "previewConfig": {
+    "title": "Fun Translations",
+    "subtitle": "Yoda Speak",
+    "displayFields": []
+  }
+}

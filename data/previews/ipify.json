@@ -1,0 +1,14 @@
+{
+  "id": "ipify",
+  "previewType": "card",
+  "sampleResponse": {
+    "ip": "203.0.113.42"
+  },
+  "previewConfig": {
+    "title": "Your IP Address",
+    "subtitle": "ipify.org",
+    "displayFields": [
+      "ip"
+    ]
+  }
+}

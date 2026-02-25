@@ -1,0 +1,26 @@
+{
+  "id": "air-quality-index",
+  "previewType": "card",
+  "sampleResponse": {
+    "city": "Tokyo",
+    "aqi": 42,
+    "category": "Good",
+    "dominantPollutant": "PM2.5",
+    "pm25": 12.3,
+    "pm10": 25.1,
+    "o3": 38.2,
+    "no2": 18.5,
+    "temperature": "22°C",
+    "humidity": "65%"
+  },
+  "previewConfig": {
+    "title": "Tokyo Air Quality",
+    "subtitle": "AQI: 42 — Good",
+    "displayFields": [
+      "aqi",
+      "category",
+      "dominantPollutant",
+      "pm25"
+    ]
+  }
+}

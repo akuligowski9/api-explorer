@@ -1,0 +1,20 @@
+{
+  "id": "game-of-thrones-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "sentence": "When you play the game of thrones, you win or you die.",
+    "character": {
+      "name": "Cersei Lannister",
+      "house": {
+        "name": "House Lannister"
+      }
+    }
+  },
+  "previewConfig": {
+    "title": "GoT Quote",
+    "subtitle": "Cersei Lannister",
+    "displayFields": [
+      "sentence"
+    ]
+  }
+}

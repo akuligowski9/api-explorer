@@ -1,0 +1,24 @@
+{
+  "id": "poetrydb",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "The Road Not Taken",
+    "author": "Robert Frost",
+    "lines": [
+      "Two roads diverged in a yellow wood,",
+      "And sorry I could not travel both",
+      "And be one traveler, long I stood",
+      "And looked down one as far as I could",
+      "To where it bent in the undergrowth;"
+    ],
+    "linecount": "20"
+  },
+  "previewConfig": {
+    "title": "The Road Not Taken",
+    "subtitle": "Robert Frost",
+    "displayFields": [
+      "author",
+      "linecount"
+    ]
+  }
+}

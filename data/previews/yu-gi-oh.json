@@ -1,0 +1,25 @@
+{
+  "id": "yu-gi-oh",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Blue-Eyes White Dragon",
+    "type": "Normal Monster",
+    "race": "Dragon",
+    "attribute": "LIGHT",
+    "level": 8,
+    "atk": 3000,
+    "def": 2500,
+    "desc": "This legendary dragon is a powerful engine of destruction."
+  },
+  "previewConfig": {
+    "title": "Blue-Eyes White Dragon",
+    "subtitle": "Yu-Gi-Oh!",
+    "displayFields": [
+      "type",
+      "attribute",
+      "atk",
+      "def",
+      "level"
+    ]
+  }
+}

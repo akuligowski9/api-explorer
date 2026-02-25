@@ -1,0 +1,25 @@
+{
+  "id": "metropolitan-museum-of-art",
+  "previewType": "card",
+  "sampleResponse": {
+    "objectID": 45734,
+    "title": "Wheat Field with Cypresses",
+    "artistDisplayName": "Vincent van Gogh",
+    "artistNationality": "Dutch",
+    "objectDate": "1889",
+    "medium": "Oil on canvas",
+    "department": "European Paintings",
+    "dimensions": "28 7/8 x 36 3/4 in.",
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg"
+  },
+  "previewConfig": {
+    "title": "Wheat Field with Cypresses",
+    "subtitle": "Vincent van Gogh, 1889",
+    "displayFields": [
+      "artistDisplayName",
+      "medium",
+      "department",
+      "objectDate"
+    ]
+  }
+}

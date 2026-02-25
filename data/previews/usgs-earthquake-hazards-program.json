@@ -1,0 +1,39 @@
+{
+  "id": "usgs-earthquake-hazards-program",
+  "previewType": "list",
+  "sampleResponse": {
+    "features": [
+      {
+        "properties": {
+          "mag": 5.2,
+          "place": "45km S of Hualien City, Taiwan"
+        }
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Recent Earthquakes",
+    "items": [
+      {
+        "name": "M 5.2 — Taiwan",
+        "score": 52
+      },
+      {
+        "name": "M 4.8 — Alaska",
+        "score": 48
+      },
+      {
+        "name": "M 6.1 — Indonesia",
+        "score": 61
+      },
+      {
+        "name": "M 3.9 — California",
+        "score": 39
+      },
+      {
+        "name": "M 5.5 — Chile",
+        "score": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "randomdog",
+  "previewType": "media",
+  "sampleResponse": {
+    "message": "https://random.dog/5765a462-e1c8-4752-b0ea-d03974d1261c.jpg",
+    "status": "success"
+  },
+  "previewConfig": {
+    "title": "Random Dog",
+    "subtitle": "random.dog",
+    "imageKey": "message"
+  }
+}

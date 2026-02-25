@@ -1,0 +1,43 @@
+{
+  "id": "nobel-prize",
+  "previewType": "list",
+  "sampleResponse": {
+    "prizes": [
+      {
+        "year": "2023",
+        "category": "physics",
+        "laureates": [
+          {
+            "firstname": "Pierre",
+            "surname": "Agostini"
+          }
+        ]
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Nobel Prizes",
+    "items": [
+      {
+        "name": "Pierre Agostini",
+        "region": "Physics 2023"
+      },
+      {
+        "name": "Katalin Karikó",
+        "region": "Medicine 2023"
+      },
+      {
+        "name": "Claudia Goldin",
+        "region": "Economics 2023"
+      },
+      {
+        "name": "Jon Fosse",
+        "region": "Literature 2023"
+      },
+      {
+        "name": "Narges Mohammadi",
+        "region": "Peace 2023"
+      }
+    ]
+  }
+}

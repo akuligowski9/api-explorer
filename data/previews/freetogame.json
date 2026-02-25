@@ -1,0 +1,38 @@
+{
+  "id": "freetogame",
+  "previewType": "list",
+  "sampleResponse": {
+    "games": [
+      {
+        "id": 521,
+        "title": "Diablo Immortal",
+        "genre": "MMORPG"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Free-to-Play Games",
+    "items": [
+      {
+        "title": "Diablo Immortal",
+        "region": "MMORPG"
+      },
+      {
+        "title": "Genshin Impact",
+        "region": "Action RPG"
+      },
+      {
+        "title": "Lost Ark",
+        "region": "MMORPG"
+      },
+      {
+        "title": "Apex Legends",
+        "region": "Battle Royale"
+      },
+      {
+        "title": "Valorant",
+        "region": "Shooter"
+      }
+    ]
+  }
+}

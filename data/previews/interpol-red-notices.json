@@ -1,0 +1,27 @@
+{
+  "id": "interpol-red-notices",
+  "previewType": "list",
+  "sampleResponse": {
+    "total": 7620,
+    "query": {
+      "resultPerPage": 20
+    }
+  },
+  "previewConfig": {
+    "title": "Interpol Red Notices",
+    "items": [
+      {
+        "name": "Active Red Notices",
+        "score": 7620
+      },
+      {
+        "name": "Countries Participating",
+        "score": 195
+      },
+      {
+        "name": "New Notices (2024)",
+        "score": 1842
+      }
+    ]
+  }
+}

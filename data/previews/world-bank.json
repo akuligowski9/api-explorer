@@ -1,0 +1,45 @@
+{
+  "id": "world-bank",
+  "previewType": "chart",
+  "sampleResponse": {
+    "indicator": "GDP Growth",
+    "country": "World",
+    "data": [
+      {
+        "label": "2017",
+        "value": 3.3
+      },
+      {
+        "label": "2018",
+        "value": 3.3
+      },
+      {
+        "label": "2019",
+        "value": 2.6
+      },
+      {
+        "label": "2020",
+        "value": -3.1
+      },
+      {
+        "label": "2021",
+        "value": 6.0
+      },
+      {
+        "label": "2022",
+        "value": 3.1
+      },
+      {
+        "label": "2023",
+        "value": 2.7
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "World GDP Growth %",
+    "subtitle": "World Bank",
+    "chartType": "bar",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

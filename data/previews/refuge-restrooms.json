@@ -1,0 +1,40 @@
+{
+  "id": "refuge-restrooms",
+  "previewType": "list",
+  "sampleResponse": {
+    "restrooms": [
+      {
+        "name": "Starbucks",
+        "city": "Portland",
+        "state": "OR",
+        "accessible": true,
+        "unisex": true
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Safe Restrooms",
+    "items": [
+      {
+        "name": "Starbucks — Downtown Portland",
+        "region": "Portland, OR"
+      },
+      {
+        "name": "Powell's City of Books",
+        "region": "Portland, OR"
+      },
+      {
+        "name": "Central Library",
+        "region": "Seattle, WA"
+      },
+      {
+        "name": "Union Station",
+        "region": "Los Angeles, CA"
+      },
+      {
+        "name": "Grand Central Terminal",
+        "region": "New York, NY"
+      }
+    ]
+  }
+}

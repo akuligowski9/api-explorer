@@ -1,0 +1,25 @@
+{
+  "id": "cdnjs",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "react",
+    "latest": "https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js",
+    "version": "18.2.0",
+    "description": "React is a JavaScript library for building user interfaces.",
+    "homepage": "https://reactjs.org/",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react"
+    }
+  },
+  "previewConfig": {
+    "title": "react",
+    "subtitle": "v18.2.0 — cdnjs",
+    "displayFields": [
+      "version",
+      "description",
+      "license"
+    ]
+  }
+}

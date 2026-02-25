@@ -1,0 +1,20 @@
+{
+  "id": "zelda",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Step into a world of discovery, exploration, and adventure.",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "released_date": "March 3, 2017"
+  },
+  "previewConfig": {
+    "title": "Breath of the Wild",
+    "subtitle": "The Legend of Zelda",
+    "displayFields": [
+      "developer",
+      "publisher",
+      "released_date"
+    ]
+  }
+}

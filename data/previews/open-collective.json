@@ -1,0 +1,23 @@
+{
+  "id": "open-collective",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "webpack",
+    "slug": "webpack",
+    "description": "A bundler for javascript and friends",
+    "currency": "USD",
+    "balance": 245832,
+    "backersCount": 1247,
+    "contributorsCount": 836,
+    "yearlyBudget": 89400
+  },
+  "previewConfig": {
+    "title": "webpack",
+    "subtitle": "Open Collective",
+    "displayFields": [
+      "description",
+      "backersCount",
+      "contributorsCount"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "joke-father",
+  "previewType": "card",
+  "sampleResponse": {
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!",
+    "type": "dad"
+  },
+  "previewConfig": {
+    "title": "Dad Joke",
+    "subtitle": "Joke Father",
+    "displayFields": [
+      "setup",
+      "punchline"
+    ]
+  }
+}

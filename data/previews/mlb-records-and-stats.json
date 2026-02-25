@@ -1,0 +1,25 @@
+{
+  "id": "mlb-records-and-stats",
+  "previewType": "card",
+  "sampleResponse": {
+    "fullName": "Shohei Ohtani",
+    "primaryPosition": "Two-Way Player",
+    "team": "Los Angeles Dodgers",
+    "batSide": "L",
+    "throwSide": "R",
+    "birthDate": "1994-07-05",
+    "birthCountry": "Japan",
+    "height": "6'4\"",
+    "weight": 210
+  },
+  "previewConfig": {
+    "title": "Shohei Ohtani",
+    "subtitle": "LA Dodgers",
+    "displayFields": [
+      "primaryPosition",
+      "batSide",
+      "throwSide",
+      "height"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "status-pizza",
+  "previewType": "media",
+  "sampleResponse": {
+    "code": 200,
+    "message": "OK",
+    "image": "https://http.pizza/200.png"
+  },
+  "previewConfig": {
+    "title": "HTTP 200 Pizza",
+    "subtitle": "http.pizza",
+    "imageKey": "image"
+  }
+}
