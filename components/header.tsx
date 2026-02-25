@@ -1,4 +1,4 @@
-import { Compass, Github, Star } from "lucide-react";
+import { Compass, Github } from "lucide-react";
 import { ThemeToggle } from "./theme-toggle";
 import { cn } from "@/lib/utils";
 import type { Columns } from "./home-client";
@@ -40,16 +40,6 @@ export function Header({ columns, onColumnsChange }: HeaderProps) {
         </div>
       </div>
       <div className="flex items-center gap-2">
-        <a
-          href="https://github.com/akuligowski9/api-explorer"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-card px-3 py-1.5 text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
-        >
-          <Github className="h-4 w-4" />
-          <Star className="h-3 w-3" />
-          Star
-        </a>
         {columns !== undefined && onColumnsChange && (
           <div className="flex items-center gap-1 rounded-lg border border-border bg-card p-1">
             {([1, 2, 3] as Columns[]).map((cols) => (
@@ -69,6 +59,15 @@ export function Header({ columns, onColumnsChange }: HeaderProps) {
             ))}
           </div>
         )}
+        <a
+          href="https://github.com/akuligowski9/api-explorer"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="View on GitHub"
+          className="inline-flex h-9 w-9 items-center justify-center rounded-xl text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        >
+          <Github className="h-4 w-4" />
+        </a>
         <ThemeToggle />
       </div>
     </header>

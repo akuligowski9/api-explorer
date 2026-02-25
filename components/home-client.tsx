@@ -13,9 +13,7 @@ interface HomeClientProps {
 }
 
 export function HomeClient({ apis }: HomeClientProps) {
-  const [columns, setColumns] = useState<Columns>(() =>
-    typeof window !== "undefined" && window.innerWidth < 640 ? 1 : 3
-  );
+  const [columns, setColumns] = useState<Columns>(1);
 
   return (
     <CompareProvider>
