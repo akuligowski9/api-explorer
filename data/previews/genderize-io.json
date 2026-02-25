@@ -1,0 +1,25 @@
+{
+  "id": "genderize-io",
+  "previewType": "chart",
+  "sampleResponse": {
+    "count": 1,
+    "name": "alex",
+    "results": [
+      {
+        "label": "male",
+        "value": 0.63
+      },
+      {
+        "label": "female",
+        "value": 0.37
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Gender Prediction",
+    "subtitle": "alex",
+    "chartType": "bar",
+    "chartDataKey": "value",
+    "chartLabelKey": "label"
+  }
+}

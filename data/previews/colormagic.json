@@ -1,0 +1,24 @@
+{
+  "id": "colormagic",
+  "previewType": "card",
+  "sampleResponse": {
+    "hex": "#6366f1",
+    "rgb": {
+      "r": 99,
+      "g": 102,
+      "b": 241
+    },
+    "hsl": {
+      "h": 239,
+      "s": 84,
+      "l": 67
+    },
+    "name": "Indigo",
+    "complement": "#f1ee63"
+  },
+  "previewConfig": {
+    "title": "Color: Indigo",
+    "subtitle": "#6366f1",
+    "displayFields": ["hex", "name", "complement"]
+  }
+}

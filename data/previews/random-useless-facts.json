@@ -1,0 +1,15 @@
+{
+  "id": "random-useless-facts",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": "abc123",
+    "text": "The average person walks the equivalent of five times around the world in their lifetime.",
+    "source": "djtech.net",
+    "language": "en"
+  },
+  "previewConfig": {
+    "title": "Useless Fact",
+    "subtitle": "Random",
+    "displayFields": ["text", "source"]
+  }
+}

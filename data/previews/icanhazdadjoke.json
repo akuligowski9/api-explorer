@@ -1,0 +1,14 @@
+{
+  "id": "icanhazdadjoke",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": "abc123",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "status": 200
+  },
+  "previewConfig": {
+    "title": "Dad Joke",
+    "subtitle": "icanhazdadjoke",
+    "displayFields": ["joke"]
+  }
+}

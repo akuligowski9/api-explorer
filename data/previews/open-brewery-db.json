@@ -1,0 +1,72 @@
+{
+  "id": "open-brewery-db",
+  "previewType": "list",
+  "sampleResponse": [
+    {
+      "name": "Austin Beerworks",
+      "city": "Austin",
+      "state": "Texas",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Trillium Brewing Company",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "brewery_type": "micro"
+    },
+    {
+      "name": "Sierra Nevada Brewing Co",
+      "city": "Chico",
+      "state": "California",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Dogfish Head Craft Brewery",
+      "city": "Milton",
+      "state": "Delaware",
+      "brewery_type": "regional"
+    },
+    {
+      "name": "Bell's Brewery",
+      "city": "Comstock",
+      "state": "Michigan",
+      "brewery_type": "regional"
+    }
+  ],
+  "previewConfig": {
+    "title": "Craft Breweries",
+    "subtitle": "United States",
+    "items": [
+      {
+        "name": "Austin Beerworks",
+        "city": "Austin",
+        "state": "Texas",
+        "brewery_type": "micro"
+      },
+      {
+        "name": "Trillium Brewing Company",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "brewery_type": "micro"
+      },
+      {
+        "name": "Sierra Nevada Brewing Co",
+        "city": "Chico",
+        "state": "California",
+        "brewery_type": "regional"
+      },
+      {
+        "name": "Dogfish Head Craft Brewery",
+        "city": "Milton",
+        "state": "Delaware",
+        "brewery_type": "regional"
+      },
+      {
+        "name": "Bell's Brewery",
+        "city": "Comstock",
+        "state": "Michigan",
+        "brewery_type": "regional"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "xkcd",
+  "previewType": "media",
+  "sampleResponse": {
+    "num": 353,
+    "title": "Python",
+    "alt": "I wrote 20 short programs in Python yesterday. It was mass. I was a god.",
+    "img": "https://imgs.xkcd.com/comics/python.png",
+    "year": "2007",
+    "month": "12",
+    "day": "5"
+  },
+  "previewConfig": {
+    "title": "xkcd #353",
+    "subtitle": "Python",
+    "imageKey": "img"
+  }
+}

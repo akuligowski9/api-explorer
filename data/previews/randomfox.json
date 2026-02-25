@@ -1,0 +1,13 @@
+{
+  "id": "randomfox",
+  "previewType": "media",
+  "sampleResponse": {
+    "image": "https://randomfox.ca/images/86.jpg",
+    "link": "https://randomfox.ca/?i=86"
+  },
+  "previewConfig": {
+    "title": "Random Fox",
+    "subtitle": "randomfox.ca",
+    "imageKey": "image"
+  }
+}

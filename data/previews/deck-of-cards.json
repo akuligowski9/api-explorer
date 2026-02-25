@@ -1,0 +1,23 @@
+{
+  "id": "deck-of-cards",
+  "previewType": "media",
+  "sampleResponse": {
+    "success": true,
+    "deck_id": "3p40paa87x90",
+    "cards": [
+      {
+        "code": "AS",
+        "image": "https://deckofcardsapi.com/static/img/AS.png",
+        "value": "ACE",
+        "suit": "SPADES"
+      }
+    ],
+    "remaining": 51,
+    "card_image": "https://deckofcardsapi.com/static/img/AS.png"
+  },
+  "previewConfig": {
+    "title": "Deck of Cards",
+    "subtitle": "Ace of Spades",
+    "imageKey": "card_image"
+  }
+}

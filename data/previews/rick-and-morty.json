@@ -1,0 +1,25 @@
+{
+  "id": "rick-and-morty",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "gender": "Male",
+    "origin": {
+      "name": "Earth (C-137)"
+    },
+    "location": {
+      "name": "Citadel of Ricks"
+    },
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "episode_count": 51
+  },
+  "previewConfig": {
+    "title": "Rick Sanchez",
+    "subtitle": "Earth (C-137)",
+    "imageKey": "image",
+    "displayFields": ["status", "species", "gender", "episode_count"]
+  }
+}

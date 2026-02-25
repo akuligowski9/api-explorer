@@ -1,0 +1,21 @@
+{
+  "id": "open-trivia",
+  "previewType": "card",
+  "sampleResponse": {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does CPU stand for?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": [
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processor Unit"
+    ]
+  },
+  "previewConfig": {
+    "title": "Trivia Question",
+    "subtitle": "Science: Computers",
+    "displayFields": ["question", "correct_answer", "difficulty"]
+  }
+}

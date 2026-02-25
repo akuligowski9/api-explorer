@@ -1,0 +1,41 @@
+{
+  "id": "wikipedia",
+  "previewType": "list",
+  "sampleResponse": {
+    "query": {
+      "search": [
+        {
+          "title": "Application programming interface",
+          "snippet": "Software interface for connecting computers and software"
+        },
+        {
+          "title": "REST",
+          "snippet": "Software architectural style for web services"
+        },
+        {
+          "title": "JSON",
+          "snippet": "Open standard file format for data interchange"
+        },
+        {
+          "title": "HTTP",
+          "snippet": "Application layer protocol for distributed systems"
+        },
+        {
+          "title": "Web API",
+          "snippet": "Interface for a web server or web browser"
+        }
+      ]
+    }
+  },
+  "previewConfig": {
+    "title": "Wikipedia Search",
+    "subtitle": "search results",
+    "items": [
+      {"title": "Application programming interface", "description": "Software interface for connecting computers and software"},
+      {"title": "REST", "description": "Software architectural style for web services"},
+      {"title": "JSON", "description": "Open standard file format for data interchange"},
+      {"title": "HTTP", "description": "Application layer protocol for distributed systems"},
+      {"title": "Web API", "description": "Interface for a web server or web browser"}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jikan",
+  "previewType": "card",
+  "sampleResponse": {
+    "mal_id": 1,
+    "title": "Cowboy Bebop",
+    "score": 8.75,
+    "episodes": 26,
+    "status": "Finished Airing",
+    "rating": "R - 17+",
+    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg"
+      }
+    }
+  },
+  "previewConfig": {
+    "title": "Cowboy Bebop",
+    "subtitle": "Score: 8.75",
+    "imageKey": "images.jpg.image_url",
+    "displayFields": ["episodes", "status", "rating"]
+  }
+}

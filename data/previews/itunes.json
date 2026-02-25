@@ -1,0 +1,45 @@
+{
+  "id": "itunes",
+  "previewType": "list",
+  "sampleResponse": {
+    "resultCount": 5,
+    "results": [
+      {
+        "trackName": "Bohemian Rhapsody",
+        "artistName": "Queen",
+        "kind": "song"
+      },
+      {
+        "trackName": "Hotel California",
+        "artistName": "Eagles",
+        "kind": "song"
+      },
+      {
+        "trackName": "Stairway to Heaven",
+        "artistName": "Led Zeppelin",
+        "kind": "song"
+      },
+      {
+        "trackName": "Imagine",
+        "artistName": "John Lennon",
+        "kind": "song"
+      },
+      {
+        "trackName": "Smells Like Teen Spirit",
+        "artistName": "Nirvana",
+        "kind": "song"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "iTunes Search",
+    "subtitle": "Top Results",
+    "items": [
+      {"name": "Bohemian Rhapsody", "artist": "Queen", "kind": "song"},
+      {"name": "Hotel California", "artist": "Eagles", "kind": "song"},
+      {"name": "Stairway to Heaven", "artist": "Led Zeppelin", "kind": "song"},
+      {"name": "Imagine", "artist": "John Lennon", "kind": "song"},
+      {"name": "Smells Like Teen Spirit", "artist": "Nirvana", "kind": "song"}
+    ]
+  }
+}

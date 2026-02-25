@@ -1,0 +1,13 @@
+{
+  "id": "cat-facts",
+  "previewType": "card",
+  "sampleResponse": {
+    "fact": "Cats sleep 70% of their lives.",
+    "length": 31
+  },
+  "previewConfig": {
+    "title": "Cat Fact",
+    "subtitle": "Did you know?",
+    "displayFields": ["fact", "length"]
+  }
+}

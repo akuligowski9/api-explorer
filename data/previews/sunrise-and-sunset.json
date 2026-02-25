@@ -1,0 +1,17 @@
+{
+  "id": "sunrise-and-sunset",
+  "previewType": "card",
+  "sampleResponse": {
+    "sunrise": "6:23:15 AM",
+    "sunset": "6:45:30 PM",
+    "solar_noon": "12:34:22 PM",
+    "day_length": "12:22:15",
+    "location": "Lima, Peru",
+    "date": "2024-03-15"
+  },
+  "previewConfig": {
+    "title": "Sunrise & Sunset",
+    "subtitle": "Lima, Peru",
+    "displayFields": ["sunrise", "sunset", "solar_noon", "day_length"]
+  }
+}

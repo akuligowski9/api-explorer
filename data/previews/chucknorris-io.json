@@ -1,0 +1,16 @@
+{
+  "id": "chucknorris-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "icon_url": "https://api.chucknorris.io/img/avatar/chuck-norris.png",
+    "id": "abc123",
+    "value": "Chuck Norris can divide by zero.",
+    "categories": ["dev"]
+  },
+  "previewConfig": {
+    "title": "Chuck Norris Joke",
+    "subtitle": "dev",
+    "imageKey": "icon_url",
+    "displayFields": ["value"]
+  }
+}

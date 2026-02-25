@@ -1,0 +1,17 @@
+{
+  "id": "world-time-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "abbreviation": "EST",
+    "datetime": "2024-03-15T14:23:45.123456-05:00",
+    "timezone": "America/New_York",
+    "utc_offset": "-05:00",
+    "day_of_year": 75,
+    "week_number": 11
+  },
+  "previewConfig": {
+    "title": "World Time",
+    "subtitle": "America/New_York",
+    "displayFields": ["timezone", "abbreviation", "utc_offset", "day_of_year"]
+  }
+}

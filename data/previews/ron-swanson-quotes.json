@@ -1,0 +1,12 @@
+{
+  "id": "ron-swanson-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "quote": "There's only one thing I hate more than lying: skim milk. Which is water that is lying about being milk."
+  },
+  "previewConfig": {
+    "title": "Ron Swanson",
+    "subtitle": "Parks & Rec",
+    "displayFields": ["quote"]
+  }
+}

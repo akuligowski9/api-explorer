@@ -1,0 +1,16 @@
+{
+  "id": "themealdb",
+  "previewType": "media",
+  "sampleResponse": {
+    "idMeal": "52772",
+    "strMeal": "Teriyaki Chicken Casserole",
+    "strCategory": "Chicken",
+    "strArea": "Japanese",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+  },
+  "previewConfig": {
+    "title": "Teriyaki Chicken Casserole",
+    "subtitle": "Japanese — Chicken",
+    "imageKey": "strMealThumb"
+  }
+}

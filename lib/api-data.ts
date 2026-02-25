@@ -2,7 +2,7 @@ import catalogRaw from "@/data/catalog.json";
 import type { ApiEntry, CatalogData, PreviewData } from "./types";
 import { slugify } from "./slugify";
 
-// Import all 25 preview files statically
+// Import all preview files statically
 import openMeteo from "@/data/previews/open-meteo.json";
 import restcountries from "@/data/previews/restcountries.json";
 import pokApi from "@/data/previews/pok-api.json";
@@ -28,6 +28,38 @@ import covid19 from "@/data/previews/covid-19.json";
 import qrCodeGenerator from "@/data/previews/qr-code-generator.json";
 import loremPicsum from "@/data/previews/lorem-picsum.json";
 import numbers from "@/data/previews/numbers.json";
+// Batch 2
+import catFacts from "@/data/previews/cat-facts.json";
+import adviceSlip from "@/data/previews/advice-slip.json";
+import kanyeRest from "@/data/previews/kanye-rest.json";
+import rickAndMorty from "@/data/previews/rick-and-morty.json";
+import openTrivia from "@/data/previews/open-trivia.json";
+import themealdb from "@/data/previews/themealdb.json";
+import thecocktaildb from "@/data/previews/thecocktaildb.json";
+import freeDictionary from "@/data/previews/free-dictionary.json";
+import jikan from "@/data/previews/jikan.json";
+import deckOfCards from "@/data/previews/deck-of-cards.json";
+import sunriseAndSunset from "@/data/previews/sunrise-and-sunset.json";
+import xkcd from "@/data/previews/xkcd.json";
+import artInstitute from "@/data/previews/art-institute-of-chicago.json";
+import openBreweryDb from "@/data/previews/open-brewery-db.json";
+import genderizeIo from "@/data/previews/genderize-io.json";
+// Batch 3
+import ronSwanson from "@/data/previews/ron-swanson-quotes.json";
+import quotableQuotes from "@/data/previews/quotable-quotes.json";
+import emojihub from "@/data/previews/emojihub.json";
+import chucknorris from "@/data/previews/chucknorris-io.json";
+import randomUser from "@/data/previews/random-user-generator.json";
+import waifuIm from "@/data/previews/waifu-im.json";
+import worldTimeApi from "@/data/previews/world-time-api.json";
+import colormagic from "@/data/previews/colormagic.json";
+import itunes from "@/data/previews/itunes.json";
+import wikipedia from "@/data/previews/wikipedia.json";
+import cataas from "@/data/previews/cataas.json";
+import randomUselessFacts from "@/data/previews/random-useless-facts.json";
+import icanhazdadjoke from "@/data/previews/icanhazdadjoke.json";
+import randomfox from "@/data/previews/randomfox.json";
+import meowfacts from "@/data/previews/meowfacts.json";
 
 const catalog = catalogRaw as CatalogData;
 
@@ -37,6 +69,12 @@ const previewFiles: PreviewData[] = [
   jokeapi, ipApi, nationalizeIo, agifyIo, boredApi,
   httpCat, unsplash, github, hackernews, openFoodFacts,
   exchangerateApi, covid19, qrCodeGenerator, loremPicsum, numbers,
+  catFacts, adviceSlip, kanyeRest, rickAndMorty, openTrivia,
+  themealdb, thecocktaildb, freeDictionary, jikan, deckOfCards,
+  sunriseAndSunset, xkcd, artInstitute, openBreweryDb, genderizeIo,
+  ronSwanson, quotableQuotes, emojihub, chucknorris, randomUser,
+  waifuIm, worldTimeApi, colormagic, itunes, wikipedia,
+  cataas, randomUselessFacts, icanhazdadjoke, randomfox, meowfacts,
 ] as PreviewData[];
 
 const previewMap = new Map<string, PreviewData>();

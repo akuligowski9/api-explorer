@@ -1,0 +1,20 @@
+{
+  "id": "thecocktaildb",
+  "previewType": "media",
+  "sampleResponse": {
+    "idDrink": "11007",
+    "strDrink": "Margarita",
+    "strCategory": "Ordinary Drink",
+    "strGlass": "Cocktail glass",
+    "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+    "strIngredient1": "Tequila",
+    "strIngredient2": "Triple sec",
+    "strIngredient3": "Lime juice",
+    "strIngredient4": "Salt"
+  },
+  "previewConfig": {
+    "title": "Margarita",
+    "subtitle": "Ordinary Drink — Cocktail glass",
+    "imageKey": "strDrinkThumb"
+  }
+}

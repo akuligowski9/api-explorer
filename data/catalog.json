@@ -1,5 +1,5 @@
 {
-    "count": 1544,
+    "count": 1546,
     "entries": [
         {
             "API": "Cat Facts",
@@ -13896,6 +13896,24 @@
             "Cors": "yes",
             "Link": "https://www.boredapi.com/",
             "Category": "Entertainment"
+        },
+        {
+            "API": "World Time API",
+            "Description": "A simple API to request the current time based on a request with a timezone",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "http://worldtimeapi.org/",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Random User Generator",
+            "Description": "Generates random user data for testing and prototyping",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://randomuser.me/",
+            "Category": "Test Data"
         }
     ]
 }

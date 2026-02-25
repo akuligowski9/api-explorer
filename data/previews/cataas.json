@@ -1,0 +1,15 @@
+{
+  "id": "cataas",
+  "previewType": "media",
+  "sampleResponse": {
+    "id": "595f280b557291a9d379e3e0",
+    "tags": ["cute", "gif"],
+    "url": "https://cataas.com/cat/cute",
+    "mimetype": "image/jpeg"
+  },
+  "previewConfig": {
+    "title": "Cat as a Service",
+    "subtitle": "cute",
+    "imageKey": "url"
+  }
+}

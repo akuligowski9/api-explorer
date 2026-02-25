@@ -1,0 +1,12 @@
+{
+  "id": "meowfacts",
+  "previewType": "card",
+  "sampleResponse": {
+    "fact": "A group of cats is called a clowder."
+  },
+  "previewConfig": {
+    "title": "Meow Fact",
+    "subtitle": "Cat Knowledge",
+    "displayFields": ["fact"]
+  }
+}

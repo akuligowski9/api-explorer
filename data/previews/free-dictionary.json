@@ -1,0 +1,23 @@
+{
+  "id": "free-dictionary",
+  "previewType": "card",
+  "sampleResponse": {
+    "word": "serendipity",
+    "phonetic": "/\u02ccs\u025b\u0279.\u0259n.\u02c8d\u026ap.\u026a.ti/",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The faculty of making fortunate discoveries by accident."
+          }
+        ]
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Serendipity",
+    "subtitle": "/\u02ccs\u025b\u0279.\u0259n.\u02c8d\u026ap.\u026a.ti/",
+    "displayFields": ["word", "phonetic"]
+  }
+}

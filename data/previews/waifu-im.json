@@ -1,0 +1,23 @@
+{
+  "id": "waifu-im",
+  "previewType": "media",
+  "sampleResponse": {
+    "signature": "abc123",
+    "url": "https://cdn.waifu.im/7859.jpg",
+    "is_nsfw": false,
+    "width": 2048,
+    "height": 1448,
+    "source": "https://www.pixiv.net/en/artworks/91803797",
+    "tags": [
+      {
+        "name": "waifu",
+        "description": "Female anime character"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Anime Waifu",
+    "subtitle": "waifu",
+    "imageKey": "url"
+  }
+}

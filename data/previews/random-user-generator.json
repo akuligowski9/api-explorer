@@ -1,0 +1,18 @@
+{
+  "id": "random-user-generator",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@example.com",
+    "location": "Portland, Oregon, US",
+    "phone": "(555) 123-4567",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "registered": "2019-03-15"
+  },
+  "previewConfig": {
+    "title": "Sarah Mitchell",
+    "subtitle": "Portland, Oregon",
+    "imageKey": "picture",
+    "displayFields": ["email", "phone", "registered"]
+  }
+}
