@@ -1,24 +1,19 @@
 {
   "id": "ip-api",
-  "previewType": "map",
+  "previewType": "card",
   "sampleResponse": {
-    "query": "24.48.0.1",
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "QC",
-    "regionName": "Quebec",
-    "city": "Montreal",
-    "zip": "H1A",
-    "lat": 45.6085,
-    "lon": -73.5493,
-    "timezone": "America/Toronto",
-    "isp": "Le Groupe Videotron",
-    "org": "Videotron Ltee"
+    "ip": "8.8.8.8",
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "org": "Google LLC",
+    "lat": 37.3861,
+    "lon": -122.0839,
+    "timezone": "America/Los_Angeles"
   },
   "previewConfig": {
     "title": "IP Geolocation",
-    "subtitle": "Montreal, Canada",
-    "displayFields": ["country", "city", "lat", "lon", "isp", "timezone"]
+    "subtitle": "8.8.8.8 — Mountain View, CA",
+    "displayFields": ["ip", "city", "region", "country", "org", "lat", "lon", "timezone"]
   }
 }

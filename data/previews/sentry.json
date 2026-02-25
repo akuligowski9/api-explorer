@@ -1,0 +1,50 @@
+{
+  "id": "sentry",
+  "previewType": "list",
+  "sampleResponse": {
+    "issues": [
+      {
+        "title": "TypeError: Cannot read properties of undefined (reading 'map')",
+        "level": "error",
+        "count": 1842,
+        "first_seen": "2026-02-24T08:12:00Z",
+        "last_seen": "2026-02-25T15:03:44Z"
+      },
+      {
+        "title": "ReferenceError: fetchUserProfile is not defined",
+        "level": "error",
+        "count": 437,
+        "first_seen": "2026-02-25T06:30:00Z",
+        "last_seen": "2026-02-25T14:58:12Z"
+      },
+      {
+        "title": "NetworkError: Request timeout after 30000ms - /api/v2/checkout",
+        "level": "warning",
+        "count": 89,
+        "first_seen": "2026-02-25T10:15:00Z",
+        "last_seen": "2026-02-25T14:22:08Z"
+      },
+      {
+        "title": "UnhandledPromiseRejection: 503 Service Unavailable (payments-service)",
+        "level": "fatal",
+        "count": 23,
+        "first_seen": "2026-02-25T13:45:00Z",
+        "last_seen": "2026-02-25T14:01:55Z"
+      },
+      {
+        "title": "DeprecationWarning: Buffer() is deprecated due to security issues",
+        "level": "info",
+        "count": 15204,
+        "first_seen": "2025-11-02T03:00:00Z",
+        "last_seen": "2026-02-25T15:05:00Z"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Recent Issues",
+    "subtitle": "Sentry Error Tracking",
+    "itemKey": "title",
+    "secondaryKey": "count",
+    "badgeKey": "level"
+  }
+}

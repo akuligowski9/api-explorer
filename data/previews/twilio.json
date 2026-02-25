@@ -1,0 +1,50 @@
+{
+  "id": "twilio",
+  "previewType": "list",
+  "sampleResponse": {
+    "messages": [
+      {
+        "to": "+1 (415) 555-0198",
+        "from": "+1 (628) 555-0142",
+        "body": "Your verification code is 839204. Expires in 10 minutes.",
+        "status": "delivered",
+        "date_sent": "2026-02-25T14:32:08Z"
+      },
+      {
+        "to": "+1 (212) 555-0377",
+        "from": "+1 (628) 555-0142",
+        "body": "Hi Marcus, your order #4821 has shipped! Track it here: https://trk.co/x8k2m",
+        "status": "delivered",
+        "date_sent": "2026-02-25T13:15:44Z"
+      },
+      {
+        "to": "+1 (310) 555-0261",
+        "from": "+1 (628) 555-0142",
+        "body": "Appointment reminder: Dr. Patel tomorrow at 2:30 PM. Reply C to confirm or R to reschedule.",
+        "status": "sent",
+        "date_sent": "2026-02-25T11:00:00Z"
+      },
+      {
+        "to": "+1 (773) 555-0489",
+        "from": "+1 (628) 555-0142",
+        "body": "Flash sale! 30% off all items until midnight. Use code FLASH30 at checkout.",
+        "status": "undelivered",
+        "date_sent": "2026-02-25T09:45:22Z"
+      },
+      {
+        "to": "+1 (503) 555-0155",
+        "from": "+1 (628) 555-0142",
+        "body": "Alert: Unusual login detected from Seattle, WA. If this wasn't you, reset your password immediately.",
+        "status": "delivered",
+        "date_sent": "2026-02-24T22:18:33Z"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Recent SMS Messages",
+    "subtitle": "Twilio Messaging API",
+    "itemKey": "to",
+    "secondaryKey": "body",
+    "badgeKey": "status"
+  }
+}

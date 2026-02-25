@@ -2,39 +2,49 @@
   "id": "universities-list",
   "previewType": "list",
   "sampleResponse": {
-    "universities": [
+    "items": [
       {
         "name": "Massachusetts Institute of Technology",
-        "country": "United States",
-        "domains": [
-          "mit.edu"
-        ]
+        "state_province": "Massachusetts",
+        "domain": "mit.edu",
+        "web_page": "http://www.mit.edu/",
+        "country": "United States"
+      },
+      {
+        "name": "Stanford University",
+        "state_province": "California",
+        "domain": "stanford.edu",
+        "web_page": "http://www.stanford.edu/",
+        "country": "United States"
+      },
+      {
+        "name": "Harvard University",
+        "state_province": "Massachusetts",
+        "domain": "harvard.edu",
+        "web_page": "http://www.harvard.edu/",
+        "country": "United States"
+      },
+      {
+        "name": "University of Michigan",
+        "state_province": "Michigan",
+        "domain": "umich.edu",
+        "web_page": "http://www.umich.edu/",
+        "country": "United States"
+      },
+      {
+        "name": "University of Texas at Austin",
+        "state_province": "Texas",
+        "domain": "utexas.edu",
+        "web_page": "http://www.utexas.edu/",
+        "country": "United States"
       }
     ]
   },
   "previewConfig": {
-    "title": "World Universities",
-    "items": [
-      {
-        "name": "MIT",
-        "region": "United States"
-      },
-      {
-        "name": "University of Oxford",
-        "region": "United Kingdom"
-      },
-      {
-        "name": "ETH Zurich",
-        "region": "Switzerland"
-      },
-      {
-        "name": "University of Tokyo",
-        "region": "Japan"
-      },
-      {
-        "name": "University of Melbourne",
-        "region": "Australia"
-      }
-    ]
+    "title": "Universities",
+    "subtitle": "Universities in United States",
+    "itemKey": "name",
+    "secondaryKey": "domain",
+    "badgeKey": "state_province"
   }
 }

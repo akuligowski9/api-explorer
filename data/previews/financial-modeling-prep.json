@@ -1,23 +1,20 @@
 {
   "id": "financial-modeling-prep",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "symbol": "TSLA",
-    "price": 248.91,
-    "changesPercentage": "+3.47%",
-    "dayHigh": 251.20,
-    "dayLow": 240.15,
-    "volume": 91205834
+    "items": [
+      { "title": "SMCI", "secondary": "Super Micro Computer", "badge": "+14.7%" },
+      { "title": "PLTR", "secondary": "Palantir Technologies", "badge": "+9.3%" },
+      { "title": "RIVN", "secondary": "Rivian Automotive", "badge": "+8.1%" },
+      { "title": "MARA", "secondary": "Marathon Digital", "badge": "+7.6%" },
+      { "title": "AFRM", "secondary": "Affirm Holdings", "badge": "+6.9%" }
+    ]
   },
   "previewConfig": {
     "title": "Financial Modeling Prep",
-    "subtitle": "Real-time stock data and financial statements",
-    "displayFields": [
-      "symbol",
-      "price",
-      "changesPercentage",
-      "dayHigh",
-      "volume"
-    ]
+    "subtitle": "Top stock gainers today",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

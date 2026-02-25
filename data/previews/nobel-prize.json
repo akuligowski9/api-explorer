@@ -1,43 +1,16 @@
 {
   "id": "nobel-prize",
-  "previewType": "list",
+  "previewType": "card",
   "sampleResponse": {
-    "prizes": [
-      {
-        "year": "2023",
-        "category": "physics",
-        "laureates": [
-          {
-            "firstname": "Pierre",
-            "surname": "Agostini"
-          }
-        ]
-      }
-    ]
+    "laureate": "John Clauser",
+    "category": "Physics",
+    "year": "2022",
+    "motivation": "Experiments with entangled photons",
+    "country": "United States"
   },
   "previewConfig": {
-    "title": "Nobel Prizes",
-    "items": [
-      {
-        "name": "Pierre Agostini",
-        "region": "Physics 2023"
-      },
-      {
-        "name": "Katalin Karikó",
-        "region": "Medicine 2023"
-      },
-      {
-        "name": "Claudia Goldin",
-        "region": "Economics 2023"
-      },
-      {
-        "name": "Jon Fosse",
-        "region": "Literature 2023"
-      },
-      {
-        "name": "Narges Mohammadi",
-        "region": "Peace 2023"
-      }
-    ]
+    "title": "Nobel Laureate",
+    "subtitle": "Nobel Prize",
+    "displayFields": ["laureate", "category", "year", "motivation", "country"]
   }
 }

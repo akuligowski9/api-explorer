@@ -1,0 +1,16 @@
+{
+  "id": "companyenrich",
+  "previewType": "card",
+  "sampleResponse": {
+    "company": "Stripe, Inc.",
+    "industry": "Financial Technology",
+    "founded": "2010",
+    "headquarters": "San Francisco, CA",
+    "employees": "~8,000"
+  },
+  "previewConfig": {
+    "title": "Company Profile",
+    "subtitle": "Company Enrich",
+    "displayFields": ["company", "industry", "founded", "headquarters", "employees"]
+  }
+}

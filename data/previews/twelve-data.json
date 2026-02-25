@@ -2,22 +2,15 @@
   "id": "twelve-data",
   "previewType": "card",
   "sampleResponse": {
-    "symbol": "EUR/USD",
-    "exchange": "Forex",
-    "close": 1.0847,
-    "high": 1.0892,
-    "low": 1.0801,
-    "datetime": "2026-02-24 16:00:00"
+    "symbol": "TSLA",
+    "price": "248.91",
+    "change": "-3.14",
+    "change_percent": "-1.25%",
+    "volume": "71,205,483"
   },
   "previewConfig": {
-    "title": "Twelve Data",
-    "subtitle": "Stock, forex, and cryptocurrency market data",
-    "displayFields": [
-      "symbol",
-      "exchange",
-      "close",
-      "high",
-      "low"
-    ]
+    "title": "TSLA Stock Quote",
+    "subtitle": "Twelve Data",
+    "displayFields": ["symbol", "price", "change", "change_percent", "volume"]
   }
 }

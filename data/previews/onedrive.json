@@ -1,23 +1,43 @@
 {
   "id": "onedrive",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "items": [
+      {
+        "name": "Budget Tracker 2026.xlsx",
+        "size": 3145728,
+        "lastModified": "2026-02-25T08:00:00Z",
+        "createdBy": "Alex Kim",
+        "webUrl": "https://onedrive.live.com/edit.aspx?cid=abc123&id=budget2026"
+      },
+      {
+        "name": "Onboarding Checklist.docx",
+        "size": 524288,
+        "lastModified": "2026-02-24T13:20:00Z",
+        "createdBy": "Jordan Lee",
+        "webUrl": "https://onedrive.live.com/edit.aspx?cid=abc123&id=onboarding"
+      },
+      {
+        "name": "Sprint Retro Notes.pdf",
+        "size": 189440,
+        "lastModified": "2026-02-23T16:45:00Z",
+        "createdBy": "Sam Patel",
+        "webUrl": "https://onedrive.live.com/edit.aspx?cid=abc123&id=retro"
+      },
+      {
+        "name": "product-demo.mp4",
+        "size": 104857600,
+        "lastModified": "2026-02-22T11:10:00Z",
+        "createdBy": "Alex Kim",
+        "webUrl": "https://onedrive.live.com/edit.aspx?cid=abc123&id=demo"
+      }
+    ]
   },
   "previewConfig": {
     "title": "OneDrive",
-    "subtitle": "File Sharing and Storage",
-    "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
-    ]
+    "subtitle": "Recent items",
+    "itemKey": "name",
+    "secondaryKey": "createdBy",
+    "badgeKey": "size"
   }
 }

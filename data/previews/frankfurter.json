@@ -1,48 +1,16 @@
 {
   "id": "frankfurter",
-  "previewType": "chart",
+  "previewType": "card",
   "sampleResponse": {
     "base": "EUR",
-    "rates": [
-      {
-        "label": "Jan",
-        "value": 1.08
-      },
-      {
-        "label": "Feb",
-        "value": 1.07
-      },
-      {
-        "label": "Mar",
-        "value": 1.09
-      },
-      {
-        "label": "Apr",
-        "value": 1.07
-      },
-      {
-        "label": "May",
-        "value": 1.08
-      },
-      {
-        "label": "Jun",
-        "value": 1.07
-      },
-      {
-        "label": "Jul",
-        "value": 1.09
-      },
-      {
-        "label": "Aug",
-        "value": 1.10
-      }
-    ]
+    "USD": "1.0847",
+    "GBP": "0.8594",
+    "JPY": "162.35",
+    "CHF": "0.9412"
   },
   "previewConfig": {
-    "title": "EUR/USD Rate",
+    "title": "EUR Exchange Rates",
     "subtitle": "Frankfurter",
-    "chartType": "line",
-    "chartDataKey": "value",
-    "chartLabelKey": "label"
+    "displayFields": ["base", "USD", "GBP", "JPY", "CHF"]
   }
 }

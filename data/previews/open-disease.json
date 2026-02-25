@@ -1,44 +1,24 @@
 {
   "id": "open-disease",
-  "previewType": "chart",
+  "previewType": "card",
   "sampleResponse": {
-    "country": "Global",
-    "timeline": [
-      {
-        "label": "Jan",
-        "value": 102345678
-      },
-      {
-        "label": "Feb",
-        "value": 108234567
-      },
-      {
-        "label": "Mar",
-        "value": 115678901
-      },
-      {
-        "label": "Apr",
-        "value": 120345678
-      },
-      {
-        "label": "May",
-        "value": 128901234
-      },
-      {
-        "label": "Jun",
-        "value": 135678901
-      },
-      {
-        "label": "Jul",
-        "value": 142345678
-      }
-    ]
+    "cases": 704753890,
+    "deaths": 7010681,
+    "recovered": 675619811,
+    "active": 22123398,
+    "tests": 7042718058,
+    "updated": "2026-02-25"
   },
   "previewConfig": {
-    "title": "COVID-19 Cases",
-    "subtitle": "Global Cumulative",
-    "chartType": "line",
-    "chartDataKey": "value",
-    "chartLabelKey": "label"
+    "title": "COVID-19 Global Stats",
+    "subtitle": "Open Disease Data API",
+    "displayFields": [
+      "cases",
+      "deaths",
+      "recovered",
+      "active",
+      "tests",
+      "updated"
+    ]
   }
 }

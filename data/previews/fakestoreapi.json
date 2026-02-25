@@ -1,25 +1,50 @@
 {
   "id": "fakestoreapi",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and target.",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-    "rating": {
-      "rate": 3.9,
-      "count": 120
-    }
+    "items": [
+      {
+        "name": "Nexora Technologies",
+        "industry": "Information Technology",
+        "catchphrase": "Streamlined empowering architecture",
+        "address": "742 Innovation Blvd, San Jose, CA 95134",
+        "phone": "+1-408-555-0192"
+      },
+      {
+        "name": "Verdant Health Solutions",
+        "industry": "Healthcare",
+        "catchphrase": "Proactive holistic wellness platform",
+        "address": "88 Medical Center Dr, Boston, MA 02115",
+        "phone": "+1-617-555-0384"
+      },
+      {
+        "name": "Aurelius Financial Group",
+        "industry": "Finance",
+        "catchphrase": "Robust multi-channel investment strategies",
+        "address": "350 Wall Street, New York, NY 10005",
+        "phone": "+1-212-555-0847"
+      },
+      {
+        "name": "Stratosphere Logistics",
+        "industry": "Transportation",
+        "catchphrase": "Optimized global supply chain management",
+        "address": "1200 Harbor Way, Long Beach, CA 90802",
+        "phone": "+1-562-555-0615"
+      },
+      {
+        "name": "Pinnacle Creative Agency",
+        "industry": "Marketing",
+        "catchphrase": "Visionary brand transformation solutions",
+        "address": "55 Madison Ave, New York, NY 10010",
+        "phone": "+1-646-555-0273"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Fjallraven Backpack",
-    "subtitle": "$109.95",
-    "displayFields": [
-      "title",
-      "price",
-      "category"
-    ]
+    "title": "Fake Companies",
+    "subtitle": "Faker API",
+    "itemKey": "name",
+    "secondaryKey": "industry",
+    "badgeKey": "phone"
   }
 }

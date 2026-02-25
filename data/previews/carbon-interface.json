@@ -1,0 +1,16 @@
+{
+  "id": "carbon-interface",
+  "previewType": "card",
+  "sampleResponse": {
+    "flight": "JFK to LHR",
+    "distance_km": "5539",
+    "carbon_kg": "1246.8",
+    "passengers": "1",
+    "cabin_class": "Economy"
+  },
+  "previewConfig": {
+    "title": "Flight CO2 Estimate",
+    "subtitle": "Carbon Interface",
+    "displayFields": ["flight", "distance_km", "carbon_kg", "passengers", "cabin_class"]
+  }
+}

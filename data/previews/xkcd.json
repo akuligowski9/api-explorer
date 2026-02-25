@@ -1,18 +1,17 @@
 {
   "id": "xkcd",
-  "previewType": "media",
+  "previewType": "card",
   "sampleResponse": {
-    "num": 353,
-    "title": "Python",
-    "alt": "I wrote 20 short programs in Python yesterday. It was mass. I was a god.",
-    "img": "https://imgs.xkcd.com/comics/python.png",
-    "year": "2007",
-    "month": "12",
-    "day": "5"
+    "num": 2934,
+    "title": "AI Methodology",
+    "alt": "I just trained a model to mass-produce peer reviews that say 'this methodology is not rigorous enough', so now I have a feedback loop that will eventually produce the most rigorous methodology possible.",
+    "img_url": "https://imgs.xkcd.com/comics/ai_methodology.png",
+    "year": 2025,
+    "month": 11
   },
   "previewConfig": {
-    "title": "xkcd #353",
-    "subtitle": "Python",
-    "imageKey": "img"
+    "title": "xkcd #2934",
+    "subtitle": "AI Methodology",
+    "displayFields": ["num", "title", "alt", "img_url", "year", "month"]
   }
 }

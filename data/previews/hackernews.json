@@ -3,18 +3,48 @@
   "previewType": "list",
   "sampleResponse": {
     "items": [
-      { "title": "Show HN: I built a CPU from scratch using only NAND gates", "secondary": "engineerdave", "badge": 891 },
-      { "title": "SQLite is the only database you will ever need", "secondary": "databasefan", "badge": 743 },
-      { "title": "Why we moved from Kubernetes back to bare metal", "secondary": "infrateam", "badge": 612 },
-      { "title": "The unreasonable effectiveness of plain text", "secondary": "minimalist_dev", "badge": 487 },
-      { "title": "A visual guide to memory allocation in Rust", "secondary": "rustacean42", "badge": 354 }
+      {
+        "title": "Show HN: I built a CPU from scratch using only NAND gates",
+        "by": "engineerdave",
+        "score": 891,
+        "descendants": 234,
+        "time": 1740480000
+      },
+      {
+        "title": "SQLite is the only database you will ever need",
+        "by": "databasefan",
+        "score": 743,
+        "descendants": 412,
+        "time": 1740476400
+      },
+      {
+        "title": "Why we moved from Kubernetes back to bare metal",
+        "by": "infrateam",
+        "score": 612,
+        "descendants": 389,
+        "time": 1740472800
+      },
+      {
+        "title": "The unreasonable effectiveness of plain text",
+        "by": "minimalist_dev",
+        "score": 487,
+        "descendants": 156,
+        "time": 1740469200
+      },
+      {
+        "title": "A visual guide to memory allocation in Rust",
+        "by": "rustacean42",
+        "score": 354,
+        "descendants": 97,
+        "time": 1740465600
+      }
     ]
   },
   "previewConfig": {
-    "title": "Hacker News",
+    "title": "Top Stories",
     "subtitle": "Top stories by points",
     "itemKey": "title",
-    "secondaryKey": "secondary",
-    "badgeKey": "badge"
+    "secondaryKey": "by",
+    "badgeKey": "score"
   }
 }

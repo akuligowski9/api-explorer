@@ -7,12 +7,8 @@
     "season": 1
   },
   "previewConfig": {
-    "title": "Stranger Things",
+    "title": "Stranger Things Quote",
     "subtitle": "Eleven",
-    "displayFields": [
-      "quote",
-      "author",
-      "season"
-    ]
+    "displayFields": ["quote", "author", "season"]
   }
 }

@@ -1,0 +1,50 @@
+{
+  "id": "contentful",
+  "previewType": "list",
+  "sampleResponse": {
+    "entries": [
+      {
+        "title": "Why We Migrated to Edge Functions",
+        "slug": "why-we-migrated-to-edge-functions",
+        "author": "Priya Sharma",
+        "published_date": "2026-02-24",
+        "tags": "Engineering, Infrastructure"
+      },
+      {
+        "title": "Designing for Accessibility: A Practical Guide",
+        "slug": "designing-for-accessibility-practical-guide",
+        "author": "Alex Kim",
+        "published_date": "2026-02-18",
+        "tags": "Design, Accessibility"
+      },
+      {
+        "title": "Our Journey to SOC 2 Compliance",
+        "slug": "journey-to-soc2-compliance",
+        "author": "Tomas Reyes",
+        "published_date": "2026-02-10",
+        "tags": "Security, Company"
+      },
+      {
+        "title": "Scaling WebSocket Connections to 1M Users",
+        "slug": "scaling-websocket-connections-1m-users",
+        "author": "Jordan Park",
+        "published_date": "2026-01-28",
+        "tags": "Engineering, Performance"
+      },
+      {
+        "title": "2025 Year in Review: What We Shipped",
+        "slug": "2025-year-in-review-what-we-shipped",
+        "author": "Sarah Chen",
+        "published_date": "2026-01-05",
+        "tags": "Company, Product"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Blog Entries",
+    "subtitle": "Contentful Content API",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "tags"
+  }
+}

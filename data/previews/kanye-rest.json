@@ -2,11 +2,12 @@
   "id": "kanye-rest",
   "previewType": "card",
   "sampleResponse": {
-    "quote": "I feel like I'm too busy writing history to read it."
+    "quote": "I feel like I'm too busy writing history to read it.",
+    "id": 47
   },
   "previewConfig": {
-    "title": "Kanye Quotes",
-    "subtitle": "kanye.rest",
-    "displayFields": ["quote"]
+    "title": "Kanye Quote",
+    "subtitle": "Words of wisdom from Ye",
+    "displayFields": ["quote", "id"]
   }
 }

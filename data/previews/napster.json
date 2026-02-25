@@ -1,0 +1,16 @@
+{
+  "id": "napster",
+  "previewType": "card",
+  "sampleResponse": {
+    "trackName": "Bohemian Rhapsody",
+    "artistName": "Queen",
+    "albumName": "A Night at the Opera",
+    "duration": "5:55",
+    "genre": "Classic Rock"
+  },
+  "previewConfig": {
+    "title": "Bohemian Rhapsody",
+    "subtitle": "Napster",
+    "displayFields": ["trackName", "artistName", "albumName", "duration", "genre"]
+  }
+}

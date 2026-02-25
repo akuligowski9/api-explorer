@@ -1,16 +1,50 @@
 {
   "id": "twitch",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "streamer": "Kai Cenat",
-    "game": "Grand Theft Auto VI",
-    "viewers": "185,400",
-    "language": "English",
-    "streamTitle": "FIRST PLAYTHROUGH!! GTA 6 LAUNCH DAY"
+    "streams": [
+      {
+        "user_name": "Kai Cenat",
+        "game_name": "Grand Theft Auto VI",
+        "viewer_count": 185400,
+        "title": "FIRST PLAYTHROUGH!! GTA 6 LAUNCH DAY W/ CHAT",
+        "language": "en"
+      },
+      {
+        "user_name": "Ibai",
+        "game_name": "Minecraft",
+        "viewer_count": 94200,
+        "title": "CONSTRUYENDO LA CIUDAD MAS GRANDE DEL SERVIDOR",
+        "language": "es"
+      },
+      {
+        "user_name": "Shroud",
+        "game_name": "Valorant",
+        "viewer_count": 67800,
+        "title": "Ranked grind to Radiant - Day 3",
+        "language": "en"
+      },
+      {
+        "user_name": "Pokimane",
+        "game_name": "Just Chatting",
+        "viewer_count": 42100,
+        "title": "reacting to viewer submissions + Q&A",
+        "language": "en"
+      },
+      {
+        "user_name": "Gaules",
+        "game_name": "Counter-Strike 2",
+        "viewer_count": 38500,
+        "title": "MAJOR QUALIFIERS - FURIA vs NAVI",
+        "language": "pt"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Top Stream",
-    "subtitle": "Twitch",
-    "displayFields": ["streamer", "game", "viewers", "language", "streamTitle"]
+    "title": "Top Live Streams",
+    "subtitle": "Twitch API",
+    "itemKey": "user_name",
+    "secondaryKey": "game_name",
+    "badgeKey": "viewer_count"
   }
 }

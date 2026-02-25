@@ -2,12 +2,12 @@
   "id": "advice-slip",
   "previewType": "card",
   "sampleResponse": {
-    "id": 143,
-    "advice": "Remember that everyone you meet is afraid of something, loves something, and has lost something."
+    "slip_id": 143,
+    "advice": "Remember that spiders are more afraid of you than you are of them."
   },
   "previewConfig": {
-    "title": "Random Advice",
-    "subtitle": "#143",
-    "displayFields": ["advice"]
+    "title": "Advice Slip",
+    "subtitle": "Random advice",
+    "displayFields": ["slip_id", "advice"]
   }
 }

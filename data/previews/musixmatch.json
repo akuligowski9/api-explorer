@@ -2,15 +2,15 @@
   "id": "musixmatch",
   "previewType": "card",
   "sampleResponse": {
-    "track_name": "Imagine",
-    "artist_name": "John Lennon",
-    "album_name": "Imagine",
-    "lyrics_snippet": "Imagine there's no heaven, it's easy if you try...",
-    "has_lyrics": true
+    "trackName": "Blinding Lights",
+    "artistName": "The Weeknd",
+    "albumName": "After Hours",
+    "hasLyrics": "Yes",
+    "language": "English"
   },
   "previewConfig": {
-    "title": "Musixmatch API",
-    "subtitle": "Track with lyrics snippet",
-    "displayFields": ["track_name", "artist_name", "album_name", "lyrics_snippet", "has_lyrics"]
+    "title": "Blinding Lights",
+    "subtitle": "Musixmatch",
+    "displayFields": ["trackName", "artistName", "albumName", "hasLyrics", "language"]
   }
 }

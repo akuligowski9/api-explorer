@@ -1,21 +1,50 @@
 {
   "id": "open-trivia",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What does CPU stand for?",
-    "correct_answer": "Central Processing Unit",
-    "incorrect_answers": [
-      "Central Process Unit",
-      "Computer Personal Unit",
-      "Central Processor Unit"
+    "items": [
+      {
+        "category": "Science: Computers",
+        "question": "What does CPU stand for?",
+        "difficulty": "easy",
+        "correct_answer": "Central Processing Unit",
+        "type": "multiple"
+      },
+      {
+        "category": "History",
+        "question": "In what year did the Berlin Wall fall?",
+        "difficulty": "medium",
+        "correct_answer": "1989",
+        "type": "multiple"
+      },
+      {
+        "category": "Geography",
+        "question": "What is the smallest country in the world by land area?",
+        "difficulty": "easy",
+        "correct_answer": "Vatican City",
+        "type": "multiple"
+      },
+      {
+        "category": "Science & Nature",
+        "question": "What is the chemical symbol for gold?",
+        "difficulty": "easy",
+        "correct_answer": "Au",
+        "type": "multiple"
+      },
+      {
+        "category": "Entertainment: Film",
+        "question": "Who directed the 1994 film 'Pulp Fiction'?",
+        "difficulty": "medium",
+        "correct_answer": "Quentin Tarantino",
+        "type": "multiple"
+      }
     ]
   },
   "previewConfig": {
-    "title": "Trivia Question",
-    "subtitle": "Science: Computers",
-    "displayFields": ["question", "correct_answer", "difficulty"]
+    "title": "Trivia Questions",
+    "subtitle": "Open Trivia DB",
+    "itemKey": "question",
+    "secondaryKey": "category",
+    "badgeKey": "difficulty"
   }
 }

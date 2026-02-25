@@ -2,15 +2,15 @@
   "id": "facebook",
   "previewType": "card",
   "sampleResponse": {
-    "name": "NASA",
-    "id": "54971236483",
+    "pageName": "NASA",
     "category": "Government Organization",
-    "followers_count": 29438172,
-    "website": "https://www.nasa.gov"
+    "followers": 29453812,
+    "likes": 28107364,
+    "verifiedStatus": "Verified"
   },
   "previewConfig": {
-    "title": "Facebook Graph API",
-    "subtitle": "Page object",
-    "displayFields": ["name", "category", "followers_count", "website", "id"]
+    "title": "Page Overview",
+    "subtitle": "Facebook",
+    "displayFields": ["pageName", "category", "followers", "likes", "verifiedStatus"]
   }
 }

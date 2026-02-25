@@ -1,0 +1,16 @@
+{
+  "id": "dailymotion",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Northern Lights in 4K",
+    "channel": "Nature Visuals",
+    "duration": "8:17",
+    "views": "3,812,400",
+    "createdAt": "2025-09-22"
+  },
+  "previewConfig": {
+    "title": "Northern Lights in 4K",
+    "subtitle": "Dailymotion",
+    "displayFields": ["title", "channel", "duration", "views", "createdAt"]
+  }
+}

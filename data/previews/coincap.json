@@ -1,47 +1,20 @@
 {
   "id": "coincap",
-  "previewType": "chart",
+  "previewType": "list",
   "sampleResponse": {
-    "id": "ethereum",
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "priceUsd": "3421.52",
-    "history": [
-      {
-        "label": "Mon",
-        "value": 3280
-      },
-      {
-        "label": "Tue",
-        "value": 3310
-      },
-      {
-        "label": "Wed",
-        "value": 3390
-      },
-      {
-        "label": "Thu",
-        "value": 3350
-      },
-      {
-        "label": "Fri",
-        "value": 3420
-      },
-      {
-        "label": "Sat",
-        "value": 3380
-      },
-      {
-        "label": "Sun",
-        "value": 3421
-      }
+    "items": [
+      { "title": "Bitcoin (BTC)", "secondary": "$67,842.15", "badge": 1 },
+      { "title": "Ethereum (ETH)", "secondary": "$3,491.28", "badge": 2 },
+      { "title": "Tether (USDT)", "secondary": "$1.00", "badge": 3 },
+      { "title": "BNB (BNB)", "secondary": "$594.37", "badge": 4 },
+      { "title": "Solana (SOL)", "secondary": "$172.63", "badge": 5 }
     ]
   },
   "previewConfig": {
-    "title": "Ethereum (ETH)",
-    "subtitle": "$3,421.52",
-    "chartType": "line",
-    "chartDataKey": "value",
-    "chartLabelKey": "label"
+    "title": "CoinCap",
+    "subtitle": "Top 5 cryptocurrencies by market cap",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

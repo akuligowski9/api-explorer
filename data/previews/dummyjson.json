@@ -1,16 +1,50 @@
 {
   "id": "dummyjson",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "title": "iPhone 15 Pro Max",
-    "brand": "Apple",
-    "price": 1199.99,
-    "rating": 4.87,
-    "category": "smartphones"
+    "items": [
+      {
+        "title": "iPhone 15 Pro Max",
+        "brand": "Apple",
+        "price": 1199.99,
+        "rating": 4.87,
+        "category": "smartphones"
+      },
+      {
+        "title": "Samsung Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "price": 1049.99,
+        "rating": 4.76,
+        "category": "smartphones"
+      },
+      {
+        "title": "MacBook Pro 16-inch",
+        "brand": "Apple",
+        "price": 2499.00,
+        "rating": 4.92,
+        "category": "laptops"
+      },
+      {
+        "title": "Sony WH-1000XM5",
+        "brand": "Sony",
+        "price": 348.00,
+        "rating": 4.65,
+        "category": "audio"
+      },
+      {
+        "title": "Dell UltraSharp U2723QE",
+        "brand": "Dell",
+        "price": 619.99,
+        "rating": 4.58,
+        "category": "monitors"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Sample Product",
+    "title": "Products",
     "subtitle": "DummyJSON",
-    "displayFields": ["title", "brand", "price", "rating", "category"]
+    "itemKey": "title",
+    "secondaryKey": "brand",
+    "badgeKey": "price"
   }
 }

@@ -3,32 +3,14 @@
   "previewType": "card",
   "sampleResponse": {
     "name": "Breaking Bad",
-    "type": "Scripted",
     "language": "English",
-    "genres": [
-      "Drama",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": "Drama, Crime, Thriller",
     "status": "Ended",
-    "runtime": 60,
-    "premiered": "2008-01-20",
-    "ended": "2013-09-29",
-    "rating": {
-      "average": 9.2
-    },
-    "network": {
-      "name": "AMC"
-    }
+    "rating": "9.3"
   },
   "previewConfig": {
     "title": "Breaking Bad",
-    "subtitle": "AMC — 9.2/10",
-    "displayFields": [
-      "type",
-      "status",
-      "premiered",
-      "runtime"
-    ]
+    "subtitle": "TVmaze",
+    "displayFields": ["name", "language", "genres", "status", "rating"]
   }
 }

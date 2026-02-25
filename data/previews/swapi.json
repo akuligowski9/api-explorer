@@ -1,25 +1,50 @@
 {
   "id": "swapi",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "name": "Luke Skywalker",
-    "height": "172",
-    "mass": "77",
-    "hair_color": "blond",
-    "eye_color": "blue",
-    "birth_year": "19BBY",
-    "gender": "male",
-    "homeworld": "Tatooine",
-    "species": "Human"
+    "items": [
+      {
+        "name": "Luke Skywalker",
+        "birth_year": "19BBY",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "films_count": 4
+      },
+      {
+        "name": "Darth Vader",
+        "birth_year": "41.9BBY",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "films_count": 4
+      },
+      {
+        "name": "Leia Organa",
+        "birth_year": "19BBY",
+        "homeworld": "Alderaan",
+        "species": "Human",
+        "films_count": 4
+      },
+      {
+        "name": "Yoda",
+        "birth_year": "896BBY",
+        "homeworld": "unknown",
+        "species": "Yoda's species",
+        "films_count": 5
+      },
+      {
+        "name": "Chewbacca",
+        "birth_year": "200BBY",
+        "homeworld": "Kashyyyk",
+        "species": "Wookiee",
+        "films_count": 4
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Luke Skywalker",
-    "subtitle": "Star Wars",
-    "displayFields": [
-      "height",
-      "mass",
-      "birth_year",
-      "homeworld"
-    ]
+    "title": "Star Wars Characters",
+    "subtitle": "From a galaxy far, far away",
+    "itemKey": "name",
+    "secondaryKey": "homeworld",
+    "badgeKey": "films_count"
   }
 }

@@ -2,24 +2,27 @@
   "id": "smartcar",
   "previewType": "card",
   "sampleResponse": {
-    "vin": "1HGBH41JXMN109186",
-    "make": "Honda",
-    "model": "Civic",
-    "year": 2022,
-    "engine": "1.5L Turbo 4-cyl",
-    "fuel_type": "Gasoline",
-    "transmission": "CVT"
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "vin": "5YJ3E1EA8PF123456",
+    "odometer_km": 28450,
+    "battery_level": 0.72,
+    "range_km": 310,
+    "charging": false
   },
   "previewConfig": {
     "title": "Smartcar",
-    "subtitle": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
+    "subtitle": "Connected vehicle info",
     "displayFields": [
-      "vin",
       "make",
       "model",
       "year",
-      "engine",
-      "fuel_type"
+      "vin",
+      "odometer_km",
+      "battery_level",
+      "range_km",
+      "charging"
     ]
   }
 }

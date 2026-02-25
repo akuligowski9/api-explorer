@@ -1,23 +1,43 @@
 {
   "id": "quip",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "items": [
+      {
+        "title": "API Integration Guide",
+        "author": "Maya Johnson",
+        "updated": "2026-02-25T10:00:00Z",
+        "thread_id": "AbC1dEf2gHi",
+        "type": "document"
+      },
+      {
+        "title": "Sprint 14 Retrospective",
+        "author": "Derek Wu",
+        "updated": "2026-02-24T15:30:00Z",
+        "thread_id": "JkL3mNo4pQr",
+        "type": "document"
+      },
+      {
+        "title": "Feature Request Tracker",
+        "author": "Maya Johnson",
+        "updated": "2026-02-23T12:45:00Z",
+        "thread_id": "StU5vWx6yZa",
+        "type": "spreadsheet"
+      },
+      {
+        "title": "Onboarding Checklist",
+        "author": "Rachel Torres",
+        "updated": "2026-02-22T09:20:00Z",
+        "thread_id": "BcD7eFg8hIj",
+        "type": "document"
+      }
+    ]
   },
   "previewConfig": {
     "title": "Quip",
-    "subtitle": "File Sharing and Storage for groups",
-    "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
-    ]
+    "subtitle": "Recent documents",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "type"
   }
 }

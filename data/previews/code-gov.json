@@ -1,0 +1,20 @@
+{
+  "id": "code-gov",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "code-gov-web", "secondary": "GSA", "badge": 312 },
+      { "title": "uswds", "secondary": "GSA", "badge": 2847 },
+      { "title": "vets-api", "secondary": "VA", "badge": 1563 },
+      { "title": "data.gov", "secondary": "GSA", "badge": 894 },
+      { "title": "cms-design-system", "secondary": "HHS", "badge": 576 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Code.gov",
+    "subtitle": "Open source government projects by stars",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

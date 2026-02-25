@@ -2,15 +2,15 @@
   "id": "linkedin",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Ada Lovelace",
-    "headline": "Senior Software Engineer at Anthropic",
+    "name": "Sarah Chen",
+    "headline": "VP of Engineering at Stripe",
     "location": "San Francisco, CA",
-    "industry": "Technology",
-    "connections": 2847
+    "connections": 12847,
+    "industry": "Financial Technology"
   },
   "previewConfig": {
-    "title": "LinkedIn API",
-    "subtitle": "Profile object",
-    "displayFields": ["name", "headline", "location", "industry", "connections"]
+    "title": "Professional Profile",
+    "subtitle": "LinkedIn",
+    "displayFields": ["name", "headline", "location", "connections", "industry"]
   }
 }

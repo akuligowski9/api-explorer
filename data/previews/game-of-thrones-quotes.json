@@ -2,19 +2,13 @@
   "id": "game-of-thrones-quotes",
   "previewType": "card",
   "sampleResponse": {
-    "sentence": "When you play the game of thrones, you win or you die.",
-    "character": {
-      "name": "Cersei Lannister",
-      "house": {
-        "name": "House Lannister"
-      }
-    }
+    "sentence": "A mind needs books as a sword needs a whetstone, if it is to keep its edge.",
+    "character": "Tyrion Lannister",
+    "house": "House Lannister"
   },
   "previewConfig": {
-    "title": "GoT Quote",
-    "subtitle": "Cersei Lannister",
-    "displayFields": [
-      "sentence"
-    ]
+    "title": "Game of Thrones Quote",
+    "subtitle": "Tyrion Lannister",
+    "displayFields": ["sentence", "character", "house"]
   }
 }

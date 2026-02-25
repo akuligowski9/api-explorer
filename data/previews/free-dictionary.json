@@ -3,21 +3,15 @@
   "previewType": "card",
   "sampleResponse": {
     "word": "serendipity",
-    "phonetic": "/\u02ccs\u025b\u0279.\u0259n.\u02c8d\u026ap.\u026a.ti/",
-    "meanings": [
-      {
-        "partOfSpeech": "noun",
-        "definitions": [
-          {
-            "definition": "The faculty of making fortunate discoveries by accident."
-          }
-        ]
-      }
-    ]
+    "phonetic": "/\u02ccs\u025br.\u0259n.\u02c8d\u026ap.\u026a.ti/",
+    "definition": "The occurrence and development of events by chance in a happy or beneficial way.",
+    "part_of_speech": "noun",
+    "example": "A fortunate stroke of serendipity led her to discover the old bookshop tucked away on a quiet side street.",
+    "synonyms": ["chance", "fluke", "luck", "fortune", "happenstance"]
   },
   "previewConfig": {
-    "title": "Serendipity",
-    "subtitle": "/\u02ccs\u025b\u0279.\u0259n.\u02c8d\u026ap.\u026a.ti/",
-    "displayFields": ["word", "phonetic"]
+    "title": "Dictionary Lookup",
+    "subtitle": "serendipity",
+    "displayFields": ["word", "phonetic", "part_of_speech", "definition", "example", "synonyms"]
   }
 }

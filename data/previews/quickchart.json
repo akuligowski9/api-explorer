@@ -2,14 +2,15 @@
   "id": "quickchart",
   "previewType": "media",
   "sampleResponse": {
-    "url": "https://quickchart.io/chart?c={type:'bar',data:{labels:['Q1','Q2','Q3','Q4'],datasets:[{label:'Revenue',data:[50,60,70,180]}]}}",
-    "format": "png",
+    "url": "https://quickchart.io/chart?c=%7Btype%3A%27bar%27%7D",
+    "type": "bar",
     "width": 500,
-    "height": 300
+    "height": 300,
+    "format": "png"
   },
   "previewConfig": {
-    "title": "Quick Chart",
-    "subtitle": "quickchart.io",
+    "title": "Chart Image",
+    "subtitle": "Bar chart via QuickChart",
     "imageKey": "url"
   }
 }

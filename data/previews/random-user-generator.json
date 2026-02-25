@@ -2,17 +2,17 @@
   "id": "random-user-generator",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Sarah Mitchell",
-    "email": "sarah.mitchell@example.com",
-    "location": "Portland, Oregon, US",
-    "phone": "(555) 123-4567",
-    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
-    "registered": "2019-03-15"
+    "name": "Olivia Chen",
+    "email": "olivia.chen@example.com",
+    "phone": "(503) 847-2196",
+    "city": "Portland",
+    "country": "United States",
+    "picture_url": "https://randomuser.me/api/portraits/women/68.jpg",
+    "age": 29
   },
   "previewConfig": {
-    "title": "Sarah Mitchell",
-    "subtitle": "Portland, Oregon",
-    "imageKey": "picture",
-    "displayFields": ["email", "phone", "registered"]
+    "title": "Random User",
+    "subtitle": "Olivia Chen",
+    "displayFields": ["name", "email", "phone", "city", "country", "picture_url", "age"]
   }
 }

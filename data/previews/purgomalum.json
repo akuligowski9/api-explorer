@@ -2,18 +2,19 @@
   "id": "purgomalum",
   "previewType": "card",
   "sampleResponse": {
-    "original": "This is some bad text with profanity",
-    "result": "This is some *** text with ***",
-    "containsProfanity": true,
-    "profanityCount": 2
+    "original": "What the hell is going on?",
+    "result": "What the **** is going on?",
+    "words_filtered": 1,
+    "contains_profanity": true
   },
   "previewConfig": {
-    "title": "Content Filter",
-    "subtitle": "purgomalum.com",
+    "title": "Text Filter",
+    "subtitle": "PurgoMalum profanity filter",
     "displayFields": [
       "original",
       "result",
-      "containsProfanity"
+      "words_filtered",
+      "contains_profanity"
     ]
   }
 }

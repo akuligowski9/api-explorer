@@ -1,21 +1,20 @@
 {
   "id": "football-data",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "id": 436872,
-    "competition": "UEFA Champions League",
-    "matchday": 7,
-    "homeTeam": "Bayern Munich",
-    "awayTeam": "Inter Milan",
-    "scoreHome": 1,
-    "scoreAway": 0,
-    "status": "FINISHED",
-    "utcDate": "2026-02-18T20:00:00Z",
-    "venue": "Allianz Arena"
+    "items": [
+      { "title": "Arsenal", "secondary": "W26 D8 L4", "badge": 86 },
+      { "title": "Liverpool", "secondary": "W25 D7 L6", "badge": 82 },
+      { "title": "Manchester City", "secondary": "W24 D8 L6", "badge": 80 },
+      { "title": "Aston Villa", "secondary": "W22 D6 L10", "badge": 72 },
+      { "title": "Tottenham", "secondary": "W20 D5 L13", "badge": 65 }
+    ]
   },
   "previewConfig": {
-    "title": "Bayern Munich 1 — 0 Inter Milan",
-    "subtitle": "Football-Data.org — Champions League",
-    "displayFields": ["competition", "matchday", "status", "utcDate", "venue"]
+    "title": "Football Data",
+    "subtitle": "Premier League Standings",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

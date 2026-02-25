@@ -1,38 +1,16 @@
 {
   "id": "coinlore",
-  "previewType": "list",
+  "previewType": "card",
   "sampleResponse": {
-    "data": [
-      {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "price_usd": "67100"
-      }
-    ]
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price_usd": "67,842.15",
+    "market_cap_usd": "$1.34T",
+    "percent_change_24h": "+2.31%"
   },
   "previewConfig": {
-    "title": "Top Cryptocurrencies",
-    "items": [
-      {
-        "name": "Bitcoin (BTC)",
-        "score": 67100
-      },
-      {
-        "name": "Ethereum (ETH)",
-        "score": 3421
-      },
-      {
-        "name": "Solana (SOL)",
-        "score": 142
-      },
-      {
-        "name": "Cardano (ADA)",
-        "score": 0.62
-      },
-      {
-        "name": "Polkadot (DOT)",
-        "score": 8.45
-      }
-    ]
+    "title": "Bitcoin Market Stats",
+    "subtitle": "Coinlore",
+    "displayFields": ["name", "symbol", "price_usd", "market_cap_usd", "percent_change_24h"]
   }
 }

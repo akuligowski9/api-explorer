@@ -2,15 +2,15 @@
   "id": "vimeo",
   "previewType": "card",
   "sampleResponse": {
-    "name": "The Art of Storytelling",
-    "user": "Vimeo Staff Picks",
+    "title": "The Art of Storytelling",
+    "creator": "Vimeo Staff Picks",
     "duration": "12:34",
-    "plays": 4829103,
-    "likes": 184920
+    "plays": "2,450,800",
+    "likes": "89,320"
   },
   "previewConfig": {
-    "title": "Vimeo API",
-    "subtitle": "Video object",
-    "displayFields": ["name", "user", "duration", "plays", "likes"]
+    "title": "The Art of Storytelling",
+    "subtitle": "Vimeo",
+    "displayFields": ["title", "creator", "duration", "plays", "likes"]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "disqus",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Launch Day Discussion",
+    "author": "devcraft_sarah",
+    "likes": "247",
+    "posts": "89",
+    "createdAt": "2025-11-03T14:22:00Z"
+  },
+  "previewConfig": {
+    "title": "Comment Thread",
+    "subtitle": "Disqus",
+    "displayFields": ["title", "author", "likes", "posts", "createdAt"]
+  }
+}

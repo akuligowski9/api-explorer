@@ -2,36 +2,19 @@
   "id": "spaceflight-news",
   "previewType": "list",
   "sampleResponse": {
-    "results": [
-      {
-        "title": "SpaceX launches Starship",
-        "newsSite": "SpaceNews"
-      }
+    "items": [
+      { "title": "SpaceX Starship completes first orbital refueling test", "secondary": "SpaceNews", "badge": 1284 },
+      { "title": "NASA confirms Artemis IV crew assignments", "secondary": "NASA Spaceflight", "badge": 947 },
+      { "title": "Blue Origin launches first New Glenn commercial payload", "secondary": "Ars Technica", "badge": 723 },
+      { "title": "ESA greenlights Comet Interceptor for 2029 launch", "secondary": "European Space Agency", "badge": 512 },
+      { "title": "ISRO successfully tests reusable launch vehicle landing", "secondary": "The Hindu", "badge": 389 }
     ]
   },
   "previewConfig": {
     "title": "Spaceflight News",
-    "items": [
-      {
-        "title": "SpaceX launches Starship on historic test flight",
-        "author": "SpaceNews"
-      },
-      {
-        "title": "NASA's Artemis II crew prepares for lunar flyby",
-        "author": "NASA Spaceflight"
-      },
-      {
-        "title": "Blue Origin's New Glenn reaches orbit",
-        "author": "Ars Technica"
-      },
-      {
-        "title": "India's ISRO announces Venus mission timeline",
-        "author": "The Hindu"
-      },
-      {
-        "title": "ESA's JUICE spacecraft approaches Jupiter",
-        "author": "ESA"
-      }
-    ]
+    "subtitle": "Recent space news articles by reader count",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

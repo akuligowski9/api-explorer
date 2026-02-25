@@ -1,32 +1,50 @@
 {
   "id": "disney",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "name": "Elsa",
-    "films": [
-      "Frozen",
-      "Frozen II"
-    ],
-    "shortFilms": [
-      "Frozen Fever",
-      "Olaf's Frozen Adventure"
-    ],
-    "allies": [
-      "Anna",
-      "Kristoff",
-      "Olaf",
-      "Sven"
-    ],
-    "enemies": [
-      "Hans",
-      "Duke of Weselton"
+    "items": [
+      {
+        "name": "Mickey Mouse",
+        "film": "Steamboat Willie",
+        "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/9d/Mickey_Mouse.png",
+        "allies": ["Donald Duck", "Goofy", "Minnie Mouse"],
+        "enemies": ["Pete", "Mortimer Mouse"]
+      },
+      {
+        "name": "Elsa",
+        "film": "Frozen",
+        "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/f4/Elsa_Frozen.png",
+        "allies": ["Anna", "Kristoff", "Olaf", "Sven"],
+        "enemies": ["Hans", "Duke of Weselton"]
+      },
+      {
+        "name": "Simba",
+        "film": "The Lion King",
+        "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/7a/Simba.png",
+        "allies": ["Nala", "Timon", "Pumbaa", "Rafiki"],
+        "enemies": ["Scar", "Shenzi", "Banzai", "Ed"]
+      },
+      {
+        "name": "Moana",
+        "film": "Moana",
+        "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3e/Moana.png",
+        "allies": ["Maui", "Hei Hei", "Pua"],
+        "enemies": ["Te Ka", "Tamatoa"]
+      },
+      {
+        "name": "Buzz Lightyear",
+        "film": "Toy Story",
+        "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/55/Buzz_Lightyear.png",
+        "allies": ["Woody", "Jessie", "Rex", "Hamm"],
+        "enemies": ["Zurg", "Sid Phillips"]
+      }
     ]
   },
   "previewConfig": {
-    "title": "Elsa",
-    "subtitle": "Disney Character",
-    "displayFields": [
-      "name"
-    ]
+    "title": "Disney Characters",
+    "subtitle": "Classic and modern favorites",
+    "itemKey": "name",
+    "secondaryKey": "film",
+    "badgeKey": "allies"
   }
 }

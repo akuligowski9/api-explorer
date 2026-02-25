@@ -1,23 +1,43 @@
 {
   "id": "box",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "items": [
+      {
+        "name": "Contract_NDA_2026.pdf",
+        "type": "file",
+        "size": 1572864,
+        "modified_by": "Lisa Chen",
+        "shared_link": "https://app.box.com/s/abc123"
+      },
+      {
+        "name": "Marketing Assets",
+        "type": "folder",
+        "size": 0,
+        "modified_by": "Tom Rivera",
+        "shared_link": null
+      },
+      {
+        "name": "Q1 Forecast.xlsx",
+        "type": "file",
+        "size": 2097152,
+        "modified_by": "Lisa Chen",
+        "shared_link": "https://app.box.com/s/def456"
+      },
+      {
+        "name": "brand-guidelines.pdf",
+        "type": "file",
+        "size": 10485760,
+        "modified_by": "Priya Sharma",
+        "shared_link": "https://app.box.com/s/ghi789"
+      }
+    ]
   },
   "previewConfig": {
     "title": "Box",
-    "subtitle": "File Sharing and Storage",
-    "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
-    ]
+    "subtitle": "Folder items",
+    "itemKey": "name",
+    "secondaryKey": "modified_by",
+    "badgeKey": "type"
   }
 }

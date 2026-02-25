@@ -1,0 +1,26 @@
+{
+  "id": "ipinfo",
+  "previewType": "card",
+  "sampleResponse": {
+    "ip": "1.1.1.1",
+    "hostname": "one.one.one.one",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "org": "AS13335 Cloudflare Inc",
+    "postal": "90076"
+  },
+  "previewConfig": {
+    "title": "IP Lookup: 1.1.1.1",
+    "subtitle": "IPinfo.io geolocation",
+    "displayFields": [
+      "ip",
+      "hostname",
+      "city",
+      "region",
+      "country",
+      "org",
+      "postal"
+    ]
+  }
+}

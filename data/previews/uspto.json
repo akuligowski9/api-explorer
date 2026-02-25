@@ -1,0 +1,16 @@
+{
+  "id": "uspto",
+  "previewType": "card",
+  "sampleResponse": {
+    "patentNumber": "US11,468,327",
+    "title": "Machine learning model compression",
+    "assignee": "Google LLC",
+    "filingDate": "2020-03-15",
+    "grantDate": "2022-10-11"
+  },
+  "previewConfig": {
+    "title": "Machine learning model compression",
+    "subtitle": "USPTO Patent API",
+    "displayFields": ["patentNumber", "title", "assignee", "filingDate", "grantDate"]
+  }
+}

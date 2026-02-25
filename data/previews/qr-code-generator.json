@@ -1,15 +1,24 @@
 {
   "id": "qr-code-generator",
-  "previewType": "media",
+  "previewType": "card",
   "sampleResponse": {
-    "data": "https://api-explorer.dev",
-    "url": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://api-explorer.dev",
-    "size": "200x200",
-    "format": "png"
+    "data": "https://github.com",
+    "size": 300,
+    "format": "png",
+    "error_correction": "M",
+    "margin": 4,
+    "foreground": "#000000"
   },
   "previewConfig": {
     "title": "QR Code Generator",
-    "subtitle": "api-explorer.dev",
-    "imageKey": "url"
+    "subtitle": "Generated QR code parameters",
+    "displayFields": [
+      "data",
+      "size",
+      "format",
+      "error_correction",
+      "margin",
+      "foreground"
+    ]
   }
 }

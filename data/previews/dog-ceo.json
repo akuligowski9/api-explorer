@@ -2,13 +2,12 @@
   "id": "dog-ceo",
   "previewType": "media",
   "sampleResponse": {
-    "message": "https://images.dog.ceo/breeds/retriever-golden/n02099601_6867.jpg",
-    "status": "success",
-    "breed": "Golden Retriever"
+    "message": "https://images.dog.ceo/breeds/samoyed/n02111889_5765.jpg",
+    "status": "success"
   },
   "previewConfig": {
-    "title": "Random Dog",
-    "subtitle": "Golden Retriever",
+    "title": "Random Dog Image",
+    "subtitle": "Samoyed",
     "imageKey": "message"
   }
 }

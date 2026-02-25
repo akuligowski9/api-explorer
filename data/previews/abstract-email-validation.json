@@ -1,0 +1,24 @@
+{
+  "id": "abstract-email-validation",
+  "previewType": "card",
+  "sampleResponse": {
+    "email": "test@gmail.com",
+    "is_valid_format": true,
+    "is_disposable_email": false,
+    "is_smtp_valid": true,
+    "quality_score": 0.95,
+    "is_free_email": true
+  },
+  "previewConfig": {
+    "title": "Validate test@gmail.com",
+    "subtitle": "Abstract Email Validation API",
+    "displayFields": [
+      "email",
+      "is_valid_format",
+      "is_disposable_email",
+      "is_smtp_valid",
+      "quality_score",
+      "is_free_email"
+    ]
+  }
+}

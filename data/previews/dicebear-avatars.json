@@ -2,14 +2,14 @@
   "id": "dicebear-avatars",
   "previewType": "media",
   "sampleResponse": {
-    "url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=Felix",
-    "format": "svg",
-    "style": "pixel-art",
-    "seed": "Felix"
+    "url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Claude",
+    "style": "avataaars",
+    "seed": "Claude",
+    "format": "svg"
   },
   "previewConfig": {
-    "title": "Pixel Art Avatar",
-    "subtitle": "dicebear.com",
+    "title": "DiceBear Avatar",
+    "subtitle": "Avataaars style",
     "imageKey": "url"
   }
 }

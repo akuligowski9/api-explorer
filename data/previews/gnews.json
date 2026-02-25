@@ -4,31 +4,47 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Global AI regulation talks resume in Geneva",
-        "source": "Reuters"
+        "title": "EU Passes Landmark AI Governance Framework",
+        "source": "Reuters",
+        "publishedAt": "2026-02-25T08:30:00Z",
+        "description": "European Parliament approves comprehensive rules requiring transparency and risk assessments for AI systems.",
+        "url": "https://reuters.com/technology/eu-ai-governance-2026"
       },
       {
-        "title": "SpaceX Starship completes third successful orbital test",
-        "source": "AP"
+        "title": "Major Earthquake Strikes Central Turkey, Rescue Efforts Underway",
+        "source": "BBC News",
+        "publishedAt": "2026-02-24T14:15:00Z",
+        "description": "A 6.8 magnitude earthquake hit the Malatya province, with emergency teams deployed across the region.",
+        "url": "https://bbc.com/news/world-turkey-earthquake-2026"
       },
       {
-        "title": "EU announces new climate policy framework for 2030",
-        "source": "BBC"
+        "title": "Tesla Unveils Next-Generation Battery With 50% More Range",
+        "source": "Bloomberg",
+        "publishedAt": "2026-02-24T10:00:00Z",
+        "description": "The new solid-state cells promise to push electric vehicles past 600 miles on a single charge.",
+        "url": "https://bloomberg.com/news/tesla-battery-2026"
       },
       {
-        "title": "Tech stocks rally on strong earnings reports",
-        "source": "Bloomberg"
+        "title": "WHO Declares End to Mpox Global Health Emergency",
+        "source": "Associated Press",
+        "publishedAt": "2026-02-23T16:45:00Z",
+        "description": "The World Health Organization lifted the emergency status after sustained decline in cases worldwide.",
+        "url": "https://apnews.com/who-mpox-emergency-end"
       },
       {
-        "title": "Scientists discover new deep-sea species off Pacific coast",
-        "source": "Nature"
+        "title": "India's GDP Growth Accelerates to 7.2% in Q4",
+        "source": "Financial Times",
+        "publishedAt": "2026-02-23T06:00:00Z",
+        "description": "Strong manufacturing output and domestic consumption drove the fastest quarterly expansion in two years.",
+        "url": "https://ft.com/content/india-gdp-q4-2026"
       }
     ]
   },
   "previewConfig": {
-    "title": "GNews",
+    "title": "Top Headlines",
     "subtitle": "Search for news from various sources",
     "itemKey": "title",
-    "secondaryKey": "source"
+    "secondaryKey": "source",
+    "badgeKey": "publishedAt"
   }
 }

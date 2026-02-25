@@ -1,0 +1,16 @@
+{
+  "id": "theaudiodb",
+  "previewType": "card",
+  "sampleResponse": {
+    "albumName": "Abbey Road",
+    "artistName": "The Beatles",
+    "yearReleased": "1969",
+    "genre": "Rock",
+    "label": "Apple Records"
+  },
+  "previewConfig": {
+    "title": "Abbey Road",
+    "subtitle": "TheAudioDB",
+    "displayFields": ["albumName", "artistName", "yearReleased", "genre", "label"]
+  }
+}

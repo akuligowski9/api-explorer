@@ -2,17 +2,19 @@
   "id": "patentsview",
   "previewType": "list",
   "sampleResponse": {
-    "patents": [
-      {"patent_title": "Method for electric vehicle battery management", "assignee_organization": "Tesla, Inc."}
+    "items": [
+      { "title": "Autonomous vehicle navigation system", "secondary": "Waymo LLC", "badge": 2023 },
+      { "title": "Foldable display hinge mechanism", "secondary": "Samsung Electronics", "badge": 2023 },
+      { "title": "Neural engine for on-device ML", "secondary": "Apple Inc.", "badge": 2022 },
+      { "title": "Quantum error correction method", "secondary": "IBM Corp.", "badge": 2023 },
+      { "title": "mRNA vaccine stabilization process", "secondary": "Moderna Inc.", "badge": 2022 }
     ]
   },
   "previewConfig": {
-    "title": "Recent Patents",
-    "items": [
-      {"title": "Electric vehicle battery management", "author": "Tesla, Inc."},
-      {"title": "Augmented reality display system", "author": "Apple Inc."},
-      {"title": "Machine learning optimization framework", "author": "Google LLC"},
-      {"title": "Drone delivery route optimization", "author": "Amazon Technologies"}
-    ]
+    "title": "PatentsView",
+    "subtitle": "Recent notable patents by grant year",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

@@ -2,21 +2,15 @@
   "id": "coinpaprika",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Cardano",
-    "symbol": "ADA",
-    "rank": 9,
-    "price_usd": 0.7823,
-    "volume_24h_usd": 412850000
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price_usd": "3,491.28",
+    "volume_24h_usd": "$14.7B",
+    "total_supply": "120,234,567 ETH"
   },
   "previewConfig": {
-    "title": "CoinPaprika",
-    "subtitle": "Cryptocurrency market data and research platform",
-    "displayFields": [
-      "name",
-      "symbol",
-      "rank",
-      "price_usd",
-      "volume_24h_usd"
-    ]
+    "title": "Ethereum Data",
+    "subtitle": "CoinPaprika",
+    "displayFields": ["name", "symbol", "price_usd", "volume_24h_usd", "total_supply"]
   }
 }

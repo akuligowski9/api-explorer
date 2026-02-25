@@ -1,72 +1,16 @@
 {
   "id": "open-brewery-db",
-  "previewType": "list",
-  "sampleResponse": [
-    {
-      "name": "Austin Beerworks",
-      "city": "Austin",
-      "state": "Texas",
-      "brewery_type": "micro"
-    },
-    {
-      "name": "Trillium Brewing Company",
-      "city": "Boston",
-      "state": "Massachusetts",
-      "brewery_type": "micro"
-    },
-    {
-      "name": "Sierra Nevada Brewing Co",
-      "city": "Chico",
-      "state": "California",
-      "brewery_type": "regional"
-    },
-    {
-      "name": "Dogfish Head Craft Brewery",
-      "city": "Milton",
-      "state": "Delaware",
-      "brewery_type": "regional"
-    },
-    {
-      "name": "Bell's Brewery",
-      "city": "Comstock",
-      "state": "Michigan",
-      "brewery_type": "regional"
-    }
-  ],
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Great Notion Brewing",
+    "breweryType": "brewpub",
+    "city": "Portland",
+    "state": "Oregon",
+    "phone": "5032847552"
+  },
   "previewConfig": {
-    "title": "Craft Breweries",
-    "subtitle": "United States",
-    "items": [
-      {
-        "name": "Austin Beerworks",
-        "city": "Austin",
-        "state": "Texas",
-        "brewery_type": "micro"
-      },
-      {
-        "name": "Trillium Brewing Company",
-        "city": "Boston",
-        "state": "Massachusetts",
-        "brewery_type": "micro"
-      },
-      {
-        "name": "Sierra Nevada Brewing Co",
-        "city": "Chico",
-        "state": "California",
-        "brewery_type": "regional"
-      },
-      {
-        "name": "Dogfish Head Craft Brewery",
-        "city": "Milton",
-        "state": "Delaware",
-        "brewery_type": "regional"
-      },
-      {
-        "name": "Bell's Brewery",
-        "city": "Comstock",
-        "state": "Michigan",
-        "brewery_type": "regional"
-      }
-    ]
+    "title": "Great Notion Brewing",
+    "subtitle": "Open Brewery DB",
+    "displayFields": ["name", "breweryType", "city", "state", "phone"]
   }
 }

@@ -2,29 +2,23 @@
   "id": "open-notify",
   "previewType": "card",
   "sampleResponse": {
-    "message": "success",
-    "iss_position": {
-      "latitude": "-14.8201",
-      "longitude": "29.3566"
-    },
-    "timestamp": 1710764400,
-    "number": 7,
-    "people": [
-      {
-        "name": "Jasmin Moghbeli",
-        "craft": "ISS"
-      },
-      {
-        "name": "Andreas Mogensen",
-        "craft": "ISS"
-      }
-    ]
+    "latitude": 28.4567,
+    "longitude": -80.5278,
+    "timestamp": "2026-02-25T19:30:00Z",
+    "altitude_km": 408,
+    "velocity_kph": 27600,
+    "visibility": "daylight"
   },
   "previewConfig": {
-    "title": "ISS Location",
-    "subtitle": "Open Notify",
+    "title": "ISS Current Position",
+    "subtitle": "International Space Station Tracker",
     "displayFields": [
-      "number"
+      "latitude",
+      "longitude",
+      "timestamp",
+      "altitude_km",
+      "velocity_kph",
+      "visibility"
     ]
   }
 }

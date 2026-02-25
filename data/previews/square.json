@@ -2,21 +2,15 @@
   "id": "square",
   "previewType": "card",
   "sampleResponse": {
-    "id": "bPay7kNZhE4R1gsMeB2d",
-    "amount_money": "$75.00",
+    "transactionId": "txn_8f3a2b7c9d1e",
+    "amount": "$47.50",
     "status": "COMPLETED",
-    "source_type": "CARD",
-    "created_at": "2026-02-24T14:32:08Z"
+    "cardBrand": "Visa ending in 4242",
+    "createdAt": "2025-11-14T09:32:18Z"
   },
   "previewConfig": {
-    "title": "Square",
-    "subtitle": "Payment processing and commerce platform",
-    "displayFields": [
-      "id",
-      "amount_money",
-      "status",
-      "source_type",
-      "created_at"
-    ]
+    "title": "Payment Transaction",
+    "subtitle": "Square",
+    "displayFields": ["transactionId", "amount", "status", "cardBrand", "createdAt"]
   }
 }

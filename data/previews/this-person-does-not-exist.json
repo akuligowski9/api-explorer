@@ -2,13 +2,14 @@
   "id": "this-person-does-not-exist",
   "previewType": "media",
   "sampleResponse": {
-    "url": "https://thispersondoesnotexist.com/",
-    "description": "AI-generated human face",
-    "model": "StyleGAN"
+    "url": "https://thispersondoesnotexist.com",
+    "generated": true,
+    "model": "StyleGAN3",
+    "resolution": "1024x1024"
   },
   "previewConfig": {
     "title": "AI-Generated Face",
-    "subtitle": "thispersondoesnotexist.com",
+    "subtitle": "This Person Does Not Exist",
     "imageKey": "url"
   }
 }

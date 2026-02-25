@@ -2,18 +2,12 @@
   "id": "nominatim",
   "previewType": "card",
   "sampleResponse": {
-    "place_id": 282969,
-    "lat": "48.8588897",
-    "lon": "2.3200410",
-    "display_name": "Eiffel Tower, Avenue Anatole France, Paris, Île-de-France, France",
+    "display_name": "Tour Eiffel, Paris, France",
+    "lat": 48.8584,
+    "lon": 2.2945,
     "type": "attraction",
-    "importance": 0.823,
-    "address": {
-      "tourism": "Eiffel Tower",
-      "road": "Avenue Anatole France",
-      "city": "Paris",
-      "country": "France"
-    }
+    "importance": 0.82,
+    "osm_type": "way"
   },
   "previewConfig": {
     "title": "Eiffel Tower",
@@ -22,7 +16,9 @@
       "display_name",
       "lat",
       "lon",
-      "type"
+      "type",
+      "importance",
+      "osm_type"
     ]
   }
 }

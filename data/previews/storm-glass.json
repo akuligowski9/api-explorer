@@ -2,15 +2,15 @@
   "id": "storm-glass",
   "previewType": "card",
   "sampleResponse": {
-    "wave_height": "1.6 m",
-    "water_temperature": "19.8°C",
-    "wind_speed": "6.8 m/s SW",
-    "wave_period": "8.2 s",
-    "air_temperature": "22.4°C"
+    "wave_height": "1.8 m",
+    "wave_period": "7.2 s",
+    "wind_speed": "14.3 knots",
+    "wind_direction": "SW 225°",
+    "water_temp": "18.6 °C"
   },
   "previewConfig": {
-    "title": "Santa Cruz, CA — Marine Forecast",
-    "subtitle": "Wave height 1.6m, water 19.8°C",
-    "displayFields": ["wave_height", "water_temperature", "wind_speed", "wave_period", "air_temperature"]
+    "title": "Marine Weather Forecast",
+    "subtitle": "Storm Glass",
+    "displayFields": ["wave_height", "wave_period", "wind_speed", "wind_direction", "water_temp"]
   }
 }

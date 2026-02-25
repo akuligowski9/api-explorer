@@ -2,15 +2,15 @@
   "id": "slack",
   "previewType": "card",
   "sampleResponse": {
-    "name": "general",
-    "id": "C024BE91L",
-    "topic": "Company-wide announcements and work-related matters",
-    "num_members": 1284,
-    "is_private": false
+    "channel": "#engineering-alerts",
+    "workspace": "Acme Corp",
+    "members": 347,
+    "topic": "Production incidents and deploy notifications",
+    "messageCount": 18642
   },
   "previewConfig": {
-    "title": "Slack API",
-    "subtitle": "Channel object",
-    "displayFields": ["name", "topic", "num_members", "is_private", "id"]
+    "title": "Channel Info",
+    "subtitle": "Slack",
+    "displayFields": ["channel", "workspace", "members", "topic", "messageCount"]
   }
 }

@@ -2,22 +2,15 @@
   "id": "alpha-vantage",
   "previewType": "card",
   "sampleResponse": {
-    "symbol": "AAPL",
-    "price": 189.84,
-    "change": "+2.35",
-    "change_percent": "+1.25%",
-    "volume": 58432710,
-    "latest_trading_day": "2026-02-24"
+    "symbol": "MSFT",
+    "price": "420.72",
+    "change": "+5.38",
+    "change_percent": "+1.29%",
+    "volume": "18,432,671"
   },
   "previewConfig": {
-    "title": "Alpha Vantage",
-    "subtitle": "Realtime and historical stock market data",
-    "displayFields": [
-      "symbol",
-      "price",
-      "change",
-      "volume",
-      "latest_trading_day"
-    ]
+    "title": "MSFT Stock Quote",
+    "subtitle": "Alpha Vantage",
+    "displayFields": ["symbol", "price", "change", "change_percent", "volume"]
   }
 }

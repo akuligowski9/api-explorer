@@ -4,31 +4,47 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Global AI regulation talks resume in Geneva",
-        "source": "Reuters"
+        "title": "Breakthrough in Quantum Error Correction Announced by Google",
+        "author": "Sarah Chen",
+        "category": "technology",
+        "published": "2026-02-25 09:00:00 +0000",
+        "language": "en"
       },
       {
-        "title": "SpaceX Starship completes third successful orbital test",
-        "source": "AP"
+        "title": "Brazil Amazon Deforestation Drops to Lowest Level in 15 Years",
+        "author": "Carlos Mendes",
+        "category": "environment",
+        "published": "2026-02-24 17:30:00 +0000",
+        "language": "en"
       },
       {
-        "title": "EU announces new climate policy framework for 2030",
-        "source": "BBC"
+        "title": "Olympic Committee Confirms New Sports for 2028 Los Angeles Games",
+        "author": "James Porter",
+        "category": "sports",
+        "published": "2026-02-24 12:00:00 +0000",
+        "language": "en"
       },
       {
-        "title": "Tech stocks rally on strong earnings reports",
-        "source": "Bloomberg"
+        "title": "Central Banks Coordinate on Digital Currency Standards",
+        "author": "Nadia Petrova",
+        "category": "finance",
+        "published": "2026-02-23 20:15:00 +0000",
+        "language": "en"
       },
       {
-        "title": "Scientists discover new deep-sea species off Pacific coast",
-        "source": "Nature"
+        "title": "New Study Links Ultra-Processed Foods to Cognitive Decline",
+        "author": "Dr. Emily Watson",
+        "category": "health",
+        "published": "2026-02-23 08:45:00 +0000",
+        "language": "en"
       }
     ]
   },
   "previewConfig": {
-    "title": "Currents",
+    "title": "Latest News",
     "subtitle": "Latest news published in various news sources, blogs and forums",
     "itemKey": "title",
-    "secondaryKey": "source"
+    "secondaryKey": "author",
+    "badgeKey": "category"
   }
 }

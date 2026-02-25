@@ -1,45 +1,50 @@
 {
   "id": "world-bank",
-  "previewType": "chart",
+  "previewType": "list",
   "sampleResponse": {
-    "indicator": "GDP Growth",
-    "country": "World",
-    "data": [
+    "items": [
       {
-        "label": "2017",
-        "value": 3.3
+        "country": "United States",
+        "gdp_usd": 25462700000000,
+        "year": 2022,
+        "region": "North America",
+        "income_level": "High income"
       },
       {
-        "label": "2018",
-        "value": 3.3
+        "country": "China",
+        "gdp_usd": 17963200000000,
+        "year": 2022,
+        "region": "East Asia & Pacific",
+        "income_level": "Upper middle income"
       },
       {
-        "label": "2019",
-        "value": 2.6
+        "country": "Japan",
+        "gdp_usd": 4231140000000,
+        "year": 2022,
+        "region": "East Asia & Pacific",
+        "income_level": "High income"
       },
       {
-        "label": "2020",
-        "value": -3.1
+        "country": "Germany",
+        "gdp_usd": 4072190000000,
+        "year": 2022,
+        "region": "Europe & Central Asia",
+        "income_level": "High income"
       },
       {
-        "label": "2021",
-        "value": 6.0
-      },
-      {
-        "label": "2022",
-        "value": 3.1
-      },
-      {
-        "label": "2023",
-        "value": 2.7
+        "country": "India",
+        "gdp_usd": 3385090000000,
+        "year": 2022,
+        "region": "South Asia",
+        "income_level": "Lower middle income"
       }
     ]
   },
   "previewConfig": {
-    "title": "World GDP Growth %",
-    "subtitle": "World Bank",
-    "chartType": "bar",
-    "chartDataKey": "value",
-    "chartLabelKey": "label"
+    "title": "GDP Rankings",
+    "subtitle": "Top economies by GDP (USD)",
+    "itemKey": "country",
+    "secondaryKey": "region",
+    "badgeKey": "income_level"
   }
 }

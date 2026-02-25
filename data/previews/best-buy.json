@@ -1,0 +1,16 @@
+{
+  "id": "best-buy",
+  "previewType": "card",
+  "sampleResponse": {
+    "product": "Sony WH-1000XM5 Headphones",
+    "price": "$348.00",
+    "rating": "4.7 / 5",
+    "category": "Headphones",
+    "availability": "In Stock"
+  },
+  "previewConfig": {
+    "title": "Popular Product",
+    "subtitle": "Best Buy",
+    "displayFields": ["product", "price", "rating", "category", "availability"]
+  }
+}

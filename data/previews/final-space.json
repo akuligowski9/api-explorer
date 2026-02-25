@@ -1,26 +1,50 @@
 {
   "id": "final-space",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "name": "Gary Goodspeed",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male",
-    "origin": "Earth",
-    "abilities": [
-      "Marksmanship",
-      "Hand-to-hand combat"
-    ],
-    "img_url": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.png"
+    "items": [
+      {
+        "name": "Gary Goodspeed",
+        "species": "Human",
+        "status": "Alive",
+        "origin": "Earth",
+        "abilities": ["Marksmanship", "Hand-to-hand combat"]
+      },
+      {
+        "name": "Mooncake",
+        "species": "Specimen E-351",
+        "status": "Alive",
+        "origin": "Final Space",
+        "abilities": ["Planet-destroying energy blast", "Flight"]
+      },
+      {
+        "name": "Avocato",
+        "species": "Ventrexian",
+        "status": "Alive",
+        "origin": "Ventrexia",
+        "abilities": ["Expert marksman", "Combat skills"]
+      },
+      {
+        "name": "Quinn Ergon",
+        "species": "Human",
+        "status": "Alive",
+        "origin": "Earth",
+        "abilities": ["Piloting", "Combat training"]
+      },
+      {
+        "name": "Little Cato",
+        "species": "Ventrexian",
+        "status": "Alive",
+        "origin": "Ventrexia",
+        "abilities": ["Sharpshooting", "Agility"]
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Gary Goodspeed",
-    "subtitle": "Final Space",
-    "displayFields": [
-      "species",
-      "status",
-      "gender",
-      "origin"
-    ]
+    "title": "Final Space Characters",
+    "subtitle": "Team Squad members",
+    "itemKey": "name",
+    "secondaryKey": "species",
+    "badgeKey": "status"
   }
 }

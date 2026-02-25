@@ -2,19 +2,15 @@
   "id": "evil-insult-generator",
   "previewType": "card",
   "sampleResponse": {
-    "number": "168",
+    "number": 187,
     "language": "en",
-    "insult": "You're about as useful as a screen door on a submarine.",
-    "created": "2023-01-15",
-    "shown": "42069",
-    "createdby": "Evil Insult Generator"
+    "insult": "You're the reason they invented decaf.",
+    "createdby": "evil insult generator",
+    "comment": "from the internet"
   },
   "previewConfig": {
     "title": "Evil Insult",
-    "subtitle": "evilinsult.com",
-    "displayFields": [
-      "insult",
-      "language"
-    ]
+    "subtitle": "Random insult generator",
+    "displayFields": ["insult", "number", "language", "createdby", "comment"]
   }
 }

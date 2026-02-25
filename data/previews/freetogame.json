@@ -2,37 +2,49 @@
   "id": "freetogame",
   "previewType": "list",
   "sampleResponse": {
-    "games": [
+    "items": [
       {
-        "id": 521,
-        "title": "Diablo Immortal",
-        "genre": "MMORPG"
+        "title": "Genshin Impact",
+        "genre": "Action RPG",
+        "platform": "PC (Windows), iOS, Android",
+        "publisher": "miHoYo",
+        "release_date": "2020-09-28"
+      },
+      {
+        "title": "Lost Ark",
+        "genre": "MMORPG",
+        "platform": "PC (Windows)",
+        "publisher": "Amazon Games",
+        "release_date": "2022-02-11"
+      },
+      {
+        "title": "Apex Legends",
+        "genre": "Battle Royale",
+        "platform": "PC (Windows), PS5, Xbox Series X",
+        "publisher": "Electronic Arts",
+        "release_date": "2019-02-04"
+      },
+      {
+        "title": "Valorant",
+        "genre": "Shooter",
+        "platform": "PC (Windows)",
+        "publisher": "Riot Games",
+        "release_date": "2020-06-02"
+      },
+      {
+        "title": "Warframe",
+        "genre": "Action RPG",
+        "platform": "PC (Windows), PS5, Xbox Series X",
+        "publisher": "Digital Extremes",
+        "release_date": "2013-03-25"
       }
     ]
   },
   "previewConfig": {
-    "title": "Free-to-Play Games",
-    "items": [
-      {
-        "title": "Diablo Immortal",
-        "region": "MMORPG"
-      },
-      {
-        "title": "Genshin Impact",
-        "region": "Action RPG"
-      },
-      {
-        "title": "Lost Ark",
-        "region": "MMORPG"
-      },
-      {
-        "title": "Apex Legends",
-        "region": "Battle Royale"
-      },
-      {
-        "title": "Valorant",
-        "region": "Shooter"
-      }
-    ]
+    "title": "Top Free-to-Play Games",
+    "subtitle": "Popular free games across all platforms",
+    "itemKey": "title",
+    "secondaryKey": "genre",
+    "badgeKey": "platform"
   }
 }

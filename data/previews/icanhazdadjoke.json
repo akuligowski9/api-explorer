@@ -2,13 +2,13 @@
   "id": "icanhazdadjoke",
   "previewType": "card",
   "sampleResponse": {
-    "id": "abc123",
-    "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "id": "R7UfaahVfFd",
+    "joke": "I used to hate facial hair, but then it grew on me.",
     "status": 200
   },
   "previewConfig": {
     "title": "Dad Joke",
-    "subtitle": "icanhazdadjoke",
-    "displayFields": ["joke"]
+    "subtitle": "A random dad joke",
+    "displayFields": ["joke", "id", "status"]
   }
 }

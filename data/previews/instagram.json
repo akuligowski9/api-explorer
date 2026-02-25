@@ -2,15 +2,15 @@
   "id": "instagram",
   "previewType": "card",
   "sampleResponse": {
-    "id": "3291048571920384",
-    "media_type": "IMAGE",
-    "caption": "Golden hour at the Grand Canyon. No filter needed.",
-    "like_count": 284019,
-    "timestamp": "2026-02-14T17:32:00Z"
+    "username": "@natgeo",
+    "caption": "A rare snow leopard spotted in the Himalayas at dawn",
+    "likes": 2841567,
+    "comments": 18432,
+    "timestamp": "2025-12-14T08:30:00Z"
   },
   "previewConfig": {
-    "title": "Instagram API",
-    "subtitle": "Media object",
-    "displayFields": ["caption", "media_type", "like_count", "timestamp", "id"]
+    "title": "Popular Post",
+    "subtitle": "Instagram",
+    "displayFields": ["username", "caption", "likes", "comments", "timestamp"]
   }
 }

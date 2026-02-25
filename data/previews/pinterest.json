@@ -1,0 +1,16 @@
+{
+  "id": "pinterest",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Minimal Scandinavian Living Room Design",
+    "creator": "ArchDigest",
+    "saves": 284930,
+    "board": "Interior Inspiration",
+    "link": "archdigest.com/gallery/scandinavian-living"
+  },
+  "previewConfig": {
+    "title": "Popular Pin",
+    "subtitle": "Pinterest",
+    "displayFields": ["title", "creator", "saves", "board", "link"]
+  }
+}

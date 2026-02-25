@@ -2,48 +2,49 @@
   "id": "open-library",
   "previewType": "list",
   "sampleResponse": {
-    "docs": [
+    "items": [
       {
         "title": "The Lord of the Rings",
-        "author_name": ["J.R.R. Tolkien"],
+        "author": "J.R.R. Tolkien",
         "first_publish_year": 1954,
-        "cover_i": 9255566
+        "editions_count": 452,
+        "cover_id": 9255566
       },
       {
-        "title": "Dune",
-        "author_name": ["Frank Herbert"],
-        "first_publish_year": 1965,
-        "cover_i": 6544979
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "first_publish_year": 1937,
+        "editions_count": 389,
+        "cover_id": 8739161
       },
       {
-        "title": "1984",
-        "author_name": ["George Orwell"],
-        "first_publish_year": 1949,
-        "cover_i": 153890
+        "title": "The Silmarillion",
+        "author": "J.R.R. Tolkien",
+        "first_publish_year": 1977,
+        "editions_count": 87,
+        "cover_id": 1029534
       },
       {
-        "title": "Neuromancer",
-        "author_name": ["William Gibson"],
-        "first_publish_year": 1984,
-        "cover_i": 225698
+        "title": "Unfinished Tales",
+        "author": "J.R.R. Tolkien",
+        "first_publish_year": 1980,
+        "editions_count": 42,
+        "cover_id": 6815834
       },
       {
-        "title": "Foundation",
-        "author_name": ["Isaac Asimov"],
-        "first_publish_year": 1951,
-        "cover_i": 6540208
+        "title": "The Children of Húrin",
+        "author": "J.R.R. Tolkien",
+        "first_publish_year": 2007,
+        "editions_count": 28,
+        "cover_id": 2407134
       }
     ]
   },
   "previewConfig": {
     "title": "Book Search",
-    "subtitle": "Science Fiction Classics",
-    "items": [
-      { "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "year": 1954 },
-      { "title": "Dune", "author": "Frank Herbert", "year": 1965 },
-      { "title": "1984", "author": "George Orwell", "year": 1949 },
-      { "title": "Neuromancer", "author": "William Gibson", "year": 1984 },
-      { "title": "Foundation", "author": "Isaac Asimov", "year": 1951 }
-    ]
+    "subtitle": "Search results for \"tolkien\"",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "first_publish_year"
   }
 }

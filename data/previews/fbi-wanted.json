@@ -1,35 +1,16 @@
 {
   "id": "fbi-wanted",
-  "previewType": "list",
+  "previewType": "card",
   "sampleResponse": {
-    "items": [
-      {
-        "title": "ALEJANDRO ROSALES CASTILLO",
-        "subjects": [
-          "Crimes Against Children"
-        ]
-      }
-    ]
+    "title": "JOHN DOE 42",
+    "subject": "Seeking Information",
+    "fieldOffices": "Los Angeles",
+    "rewardText": "Up to $50,000",
+    "status": "Na Manh"
   },
   "previewConfig": {
-    "title": "FBI Most Wanted",
-    "items": [
-      {
-        "name": "Ten Most Wanted Fugitives",
-        "region": "FBI"
-      },
-      {
-        "name": "Seeking Information",
-        "region": "FBI"
-      },
-      {
-        "name": "Kidnappings/Missing Persons",
-        "region": "FBI"
-      },
-      {
-        "name": "Most Wanted Terrorists",
-        "region": "FBI"
-      }
-    ]
+    "title": "JOHN DOE 42",
+    "subtitle": "FBI Wanted",
+    "displayFields": ["title", "subject", "fieldOffices", "rewardText", "status"]
   }
 }

@@ -1,24 +1,45 @@
 {
   "id": "poetrydb",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "title": "The Road Not Taken",
-    "author": "Robert Frost",
-    "lines": [
-      "Two roads diverged in a yellow wood,",
-      "And sorry I could not travel both",
-      "And be one traveler, long I stood",
-      "And looked down one as far as I could",
-      "To where it bent in the undergrowth;"
-    ],
-    "linecount": "20"
+    "items": [
+      {
+        "title": "Because I could not stop for Death",
+        "author": "Emily Dickinson",
+        "linecount": 24,
+        "lines_preview": "Because I could not stop for Death --"
+      },
+      {
+        "title": "Hope is the thing with feathers",
+        "author": "Emily Dickinson",
+        "linecount": 12,
+        "lines_preview": "Hope is the thing with feathers --"
+      },
+      {
+        "title": "I felt a Funeral, in my Brain",
+        "author": "Emily Dickinson",
+        "linecount": 20,
+        "lines_preview": "I felt a Funeral, in my Brain,"
+      },
+      {
+        "title": "I'm Nobody! Who are you?",
+        "author": "Emily Dickinson",
+        "linecount": 8,
+        "lines_preview": "I'm Nobody! Who are you?"
+      },
+      {
+        "title": "A Bird came down the Walk",
+        "author": "Emily Dickinson",
+        "linecount": 20,
+        "lines_preview": "A Bird came down the Walk --"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "The Road Not Taken",
-    "subtitle": "Robert Frost",
-    "displayFields": [
-      "author",
-      "linecount"
-    ]
+    "title": "Poems by Emily Dickinson",
+    "subtitle": "Classic American poetry",
+    "itemKey": "title",
+    "secondaryKey": "lines_preview",
+    "badgeKey": "linecount"
   }
 }

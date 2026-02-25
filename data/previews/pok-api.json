@@ -1,16 +1,50 @@
 {
   "id": "pok-api",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "name": "Charizard",
-    "type": "Fire / Flying",
-    "hp": 78,
-    "attack": 84,
-    "speed": 100
+    "items": [
+      {
+        "name": "Bulbasaur",
+        "types": "Grass / Poison",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49
+      },
+      {
+        "name": "Charmander",
+        "types": "Fire",
+        "hp": 39,
+        "attack": 52,
+        "defense": 43
+      },
+      {
+        "name": "Squirtle",
+        "types": "Water",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65
+      },
+      {
+        "name": "Pikachu",
+        "types": "Electric",
+        "hp": 35,
+        "attack": 55,
+        "defense": 40
+      },
+      {
+        "name": "Eevee",
+        "types": "Normal",
+        "hp": 55,
+        "attack": 55,
+        "defense": 50
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Charizard",
-    "subtitle": "PokéAPI",
-    "displayFields": ["name", "type", "hp", "attack", "speed"]
+    "title": "Gen 1 Starters",
+    "subtitle": "Classic Pokémon stats",
+    "itemKey": "name",
+    "secondaryKey": "types",
+    "badgeKey": "hp"
   }
 }

@@ -2,15 +2,17 @@
   "id": "chucknorris-io",
   "previewType": "card",
   "sampleResponse": {
-    "icon_url": "https://api.chucknorris.io/img/avatar/chuck-norris.png",
-    "id": "abc123",
     "value": "Chuck Norris can divide by zero.",
-    "categories": ["dev"]
+    "categories": ["dev"],
+    "icon_url": "https://api.chucknorris.io/img/avatar/chuck-norris.png",
+    "created_at": "2020-01-05 13:42:19.576875",
+    "id": "elgv2wkvt8ioag6xywykbq",
+    "updated_at": "2020-01-05 13:42:19.576875",
+    "url": "https://api.chucknorris.io/jokes/elgv2wkvt8ioag6xywykbq"
   },
   "previewConfig": {
-    "title": "Chuck Norris Joke",
-    "subtitle": "dev",
-    "imageKey": "icon_url",
-    "displayFields": ["value"]
+    "title": "Chuck Norris Fact",
+    "subtitle": "Random fact from the dev category",
+    "displayFields": ["value", "categories", "icon_url", "created_at"]
   }
 }

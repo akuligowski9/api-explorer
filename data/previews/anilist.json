@@ -1,0 +1,16 @@
+{
+  "id": "anilist",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Attack on Titan",
+    "format": "TV",
+    "episodes": "87",
+    "status": "Finished",
+    "averageScore": "84"
+  },
+  "previewConfig": {
+    "title": "Attack on Titan",
+    "subtitle": "AniList",
+    "displayFields": ["title", "format", "episodes", "status", "averageScore"]
+  }
+}

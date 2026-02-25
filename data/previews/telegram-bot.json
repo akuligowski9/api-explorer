@@ -2,15 +2,23 @@
   "id": "telegram-bot",
   "previewType": "card",
   "sampleResponse": {
-    "message_id": 20481,
-    "from": "WeatherBot",
-    "chat": "NYC Weather Alerts",
-    "text": "High of 72F today in Manhattan. Clear skies expected through evening.",
-    "date": "2026-02-25T09:15:00Z"
+    "username": "WeatherAlertBot",
+    "first_name": "Weather Alert",
+    "can_join_groups": true,
+    "supports_inline_queries": true,
+    "message_count": 142857,
+    "subscriber_count": 28400
   },
   "previewConfig": {
     "title": "Telegram Bot API",
-    "subtitle": "Message object",
-    "displayFields": ["text", "from", "chat", "date", "message_id"]
+    "subtitle": "Bot info for @WeatherAlertBot",
+    "displayFields": [
+      "username",
+      "first_name",
+      "can_join_groups",
+      "supports_inline_queries",
+      "message_count",
+      "subscriber_count"
+    ]
   }
 }

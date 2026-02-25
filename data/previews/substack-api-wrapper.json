@@ -4,31 +4,47 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Global AI regulation talks resume in Geneva",
-        "source": "Reuters"
+        "name": "The Pragmatic Engineer",
+        "author": "Gergely Orosz",
+        "subscribers": 725000,
+        "category": "Technology",
+        "url": "https://pragmaticengineer.substack.com"
       },
       {
-        "title": "SpaceX Starship completes third successful orbital test",
-        "source": "AP"
+        "name": "Slow Boring",
+        "author": "Matthew Yglesias",
+        "subscribers": 280000,
+        "category": "Politics",
+        "url": "https://slowboring.substack.com"
       },
       {
-        "title": "EU announces new climate policy framework for 2030",
-        "source": "BBC"
+        "name": "The Diff",
+        "author": "Byrne Hobart",
+        "subscribers": 152000,
+        "category": "Finance",
+        "url": "https://thediff.substack.com"
       },
       {
-        "title": "Tech stocks rally on strong earnings reports",
-        "source": "Bloomberg"
+        "name": "Astral Codex Ten",
+        "author": "Scott Alexander",
+        "subscribers": 198000,
+        "category": "Science",
+        "url": "https://astralcodexten.substack.com"
       },
       {
-        "title": "Scientists discover new deep-sea species off Pacific coast",
-        "source": "Nature"
+        "name": "Lenny's Newsletter",
+        "author": "Lenny Rachitsky",
+        "subscribers": 640000,
+        "category": "Business",
+        "url": "https://lennysnewsletter.substack.com"
       }
     ]
   },
   "previewConfig": {
-    "title": "Substack API Wrapper",
-    "subtitle": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts",
-    "itemKey": "title",
-    "secondaryKey": "source"
+    "title": "Popular Newsletters",
+    "subtitle": "Substack's newsletter platform API wrapper",
+    "itemKey": "name",
+    "secondaryKey": "author",
+    "badgeKey": "subscribers"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "product-hunt",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "Raycast AI", "secondary": "Your shortcut to everything", "badge": 1847 },
+      { "title": "Notion Calendar", "secondary": "Time blocking meets task management", "badge": 1523 },
+      { "title": "Arc Max", "secondary": "AI-powered browser features", "badge": 1291 },
+      { "title": "Superlist", "secondary": "Free project management for teams", "badge": 984 },
+      { "title": "Granola", "secondary": "AI notepad for meetings", "badge": 762 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Product Hunt",
+    "subtitle": "Trending products by upvotes",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

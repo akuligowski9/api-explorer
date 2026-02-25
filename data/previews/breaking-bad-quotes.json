@@ -2,16 +2,14 @@
   "id": "breaking-bad-quotes",
   "previewType": "card",
   "sampleResponse": {
-    "quote": "I am the one who knocks!",
+    "quote": "I am the one who knocks.",
     "author": "Walter White",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "episode": "Cornered"
   },
   "previewConfig": {
     "title": "Breaking Bad Quote",
     "subtitle": "Walter White",
-    "displayFields": [
-      "quote",
-      "author"
-    ]
+    "displayFields": ["quote", "author", "series", "episode"]
   }
 }

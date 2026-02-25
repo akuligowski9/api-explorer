@@ -2,20 +2,16 @@
   "id": "spacex",
   "previewType": "card",
   "sampleResponse": {
-    "name": "Starlink Group 6-42",
-    "date_utc": "2024-03-15T10:30:00Z",
-    "success": true,
+    "mission_name": "Starlink Group 12-5",
+    "date": "2026-02-20",
     "rocket": "Falcon 9",
-    "details": "Successfully deployed 23 Starlink satellites",
-    "links": {
-      "patch": {
-        "small": "https://images2.imgbox.com/eb/0f/Vev7LLNj_o.png"
-      }
-    }
+    "site": "KSC LC-39A",
+    "success": true,
+    "details": "Successfully deployed 23 Starlink v2 Mini satellites to low Earth orbit as part of the second-generation constellation expansion."
   },
   "previewConfig": {
     "title": "Latest Launch",
-    "subtitle": "Starlink Group 6-42",
-    "displayFields": ["rocket", "date_utc", "success"]
+    "subtitle": "Starlink Group 12-5",
+    "displayFields": ["mission_name", "date", "rocket", "site", "success", "details"]
   }
 }

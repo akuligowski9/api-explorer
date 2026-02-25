@@ -2,24 +2,23 @@
   "id": "razorpay-ifsc",
   "previewType": "card",
   "sampleResponse": {
-    "BANK": "State Bank of India",
-    "IFSC": "SBIN0001234",
-    "BRANCH": "Mumbai Main Branch",
-    "CENTRE": "Mumbai",
-    "DISTRICT": "Mumbai",
-    "STATE": "Maharashtra",
-    "ADDRESS": "Horniman Circle, Fort, Mumbai - 400001",
-    "CONTACT": "+912222740000",
-    "CITY": "Mumbai"
+    "bank": "HDFC Bank",
+    "branch": "HDFC Bank, Fort, Mumbai",
+    "address": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "contact": "+912222614141"
   },
   "previewConfig": {
-    "title": "SBIN0001234",
-    "subtitle": "State Bank of India",
+    "title": "HDFC0000001",
+    "subtitle": "IFSC bank branch lookup",
     "displayFields": [
-      "BANK",
-      "BRANCH",
-      "CITY",
-      "STATE"
+      "bank",
+      "branch",
+      "address",
+      "city",
+      "state",
+      "contact"
     ]
   }
 }

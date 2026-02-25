@@ -1,0 +1,18 @@
+{
+  "id": "cloudinary",
+  "previewType": "card",
+  "sampleResponse": {
+    "public_id": "products/hero-banner-spring-2026",
+    "format": "webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 245000,
+    "secure_url": "https://res.cloudinary.com/demo/image/upload/c_fill,w_1920,h_1080,q_auto/products/hero-banner-spring-2026.webp",
+    "transformation": "c_fill,w_1920,h_1080,q_auto"
+  },
+  "previewConfig": {
+    "title": "Image Transform Result",
+    "subtitle": "Cloudinary API",
+    "displayFields": ["public_id", "format", "width", "height", "bytes", "transformation"]
+  }
+}

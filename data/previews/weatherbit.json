@@ -2,15 +2,15 @@
   "id": "weatherbit",
   "previewType": "card",
   "sampleResponse": {
-    "description": "Broken clouds",
-    "temperature": "6.4°C (feels like 3.1°C)",
-    "humidity": "78%",
-    "wind_speed": "4.2 m/s W",
-    "aqi": "42 — Good"
+    "city": "Berlin, DE",
+    "temperature": "12.4 °C",
+    "description": "Partly Cloudy",
+    "humidity": "63%",
+    "wind": "18 km/h NW"
   },
   "previewConfig": {
-    "title": "Berlin, Germany",
-    "subtitle": "Broken clouds",
-    "displayFields": ["description", "temperature", "humidity", "wind_speed", "aqi"]
+    "title": "Weather Forecast",
+    "subtitle": "Weatherbit",
+    "displayFields": ["city", "temperature", "description", "humidity", "wind"]
   }
 }

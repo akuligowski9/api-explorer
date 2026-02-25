@@ -3,20 +3,14 @@
   "previewType": "card",
   "sampleResponse": {
     "symbol": "GOOGL",
-    "companyName": "Alphabet Inc.",
-    "latestPrice": 176.42,
-    "change": -1.58,
-    "marketCap": 2178000000000
+    "latestPrice": "176.43",
+    "change": "+2.87",
+    "marketCap": "$2.18T",
+    "peRatio": "27.14"
   },
   "previewConfig": {
-    "title": "IEX Cloud",
-    "subtitle": "Financial data infrastructure for developers",
-    "displayFields": [
-      "symbol",
-      "companyName",
-      "latestPrice",
-      "change",
-      "marketCap"
-    ]
+    "title": "GOOGL Stock Quote",
+    "subtitle": "IEX Cloud",
+    "displayFields": ["symbol", "latestPrice", "change", "marketCap", "peRatio"]
   }
 }

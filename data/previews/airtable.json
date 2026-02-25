@@ -1,0 +1,50 @@
+{
+  "id": "airtable",
+  "previewType": "list",
+  "sampleResponse": {
+    "records": [
+      {
+        "name": "Ergonomic Standing Desk",
+        "category": "Furniture",
+        "stock": 142,
+        "price": "$549.00",
+        "supplier": "ErgoWorks Inc."
+      },
+      {
+        "name": "Wireless Mechanical Keyboard",
+        "category": "Peripherals",
+        "stock": 38,
+        "price": "$179.99",
+        "supplier": "KeyTech Labs"
+      },
+      {
+        "name": "4K Ultra-Wide Monitor 34\"",
+        "category": "Displays",
+        "stock": 7,
+        "price": "$899.00",
+        "supplier": "ViewPro Electronics"
+      },
+      {
+        "name": "USB-C Docking Station",
+        "category": "Accessories",
+        "stock": 215,
+        "price": "$129.99",
+        "supplier": "ConnectAll Co."
+      },
+      {
+        "name": "Noise-Canceling Headphones",
+        "category": "Audio",
+        "stock": 0,
+        "price": "$349.00",
+        "supplier": "SoundSphere"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Product Inventory",
+    "subtitle": "Airtable Records",
+    "itemKey": "name",
+    "secondaryKey": "supplier",
+    "badgeKey": "stock"
+  }
+}

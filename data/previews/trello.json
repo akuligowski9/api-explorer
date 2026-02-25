@@ -1,0 +1,50 @@
+{
+  "id": "trello",
+  "previewType": "list",
+  "sampleResponse": {
+    "cards": [
+      {
+        "name": "Implement OAuth2 flow",
+        "list": "In Progress",
+        "labels": "Backend, Security",
+        "due_date": "2026-02-28",
+        "members": "Jordan, Priya"
+      },
+      {
+        "name": "Redesign onboarding screens",
+        "list": "In Review",
+        "labels": "Design, UX",
+        "due_date": "2026-02-26",
+        "members": "Alex"
+      },
+      {
+        "name": "Write integration tests for payments",
+        "list": "To Do",
+        "labels": "QA, Backend",
+        "due_date": "2026-03-05",
+        "members": "Marcus"
+      },
+      {
+        "name": "Update privacy policy page",
+        "list": "Done",
+        "labels": "Legal, Frontend",
+        "due_date": "2026-02-20",
+        "members": "Sarah, Tomas"
+      },
+      {
+        "name": "Migrate database to PostgreSQL 17",
+        "list": "Blocked",
+        "labels": "Infrastructure",
+        "due_date": "2026-03-10",
+        "members": "Priya"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Board Cards",
+    "subtitle": "Trello API",
+    "itemKey": "name",
+    "secondaryKey": "members",
+    "badgeKey": "list"
+  }
+}

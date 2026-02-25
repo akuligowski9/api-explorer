@@ -2,37 +2,49 @@
   "id": "nager-date",
   "previewType": "list",
   "sampleResponse": {
-    "holidays": [
+    "items": [
       {
-        "date": "2024-01-01",
-        "name": "New Year's Day",
-        "countryCode": "US"
+        "name": "Neujahrstag",
+        "date": "2026-01-01",
+        "countryCode": "DE",
+        "type": "Public",
+        "launchYear": 1967
+      },
+      {
+        "name": "Karfreitag",
+        "date": "2026-04-03",
+        "countryCode": "DE",
+        "type": "Public",
+        "launchYear": 1967
+      },
+      {
+        "name": "Tag der Deutschen Einheit",
+        "date": "2026-10-03",
+        "countryCode": "DE",
+        "type": "Public",
+        "launchYear": 1990
+      },
+      {
+        "name": "Erster Weihnachtstag",
+        "date": "2026-12-25",
+        "countryCode": "DE",
+        "type": "Public",
+        "launchYear": 1967
+      },
+      {
+        "name": "Zweiter Weihnachtstag",
+        "date": "2026-12-26",
+        "countryCode": "DE",
+        "type": "Public",
+        "launchYear": 1967
       }
     ]
   },
   "previewConfig": {
-    "title": "US Public Holidays",
-    "items": [
-      {
-        "name": "New Year's Day",
-        "language": "January 1"
-      },
-      {
-        "name": "Independence Day",
-        "language": "July 4"
-      },
-      {
-        "name": "Thanksgiving Day",
-        "language": "November 28"
-      },
-      {
-        "name": "Christmas Day",
-        "language": "December 25"
-      },
-      {
-        "name": "Labor Day",
-        "language": "September 2"
-      }
-    ]
+    "title": "Upcoming Holidays Germany",
+    "subtitle": "Nager.Date",
+    "itemKey": "name",
+    "secondaryKey": "date",
+    "badgeKey": "type"
   }
 }

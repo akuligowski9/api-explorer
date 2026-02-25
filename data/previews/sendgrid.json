@@ -1,0 +1,17 @@
+{
+  "id": "sendgrid",
+  "previewType": "card",
+  "sampleResponse": {
+    "delivered": 12450,
+    "opens": 8230,
+    "clicks": 2104,
+    "bounces": 34,
+    "spam_reports": 2,
+    "open_rate": "66.1%"
+  },
+  "previewConfig": {
+    "title": "Email Stats Today",
+    "subtitle": "SendGrid Analytics",
+    "displayFields": ["delivered", "opens", "clicks", "bounces", "spam_reports", "open_rate"]
+  }
+}

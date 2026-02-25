@@ -2,20 +2,15 @@
   "id": "sportmonks-football",
   "previewType": "card",
   "sampleResponse": {
-    "id": 18535046,
-    "league": "La Liga",
-    "season": "2025/2026",
-    "localTeam": "FC Barcelona",
-    "visitorTeam": "Real Madrid",
-    "localteam_score": 3,
-    "visitorteam_score": 2,
-    "status": "FT",
-    "date": "2026-02-21T20:00:00Z",
-    "venue": "Spotify Camp Nou"
+    "match": "Arsenal vs Chelsea",
+    "score": "2 - 1",
+    "league": "Premier League",
+    "minute": "78'",
+    "venue": "Emirates Stadium"
   },
   "previewConfig": {
-    "title": "FC Barcelona 3 — 2 Real Madrid",
-    "subtitle": "Sportmonks — La Liga",
-    "displayFields": ["league", "season", "status", "date", "venue"]
+    "title": "Live Match Result",
+    "subtitle": "Sportmonks Football",
+    "displayFields": ["match", "score", "league", "minute", "venue"]
   }
 }

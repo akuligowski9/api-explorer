@@ -1,14 +1,18 @@
 {
   "id": "http-dog",
-  "previewType": "media",
+  "previewType": "card",
   "sampleResponse": {
-    "statusCode": 200,
-    "image": "https://http.dog/200.jpg",
-    "message": "OK"
+    "url": "https://http.dog/418.jpg",
+    "status_code": 418,
+    "description": "I'm a Teapot"
   },
   "previewConfig": {
-    "title": "HTTP 200 - OK",
-    "subtitle": "http.dog",
-    "imageKey": "image"
+    "title": "HTTP 418",
+    "subtitle": "HTTP Dog",
+    "displayFields": [
+      "url",
+      "status_code",
+      "description"
+    ]
   }
 }

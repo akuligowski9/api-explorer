@@ -1,18 +1,16 @@
 {
   "id": "httpbin",
-  "previewType": "code",
+  "previewType": "card",
   "sampleResponse": {
-    "args": {},
-    "headers": {
-      "Accept": "*/*",
-      "Host": "httpbin.org",
-      "User-Agent": "curl/8.1.2"
-    },
     "origin": "203.0.113.42",
-    "url": "https://httpbin.org/get"
+    "method": "GET",
+    "url": "https://httpbin.org/get",
+    "headers_count": 8,
+    "user_agent": "Mozilla/5.0"
   },
   "previewConfig": {
-    "title": "httpbin",
-    "subtitle": "HTTP Request Inspector"
+    "title": "Request Inspection",
+    "subtitle": "HTTP Request & Response Service",
+    "displayFields": ["origin", "method", "url", "headers_count", "user_agent"]
   }
 }

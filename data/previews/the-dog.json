@@ -1,0 +1,16 @@
+{
+  "id": "the-dog",
+  "previewType": "card",
+  "sampleResponse": {
+    "breed": "Golden Retriever",
+    "temperament": "Intelligent, Friendly, Devoted",
+    "lifeSpan": "10 - 12 years",
+    "weight": "55 - 75 lbs",
+    "breedGroup": "Sporting"
+  },
+  "previewConfig": {
+    "title": "Golden Retriever",
+    "subtitle": "The Dog API",
+    "displayFields": ["breed", "temperament", "lifeSpan", "weight", "breedGroup"]
+  }
+}

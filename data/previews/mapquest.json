@@ -1,0 +1,26 @@
+{
+  "id": "mapquest",
+  "previewType": "card",
+  "sampleResponse": {
+    "lat": 40.758,
+    "lng": -73.9855,
+    "street": "Broadway",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "quality": "POINT"
+  },
+  "previewConfig": {
+    "title": "Geocode: Times Square, NYC",
+    "subtitle": "MapQuest Geocoding API",
+    "displayFields": [
+      "lat",
+      "lng",
+      "street",
+      "city",
+      "state",
+      "country",
+      "quality"
+    ]
+  }
+}

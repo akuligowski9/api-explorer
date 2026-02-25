@@ -1,0 +1,16 @@
+{
+  "id": "openuv",
+  "previewType": "card",
+  "sampleResponse": {
+    "uv_index": "7.4",
+    "uv_max": "9.2",
+    "ozone": "296.3 DU",
+    "safe_exposure": "25 min (Skin Type II)",
+    "sun_position": "62.5° altitude"
+  },
+  "previewConfig": {
+    "title": "UV Index Reading",
+    "subtitle": "OpenUV",
+    "displayFields": ["uv_index", "uv_max", "ozone", "safe_exposure", "sun_position"]
+  }
+}

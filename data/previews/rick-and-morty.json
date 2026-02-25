@@ -1,25 +1,50 @@
 {
   "id": "rick-and-morty",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "id": 1,
-    "name": "Rick Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male",
-    "origin": {
-      "name": "Earth (C-137)"
-    },
-    "location": {
-      "name": "Citadel of Ricks"
-    },
-    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
-    "episode_count": 51
+    "items": [
+      {
+        "name": "Rick Sanchez",
+        "species": "Human",
+        "status": "Alive",
+        "origin": "Earth (C-137)",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Morty Smith",
+        "species": "Human",
+        "status": "Alive",
+        "origin": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Birdperson",
+        "species": "Birdperson",
+        "status": "Alive",
+        "origin": "Bird World",
+        "location": "Planet Squanch"
+      },
+      {
+        "name": "Squanchy",
+        "species": "Cat-Person",
+        "status": "Dead",
+        "origin": "Squanch",
+        "location": "Planet Squanch"
+      },
+      {
+        "name": "Summer Smith",
+        "species": "Human",
+        "status": "Alive",
+        "origin": "Earth (Replacement Dimension)",
+        "location": "Earth (Replacement Dimension)"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Rick Sanchez",
-    "subtitle": "Earth (C-137)",
-    "imageKey": "image",
-    "displayFields": ["status", "species", "gender", "episode_count"]
+    "title": "Rick and Morty Characters",
+    "subtitle": "Characters from the multiverse",
+    "itemKey": "name",
+    "secondaryKey": "species",
+    "badgeKey": "status"
   }
 }

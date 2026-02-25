@@ -6,17 +6,13 @@
     "type": "twopart",
     "setup": "Why do programmers prefer dark mode?",
     "delivery": "Because light attracts bugs.",
-    "flags": {
-      "nsfw": false,
-      "religious": false,
-      "political": false
-    },
+    "flags_safe": true,
     "id": 232,
     "lang": "en"
   },
   "previewConfig": {
-    "title": "Random Joke",
-    "subtitle": "Programming",
-    "displayFields": ["category", "type"]
+    "title": "Programming Joke",
+    "subtitle": "Two-part joke",
+    "displayFields": ["category", "type", "setup", "delivery", "flags_safe"]
   }
 }

@@ -3,23 +3,22 @@
   "previewType": "card",
   "sampleResponse": {
     "postcode": "SW1A 1AA",
-    "quality": 1,
-    "country": "England",
-    "region": "London",
-    "admin_district": "City of Westminster",
+    "admin_district": "Westminster",
     "parish": "Westminster, St James's",
     "longitude": -0.141588,
-    "latitude": 51.501009
+    "latitude": 51.501009,
+    "region": "London"
   },
   "previewConfig": {
     "title": "SW1A 1AA",
-    "subtitle": "UK Postcodes",
+    "subtitle": "UK Postcode Lookup",
     "displayFields": [
-      "country",
-      "region",
+      "postcode",
       "admin_district",
+      "parish",
+      "longitude",
       "latitude",
-      "longitude"
+      "region"
     ]
   }
 }

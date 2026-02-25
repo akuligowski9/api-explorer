@@ -2,21 +2,15 @@
   "id": "libretranslate",
   "previewType": "card",
   "sampleResponse": {
-    "translatedText": "Bonjour le monde",
-    "detectedLanguage": {
-      "language": "en",
-      "confidence": 98.5
-    },
-    "source": "en",
-    "target": "fr"
+    "source_lang": "en",
+    "target_lang": "es",
+    "input": "Hello, how are you?",
+    "translated": "Hola, \u00bfc\u00f3mo est\u00e1s?",
+    "confidence": 0.97
   },
   "previewConfig": {
-    "title": "LibreTranslate",
-    "subtitle": "EN → FR",
-    "displayFields": [
-      "translatedText",
-      "source",
-      "target"
-    ]
+    "title": "Translation",
+    "subtitle": "EN \u2192 ES",
+    "displayFields": ["source_lang", "target_lang", "input", "translated", "confidence"]
   }
 }

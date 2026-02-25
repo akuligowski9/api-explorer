@@ -2,22 +2,23 @@
   "id": "veriphone",
   "previewType": "card",
   "sampleResponse": {
-    "number": "+44 20 7946 0958",
-    "country": "United Kingdom",
-    "region": "London",
-    "carrier": "BT Group",
-    "line_type": "Landline",
-    "valid": true
+    "phone_valid": true,
+    "phone_type": "mobile",
+    "carrier": "T-Mobile",
+    "country": "United States",
+    "country_code": "US",
+    "international_format": "+1 415-555-2671"
   },
   "previewConfig": {
-    "title": "Veriphone",
-    "subtitle": "Phone number validation & carrier lookup",
+    "title": "Phone Verify +14155552671",
+    "subtitle": "Veriphone phone number validation",
     "displayFields": [
-      "number",
-      "country",
-      "region",
+      "phone_valid",
+      "phone_type",
       "carrier",
-      "line_type"
+      "country",
+      "country_code",
+      "international_format"
     ]
   }
 }

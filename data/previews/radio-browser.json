@@ -2,43 +2,19 @@
   "id": "radio-browser",
   "previewType": "list",
   "sampleResponse": {
-    "stations": [
-      {
-        "name": "BBC Radio 1",
-        "country": "United Kingdom",
-        "codec": "MP3",
-        "votes": 12453
-      }
+    "items": [
+      { "title": "KEXP 90.3 FM", "secondary": "Seattle, WA - Indie / Alternative", "badge": 48210 },
+      { "title": "BBC Radio 1", "secondary": "London, UK - Pop / Electronic", "badge": 41837 },
+      { "title": "NTS Radio", "secondary": "London, UK - Eclectic / Underground", "badge": 29564 },
+      { "title": "WFMU 91.1 FM", "secondary": "Jersey City, NJ - Freeform", "badge": 22091 },
+      { "title": "Triple J", "secondary": "Sydney, AU - Alternative / Youth", "badge": 18743 }
     ]
   },
   "previewConfig": {
-    "title": "Internet Radio",
-    "items": [
-      {
-        "name": "BBC Radio 1",
-        "region": "United Kingdom",
-        "stars": 12453
-      },
-      {
-        "name": "NPR",
-        "region": "United States",
-        "stars": 9876
-      },
-      {
-        "name": "NRJ",
-        "region": "France",
-        "stars": 8234
-      },
-      {
-        "name": "Radio Paradise",
-        "region": "United States",
-        "stars": 7654
-      },
-      {
-        "name": "FIP",
-        "region": "France",
-        "stars": 6543
-      }
-    ]
+    "title": "Radio Browser",
+    "subtitle": "Top stations by votes",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

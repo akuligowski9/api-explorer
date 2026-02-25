@@ -3,17 +3,14 @@
   "previewType": "card",
   "sampleResponse": {
     "name": "nginx",
-    "namespace": "library",
-    "description": "Official build of Nginx",
-    "star_count": 19800,
-    "pull_count": 4825000000,
-    "is_official": true,
-    "is_automated": false,
-    "last_updated": "2026-02-20T14:22:00Z"
+    "publisher": "Docker Official Images",
+    "pulls": "1.2B+",
+    "stars": 19842,
+    "lastUpdated": "2026-02-18"
   },
   "previewConfig": {
     "title": "nginx",
-    "subtitle": "Docker Hub — Official Image",
-    "displayFields": ["description", "star_count", "pull_count", "is_official", "last_updated"]
+    "subtitle": "Docker Hub",
+    "displayFields": ["name", "publisher", "pulls", "stars", "lastUpdated"]
   }
 }

@@ -1,0 +1,50 @@
+{
+  "id": "notion",
+  "previewType": "list",
+  "sampleResponse": {
+    "results": [
+      {
+        "title": "Q1 2026 Product Roadmap",
+        "type": "database",
+        "last_edited": "2026-02-25T10:44:00Z",
+        "created_by": "Sarah Chen",
+        "parent": "Engineering"
+      },
+      {
+        "title": "Meeting Notes: Design Review",
+        "type": "page",
+        "last_edited": "2026-02-24T16:30:00Z",
+        "created_by": "Alex Rivera",
+        "parent": "Design Team"
+      },
+      {
+        "title": "API Integration Specs",
+        "type": "page",
+        "last_edited": "2026-02-24T09:15:00Z",
+        "created_by": "Jordan Park",
+        "parent": "Engineering"
+      },
+      {
+        "title": "Content Calendar",
+        "type": "database",
+        "last_edited": "2026-02-23T14:22:00Z",
+        "created_by": "Maya Johnson",
+        "parent": "Marketing"
+      },
+      {
+        "title": "Bug Tracker - Sprint 14",
+        "type": "database",
+        "last_edited": "2026-02-23T08:05:00Z",
+        "created_by": "Sarah Chen",
+        "parent": "Engineering"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Workspace Search",
+    "subtitle": "Notion API",
+    "itemKey": "title",
+    "secondaryKey": "parent",
+    "badgeKey": "type"
+  }
+}

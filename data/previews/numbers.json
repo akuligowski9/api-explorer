@@ -4,12 +4,12 @@
   "sampleResponse": {
     "text": "42 is the answer to the Ultimate Question of Life, the Universe, and Everything.",
     "number": 42,
-    "found": true,
-    "type": "trivia"
+    "type": "trivia",
+    "found": true
   },
   "previewConfig": {
     "title": "Number Trivia",
-    "subtitle": "42",
-    "displayFields": ["number", "type", "text"]
+    "subtitle": "Math trivia for 42",
+    "displayFields": ["text", "number", "type", "found"]
   }
 }

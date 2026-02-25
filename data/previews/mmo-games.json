@@ -2,36 +2,19 @@
   "id": "mmo-games",
   "previewType": "list",
   "sampleResponse": {
-    "games": [
-      {
-        "title": "World of Warcraft",
-        "genre": "MMORPG"
-      }
+    "items": [
+      { "title": "Guild Wars 2", "secondary": "MMORPG", "badge": 2012 },
+      { "title": "Lost Ark", "secondary": "Action RPG", "badge": 2022 },
+      { "title": "Star Wars: The Old Republic", "secondary": "MMORPG", "badge": 2011 },
+      { "title": "Path of Exile", "secondary": "Action RPG", "badge": 2013 },
+      { "title": "Albion Online", "secondary": "Sandbox MMO", "badge": 2017 }
     ]
   },
   "previewConfig": {
     "title": "MMO Games",
-    "items": [
-      {
-        "name": "World of Warcraft",
-        "region": "MMORPG"
-      },
-      {
-        "name": "Final Fantasy XIV",
-        "region": "MMORPG"
-      },
-      {
-        "name": "Guild Wars 2",
-        "region": "MMORPG"
-      },
-      {
-        "name": "EVE Online",
-        "region": "Sci-Fi MMO"
-      },
-      {
-        "name": "Path of Exile",
-        "region": "Action RPG"
-      }
-    ]
+    "subtitle": "Top free-to-play MMO games by release year",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

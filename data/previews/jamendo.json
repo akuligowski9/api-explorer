@@ -1,0 +1,16 @@
+{
+  "id": "jamendo",
+  "previewType": "card",
+  "sampleResponse": {
+    "trackName": "Sunset Drive",
+    "artistName": "Broke for Free",
+    "duration": "3:42",
+    "license": "CC BY 3.0",
+    "downloads": "248,310"
+  },
+  "previewConfig": {
+    "title": "Sunset Drive",
+    "subtitle": "Jamendo",
+    "displayFields": ["trackName", "artistName", "duration", "license", "downloads"]
+  }
+}

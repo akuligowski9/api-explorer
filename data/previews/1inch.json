@@ -1,0 +1,24 @@
+{
+  "id": "1inch",
+  "previewType": "card",
+  "sampleResponse": {
+    "fromToken": "USDC",
+    "toToken": "ETH",
+    "fromAmount": "5000",
+    "toAmount": "1.67",
+    "estimatedGas": 245000,
+    "protocols": ["Uniswap V3", "Curve"]
+  },
+  "previewConfig": {
+    "title": "Swap Quote",
+    "subtitle": "1inch",
+    "displayFields": [
+      "fromToken",
+      "toToken",
+      "fromAmount",
+      "toAmount",
+      "estimatedGas",
+      "protocols"
+    ]
+  }
+}

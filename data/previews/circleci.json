@@ -2,19 +2,15 @@
   "id": "circleci",
   "previewType": "card",
   "sampleResponse": {
-    "id": "a1b2c3d4-5678-90ef-ghij-klmnopqrstuv",
-    "project_slug": "gh/acme-corp/web-app",
+    "pipeline": "acme-corp/web-app",
     "status": "success",
-    "pipeline_number": 842,
-    "duration": 237,
+    "duration": "3m 57s",
     "branch": "main",
-    "trigger_type": "webhook",
-    "created_at": "2026-02-25T07:12:00Z",
-    "stopped_at": "2026-02-25T07:15:57Z"
+    "triggeredBy": "webhook"
   },
   "previewConfig": {
     "title": "Pipeline #842",
-    "subtitle": "acme-corp/web-app",
-    "displayFields": ["status", "branch", "duration", "trigger_type", "created_at"]
+    "subtitle": "CircleCI",
+    "displayFields": ["pipeline", "status", "duration", "branch", "triggeredBy"]
   }
 }

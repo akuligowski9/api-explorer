@@ -2,22 +2,23 @@
   "id": "gofile",
   "previewType": "card",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "downloadPage": "https://gofile.io/d/abc123",
+    "fileId": "4991e6d7-5217-46ae-af3d-c5a920c950f9",
+    "fileName": "backup-2026.zip",
+    "fileSize": 52428800,
+    "md5": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "server": "store4"
   },
   "previewConfig": {
     "title": "GoFile",
-    "subtitle": "Unlimited size file uploads for free",
+    "subtitle": "Upload result",
     "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
+      "downloadPage",
+      "fileId",
+      "fileName",
+      "fileSize",
+      "md5",
+      "server"
     ]
   }
 }

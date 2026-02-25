@@ -2,24 +2,15 @@
   "id": "nhl-records-and-stats",
   "previewType": "card",
   "sampleResponse": {
-    "fullName": "Connor McDavid",
     "team": "Edmonton Oilers",
-    "position": "Center",
-    "jerseyNumber": 97,
-    "nationality": "CAN",
-    "birthDate": "1997-01-13",
-    "height": "6'1\"",
-    "weight": 194,
-    "points": 982
+    "season": "2024-25",
+    "wins": 52,
+    "losses": 23,
+    "points": 111
   },
   "previewConfig": {
-    "title": "Connor McDavid",
-    "subtitle": "Edmonton Oilers #97",
-    "displayFields": [
-      "position",
-      "nationality",
-      "points",
-      "height"
-    ]
+    "title": "Team Season Stats",
+    "subtitle": "NHL Records & Stats",
+    "displayFields": ["team", "season", "wins", "losses", "points"]
   }
 }

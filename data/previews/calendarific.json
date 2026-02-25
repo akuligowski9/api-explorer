@@ -1,23 +1,20 @@
 {
   "id": "calendarific",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "country": "United States",
-    "upcoming_holiday": "Memorial Day",
-    "date": "May 26, 2025",
-    "type": "Federal Holiday",
-    "days_away": 90,
-    "observed": true
+    "items": [
+      { "title": "Memorial Day", "secondary": "May 25, 2026", "badge": "Federal" },
+      { "title": "Independence Day", "secondary": "July 4, 2026", "badge": "Federal" },
+      { "title": "Labor Day", "secondary": "September 7, 2026", "badge": "Federal" },
+      { "title": "Thanksgiving", "secondary": "November 26, 2026", "badge": "Federal" },
+      { "title": "Christmas Day", "secondary": "December 25, 2026", "badge": "Federal" }
+    ]
   },
   "previewConfig": {
     "title": "Calendarific",
-    "subtitle": "Worldwide Holidays",
-    "displayFields": [
-      "country",
-      "upcoming_holiday",
-      "date",
-      "type",
-      "days_away"
-    ]
+    "subtitle": "Upcoming US Holidays",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
   }
 }

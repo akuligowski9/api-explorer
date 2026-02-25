@@ -1,23 +1,50 @@
 {
   "id": "google-calendar",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "country": "United States",
-    "upcoming_holiday": "Memorial Day",
-    "date": "May 26, 2025",
-    "type": "Federal Holiday",
-    "days_away": 90,
-    "observed": true
+    "items": [
+      {
+        "summary": "Daily Standup",
+        "start": "2026-02-25T09:00:00Z",
+        "end": "2026-02-25T09:15:00Z",
+        "location": "Zoom",
+        "attendees_count": 8
+      },
+      {
+        "summary": "Design Review: Homepage Redesign",
+        "start": "2026-02-25T11:00:00Z",
+        "end": "2026-02-25T12:00:00Z",
+        "location": "Conference Room B",
+        "attendees_count": 5
+      },
+      {
+        "summary": "Lunch with Investors",
+        "start": "2026-02-25T12:30:00Z",
+        "end": "2026-02-25T13:30:00Z",
+        "location": "The Capital Grille",
+        "attendees_count": 3
+      },
+      {
+        "summary": "Sprint Planning",
+        "start": "2026-02-25T14:00:00Z",
+        "end": "2026-02-25T15:30:00Z",
+        "location": "Google Meet",
+        "attendees_count": 12
+      },
+      {
+        "summary": "1:1 with Manager",
+        "start": "2026-02-25T16:00:00Z",
+        "end": "2026-02-25T16:30:00Z",
+        "location": "Office 401",
+        "attendees_count": 2
+      }
+    ]
   },
   "previewConfig": {
     "title": "Google Calendar",
-    "subtitle": "Display, create and modify Google calendar events",
-    "displayFields": [
-      "country",
-      "upcoming_holiday",
-      "date",
-      "type",
-      "days_away"
-    ]
+    "subtitle": "Today's events",
+    "itemKey": "summary",
+    "secondaryKey": "location",
+    "badgeKey": "attendees_count"
   }
 }

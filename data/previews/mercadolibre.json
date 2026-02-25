@@ -1,0 +1,16 @@
+{
+  "id": "mercadolibre",
+  "previewType": "card",
+  "sampleResponse": {
+    "product": "Samsung Galaxy S24 Ultra 256GB",
+    "price": "ARS 1,249,999",
+    "condition": "New",
+    "seller_rating": "4.9 / 5 (12,340 sales)",
+    "shipping": "Free shipping"
+  },
+  "previewConfig": {
+    "title": "Product Listing",
+    "subtitle": "MercadoLibre",
+    "displayFields": ["product", "price", "condition", "seller_rating", "shipping"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "open-movie-database",
+  "previewType": "card",
+  "sampleResponse": {
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Rated": "R",
+    "Runtime": "142 min",
+    "imdbRating": "9.3"
+  },
+  "previewConfig": {
+    "title": "The Shawshank Redemption",
+    "subtitle": "OMDb API",
+    "displayFields": ["Title", "Year", "Rated", "Runtime", "imdbRating"]
+  }
+}

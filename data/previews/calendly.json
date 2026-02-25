@@ -1,0 +1,50 @@
+{
+  "id": "calendly",
+  "previewType": "list",
+  "sampleResponse": {
+    "events": [
+      {
+        "name": "Product Demo - Acme Corp",
+        "event_type": "30 Minute Meeting",
+        "start_time": "2026-02-26T10:00:00Z",
+        "invitee_email": "lisa.wong@acmecorp.com",
+        "status": "active"
+      },
+      {
+        "name": "Engineering Sync",
+        "event_type": "15 Minute Meeting",
+        "start_time": "2026-02-26T14:30:00Z",
+        "invitee_email": "jordan.p@internalteam.io",
+        "status": "active"
+      },
+      {
+        "name": "Investor Update Call",
+        "event_type": "60 Minute Meeting",
+        "start_time": "2026-02-27T09:00:00Z",
+        "invitee_email": "npatil@sequoia.com",
+        "status": "active"
+      },
+      {
+        "name": "User Research Interview",
+        "event_type": "45 Minute Meeting",
+        "start_time": "2026-02-27T16:00:00Z",
+        "invitee_email": "marcus.bell@gmail.com",
+        "status": "active"
+      },
+      {
+        "name": "Onboarding: New Hire - DevOps",
+        "event_type": "30 Minute Meeting",
+        "start_time": "2026-02-28T11:00:00Z",
+        "invitee_email": "t.nguyen@company.co",
+        "status": "canceled"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Upcoming Events",
+    "subtitle": "Calendly API",
+    "itemKey": "name",
+    "secondaryKey": "invitee_email",
+    "badgeKey": "status"
+  }
+}

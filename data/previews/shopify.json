@@ -1,0 +1,50 @@
+{
+  "id": "shopify",
+  "previewType": "list",
+  "sampleResponse": {
+    "products": [
+      {
+        "title": "Merino Wool Crew Sweater",
+        "vendor": "Nordic Basics",
+        "price": "$89.00",
+        "inventory_quantity": 234,
+        "status": "active"
+      },
+      {
+        "title": "Ceramic Pour-Over Coffee Set",
+        "vendor": "Atelier Brew",
+        "price": "$62.00",
+        "inventory_quantity": 18,
+        "status": "active"
+      },
+      {
+        "title": "Recycled Canvas Tote Bag",
+        "vendor": "EcoThread",
+        "price": "$34.00",
+        "inventory_quantity": 507,
+        "status": "active"
+      },
+      {
+        "title": "Hand-Poured Soy Candle - Cedar & Sage",
+        "vendor": "Wildwick Studio",
+        "price": "$28.00",
+        "inventory_quantity": 0,
+        "status": "draft"
+      },
+      {
+        "title": "Titanium Insulated Water Bottle",
+        "vendor": "PeakGear",
+        "price": "$45.00",
+        "inventory_quantity": 92,
+        "status": "active"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Store Products",
+    "subtitle": "Shopify Admin API",
+    "itemKey": "title",
+    "secondaryKey": "vendor",
+    "badgeKey": "status"
+  }
+}

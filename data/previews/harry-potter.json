@@ -1,32 +1,50 @@
 {
   "id": "harry-potter",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "name": "Harry Potter",
-    "alternate_names": [
-      "The Boy Who Lived",
-      "The Chosen One"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "Gryffindor",
-    "dateOfBirth": "31-07-1980",
-    "yearOfBirth": 1980,
-    "wizard": true,
-    "ancestry": "half-blood",
-    "patronus": "stag",
-    "hogwartsStudent": true,
-    "actor": "Daniel Radcliffe",
-    "alive": true
+    "items": [
+      {
+        "name": "Harry Potter",
+        "house": "Gryffindor",
+        "species": "human",
+        "ancestry": "half-blood",
+        "patronus": "stag"
+      },
+      {
+        "name": "Hermione Granger",
+        "house": "Gryffindor",
+        "species": "human",
+        "ancestry": "muggle-born",
+        "patronus": "otter"
+      },
+      {
+        "name": "Albus Dumbledore",
+        "house": "Gryffindor",
+        "species": "human",
+        "ancestry": "half-blood",
+        "patronus": "phoenix"
+      },
+      {
+        "name": "Severus Snape",
+        "house": "Slytherin",
+        "species": "human",
+        "ancestry": "half-blood",
+        "patronus": "doe"
+      },
+      {
+        "name": "Luna Lovegood",
+        "house": "Ravenclaw",
+        "species": "human",
+        "ancestry": "pure-blood",
+        "patronus": "hare"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Harry Potter",
-    "subtitle": "Gryffindor",
-    "displayFields": [
-      "house",
-      "ancestry",
-      "patronus",
-      "actor"
-    ]
+    "title": "Harry Potter Characters",
+    "subtitle": "Wizarding World",
+    "itemKey": "name",
+    "secondaryKey": "house",
+    "badgeKey": "patronus"
   }
 }

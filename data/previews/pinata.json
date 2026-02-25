@@ -2,22 +2,23 @@
   "id": "pinata",
   "previewType": "card",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "ipfs_hash": "QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco",
+    "pin_size_bytes": 1048576,
+    "date_pinned": "2026-02-20T14:22:00Z",
+    "status": "pinned",
+    "regions": ["NYC1", "FRA1"],
+    "name": "project-assets"
   },
   "previewConfig": {
     "title": "Pinata",
-    "subtitle": "IPFS Pinning Services API",
+    "subtitle": "IPFS pinned content",
     "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
+      "ipfs_hash",
+      "pin_size_bytes",
+      "date_pinned",
+      "status",
+      "regions",
+      "name"
     ]
   }
 }

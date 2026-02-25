@@ -2,25 +2,15 @@
   "id": "fantasy-premier-league",
   "previewType": "card",
   "sampleResponse": {
-    "id": 318,
-    "first_name": "Erling",
-    "second_name": "Haaland",
-    "team": "Manchester City",
-    "position": "Forward",
-    "total_points": 272,
-    "goals_scored": 36,
-    "assists": 8,
-    "minutes": 3159,
-    "now_cost": 140
+    "player": "Erling Haaland",
+    "club": "Manchester City",
+    "totalPoints": 275,
+    "goals": 27,
+    "ownership": "78.3%"
   },
   "previewConfig": {
-    "title": "Erling Haaland",
-    "subtitle": "Manchester City",
-    "displayFields": [
-      "position",
-      "total_points",
-      "goals_scored",
-      "assists"
-    ]
+    "title": "Top FPL Player",
+    "subtitle": "Fantasy Premier League",
+    "displayFields": ["player", "club", "totalPoints", "goals", "ownership"]
   }
 }

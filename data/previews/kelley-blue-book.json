@@ -2,24 +2,15 @@
   "id": "kelley-blue-book",
   "previewType": "card",
   "sampleResponse": {
-    "vin": "1HGBH41JXMN109186",
-    "make": "Honda",
-    "model": "Civic",
-    "year": 2022,
-    "engine": "1.5L Turbo 4-cyl",
-    "fuel_type": "Gasoline",
-    "transmission": "CVT"
+    "vehicle": "2024 Toyota Camry SE",
+    "fairPurchasePrice": "$28,945",
+    "tradeInValue": "$25,120",
+    "mileage": "12,500 mi",
+    "condition": "Very Good"
   },
   "previewConfig": {
-    "title": "Kelley Blue Book",
-    "subtitle": "Vehicle info, pricing, configuration, plus much more",
-    "displayFields": [
-      "vin",
-      "make",
-      "model",
-      "year",
-      "engine",
-      "fuel_type"
-    ]
+    "title": "2024 Toyota Camry SE",
+    "subtitle": "Kelley Blue Book",
+    "displayFields": ["vehicle", "fairPurchasePrice", "tradeInValue", "mileage", "condition"]
   }
 }

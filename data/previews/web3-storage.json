@@ -2,22 +2,23 @@
   "id": "web3-storage",
   "previewType": "card",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "cid": "bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi",
+    "dagSize": 1048576,
+    "created": "2026-02-20T10:30:00Z",
+    "pins_count": 3,
+    "deals_count": 2,
+    "name": "nft-metadata.json"
   },
   "previewConfig": {
-    "title": "Web3 Storage",
-    "subtitle": "File Sharing and Storage for Free with 1TB Space",
+    "title": "Web3.Storage",
+    "subtitle": "Uploaded content on IPFS + Filecoin",
     "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
+      "cid",
+      "dagSize",
+      "created",
+      "pins_count",
+      "deals_count",
+      "name"
     ]
   }
 }

@@ -1,23 +1,50 @@
 {
   "id": "abstract-public-holidays",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "country": "United States",
-    "upcoming_holiday": "Memorial Day",
-    "date": "May 26, 2025",
-    "type": "Federal Holiday",
-    "days_away": 90,
-    "observed": true
+    "items": [
+      {
+        "name": "New Year's Day",
+        "date": "2026-01-01",
+        "country_code": "US",
+        "type": "National",
+        "description": "First day of the year"
+      },
+      {
+        "name": "Independence Day",
+        "date": "2026-07-04",
+        "country_code": "US",
+        "type": "National",
+        "description": "Celebrates the Declaration of Independence"
+      },
+      {
+        "name": "Thanksgiving Day",
+        "date": "2026-11-26",
+        "country_code": "US",
+        "type": "National",
+        "description": "Day of giving thanks for the harvest"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "2026-12-25",
+        "country_code": "US",
+        "type": "National",
+        "description": "Celebration of the birth of Jesus Christ"
+      },
+      {
+        "name": "Memorial Day",
+        "date": "2026-05-25",
+        "country_code": "US",
+        "type": "National",
+        "description": "Honors military personnel who have died in service"
+      }
+    ]
   },
   "previewConfig": {
-    "title": "Abstract Public Holidays",
-    "subtitle": "Data on national, regional, and religious holidays via API",
-    "displayFields": [
-      "country",
-      "upcoming_holiday",
-      "date",
-      "type",
-      "days_away"
-    ]
+    "title": "US Holidays 2026",
+    "subtitle": "Abstract Public Holidays",
+    "itemKey": "name",
+    "secondaryKey": "date",
+    "badgeKey": "type"
   }
 }

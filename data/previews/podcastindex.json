@@ -1,0 +1,20 @@
+{
+  "id": "podcastindex",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "The Joe Rogan Experience", "secondary": "Comedy / Society", "badge": 14200000 },
+      { "title": "Crime Junkie", "secondary": "True Crime", "badge": 8900000 },
+      { "title": "Huberman Lab", "secondary": "Science / Health", "badge": 7600000 },
+      { "title": "Dateline NBC", "secondary": "True Crime / News", "badge": 6100000 },
+      { "title": "SmartLess", "secondary": "Comedy / Interview", "badge": 5300000 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Podcast Index",
+    "subtitle": "Top podcasts by monthly listeners",
+    "itemKey": "title",
+    "secondaryKey": "secondary",
+    "badgeKey": "badge"
+  }
+}

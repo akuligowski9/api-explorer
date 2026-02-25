@@ -1,51 +1,19 @@
 {
   "id": "restcountries",
-  "previewType": "list",
-  "sampleResponse": [
-    {
-      "name": { "common": "Peru" },
-      "capital": ["Lima"],
-      "population": 32971846,
-      "flags": { "svg": "https://flagcdn.com/pe.svg" },
-      "region": "Americas"
-    },
-    {
-      "name": { "common": "Japan" },
-      "capital": ["Tokyo"],
-      "population": 125836021,
-      "flags": { "svg": "https://flagcdn.com/jp.svg" },
-      "region": "Asia"
-    },
-    {
-      "name": { "common": "Brazil" },
-      "capital": ["Brasília"],
-      "population": 212559409,
-      "flags": { "svg": "https://flagcdn.com/br.svg" },
-      "region": "Americas"
-    },
-    {
-      "name": { "common": "Germany" },
-      "capital": ["Berlin"],
-      "population": 83240525,
-      "flags": { "svg": "https://flagcdn.com/de.svg" },
-      "region": "Europe"
-    },
-    {
-      "name": { "common": "Australia" },
-      "capital": ["Canberra"],
-      "population": 25687041,
-      "flags": { "svg": "https://flagcdn.com/au.svg" },
-      "region": "Oceania"
-    }
-  ],
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "area_km2": 377975,
+    "region": "Asia",
+    "languages": ["Japanese"],
+    "currency": "JPY",
+    "flag_emoji": "🇯🇵"
+  },
   "previewConfig": {
-    "title": "World Countries",
-    "items": [
-      { "name": "Peru", "capital": "Lima", "population": 32971846, "flag": "https://flagcdn.com/pe.svg" },
-      { "name": "Japan", "capital": "Tokyo", "population": 125836021, "flag": "https://flagcdn.com/jp.svg" },
-      { "name": "Brazil", "capital": "Brasília", "population": 212559409, "flag": "https://flagcdn.com/br.svg" },
-      { "name": "Germany", "capital": "Berlin", "population": 83240525, "flag": "https://flagcdn.com/de.svg" },
-      { "name": "Australia", "capital": "Canberra", "population": 25687041, "flag": "https://flagcdn.com/au.svg" }
-    ]
+    "title": "Country Lookup",
+    "subtitle": "Japan",
+    "displayFields": ["name", "capital", "population", "area_km2", "region", "languages", "currency", "flag_emoji"]
   }
 }

@@ -4,31 +4,47 @@
   "sampleResponse": {
     "items": [
       {
-        "title": "Global AI regulation talks resume in Geneva",
-        "source": "Reuters"
+        "title": "Global Leaders Convene for Climate Summit in Paris",
+        "section": "World",
+        "byline": "By Lisa Friedman and Brad Plumer",
+        "published_date": "2026-02-24",
+        "abstract": "Delegates from over 190 countries gathered to negotiate binding emissions targets ahead of the 2030 deadline."
       },
       {
-        "title": "SpaceX Starship completes third successful orbital test",
-        "source": "AP"
+        "title": "Federal Reserve Signals Pause on Interest Rate Cuts",
+        "section": "Business",
+        "byline": "By Jeanna Smialek",
+        "published_date": "2026-02-23",
+        "abstract": "The central bank indicated it would hold rates steady as inflation remains above its 2% target."
       },
       {
-        "title": "EU announces new climate policy framework for 2030",
-        "source": "BBC"
+        "title": "SpaceX Successfully Launches Crew to Lunar Gateway Station",
+        "section": "Science",
+        "byline": "By Kenneth Chang",
+        "published_date": "2026-02-23",
+        "abstract": "Four astronauts began their journey to the orbiting lunar outpost, marking a milestone in the Artemis program."
       },
       {
-        "title": "Tech stocks rally on strong earnings reports",
-        "source": "Bloomberg"
+        "title": "New York City Unveils Ambitious Plan to Redesign Fifth Avenue",
+        "section": "New York",
+        "byline": "By Emma G. Fitzsimmons",
+        "published_date": "2026-02-22",
+        "abstract": "The proposal would widen sidewalks and add protected bike lanes along the iconic Midtown corridor."
       },
       {
-        "title": "Scientists discover new deep-sea species off Pacific coast",
-        "source": "Nature"
+        "title": "Supreme Court to Hear Challenge to Social Media Age Verification Laws",
+        "section": "U.S.",
+        "byline": "By Adam Liptak",
+        "published_date": "2026-02-22",
+        "abstract": "The case could set precedent for how states regulate minors' access to online platforms."
       }
     ]
   },
   "previewConfig": {
-    "title": "New York Times",
+    "title": "Top Stories",
     "subtitle": "The New York Times Developer Network",
     "itemKey": "title",
-    "secondaryKey": "source"
+    "secondaryKey": "section",
+    "badgeKey": "published_date"
   }
 }

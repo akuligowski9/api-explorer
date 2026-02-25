@@ -1,23 +1,50 @@
 {
   "id": "reqres",
-  "previewType": "code",
+  "previewType": "list",
   "sampleResponse": {
-    "page": 1,
-    "per_page": 6,
-    "total": 12,
-    "total_pages": 2,
-    "data": [
+    "items": [
       {
         "id": 1,
-        "email": "george.bluth@reqres.in",
         "first_name": "George",
         "last_name": "Bluth",
-        "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        "email": "george.bluth@reqres.in",
+        "avatar_url": "https://reqres.in/img/faces/1-image.jpg"
+      },
+      {
+        "id": 2,
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "email": "janet.weaver@reqres.in",
+        "avatar_url": "https://reqres.in/img/faces/2-image.jpg"
+      },
+      {
+        "id": 3,
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "email": "emma.wong@reqres.in",
+        "avatar_url": "https://reqres.in/img/faces/3-image.jpg"
+      },
+      {
+        "id": 4,
+        "first_name": "Eve",
+        "last_name": "Holt",
+        "email": "eve.holt@reqres.in",
+        "avatar_url": "https://reqres.in/img/faces/4-image.jpg"
+      },
+      {
+        "id": 5,
+        "first_name": "Charles",
+        "last_name": "Morris",
+        "email": "charles.morris@reqres.in",
+        "avatar_url": "https://reqres.in/img/faces/5-image.jpg"
       }
     ]
   },
   "previewConfig": {
-    "title": "ReqRes",
-    "subtitle": "Fake REST API"
+    "title": "Users Page 1",
+    "subtitle": "Fake REST API for testing",
+    "itemKey": "first_name",
+    "secondaryKey": "email",
+    "badgeKey": "id"
   }
 }

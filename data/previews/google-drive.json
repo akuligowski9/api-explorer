@@ -1,23 +1,50 @@
 {
   "id": "google-drive",
-  "previewType": "card",
+  "previewType": "list",
   "sampleResponse": {
-    "filename": "project-final-v3.zip",
-    "size": "48.2 MB",
-    "uploaded": "Feb 24, 2026",
-    "downloads": 127,
-    "expires": "March 24, 2026",
-    "shared_with": 4
+    "items": [
+      {
+        "name": "Q4 Revenue Report.xlsx",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size_bytes": 2458624,
+        "modifiedTime": "2026-02-24T17:45:00Z",
+        "shared": true
+      },
+      {
+        "name": "Product Roadmap 2026.docx",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size_bytes": 1048576,
+        "modifiedTime": "2026-02-23T11:20:00Z",
+        "shared": true
+      },
+      {
+        "name": "Design Mockups",
+        "mimeType": "application/vnd.google-apps.folder",
+        "size_bytes": 0,
+        "modifiedTime": "2026-02-22T09:10:00Z",
+        "shared": false
+      },
+      {
+        "name": "team-photo.png",
+        "mimeType": "image/png",
+        "size_bytes": 5242880,
+        "modifiedTime": "2026-02-21T14:30:00Z",
+        "shared": false
+      },
+      {
+        "name": "Meeting Notes - Feb 20.pdf",
+        "mimeType": "application/pdf",
+        "size_bytes": 358400,
+        "modifiedTime": "2026-02-20T16:00:00Z",
+        "shared": true
+      }
+    ]
   },
   "previewConfig": {
     "title": "Google Drive",
-    "subtitle": "File Sharing and Storage",
-    "displayFields": [
-      "filename",
-      "size",
-      "uploaded",
-      "downloads",
-      "expires"
-    ]
+    "subtitle": "Recent files",
+    "itemKey": "name",
+    "secondaryKey": "mimeType",
+    "badgeKey": "shared"
   }
 }

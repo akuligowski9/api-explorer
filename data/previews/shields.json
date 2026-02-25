@@ -1,16 +1,24 @@
 {
   "id": "shields",
-  "previewType": "media",
+  "previewType": "card",
   "sampleResponse": {
-    "url": "https://img.shields.io/badge/build-passing-brightgreen",
     "label": "build",
     "message": "passing",
     "color": "brightgreen",
-    "format": "svg"
+    "schemaVersion": 1,
+    "style": "flat",
+    "downloads": 2450000
   },
   "previewConfig": {
-    "title": "Build Badge",
-    "subtitle": "shields.io",
-    "imageKey": "url"
+    "title": "Shields.io",
+    "subtitle": "Badge endpoint response",
+    "displayFields": [
+      "label",
+      "message",
+      "color",
+      "schemaVersion",
+      "style",
+      "downloads"
+    ]
   }
 }

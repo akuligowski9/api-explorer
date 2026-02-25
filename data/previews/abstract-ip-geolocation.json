@@ -1,0 +1,26 @@
+{
+  "id": "abstract-ip-geolocation",
+  "previewType": "card",
+  "sampleResponse": {
+    "ip_address": "8.8.8.8",
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "longitude": -122.0838,
+    "latitude": 37.386
+  },
+  "previewConfig": {
+    "title": "IP Geolocation: 8.8.8.8",
+    "subtitle": "Abstract IP Geolocation API",
+    "displayFields": [
+      "ip_address",
+      "city",
+      "region",
+      "country",
+      "continent",
+      "longitude",
+      "latitude"
+    ]
+  }
+}

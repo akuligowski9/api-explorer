@@ -2,22 +2,23 @@
   "id": "judge0-ce",
   "previewType": "card",
   "sampleResponse": {
-    "language": "Python",
-    "version": "3.12.2",
-    "paradigm": "Multi-paradigm",
-    "typing": "Dynamic, Strong",
-    "first_appeared": 1991,
-    "designed_by": "Guido van Rossum"
+    "language": "Python 3",
+    "source_code": "print(sum(range(100)))",
+    "stdout": "4950",
+    "time_sec": 0.012,
+    "memory_kb": 9420,
+    "status": "Accepted"
   },
   "previewConfig": {
     "title": "Judge0 CE",
-    "subtitle": "Online code execution system",
+    "subtitle": "Code execution result",
     "displayFields": [
       "language",
-      "version",
-      "paradigm",
-      "typing",
-      "first_appeared"
+      "source_code",
+      "stdout",
+      "time_sec",
+      "memory_kb",
+      "status"
     ]
   }
 }

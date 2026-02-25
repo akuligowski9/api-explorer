@@ -2,24 +2,15 @@
   "id": "cdnjs",
   "previewType": "card",
   "sampleResponse": {
-    "name": "react",
-    "latest": "https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js",
-    "version": "18.2.0",
-    "description": "React is a JavaScript library for building user interfaces.",
-    "homepage": "https://reactjs.org/",
+    "name": "lodash.js",
+    "version": "4.17.21",
+    "description": "A modern JavaScript utility library delivering modularity, performance & extras.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/facebook/react"
-    }
+    "repository": "github.com/lodash/lodash"
   },
   "previewConfig": {
-    "title": "react",
-    "subtitle": "v18.2.0 — cdnjs",
-    "displayFields": [
-      "version",
-      "description",
-      "license"
-    ]
+    "title": "lodash.js",
+    "subtitle": "cdnjs",
+    "displayFields": ["name", "version", "description", "license", "repository"]
   }
 }

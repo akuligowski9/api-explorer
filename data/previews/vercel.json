@@ -1,0 +1,50 @@
+{
+  "id": "vercel",
+  "previewType": "list",
+  "sampleResponse": {
+    "deployments": [
+      {
+        "name": "my-saas-app",
+        "state": "READY",
+        "created": "2026-02-25T15:02:18Z",
+        "url": "my-saas-app-git-main.vercel.app",
+        "target": "production"
+      },
+      {
+        "name": "my-saas-app",
+        "state": "READY",
+        "created": "2026-02-25T12:48:55Z",
+        "url": "my-saas-app-git-feat-billing.vercel.app",
+        "target": "preview"
+      },
+      {
+        "name": "docs-site",
+        "state": "BUILDING",
+        "created": "2026-02-25T11:30:04Z",
+        "url": "docs-site-kx92f.vercel.app",
+        "target": "preview"
+      },
+      {
+        "name": "my-saas-app",
+        "state": "ERROR",
+        "created": "2026-02-25T09:14:37Z",
+        "url": "my-saas-app-git-fix-auth.vercel.app",
+        "target": "preview"
+      },
+      {
+        "name": "landing-page",
+        "state": "READY",
+        "created": "2026-02-24T20:55:12Z",
+        "url": "landing-page-git-main.vercel.app",
+        "target": "production"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Recent Deployments",
+    "subtitle": "Vercel API",
+    "itemKey": "name",
+    "secondaryKey": "url",
+    "badgeKey": "state"
+  }
+}

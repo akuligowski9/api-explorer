@@ -1,20 +1,17 @@
 {
   "id": "thecocktaildb",
-  "previewType": "media",
+  "previewType": "card",
   "sampleResponse": {
-    "idDrink": "11007",
-    "strDrink": "Margarita",
-    "strCategory": "Ordinary Drink",
-    "strGlass": "Cocktail glass",
-    "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
-    "strIngredient1": "Tequila",
-    "strIngredient2": "Triple sec",
-    "strIngredient3": "Lime juice",
-    "strIngredient4": "Salt"
+    "name": "Margarita",
+    "category": "Ordinary Drink",
+    "glass": "Cocktail glass",
+    "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+    "ingredients": ["Tequila", "Triple sec", "Lime juice", "Salt"],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg"
   },
   "previewConfig": {
-    "title": "Margarita",
-    "subtitle": "Ordinary Drink — Cocktail glass",
-    "imageKey": "strDrinkThumb"
+    "title": "Cocktail Recipe",
+    "subtitle": "Margarita",
+    "displayFields": ["name", "category", "glass", "instructions", "ingredients", "thumbnail_url"]
   }
 }
