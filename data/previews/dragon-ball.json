@@ -1,0 +1,25 @@
+{
+  "id": "dragon-ball",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "name": "Goku",
+    "ki": "60,000,000",
+    "maxKi": "90 Septillion",
+    "race": "Saiyan",
+    "gender": "Male",
+    "description": "He is the main protagonist of the Dragon Ball manga series.",
+    "image": "https://dragonball-api.com/characters/goku_normal.webp",
+    "affiliation": "Z Fighter"
+  },
+  "previewConfig": {
+    "title": "Goku",
+    "subtitle": "Saiyan — Z Fighter",
+    "displayFields": [
+      "name",
+      "ki",
+      "race",
+      "affiliation"
+    ]
+  }
+}

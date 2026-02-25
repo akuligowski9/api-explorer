@@ -1,0 +1,19 @@
+{
+  "id": "administrative-divisons-db",
+  "previewType": "list",
+  "sampleResponse": {
+    "divisions": [
+      {"name": "Tokyo", "country": "Japan", "type": "Prefecture", "population": 13960000}
+    ]
+  },
+  "previewConfig": {
+    "title": "World Divisions",
+    "items": [
+      {"name": "Tokyo", "region": "Japan", "population": 13960000},
+      {"name": "Bavaria", "region": "Germany", "population": 13124737},
+      {"name": "Queensland", "region": "Australia", "population": 5185000},
+      {"name": "Ontario", "region": "Canada", "population": 14826276},
+      {"name": "Île-de-France", "region": "France", "population": 12213447}
+    ]
+  }
+}

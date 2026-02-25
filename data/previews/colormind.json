@@ -1,0 +1,21 @@
+{
+  "id": "colormind",
+  "previewType": "card",
+  "sampleResponse": {
+    "result": [
+      [44, 43, 44],
+      [90, 83, 82],
+      [149, 149, 148],
+      [203, 190, 175],
+      [232, 222, 211]
+    ],
+    "model": "default"
+  },
+  "previewConfig": {
+    "title": "Color Palette",
+    "subtitle": "colormind.io",
+    "displayFields": [
+      "model"
+    ]
+  }
+}

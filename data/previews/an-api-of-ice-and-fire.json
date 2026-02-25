@@ -1,0 +1,32 @@
+{
+  "id": "an-api-of-ice-and-fire",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Jon Snow",
+    "gender": "Male",
+    "culture": "Northmen",
+    "born": "In 283 AC",
+    "titles": [
+      "Lord Commander of the Night's Watch",
+      "King in the North"
+    ],
+    "aliases": [
+      "Lord Snow",
+      "The White Wolf",
+      "The Prince That Was Promised"
+    ],
+    "playedBy": [
+      "Kit Harington"
+    ]
+  },
+  "previewConfig": {
+    "title": "Jon Snow",
+    "subtitle": "A Song of Ice and Fire",
+    "displayFields": [
+      "name",
+      "gender",
+      "culture",
+      "born"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "coffee",
+  "previewType": "media",
+  "sampleResponse": {
+    "file": "https://coffee.alexflipnote.dev/random"
+  },
+  "previewConfig": {
+    "title": "Random Coffee",
+    "subtitle": "coffee.alexflipnote.dev",
+    "imageKey": "file"
+  }
+}

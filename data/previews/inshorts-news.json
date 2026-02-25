@@ -1,0 +1,19 @@
+{
+  "id": "inshorts-news",
+  "previewType": "list",
+  "sampleResponse": {
+    "articles": [
+      {"title": "SpaceX successfully launches Starship", "source": "Reuters"}
+    ]
+  },
+  "previewConfig": {
+    "title": "Top Stories",
+    "items": [
+      {"title": "SpaceX successfully launches Starship on sixth test flight", "author": "Reuters"},
+      {"title": "EU passes landmark AI regulation act", "author": "BBC News"},
+      {"title": "Nobel Prize in Physics awarded to AI researchers", "author": "The Guardian"},
+      {"title": "Global renewable energy capacity hits record high", "author": "Bloomberg"},
+      {"title": "Mars sample return mission gets green light from NASA", "author": "Space.com"}
+    ]
+  }
+}

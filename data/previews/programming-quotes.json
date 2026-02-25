@@ -1,0 +1,21 @@
+{
+  "id": "programming-quotes",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": "5a6ce86f2af929789500e824",
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code.",
+    "tags": [
+      "programming",
+      "code"
+    ]
+  },
+  "previewConfig": {
+    "title": "Programming Quote",
+    "subtitle": "Linus Torvalds",
+    "displayFields": [
+      "quote",
+      "author"
+    ]
+  }
+}

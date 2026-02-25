@@ -1,0 +1,18 @@
+{
+  "id": "quote-garden",
+  "previewType": "card",
+  "sampleResponse": {
+    "quoteText": "Be yourself; everyone else is already taken.",
+    "quoteAuthor": "Oscar Wilde",
+    "quoteGenre": "inspirational"
+  },
+  "previewConfig": {
+    "title": "Quote Garden",
+    "subtitle": "Oscar Wilde",
+    "displayFields": [
+      "quoteText",
+      "quoteAuthor",
+      "quoteGenre"
+    ]
+  }
+}

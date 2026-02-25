@@ -1,0 +1,25 @@
+{
+  "id": "adsbdb",
+  "previewType": "card",
+  "sampleResponse": {
+    "aircraft_type": "Boeing 737-800",
+    "icao_type": "B738",
+    "manufacturer": "Boeing",
+    "registration": "N73701",
+    "operator": "United Airlines",
+    "country": "United States",
+    "engines": "2x CFM56-7B",
+    "range_km": 5765,
+    "max_speed_kmh": 842
+  },
+  "previewConfig": {
+    "title": "Boeing 737-800",
+    "subtitle": "United Airlines",
+    "displayFields": [
+      "aircraft_type",
+      "operator",
+      "engines",
+      "range_km"
+    ]
+  }
+}

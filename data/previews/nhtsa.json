@@ -1,0 +1,26 @@
+{
+  "id": "nhtsa",
+  "previewType": "card",
+  "sampleResponse": {
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "ModelYear": "2024",
+    "VehicleType": "Passenger Car",
+    "BodyClass": "Sedan/Saloon",
+    "DriveType": "RWD/Rear-Wheel Drive",
+    "FuelTypePrimary": "Electric",
+    "EngineKW": "208",
+    "PlantCountry": "United States (US)"
+  },
+  "previewConfig": {
+    "title": "Tesla Model 3",
+    "subtitle": "2024 Passenger Car",
+    "displayFields": [
+      "Make",
+      "Model",
+      "ModelYear",
+      "DriveType",
+      "FuelTypePrimary"
+    ]
+  }
+}

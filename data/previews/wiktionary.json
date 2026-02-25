@@ -1,0 +1,21 @@
+{
+  "id": "wiktionary",
+  "previewType": "card",
+  "sampleResponse": {
+    "word": "serendipity",
+    "language": "English",
+    "partOfSpeech": "noun",
+    "definition": "The occurrence of events by chance in a happy or beneficial way.",
+    "etymology": "Coined by Horace Walpole in 1754, from the fairy tale 'The Three Princes of Serendip'.",
+    "pronunciation": "/ˌsɛɹ.ən.ˈdɪp.ɪ.ti/"
+  },
+  "previewConfig": {
+    "title": "Serendipity",
+    "subtitle": "Wiktionary",
+    "displayFields": [
+      "definition",
+      "partOfSpeech",
+      "pronunciation"
+    ]
+  }
+}

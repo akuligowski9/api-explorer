@@ -1,0 +1,17 @@
+{
+  "id": "corporate-buzz-words",
+  "previewType": "card",
+  "sampleResponse": {
+    "phrase": "Synergize cross-platform deliverables",
+    "word1": "Synergize",
+    "word2": "cross-platform",
+    "word3": "deliverables"
+  },
+  "previewConfig": {
+    "title": "Corporate Buzzword",
+    "subtitle": "Random corporate speak",
+    "displayFields": [
+      "phrase"
+    ]
+  }
+}

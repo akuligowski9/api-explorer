@@ -1,0 +1,49 @@
+{
+  "id": "czech-national-bank",
+  "previewType": "chart",
+  "sampleResponse": {
+    "currency": "EUR/CZK",
+    "rates": [
+      {
+        "date": "2024-01-15",
+        "rate": 24.71
+      },
+      {
+        "date": "2024-02-15",
+        "rate": 25.12
+      },
+      {
+        "date": "2024-03-15",
+        "rate": 25.28
+      },
+      {
+        "date": "2024-04-15",
+        "rate": 25.43
+      },
+      {
+        "date": "2024-05-15",
+        "rate": 24.95
+      },
+      {
+        "date": "2024-06-15",
+        "rate": 25.08
+      },
+      {
+        "date": "2024-07-15",
+        "rate": 25.32
+      },
+      {
+        "date": "2024-08-15",
+        "rate": 25.18
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "EUR/CZK Exchange",
+    "subtitle": "Czech National Bank",
+    "chartType": "line",
+    "chartDataKey": "rate",
+    "chartLabelKey": "date",
+    "items": "rates"
+  }
+}

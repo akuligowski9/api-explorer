@@ -1,0 +1,22 @@
+{
+  "id": "dogs",
+  "previewType": "card",
+  "sampleResponse": {
+    "facts": [
+      "A dog's nose print is unique, much like a person's fingerprint."
+    ],
+    "breed": "Golden Retriever",
+    "origin": "Scotland",
+    "life_span": "10-12 years",
+    "temperament": "Intelligent, Friendly, Reliable, Kind, Trustworthy, Confident"
+  },
+  "previewConfig": {
+    "title": "Golden Retriever",
+    "subtitle": "Dog Facts",
+    "displayFields": [
+      "temperament",
+      "origin",
+      "life_span"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "czech-namedays-calendar",
+  "previewType": "card",
+  "sampleResponse": {
+    "date": "05.03.",
+    "name": "Kazimir",
+    "country": "cz",
+    "dayOfWeek": "Tuesday"
+  },
+  "previewConfig": {
+    "title": "Czech Nameday",
+    "subtitle": "March 5th",
+    "displayFields": [
+      "name",
+      "date",
+      "country"
+    ]
+  }
+}

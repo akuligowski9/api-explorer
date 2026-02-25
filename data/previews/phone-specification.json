@@ -1,0 +1,25 @@
+{
+  "id": "phone-specification",
+  "previewType": "card",
+  "sampleResponse": {
+    "phone_name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "os": "Android 14, One UI 6.1",
+    "display": "6.8 inches, Dynamic AMOLED 2X, 120Hz",
+    "chipset": "Qualcomm Snapdragon 8 Gen 3",
+    "memory": "12GB RAM, 256/512GB/1TB",
+    "camera": "200MP + 12MP + 50MP + 10MP",
+    "battery": "5000 mAh",
+    "price": "$1299.99"
+  },
+  "previewConfig": {
+    "title": "Galaxy S24 Ultra",
+    "subtitle": "Samsung",
+    "displayFields": [
+      "os",
+      "display",
+      "chipset",
+      "battery"
+    ]
+  }
+}

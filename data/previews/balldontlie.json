@@ -1,0 +1,29 @@
+{
+  "id": "balldontlie",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 237,
+    "first_name": "LeBron",
+    "last_name": "James",
+    "position": "F",
+    "height": "6-9",
+    "weight": "250",
+    "jersey_number": "23",
+    "team": {
+      "full_name": "Los Angeles Lakers",
+      "abbreviation": "LAL",
+      "conference": "West",
+      "division": "Pacific"
+    }
+  },
+  "previewConfig": {
+    "title": "LeBron James",
+    "subtitle": "Los Angeles Lakers",
+    "displayFields": [
+      "position",
+      "height",
+      "weight",
+      "jersey_number"
+    ]
+  }
+}

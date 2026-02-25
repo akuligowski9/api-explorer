@@ -1,0 +1,28 @@
+{
+  "id": "dattebayo-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "name": "Naruto Uzumaki",
+    "images": [
+      "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png"
+    ],
+    "jutsu": [
+      "Shadow Clone Technique",
+      "Rasengan",
+      "Sage Mode"
+    ],
+    "personal": {
+      "sex": "Male",
+      "affiliation": "Konohagakure",
+      "clan": "Uzumaki"
+    }
+  },
+  "previewConfig": {
+    "title": "Naruto Uzumaki",
+    "subtitle": "Konohagakure",
+    "displayFields": [
+      "name"
+    ]
+  }
+}

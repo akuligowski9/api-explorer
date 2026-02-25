@@ -1,0 +1,25 @@
+{
+  "id": "codeforces",
+  "previewType": "card",
+  "sampleResponse": {
+    "handle": "tourist",
+    "rating": 3979,
+    "maxRating": 3979,
+    "rank": "Legendary Grandmaster",
+    "maxRank": "Legendary Grandmaster",
+    "contribution": 148,
+    "friendOfCount": 26842,
+    "registrationTimeSeconds": 1265987288,
+    "organization": "ITMO University"
+  },
+  "previewConfig": {
+    "title": "tourist",
+    "subtitle": "Legendary Grandmaster",
+    "displayFields": [
+      "rating",
+      "rank",
+      "contribution",
+      "organization"
+    ]
+  }
+}

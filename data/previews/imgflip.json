@@ -1,0 +1,17 @@
+{
+  "id": "imgflip",
+  "previewType": "media",
+  "sampleResponse": {
+    "id": "181913649",
+    "name": "Drake Hotline Bling",
+    "url": "https://i.imgflip.com/30b1gx.jpg",
+    "width": 1200,
+    "height": 1200,
+    "box_count": 2
+  },
+  "previewConfig": {
+    "title": "Drake Hotline Bling",
+    "subtitle": "imgflip.com",
+    "imageKey": "url"
+  }
+}

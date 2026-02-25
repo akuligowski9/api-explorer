@@ -1,0 +1,14 @@
+{
+  "id": "icon-horse",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://icon.horse/icon/github.com",
+    "domain": "github.com",
+    "size": "256x256"
+  },
+  "previewConfig": {
+    "title": "GitHub Favicon",
+    "subtitle": "icon.horse",
+    "imageKey": "url"
+  }
+}

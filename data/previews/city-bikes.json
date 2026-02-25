@@ -1,0 +1,19 @@
+{
+  "id": "city-bikes",
+  "previewType": "list",
+  "sampleResponse": {
+    "networks": [
+      {"id": "velib", "name": "Vélib'", "location": {"city": "Paris", "country": "FR"}}
+    ]
+  },
+  "previewConfig": {
+    "title": "Bike Share Networks",
+    "items": [
+      {"name": "Vélib'", "region": "Paris, FR"},
+      {"name": "Citi Bike", "region": "New York, US"},
+      {"name": "Santander Cycles", "region": "London, GB"},
+      {"name": "Bicing", "region": "Barcelona, ES"},
+      {"name": "Bay Wheels", "region": "San Francisco, US"}
+    ]
+  }
+}

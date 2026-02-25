@@ -1,0 +1,20 @@
+{
+  "id": "gutendex",
+  "previewType": "list",
+  "sampleResponse": {
+    "count": 73235,
+    "results": [
+      {"id": 1342, "title": "Pride and Prejudice", "authors": [{"name": "Austen, Jane"}], "download_count": 75289}
+    ]
+  },
+  "previewConfig": {
+    "title": "Project Gutenberg",
+    "items": [
+      {"title": "Pride and Prejudice", "author": "Jane Austen", "score": 75289},
+      {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "score": 54210},
+      {"title": "Frankenstein", "author": "Mary Shelley", "score": 48923},
+      {"title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle", "score": 46751},
+      {"title": "Moby Dick", "author": "Herman Melville", "score": 39842}
+    ]
+  }
+}

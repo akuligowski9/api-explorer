@@ -1,0 +1,27 @@
+{
+  "id": "jelly-belly-wiki",
+  "previewType": "card",
+  "sampleResponse": {
+    "beanId": 1,
+    "flavorName": "Very Cherry",
+    "description": "The classic cherry flavor that started it all.",
+    "colorGroup": "Red",
+    "ingredients": [
+      "Sugar",
+      "Corn Syrup",
+      "Modified Food Starch"
+    ],
+    "glutenFree": true,
+    "sugarFree": false,
+    "seasonal": false
+  },
+  "previewConfig": {
+    "title": "Very Cherry",
+    "subtitle": "Jelly Belly Wiki",
+    "displayFields": [
+      "flavorName",
+      "colorGroup",
+      "glutenFree"
+    ]
+  }
+}

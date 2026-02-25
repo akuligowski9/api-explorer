@@ -1,0 +1,14 @@
+{
+  "id": "placebear",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://placebear.com/400/300",
+    "width": 400,
+    "height": 300
+  },
+  "previewConfig": {
+    "title": "PlaceBear",
+    "subtitle": "placebear.com",
+    "imageKey": "url"
+  }
+}

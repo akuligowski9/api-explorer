@@ -1,0 +1,19 @@
+{
+  "id": "arbeitnow",
+  "previewType": "list",
+  "sampleResponse": {
+    "jobs": [
+      {"title": "Senior Frontend Engineer", "company_name": "Spotify", "location": "Stockholm, Sweden", "remote": true}
+    ]
+  },
+  "previewConfig": {
+    "title": "European Tech Jobs",
+    "items": [
+      {"title": "Senior Frontend Engineer", "author": "Spotify"},
+      {"title": "Backend Developer", "author": "Klarna"},
+      {"title": "DevOps Engineer", "author": "Adyen"},
+      {"title": "Full Stack Developer", "author": "Revolut"},
+      {"title": "Data Engineer", "author": "N26"}
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "amiiboapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Link",
+    "amiiboSeries": "The Legend of Zelda",
+    "character": "Link",
+    "gameSeries": "The Legend of Zelda",
+    "type": "Figure",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-00040002.png",
+    "release": {
+      "na": "2016-12-02",
+      "eu": "2017-03-03"
+    }
+  },
+  "previewConfig": {
+    "title": "Link",
+    "subtitle": "The Legend of Zelda",
+    "displayFields": [
+      "amiiboSeries",
+      "character",
+      "type"
+    ]
+  }
+}

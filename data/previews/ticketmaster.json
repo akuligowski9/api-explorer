@@ -1,0 +1,18 @@
+{
+  "id": "ticketmaster",
+  "previewType": "list",
+  "sampleResponse": {
+    "events": [
+      {"name": "Taylor Swift | The Eras Tour", "type": "Music", "venue": "SoFi Stadium"}
+    ]
+  },
+  "previewConfig": {
+    "title": "Upcoming Events",
+    "items": [
+      {"name": "Taylor Swift | The Eras Tour", "region": "Los Angeles"},
+      {"name": "NBA Finals 2024", "region": "Boston"},
+      {"name": "Hamilton", "region": "New York"},
+      {"name": "Beyoncé | Renaissance Tour", "region": "London"}
+    ]
+  }
+}

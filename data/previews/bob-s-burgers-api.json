@@ -1,0 +1,27 @@
+{
+  "id": "bob-s-burgers-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "name": "Bob Belcher",
+    "occupation": "Restaurant Owner",
+    "firstEpisode": "Human Flesh",
+    "voicedBy": "H. Jon Benjamin",
+    "relatives": [
+      "Linda Belcher",
+      "Tina Belcher",
+      "Gene Belcher",
+      "Louise Belcher"
+    ],
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/1.png"
+  },
+  "previewConfig": {
+    "title": "Bob Belcher",
+    "subtitle": "Bob's Burgers",
+    "displayFields": [
+      "name",
+      "occupation",
+      "voicedBy"
+    ]
+  }
+}

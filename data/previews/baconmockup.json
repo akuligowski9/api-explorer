@@ -1,0 +1,14 @@
+{
+  "id": "baconmockup",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://baconmockup.com/400/300",
+    "width": 400,
+    "height": 300
+  },
+  "previewConfig": {
+    "title": "Bacon Placeholder",
+    "subtitle": "baconmockup.com",
+    "imageKey": "url"
+  }
+}

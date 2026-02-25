@@ -1,0 +1,26 @@
+{
+  "id": "bible-api",
+  "previewType": "card",
+  "sampleResponse": {
+    "reference": "John 3:16",
+    "verses": [
+      {
+        "book_id": "JHN",
+        "book_name": "John",
+        "chapter": 3,
+        "verse": 16,
+        "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+      }
+    ],
+    "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+    "translation_name": "KJV"
+  },
+  "previewConfig": {
+    "title": "John 3:16",
+    "subtitle": "King James Version",
+    "displayFields": [
+      "text",
+      "translation_name"
+    ]
+  }
+}

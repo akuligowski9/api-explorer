@@ -1,0 +1,32 @@
+{
+  "id": "harry-potter",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Harry Potter",
+    "alternate_names": [
+      "The Boy Who Lived",
+      "The Chosen One"
+    ],
+    "species": "human",
+    "gender": "male",
+    "house": "Gryffindor",
+    "dateOfBirth": "31-07-1980",
+    "yearOfBirth": 1980,
+    "wizard": true,
+    "ancestry": "half-blood",
+    "patronus": "stag",
+    "hogwartsStudent": true,
+    "actor": "Daniel Radcliffe",
+    "alive": true
+  },
+  "previewConfig": {
+    "title": "Harry Potter",
+    "subtitle": "Gryffindor",
+    "displayFields": [
+      "house",
+      "ancestry",
+      "patronus",
+      "actor"
+    ]
+  }
+}

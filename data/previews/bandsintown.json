@@ -1,0 +1,19 @@
+{
+  "id": "bandsintown",
+  "previewType": "list",
+  "sampleResponse": {
+    "events": [
+      {"artist": "Radiohead", "venue": "Madison Square Garden", "city": "New York"}
+    ]
+  },
+  "previewConfig": {
+    "title": "Live Events",
+    "items": [
+      {"name": "Radiohead", "region": "New York, US"},
+      {"name": "Arctic Monkeys", "region": "London, GB"},
+      {"name": "Tame Impala", "region": "Denver, US"},
+      {"name": "Billie Eilish", "region": "Barcelona, ES"},
+      {"name": "Kendrick Lamar", "region": "Paris, FR"}
+    ]
+  }
+}

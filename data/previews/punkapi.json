@@ -1,0 +1,28 @@
+{
+  "id": "punkapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 192,
+    "name": "Punk IPA",
+    "tagline": "Post Modern Classic. Spiky. Tropical. Hoppy.",
+    "first_brewed": "04/2007",
+    "description": "A light, golden classic craft beer with a tropical and citrus character.",
+    "abv": 5.6,
+    "ibu": 40,
+    "ebc": 20,
+    "food_pairing": [
+      "Spicy chicken tikka masala",
+      "Grilled watermelon with feta"
+    ]
+  },
+  "previewConfig": {
+    "title": "Punk IPA",
+    "subtitle": "5.6% ABV",
+    "displayFields": [
+      "tagline",
+      "abv",
+      "ibu",
+      "first_brewed"
+    ]
+  }
+}

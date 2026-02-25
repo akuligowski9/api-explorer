@@ -1,0 +1,19 @@
+{
+  "id": "forismatic",
+  "previewType": "card",
+  "sampleResponse": {
+    "quoteText": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs",
+    "senderName": "",
+    "senderLink": "",
+    "quoteLink": "http://forismatic.com/en/"
+  },
+  "previewConfig": {
+    "title": "Inspirational Quote",
+    "subtitle": "forismatic.com",
+    "displayFields": [
+      "quoteText",
+      "quoteAuthor"
+    ]
+  }
+}

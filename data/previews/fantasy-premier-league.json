@@ -1,0 +1,26 @@
+{
+  "id": "fantasy-premier-league",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 318,
+    "first_name": "Erling",
+    "second_name": "Haaland",
+    "team": "Manchester City",
+    "position": "Forward",
+    "total_points": 272,
+    "goals_scored": 36,
+    "assists": 8,
+    "minutes": 3159,
+    "now_cost": 140
+  },
+  "previewConfig": {
+    "title": "Erling Haaland",
+    "subtitle": "Manchester City",
+    "displayFields": [
+      "position",
+      "total_points",
+      "goals_scored",
+      "assists"
+    ]
+  }
+}

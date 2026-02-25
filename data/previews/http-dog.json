@@ -1,0 +1,14 @@
+{
+  "id": "http-dog",
+  "previewType": "media",
+  "sampleResponse": {
+    "statusCode": 200,
+    "image": "https://http.dog/200.jpg",
+    "message": "OK"
+  },
+  "previewConfig": {
+    "title": "HTTP 200 - OK",
+    "subtitle": "http.dog",
+    "imageKey": "image"
+  }
+}

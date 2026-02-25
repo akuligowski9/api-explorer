@@ -1,0 +1,18 @@
+{
+  "id": "iseven-humor",
+  "previewType": "card",
+  "sampleResponse": {
+    "iseven": true,
+    "ad": "Buy our premium API for odd numbers!",
+    "number": 42
+  },
+  "previewConfig": {
+    "title": "Is 42 Even?",
+    "subtitle": "isEven API",
+    "displayFields": [
+      "number",
+      "iseven",
+      "ad"
+    ]
+  }
+}

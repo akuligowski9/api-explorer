@@ -1,0 +1,19 @@
+{
+  "id": "chronicling-america",
+  "previewType": "list",
+  "sampleResponse": {
+    "newspapers": [
+      {"title": "The New York Herald", "state": "New York"}
+    ]
+  },
+  "previewConfig": {
+    "title": "Historic Newspapers",
+    "items": [
+      {"title": "The New York Herald", "region": "New York"},
+      {"title": "The Washington Post", "region": "DC"},
+      {"title": "The San Francisco Call", "region": "California"},
+      {"title": "Chicago Daily Tribune", "region": "Illinois"},
+      {"title": "The Times-Picayune", "region": "Louisiana"}
+    ]
+  }
+}

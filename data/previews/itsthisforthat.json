@@ -1,0 +1,18 @@
+{
+  "id": "itsthisforthat",
+  "previewType": "card",
+  "sampleResponse": {
+    "this": "Tinder",
+    "that": "Cats",
+    "idea": "So, basically, it's like a Tinder for Cats"
+  },
+  "previewConfig": {
+    "title": "Startup Idea Generator",
+    "subtitle": "itsthisforthat.com",
+    "displayFields": [
+      "this",
+      "that",
+      "idea"
+    ]
+  }
+}

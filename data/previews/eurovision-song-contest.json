@@ -1,0 +1,19 @@
+{
+  "id": "eurovision-song-contest",
+  "previewType": "list",
+  "sampleResponse": {
+    "winners": [
+      {"year": 2023, "country": "Sweden", "artist": "Loreen", "song": "Tattoo", "points": 583}
+    ]
+  },
+  "previewConfig": {
+    "title": "Eurovision Winners",
+    "items": [
+      {"name": "Loreen — Tattoo", "region": "Sweden", "points": 583},
+      {"name": "Kalush Orchestra — Stefania", "region": "Ukraine", "points": 631},
+      {"name": "Måneskin — Zitti e buoni", "region": "Italy", "points": 524},
+      {"name": "Duncan Laurence — Arcade", "region": "Netherlands", "points": 498},
+      {"name": "Netta — Toy", "region": "Israel", "points": 529}
+    ]
+  }
+}

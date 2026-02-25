@@ -1,0 +1,21 @@
+{
+  "id": "datamuse",
+  "previewType": "list",
+  "sampleResponse": {
+    "words": [
+      {"word": "happy", "score": 97841},
+      {"word": "joyful", "score": 54230}
+    ]
+  },
+  "previewConfig": {
+    "title": "Words like 'happy'",
+    "items": [
+      {"name": "happy", "score": 97841},
+      {"name": "joyful", "score": 54230},
+      {"name": "cheerful", "score": 48912},
+      {"name": "content", "score": 42100},
+      {"name": "blissful", "score": 38456},
+      {"name": "elated", "score": 31205}
+    ]
+  }
+}

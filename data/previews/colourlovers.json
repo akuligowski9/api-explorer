@@ -1,0 +1,30 @@
+{
+  "id": "colourlovers",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 92095,
+    "title": "Giant Goldfish",
+    "userName": "manekineko",
+    "colors": [
+      "69D2E7",
+      "A7DBD8",
+      "E0E4CC",
+      "F38630",
+      "FA6900"
+    ],
+    "numViews": 215432,
+    "numVotes": 1876,
+    "numComments": 89,
+    "numHearts": 4.5
+  },
+  "previewConfig": {
+    "title": "Giant Goldfish",
+    "subtitle": "ColourLovers Palette",
+    "displayFields": [
+      "title",
+      "userName",
+      "numViews",
+      "numVotes"
+    ]
+  }
+}

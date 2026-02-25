@@ -1,0 +1,18 @@
+{
+  "id": "archive-org",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {"identifier": "principia_mathematica", "title": "Principia Mathematica", "creator": "Isaac Newton"}
+    ]
+  },
+  "previewConfig": {
+    "title": "Internet Archive",
+    "items": [
+      {"title": "Principia Mathematica", "author": "Isaac Newton", "score": 245831},
+      {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "score": 198234},
+      {"title": "The Art of War", "author": "Sun Tzu", "score": 176543},
+      {"title": "On the Origin of Species", "author": "Charles Darwin", "score": 154329}
+    ]
+  }
+}

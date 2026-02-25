@@ -1,0 +1,28 @@
+{
+  "id": "api-colombia",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 1,
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "population": 51874024,
+    "area": 1141748,
+    "region": "South America",
+    "subregion": "Latin America",
+    "currency": "Colombian Peso (COP)",
+    "phoneCode": "+57",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "previewConfig": {
+    "title": "Colombia",
+    "subtitle": "Public Data API",
+    "displayFields": [
+      "capital",
+      "population",
+      "area",
+      "currency"
+    ]
+  }
+}

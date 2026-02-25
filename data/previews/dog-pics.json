@@ -1,0 +1,13 @@
+{
+  "id": "dog-pics",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://random.dog/woof.json",
+    "image": "https://random.dog/4bdb0178-29fc-4290-9502-6c0e2bdaa3c6.jpg"
+  },
+  "previewConfig": {
+    "title": "Random Dog",
+    "subtitle": "random.dog",
+    "imageKey": "image"
+  }
+}

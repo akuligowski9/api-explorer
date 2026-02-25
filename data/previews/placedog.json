@@ -1,0 +1,14 @@
+{
+  "id": "placedog",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://placedog.net/400/300",
+    "width": 400,
+    "height": 300
+  },
+  "previewConfig": {
+    "title": "PlaceDog",
+    "subtitle": "placedog.net",
+    "imageKey": "url"
+  }
+}

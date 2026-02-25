@@ -1,0 +1,49 @@
+{
+  "id": "economia-awesome",
+  "previewType": "chart",
+  "sampleResponse": {
+    "currency": "USD/BRL",
+    "rates": [
+      {
+        "date": "2024-01",
+        "rate": 4.92
+      },
+      {
+        "date": "2024-02",
+        "rate": 4.97
+      },
+      {
+        "date": "2024-03",
+        "rate": 5.05
+      },
+      {
+        "date": "2024-04",
+        "rate": 5.12
+      },
+      {
+        "date": "2024-05",
+        "rate": 5.08
+      },
+      {
+        "date": "2024-06",
+        "rate": 5.45
+      },
+      {
+        "date": "2024-07",
+        "rate": 5.56
+      },
+      {
+        "date": "2024-08",
+        "rate": 5.63
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "USD/BRL Rate",
+    "subtitle": "Economia Awesome",
+    "chartType": "line",
+    "chartDataKey": "rate",
+    "chartLabelKey": "date",
+    "items": "rates"
+  }
+}

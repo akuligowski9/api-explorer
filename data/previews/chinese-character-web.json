@@ -1,0 +1,26 @@
+{
+  "id": "chinese-character-web",
+  "previewType": "card",
+  "sampleResponse": {
+    "character": "龍",
+    "pinyin": "lóng",
+    "english": "dragon",
+    "radical": "龍",
+    "strokes": 16,
+    "frequency": "common",
+    "examples": [
+      "龍舟 (dragon boat)",
+      "恐龍 (dinosaur)"
+    ]
+  },
+  "previewConfig": {
+    "title": "龍 — Dragon",
+    "subtitle": "Chinese Character Web",
+    "displayFields": [
+      "pinyin",
+      "english",
+      "strokes",
+      "radical"
+    ]
+  }
+}

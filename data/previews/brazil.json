@@ -1,0 +1,23 @@
+{
+  "id": "brazil",
+  "previewType": "card",
+  "sampleResponse": {
+    "state": "São Paulo",
+    "capital": "São Paulo",
+    "population": 46649132,
+    "area_km2": 248219.63,
+    "region": "Southeast",
+    "abbreviation": "SP",
+    "demonym": "Paulista"
+  },
+  "previewConfig": {
+    "title": "São Paulo",
+    "subtitle": "Brazil Public Data",
+    "displayFields": [
+      "capital",
+      "population",
+      "area_km2",
+      "region"
+    ]
+  }
+}

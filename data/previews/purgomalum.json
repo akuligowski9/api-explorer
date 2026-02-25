@@ -1,0 +1,19 @@
+{
+  "id": "purgomalum",
+  "previewType": "card",
+  "sampleResponse": {
+    "original": "This is some bad text with profanity",
+    "result": "This is some *** text with ***",
+    "containsProfanity": true,
+    "profanityCount": 2
+  },
+  "previewConfig": {
+    "title": "Content Filter",
+    "subtitle": "purgomalum.com",
+    "displayFields": [
+      "original",
+      "result",
+      "containsProfanity"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "postman-echo",
+  "previewType": "code",
+  "sampleResponse": {
+    "args": {},
+    "headers": {
+      "host": "postman-echo.com",
+      "accept": "*/*",
+      "user-agent": "curl/7.88.1",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https"
+    },
+    "url": "https://postman-echo.com/get"
+  },
+  "previewConfig": {
+    "title": "Postman Echo",
+    "subtitle": "HTTP Request Echo"
+  }
+}

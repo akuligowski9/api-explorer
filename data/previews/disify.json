@@ -1,0 +1,21 @@
+{
+  "id": "disify",
+  "previewType": "card",
+  "sampleResponse": {
+    "format": true,
+    "domain": "gmail.com",
+    "disposable": false,
+    "dns": true,
+    "email": "user@gmail.com"
+  },
+  "previewConfig": {
+    "title": "Email Validation",
+    "subtitle": "disify.com",
+    "displayFields": [
+      "email",
+      "disposable",
+      "dns",
+      "format"
+    ]
+  }
+}

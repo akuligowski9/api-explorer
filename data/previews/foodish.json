@@ -1,0 +1,12 @@
+{
+  "id": "foodish",
+  "previewType": "media",
+  "sampleResponse": {
+    "image": "https://foodish-api.com/images/pizza/pizza1.jpg"
+  },
+  "previewConfig": {
+    "title": "Random Food",
+    "subtitle": "foodish-api.com",
+    "imageKey": "image"
+  }
+}

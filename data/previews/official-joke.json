@@ -1,0 +1,18 @@
+{
+  "id": "official-joke",
+  "previewType": "card",
+  "sampleResponse": {
+    "id": 301,
+    "type": "programming",
+    "setup": "Why do Java developers wear glasses?",
+    "punchline": "Because they can't C#."
+  },
+  "previewConfig": {
+    "title": "Programming Joke",
+    "subtitle": "Official Joke API",
+    "displayFields": [
+      "setup",
+      "punchline"
+    ]
+  }
+}

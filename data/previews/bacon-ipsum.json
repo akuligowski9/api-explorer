@@ -1,0 +1,16 @@
+{
+  "id": "bacon-ipsum",
+  "previewType": "card",
+  "sampleResponse": {
+    "text": "Bacon ipsum dolor amet short ribs ribeye strip steak pork belly. Tri-tip sirloin kevin boudin, shank hamburger leberkas drumstick filet mignon.",
+    "type": "meat-and-filler",
+    "paragraphs": 1
+  },
+  "previewConfig": {
+    "title": "Bacon Ipsum",
+    "subtitle": "A Meatier Lorem Ipsum",
+    "displayFields": [
+      "text"
+    ]
+  }
+}

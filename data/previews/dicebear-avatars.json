@@ -1,0 +1,15 @@
+{
+  "id": "dicebear-avatars",
+  "previewType": "media",
+  "sampleResponse": {
+    "url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=Felix",
+    "format": "svg",
+    "style": "pixel-art",
+    "seed": "Felix"
+  },
+  "previewConfig": {
+    "title": "Pixel Art Avatar",
+    "subtitle": "dicebear.com",
+    "imageKey": "url"
+  }
+}

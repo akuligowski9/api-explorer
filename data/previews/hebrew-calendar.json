@@ -1,0 +1,23 @@
+{
+  "id": "hebrew-calendar",
+  "previewType": "card",
+  "sampleResponse": {
+    "date": "25 Adar I 5784",
+    "hebrew": "כ״ה אדר א׳ תשפ״ד",
+    "gregorian": "2024-03-05",
+    "parashat": "Vayakhel",
+    "candles": "5:32pm",
+    "havdalah": "6:33pm",
+    "holiday": null
+  },
+  "previewConfig": {
+    "title": "Hebrew Calendar",
+    "subtitle": "hebcal.com",
+    "displayFields": [
+      "date",
+      "hebrew",
+      "parashat",
+      "candles"
+    ]
+  }
+}

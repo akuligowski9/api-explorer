@@ -1,0 +1,15 @@
+{
+  "id": "techy",
+  "previewType": "card",
+  "sampleResponse": {
+    "phrase": "Quantum blockchain neural mesh",
+    "category": "tech"
+  },
+  "previewConfig": {
+    "title": "Tech Phrase",
+    "subtitle": "techy API",
+    "displayFields": [
+      "phrase"
+    ]
+  }
+}

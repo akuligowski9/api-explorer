@@ -1,0 +1,26 @@
+{
+  "id": "airportsapi",
+  "previewType": "card",
+  "sampleResponse": {
+    "icao": "KJFK",
+    "iata": "JFK",
+    "name": "John F Kennedy International Airport",
+    "city": "New York",
+    "country": "US",
+    "elevation": 13,
+    "lat": 40.6398,
+    "lon": -73.7789,
+    "tz": "America/New_York",
+    "website": "https://www.jfkairport.com"
+  },
+  "previewConfig": {
+    "title": "JFK Airport",
+    "subtitle": "New York, US",
+    "displayFields": [
+      "name",
+      "icao",
+      "iata",
+      "elevation"
+    ]
+  }
+}

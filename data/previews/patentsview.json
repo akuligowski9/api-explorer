@@ -1,0 +1,18 @@
+{
+  "id": "patentsview",
+  "previewType": "list",
+  "sampleResponse": {
+    "patents": [
+      {"patent_title": "Method for electric vehicle battery management", "assignee_organization": "Tesla, Inc."}
+    ]
+  },
+  "previewConfig": {
+    "title": "Recent Patents",
+    "items": [
+      {"title": "Electric vehicle battery management", "author": "Tesla, Inc."},
+      {"title": "Augmented reality display system", "author": "Apple Inc."},
+      {"title": "Machine learning optimization framework", "author": "Google LLC"},
+      {"title": "Drone delivery route optimization", "author": "Amazon Technologies"}
+    ]
+  }
+}
