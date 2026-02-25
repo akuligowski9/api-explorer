@@ -1,0 +1,16 @@
+{
+  "id": "chomp",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "KIND Dark Chocolate Nuts",
+    "calories": 200,
+    "total_fat": "15g",
+    "protein": "6g",
+    "serving_size": "40g"
+  },
+  "previewConfig": {
+    "title": "KIND Dark Chocolate Nuts",
+    "subtitle": "Chomp Food Data",
+    "displayFields": ["name", "calories", "total_fat", "protein", "serving_size"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "graphhopper",
+  "previewType": "card",
+  "sampleResponse": {
+    "origin": "Berlin, Germany",
+    "destination": "Munich, Germany",
+    "distance_km": 585.4,
+    "duration_hours": 5.3,
+    "instructions": 47,
+    "ascend_m": 1240,
+    "descend_m": 1180,
+    "bbox": [11.0767, 48.1351, 13.4050, 52.5200]
+  },
+  "previewConfig": {
+    "title": "GraphHopper",
+    "subtitle": "Route: Berlin to Munich",
+    "displayFields": ["origin", "destination", "distance_km", "duration_hours", "instructions", "ascend_m", "descend_m"]
+  }
+}

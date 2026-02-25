@@ -1,0 +1,16 @@
+{
+  "id": "infermedica",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Headache",
+    "common_name": "Headache",
+    "category": "Neurology",
+    "seriousness": "mild",
+    "prevalence": "very common"
+  },
+  "previewConfig": {
+    "title": "Headache",
+    "subtitle": "Infermedica Symptom",
+    "displayFields": ["name", "common_name", "category", "seriousness", "prevalence"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openstreetmap",
+  "previewType": "card",
+  "sampleResponse": {
+    "display_name": "Colosseum, Piazza del Colosseo, Rione XIX Celio, Municipio Roma I, Rome, Lazio, 00184, Italy",
+    "lat": "41.8902102",
+    "lon": "12.4922309",
+    "type": "attraction",
+    "importance": "0.8231"
+  },
+  "previewConfig": {
+    "title": "Colosseum, Rome",
+    "subtitle": "Nominatim Search",
+    "displayFields": ["display_name", "lat", "lon", "type", "importance"]
+  }
+}

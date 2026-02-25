@@ -1,0 +1,18 @@
+{
+  "id": "mta",
+  "previewType": "card",
+  "sampleResponse": {
+    "line": "7",
+    "status": "Good Service",
+    "direction": "Flushing-bound",
+    "next_arrival": "3 min",
+    "line_color": "#B933AD",
+    "stations": 22,
+    "ridership_daily": 423000
+  },
+  "previewConfig": {
+    "title": "MTA",
+    "subtitle": "Subway status for Line 7",
+    "displayFields": ["line", "status", "direction", "next_arrival", "line_color", "stations", "ridership_daily"]
+  }
+}

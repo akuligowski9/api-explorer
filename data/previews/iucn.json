@@ -1,0 +1,52 @@
+{
+  "id": "iucn",
+  "previewType": "list",
+  "sampleResponse": {
+    "category_filter": "Endangered",
+    "total_species": 16306,
+    "species": [
+      {
+        "scientific_name": "Panthera tigris",
+        "common_name": "Tiger",
+        "category": "Endangered",
+        "population_trend": "Increasing",
+        "region": "Asia"
+      },
+      {
+        "scientific_name": "Gorilla beringei",
+        "common_name": "Eastern Gorilla",
+        "category": "Endangered",
+        "population_trend": "Increasing",
+        "region": "Africa"
+      },
+      {
+        "scientific_name": "Dermochelys coriacea",
+        "common_name": "Leatherback Sea Turtle",
+        "category": "Endangered",
+        "population_trend": "Decreasing",
+        "region": "Global"
+      },
+      {
+        "scientific_name": "Ailuropoda melanoleuca",
+        "common_name": "Giant Panda",
+        "category": "Vulnerable",
+        "population_trend": "Increasing",
+        "region": "Asia"
+      },
+      {
+        "scientific_name": "Elephas maximus",
+        "common_name": "Asian Elephant",
+        "category": "Endangered",
+        "population_trend": "Decreasing",
+        "region": "Asia"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "IUCN Red List",
+    "subtitle": "Endangered species — 16,306 listed",
+    "itemKey": "common_name",
+    "secondaryKey": "scientific_name",
+    "badgeKey": "category"
+  }
+}

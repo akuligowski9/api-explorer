@@ -1,0 +1,16 @@
+{
+  "id": "shutterstock",
+  "previewType": "card",
+  "sampleResponse": {
+    "description": "Business team meeting",
+    "media_type": "photo",
+    "contributor": "StudioStock",
+    "aspect": "1.5",
+    "categories": "Business"
+  },
+  "previewConfig": {
+    "title": "Business Team Meeting",
+    "subtitle": "Shutterstock Image",
+    "displayFields": ["description", "media_type", "contributor", "aspect", "categories"]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "penguin-publishing",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Intermezzo",
+        "author": "Sally Rooney",
+        "format": "Hardcover",
+        "price": "$28.00",
+        "isbn": "978-0374602635"
+      },
+      {
+        "title": "James",
+        "author": "Percival Everett",
+        "format": "Paperback",
+        "price": "$17.00",
+        "isbn": "978-0385550369"
+      },
+      {
+        "title": "The Women",
+        "author": "Kristin Hannah",
+        "format": "Hardcover",
+        "price": "$30.00",
+        "isbn": "978-1250178633"
+      },
+      {
+        "title": "Orbital",
+        "author": "Samantha Harvey",
+        "format": "Hardcover",
+        "price": "$24.00",
+        "isbn": "978-0802163523"
+      },
+      {
+        "title": "Creation Lake",
+        "author": "Rachel Kushner",
+        "format": "Hardcover",
+        "price": "$29.00",
+        "isbn": "978-1982186098"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Penguin Publishing",
+    "subtitle": "New releases",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "format"
+  }
+}

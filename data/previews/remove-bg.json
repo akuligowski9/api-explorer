@@ -1,0 +1,16 @@
+{
+  "id": "remove-bg",
+  "previewType": "card",
+  "sampleResponse": {
+    "foreground_type": "person",
+    "resolution": "4000x2667",
+    "credits_charged": 1,
+    "output_format": "png",
+    "file_size": "2.4 MB"
+  },
+  "previewConfig": {
+    "title": "Background Removal Result",
+    "subtitle": "Remove.bg",
+    "displayFields": ["foreground_type", "resolution", "credits_charged", "output_format", "file_size"]
+  }
+}

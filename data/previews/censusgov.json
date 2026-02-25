@@ -1,0 +1,18 @@
+{
+  "id": "censusgov",
+  "previewType": "card",
+  "sampleResponse": {
+    "state": "California",
+    "population": 39538223,
+    "rank": 1,
+    "density_per_sq_mile": 253.7,
+    "median_age": 36.7,
+    "median_household_income": 78672,
+    "growth_rate_pct": 6.1
+  },
+  "previewConfig": {
+    "title": "Census.gov",
+    "subtitle": "Population data for California",
+    "displayFields": ["state", "population", "rank", "density_per_sq_mile", "median_age", "median_household_income", "growth_rate_pct"]
+  }
+}

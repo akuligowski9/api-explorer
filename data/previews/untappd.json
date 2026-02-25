@@ -1,0 +1,16 @@
+{
+  "id": "untappd",
+  "previewType": "card",
+  "sampleResponse": {
+    "beer_name": "Hazy Little Thing IPA",
+    "brewery": "Sierra Nevada",
+    "style": "Hazy IPA",
+    "rating": "3.89",
+    "abv": "6.7%"
+  },
+  "previewConfig": {
+    "title": "Hazy Little Thing IPA",
+    "subtitle": "Untappd Beer",
+    "displayFields": ["beer_name", "brewery", "style", "rating", "abv"]
+  }
+}

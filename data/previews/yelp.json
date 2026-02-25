@@ -1,0 +1,50 @@
+{
+  "id": "yelp",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "name": "Gary Danko",
+        "rating": 4.5,
+        "review_count": 5842,
+        "price": "$$$$",
+        "categories": "French, American (New)"
+      },
+      {
+        "name": "Tartine Bakery",
+        "rating": 4.3,
+        "review_count": 7123,
+        "price": "$$",
+        "categories": "Bakeries, Sandwiches"
+      },
+      {
+        "name": "House of Prime Rib",
+        "rating": 4.4,
+        "review_count": 6890,
+        "price": "$$$",
+        "categories": "Steakhouses, American (Traditional)"
+      },
+      {
+        "name": "Swan Oyster Depot",
+        "rating": 4.5,
+        "review_count": 4210,
+        "price": "$$$",
+        "categories": "Seafood, Raw Bar"
+      },
+      {
+        "name": "La Taqueria",
+        "rating": 4.2,
+        "review_count": 5530,
+        "price": "$",
+        "categories": "Mexican, Tacos"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Yelp",
+    "subtitle": "Top restaurants in San Francisco",
+    "itemKey": "name",
+    "secondaryKey": "categories",
+    "badgeKey": "rating"
+  }
+}

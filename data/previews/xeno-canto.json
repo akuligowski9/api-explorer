@@ -1,0 +1,52 @@
+{
+  "id": "xeno-canto",
+  "previewType": "list",
+  "sampleResponse": {
+    "query": "Nightingale",
+    "num_recordings": 2847,
+    "recordings": [
+      {
+        "english_name": "Common Nightingale",
+        "country": "United Kingdom",
+        "recordist": "Stuart Fisher",
+        "length": "1:42",
+        "quality": "A"
+      },
+      {
+        "english_name": "Common Nightingale",
+        "country": "Germany",
+        "recordist": "Karl-Heinz Graef",
+        "length": "2:15",
+        "quality": "A"
+      },
+      {
+        "english_name": "Thrush Nightingale",
+        "country": "Sweden",
+        "recordist": "Lars Edenius",
+        "length": "0:58",
+        "quality": "B"
+      },
+      {
+        "english_name": "Common Nightingale",
+        "country": "Spain",
+        "recordist": "Jordi Calvet",
+        "length": "3:06",
+        "quality": "A"
+      },
+      {
+        "english_name": "Common Nightingale",
+        "country": "France",
+        "recordist": "Jean Roche",
+        "length": "1:23",
+        "quality": "B"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Bird Recordings",
+    "subtitle": "Nightingale — 2,847 recordings",
+    "itemKey": "english_name",
+    "secondaryKey": "country",
+    "badgeKey": "quality"
+  }
+}

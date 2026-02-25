@@ -1,0 +1,53 @@
+{
+  "id": "healthcaregov",
+  "previewType": "list",
+  "sampleResponse": {
+    "state": "Texas",
+    "year": 2026,
+    "total_plans": 312,
+    "plans": [
+      {
+        "plan_name": "Blue Advantage Silver HMO",
+        "issuer": "Blue Cross Blue Shield of Texas",
+        "premium_monthly": 485,
+        "deductible": 4500,
+        "metal_level": "Silver"
+      },
+      {
+        "plan_name": "Ambetter Balanced Care 1",
+        "issuer": "Ambetter from Superior HealthPlan",
+        "premium_monthly": 342,
+        "deductible": 7200,
+        "metal_level": "Bronze"
+      },
+      {
+        "plan_name": "Oscar Gold Classic",
+        "issuer": "Oscar Health Plan of Texas",
+        "premium_monthly": 628,
+        "deductible": 1500,
+        "metal_level": "Gold"
+      },
+      {
+        "plan_name": "Molina Marketplace Silver",
+        "issuer": "Molina Healthcare of Texas",
+        "premium_monthly": 398,
+        "deductible": 5000,
+        "metal_level": "Silver"
+      },
+      {
+        "plan_name": "Community Health Choice Platinum",
+        "issuer": "Community Health Choice",
+        "premium_monthly": 745,
+        "deductible": 0,
+        "metal_level": "Platinum"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Marketplace Plans",
+    "subtitle": "Texas — 312 plans available for 2026",
+    "itemKey": "plan_name",
+    "secondaryKey": "issuer",
+    "badgeKey": "metal_level"
+  }
+}

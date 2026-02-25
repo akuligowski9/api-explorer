@@ -1,0 +1,16 @@
+{
+  "id": "healthcare-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Blue Cross Silver Plan",
+    "premium": "$412/mo",
+    "deductible": "$2,500",
+    "type": "PPO",
+    "metal_level": "Silver"
+  },
+  "previewConfig": {
+    "title": "Blue Cross Silver Plan",
+    "subtitle": "Healthcare.gov Plan",
+    "displayFields": ["name", "premium", "deductible", "type", "metal_level"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openfda",
+  "previewType": "card",
+  "sampleResponse": {
+    "brand_name": "Ibuprofen",
+    "generic_name": "ibuprofen",
+    "dosage_form": "TABLET",
+    "route": "ORAL",
+    "manufacturer": "Advil"
+  },
+  "previewConfig": {
+    "title": "Ibuprofen",
+    "subtitle": "openFDA Drug",
+    "displayFields": ["brand_name", "generic_name", "dosage_form", "route", "manufacturer"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gbif",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "species": "Panthera leo", "country": "Tanzania", "year": 2023, "latitude": -2.3333, "longitude": 34.8333 },
+      { "species": "Panthera leo", "country": "Kenya", "year": 2022, "latitude": -1.2921, "longitude": 36.8219 },
+      { "species": "Panthera leo", "country": "South Africa", "year": 2023, "latitude": -24.9916, "longitude": 31.5548 },
+      { "species": "Panthera leo", "country": "Botswana", "year": 2021, "latitude": -19.8458, "longitude": 25.1537 },
+      { "species": "Panthera leo", "country": "Zambia", "year": 2022, "latitude": -13.1339, "longitude": 28.2292 }
+    ]
+  },
+  "previewConfig": {
+    "title": "GBIF",
+    "subtitle": "Panthera leo occurrences",
+    "itemKey": "country",
+    "secondaryKey": "species",
+    "badgeKey": "year"
+  }
+}

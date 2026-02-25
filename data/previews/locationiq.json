@@ -1,0 +1,16 @@
+{
+  "id": "locationiq",
+  "previewType": "card",
+  "sampleResponse": {
+    "display_name": "Sydney Opera House, Bennelong Point, Sydney, New South Wales, 2000, Australia",
+    "lat": "-33.8567844",
+    "lon": "151.2152967",
+    "type": "attraction",
+    "class": "tourism"
+  },
+  "previewConfig": {
+    "title": "Sydney Opera House",
+    "subtitle": "LocationIQ Forward Geocode",
+    "displayFields": ["display_name", "lat", "lon", "type", "class"]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "datagov",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Consumer Complaint Database",
+        "organization": "Consumer Financial Protection Bureau",
+        "format": "CSV",
+        "downloads": 2456000,
+        "last_updated": "2025-12-15"
+      },
+      {
+        "title": "Medicare Provider Utilization and Payment Data",
+        "organization": "Centers for Medicare & Medicaid Services",
+        "format": "CSV",
+        "downloads": 1870000,
+        "last_updated": "2025-11-20"
+      },
+      {
+        "title": "FDA Adverse Event Reporting System",
+        "organization": "Food and Drug Administration",
+        "format": "JSON",
+        "downloads": 1342000,
+        "last_updated": "2025-12-01"
+      },
+      {
+        "title": "National Bridge Inventory",
+        "organization": "Federal Highway Administration",
+        "format": "XML",
+        "downloads": 985000,
+        "last_updated": "2025-10-30"
+      },
+      {
+        "title": "Global Historical Climatology Network",
+        "organization": "NOAA",
+        "format": "CSV",
+        "downloads": 876000,
+        "last_updated": "2025-12-10"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Data.gov",
+    "subtitle": "Popular datasets",
+    "itemKey": "title",
+    "secondaryKey": "organization",
+    "badgeKey": "format"
+  }
+}

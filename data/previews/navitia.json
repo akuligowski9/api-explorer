@@ -1,0 +1,43 @@
+{
+  "id": "navitia",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "departure": "09:02",
+        "arrival": "09:18",
+        "duration_min": 16,
+        "transfers": 1,
+        "mode": "Metro Line 1 + RER A"
+      },
+      {
+        "departure": "09:05",
+        "arrival": "09:25",
+        "duration_min": 20,
+        "transfers": 1,
+        "mode": "Metro Line 14 + Metro Line 1"
+      },
+      {
+        "departure": "09:08",
+        "arrival": "09:22",
+        "duration_min": 14,
+        "transfers": 0,
+        "mode": "RER A"
+      },
+      {
+        "departure": "09:12",
+        "arrival": "09:34",
+        "duration_min": 22,
+        "transfers": 2,
+        "mode": "Metro Line 4 + Line 13 + T2"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Navitia",
+    "subtitle": "Paris Metro: Chatelet to La Defense",
+    "itemKey": "mode",
+    "secondaryKey": "departure",
+    "badgeKey": "duration_min"
+  }
+}

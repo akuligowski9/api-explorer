@@ -1,0 +1,16 @@
+{
+  "id": "edamam-nutrition",
+  "previewType": "card",
+  "sampleResponse": {
+    "food": "Avocado",
+    "calories": 160,
+    "fat": "14.7g",
+    "protein": "2g",
+    "fiber": "6.7g"
+  },
+  "previewConfig": {
+    "title": "Avocado",
+    "subtitle": "Edamam Nutrition",
+    "displayFields": ["food", "calories", "fat", "protein", "fiber"]
+  }
+}

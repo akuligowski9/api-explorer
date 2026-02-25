@@ -1,0 +1,20 @@
+{
+  "id": "core",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "A Survey of Deep Learning Techniques for Neural Machine Translation", "authors": "Stahlberg, F.", "year": 2020, "downloadUrl": "https://core.ac.uk/download/324567891.pdf", "source": "University of Cambridge Repository" },
+      { "title": "Attention Is All You Need: A Review and Practical Guide", "authors": "Lin, T. et al.", "year": 2022, "downloadUrl": "https://core.ac.uk/download/412893756.pdf", "source": "arXiv Open Access" },
+      { "title": "Random Forests for Classification in Ecology", "authors": "Cutler, D. R. et al.", "year": 2019, "downloadUrl": "https://core.ac.uk/download/287654123.pdf", "source": "Utah State University" },
+      { "title": "Transfer Learning in Natural Language Processing", "authors": "Ruder, S.", "year": 2021, "downloadUrl": "https://core.ac.uk/download/398712456.pdf", "source": "DeepMind Research Archive" },
+      { "title": "Gradient-Based Optimization for Bayesian Neural Networks", "authors": "Zhang, G. et al.", "year": 2020, "downloadUrl": "https://core.ac.uk/download/356129874.pdf", "source": "University of Oxford Repository" }
+    ]
+  },
+  "previewConfig": {
+    "title": "CORE",
+    "subtitle": "Open access ML papers",
+    "itemKey": "title",
+    "secondaryKey": "authors",
+    "badgeKey": "year"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kroger",
+  "previewType": "card",
+  "sampleResponse": {
+    "description": "Organic Whole Milk",
+    "brand": "Simple Truth",
+    "size": "1 gallon",
+    "price": "$5.99",
+    "aisle": "Dairy"
+  },
+  "previewConfig": {
+    "title": "Organic Whole Milk",
+    "subtitle": "Kroger Product",
+    "displayFields": ["description", "brand", "size", "price", "aisle"]
+  }
+}

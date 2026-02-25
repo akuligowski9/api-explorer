@@ -1,0 +1,50 @@
+{
+  "id": "transitland",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "name": "MTA New York City Transit",
+        "short_name": "NYCT",
+        "vehicles": 6418,
+        "routes": 236,
+        "feed_version": "2025-12-01"
+      },
+      {
+        "name": "MTA Bus Company",
+        "short_name": "MTA Bus",
+        "vehicles": 1285,
+        "routes": 47,
+        "feed_version": "2025-11-15"
+      },
+      {
+        "name": "Long Island Rail Road",
+        "short_name": "LIRR",
+        "vehicles": 1142,
+        "routes": 12,
+        "feed_version": "2025-12-03"
+      },
+      {
+        "name": "Metro-North Railroad",
+        "short_name": "MNR",
+        "vehicles": 876,
+        "routes": 5,
+        "feed_version": "2025-11-28"
+      },
+      {
+        "name": "NJ TRANSIT",
+        "short_name": "NJT",
+        "vehicles": 2010,
+        "routes": 253,
+        "feed_version": "2025-12-05"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Transitland",
+    "subtitle": "Transit operators in New York",
+    "itemKey": "name",
+    "secondaryKey": "short_name",
+    "badgeKey": "routes"
+  }
+}

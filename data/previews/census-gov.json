@@ -1,0 +1,22 @@
+{
+  "id": "census-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "dataset": "American Community Survey",
+    "year": "2024",
+    "records": "3.5M households",
+    "geography": "Block Group",
+    "variables": "20,000"
+  },
+  "previewConfig": {
+    "title": "American Community Survey",
+    "subtitle": "Census.gov Dataset",
+    "displayFields": [
+      "dataset",
+      "year",
+      "records",
+      "geography",
+      "variables"
+    ]
+  }
+}

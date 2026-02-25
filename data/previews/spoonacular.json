@@ -1,0 +1,16 @@
+{
+  "id": "spoonacular",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Chicken Tikka Masala",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "healthScore": 68,
+    "pricePerServing": "$3.42"
+  },
+  "previewConfig": {
+    "title": "Chicken Tikka Masala",
+    "subtitle": "Spoonacular Recipe",
+    "displayFields": ["title", "readyInMinutes", "servings", "healthScore", "pricePerServing"]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cmsgov",
+  "previewType": "list",
+  "sampleResponse": {
+    "zip_code": "10001",
+    "radius_miles": 10,
+    "total_providers": 2841,
+    "providers": [
+      {
+        "provider_name": "Dr. Maria Chen, MD",
+        "specialty": "Internal Medicine",
+        "city": "New York",
+        "accepts_medicare": true,
+        "rating": 4.7
+      },
+      {
+        "provider_name": "Dr. James Okafor, MD",
+        "specialty": "Cardiology",
+        "city": "New York",
+        "accepts_medicare": true,
+        "rating": 4.9
+      },
+      {
+        "provider_name": "Dr. Sarah Patel, DO",
+        "specialty": "Family Practice",
+        "city": "Manhattan",
+        "accepts_medicare": true,
+        "rating": 4.5
+      },
+      {
+        "provider_name": "Dr. Robert Klein, MD",
+        "specialty": "Orthopedic Surgery",
+        "city": "New York",
+        "accepts_medicare": true,
+        "rating": 4.3
+      },
+      {
+        "provider_name": "Dr. Lisa Yamamoto, MD",
+        "specialty": "Dermatology",
+        "city": "New York",
+        "accepts_medicare": true,
+        "rating": 4.6
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Medicare Providers",
+    "subtitle": "Near ZIP 10001 — 2,841 providers",
+    "itemKey": "provider_name",
+    "secondaryKey": "specialty",
+    "badgeKey": "rating"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "opencorporates",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "company_name": "Tesla, Inc.",
+        "jurisdiction": "Delaware, US",
+        "status": "Active",
+        "incorporation_date": "2003-07-01",
+        "registered_address": "3500 Deer Creek Road, Palo Alto, CA 94304"
+      },
+      {
+        "company_name": "Tesla Motors Australia Pty Ltd",
+        "jurisdiction": "New South Wales, AU",
+        "status": "Active",
+        "incorporation_date": "2012-11-16",
+        "registered_address": "Level 14, 225 George Street, Sydney NSW 2000"
+      },
+      {
+        "company_name": "Tesla Motors Canada ULC",
+        "jurisdiction": "British Columbia, CA",
+        "status": "Active",
+        "incorporation_date": "2010-03-22",
+        "registered_address": "1055 W Georgia Street, Vancouver, BC V6E 3P3"
+      },
+      {
+        "company_name": "Tesla Manufacturing Brandenburg SE",
+        "jurisdiction": "Brandenburg, DE",
+        "status": "Active",
+        "incorporation_date": "2019-10-18",
+        "registered_address": "Tesla Strasse 1, 15537 Grunheide, Germany"
+      },
+      {
+        "company_name": "Tesla Motors (Shanghai) Co., Ltd.",
+        "jurisdiction": "Shanghai, CN",
+        "status": "Active",
+        "incorporation_date": "2018-05-10",
+        "registered_address": "3911 Lingang Avenue, Pudong, Shanghai"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "OpenCorporates",
+    "subtitle": "Search results for \"Tesla\"",
+    "itemKey": "company_name",
+    "secondaryKey": "jurisdiction",
+    "badgeKey": "status"
+  }
+}

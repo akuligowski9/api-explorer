@@ -1,0 +1,50 @@
+{
+  "id": "google-books",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "authors": "Stuart Russell, Peter Norvig",
+        "publishedDate": "2020-04-28",
+        "pageCount": 1136,
+        "averageRating": 4.5
+      },
+      {
+        "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+        "authors": "Max Tegmark",
+        "publishedDate": "2017-08-29",
+        "pageCount": 384,
+        "averageRating": 4.3
+      },
+      {
+        "title": "Superintelligence: Paths, Dangers, Strategies",
+        "authors": "Nick Bostrom",
+        "publishedDate": "2014-07-03",
+        "pageCount": 352,
+        "averageRating": 4.1
+      },
+      {
+        "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+        "authors": "Stuart Russell",
+        "publishedDate": "2019-10-08",
+        "pageCount": 336,
+        "averageRating": 4.4
+      },
+      {
+        "title": "The Alignment Problem: Machine Learning and Human Values",
+        "authors": "Brian Christian",
+        "publishedDate": "2020-10-06",
+        "pageCount": 496,
+        "averageRating": 4.2
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Google Books",
+    "subtitle": "Search results for \"artificial intelligence\"",
+    "itemKey": "title",
+    "secondaryKey": "authors",
+    "badgeKey": "averageRating"
+  }
+}

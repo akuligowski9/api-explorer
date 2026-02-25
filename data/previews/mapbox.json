@@ -1,0 +1,16 @@
+{
+  "id": "mapbox",
+  "previewType": "card",
+  "sampleResponse": {
+    "place_name": "Central Park, New York, New York 10024, United States",
+    "coordinates": "-73.9654, 40.7829",
+    "relevance": "1.0",
+    "type": "poi",
+    "bbox": "-73.9812,40.7649,-73.9496,40.8006"
+  },
+  "previewConfig": {
+    "title": "Central Park, NYC",
+    "subtitle": "Mapbox Geocoding",
+    "displayFields": ["place_name", "coordinates", "relevance", "type", "bbox"]
+  }
+}

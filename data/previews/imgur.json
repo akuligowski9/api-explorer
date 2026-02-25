@@ -1,0 +1,16 @@
+{
+  "id": "imgur",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "City Skyline at Dusk",
+    "views": "156,203",
+    "ups": 4821,
+    "downs": 127,
+    "type": "image/jpeg"
+  },
+  "previewConfig": {
+    "title": "City Skyline at Dusk",
+    "subtitle": "Imgur Image",
+    "displayFields": ["title", "views", "ups", "downs", "type"]
+  }
+}

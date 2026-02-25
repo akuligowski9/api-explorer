@@ -1,0 +1,50 @@
+{
+  "id": "federal-register",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Establishing the Department of Government Efficiency",
+        "document_number": "2025-02164",
+        "publication_date": "2025-01-29",
+        "type": "Executive Order",
+        "agency": "Executive Office of the President"
+      },
+      {
+        "title": "Protecting the American People Against Invasion",
+        "document_number": "2025-02281",
+        "publication_date": "2025-01-25",
+        "type": "Executive Order",
+        "agency": "Executive Office of the President"
+      },
+      {
+        "title": "Unleashing American Energy",
+        "document_number": "2025-02098",
+        "publication_date": "2025-01-24",
+        "type": "Executive Order",
+        "agency": "Executive Office of the President"
+      },
+      {
+        "title": "Regulatory Freeze Pending Review",
+        "document_number": "2025-02090",
+        "publication_date": "2025-01-23",
+        "type": "Executive Order",
+        "agency": "Executive Office of the President"
+      },
+      {
+        "title": "Restoring Accountability for Career Senior Executives",
+        "document_number": "2025-02367",
+        "publication_date": "2025-01-31",
+        "type": "Executive Order",
+        "agency": "Executive Office of the President"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Federal Register",
+    "subtitle": "Recent executive orders",
+    "itemKey": "title",
+    "secondaryKey": "publication_date",
+    "badgeKey": "type"
+  }
+}

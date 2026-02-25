@@ -1,0 +1,16 @@
+{
+  "id": "bhagavad-gita",
+  "previewType": "card",
+  "sampleResponse": {
+    "text": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+    "transliteration": "karmaṇy evādhikāras te mā phaleṣhu kadāchana mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi",
+    "word_meanings": "karmaṇi—in prescribed duties; eva—only; adhikāraḥ—right; te—your; mā—not; phaleṣhu—in the fruits; kadāchana—at any time; mā—never; karma-phala—results of activities; hetuḥ—cause; bhūḥ—be; mā—not; te—your; saṅgaḥ—attachment; astu—let there be; akarmaṇi—in inaction",
+    "chapter_name": "Contents of the Gita Summarized",
+    "verse_number": 47
+  },
+  "previewConfig": {
+    "title": "Bhagavad Gita",
+    "subtitle": "Chapter 2, Verse 47",
+    "displayFields": ["text", "transliteration", "word_meanings", "chapter_name", "verse_number"]
+  }
+}

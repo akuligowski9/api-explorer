@@ -1,0 +1,52 @@
+{
+  "id": "fooddata-central",
+  "previewType": "list",
+  "sampleResponse": {
+    "query": "salmon",
+    "total_results": 1847,
+    "foods": [
+      {
+        "description": "Salmon, Atlantic, wild, raw",
+        "brand": "",
+        "calories": 142,
+        "protein_g": 19.8,
+        "category": "Finfish and Shellfish"
+      },
+      {
+        "description": "Salmon, sockeye, canned, drained",
+        "brand": "Bumble Bee",
+        "calories": 153,
+        "protein_g": 23.1,
+        "category": "Finfish and Shellfish"
+      },
+      {
+        "description": "Salmon, smoked (lox)",
+        "brand": "",
+        "calories": 117,
+        "protein_g": 18.3,
+        "category": "Finfish and Shellfish"
+      },
+      {
+        "description": "Salmon, pink, canned with bone",
+        "brand": "Chicken of the Sea",
+        "calories": 136,
+        "protein_g": 21.7,
+        "category": "Finfish and Shellfish"
+      },
+      {
+        "description": "Salmon, coho, farmed, cooked",
+        "brand": "",
+        "calories": 178,
+        "protein_g": 24.3,
+        "category": "Finfish and Shellfish"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "FoodData Central Search",
+    "subtitle": "\"salmon\" — 1,847 results",
+    "itemKey": "description",
+    "secondaryKey": "category",
+    "badgeKey": "calories"
+  }
+}

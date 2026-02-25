@@ -1,0 +1,16 @@
+{
+  "id": "pexels",
+  "previewType": "card",
+  "sampleResponse": {
+    "photographer": "John Smith",
+    "width": "4000",
+    "height": "2667",
+    "alt": "Mountain lake at sunset",
+    "avg_color": "#4a6741"
+  },
+  "previewConfig": {
+    "title": "Mountain Lake at Sunset",
+    "subtitle": "Pexels Photo",
+    "displayFields": ["photographer", "width", "height", "alt", "avg_color"]
+  }
+}

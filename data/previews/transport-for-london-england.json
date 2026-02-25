@@ -1,0 +1,50 @@
+{
+  "id": "transport-for-london-england",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "name": "Bakerloo",
+        "status": "Good Service",
+        "reason": "",
+        "severity": 0,
+        "mode": "Tube"
+      },
+      {
+        "name": "Central",
+        "status": "Minor Delays",
+        "reason": "Minor delays due to an earlier signal failure at Holborn",
+        "severity": 6,
+        "mode": "Tube"
+      },
+      {
+        "name": "Elizabeth",
+        "status": "Good Service",
+        "reason": "",
+        "severity": 0,
+        "mode": "Tube"
+      },
+      {
+        "name": "Northern",
+        "status": "Part Suspended",
+        "reason": "No service between Moorgate and Kennington due to planned engineering work",
+        "severity": 8,
+        "mode": "Tube"
+      },
+      {
+        "name": "Victoria",
+        "status": "Good Service",
+        "reason": "",
+        "severity": 0,
+        "mode": "Tube"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Transport for London",
+    "subtitle": "Tube line statuses",
+    "itemKey": "name",
+    "secondaryKey": "status",
+    "badgeKey": "severity"
+  }
+}

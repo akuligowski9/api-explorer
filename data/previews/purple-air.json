@@ -1,0 +1,25 @@
+{
+  "id": "purple-air",
+  "previewType": "card",
+  "sampleResponse": {
+    "sensor": {
+      "name": "SF Mission District",
+      "location_type": 0,
+      "latitude": 37.7599,
+      "longitude": -122.4148,
+      "pm2_5": 12.3,
+      "pm10": 18.7,
+      "temperature": 62,
+      "humidity": 71,
+      "pressure": 1013.2,
+      "aqi_category": "Good",
+      "aqi_value": 51,
+      "last_seen": "2025-10-14T18:32:00Z"
+    }
+  },
+  "previewConfig": {
+    "title": "SF Mission District",
+    "subtitle": "PurpleAir Sensor",
+    "displayFields": ["sensor.pm2_5", "sensor.temperature", "sensor.humidity", "sensor.pressure", "sensor.aqi_category"]
+  }
+}

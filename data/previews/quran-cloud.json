@@ -1,0 +1,16 @@
+{
+  "id": "quran-cloud",
+  "previewType": "card",
+  "sampleResponse": {
+    "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful",
+    "surah_name": "Al-Fatiha",
+    "revelation_type": "Meccan",
+    "number_of_ayahs": 7,
+    "juz": 1
+  },
+  "previewConfig": {
+    "title": "Quran Cloud",
+    "subtitle": "Surah Al-Fatiha, Verse 1",
+    "displayFields": ["text", "surah_name", "revelation_type", "number_of_ayahs", "juz"]
+  }
+}

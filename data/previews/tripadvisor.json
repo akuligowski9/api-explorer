@@ -1,0 +1,22 @@
+{
+  "id": "tripadvisor",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Louvre Museum",
+    "rating": "4.5",
+    "num_reviews": "128,432",
+    "ranking": "#1 of 3,289 things to do",
+    "address": "Paris, France"
+  },
+  "previewConfig": {
+    "title": "Louvre Museum",
+    "subtitle": "TripAdvisor Location",
+    "displayFields": [
+      "name",
+      "rating",
+      "num_reviews",
+      "ranking",
+      "address"
+    ]
+  }
+}

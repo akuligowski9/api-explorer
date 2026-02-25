@@ -1,0 +1,16 @@
+{
+  "id": "cms-gov",
+  "previewType": "card",
+  "sampleResponse": {
+    "provider_name": "Johns Hopkins Hospital",
+    "city": "Baltimore",
+    "state": "MD",
+    "overall_rating": "5 stars",
+    "type": "Acute Care"
+  },
+  "previewConfig": {
+    "title": "Johns Hopkins Hospital",
+    "subtitle": "CMS.gov Provider",
+    "displayFields": ["provider_name", "city", "state", "overall_rating", "type"]
+  }
+}

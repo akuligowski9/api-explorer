@@ -1,0 +1,21 @@
+{
+  "id": "usgs-water-services",
+  "previewType": "card",
+  "sampleResponse": {
+    "site_name": "Colorado River at Lees Ferry, AZ",
+    "site_code": "09380000",
+    "discharge_cfs": 11400,
+    "gage_height_ft": 8.42,
+    "water_temp_c": 10.2,
+    "measurement_date": "2025-10-14T12:00:00-07:00",
+    "drainage_area_sq_mi": 111800,
+    "agency": "USGS",
+    "state": "Arizona",
+    "county": "Coconino"
+  },
+  "previewConfig": {
+    "title": "Colorado River at Lees Ferry",
+    "subtitle": "USGS Water Services",
+    "displayFields": ["discharge_cfs", "gage_height_ft", "water_temp_c", "site_name", "measurement_date"]
+  }
+}

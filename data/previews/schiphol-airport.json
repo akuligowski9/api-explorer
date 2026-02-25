@@ -1,0 +1,22 @@
+{
+  "id": "schiphol-airport",
+  "previewType": "card",
+  "sampleResponse": {
+    "flightName": "KL 1009",
+    "destination": "London Heathrow",
+    "terminal": "2",
+    "gate": "D47",
+    "status": "Boarding"
+  },
+  "previewConfig": {
+    "title": "KL 1009",
+    "subtitle": "Schiphol Airport Flight Info",
+    "displayFields": [
+      "flightName",
+      "destination",
+      "terminal",
+      "gate",
+      "status"
+    ]
+  }
+}

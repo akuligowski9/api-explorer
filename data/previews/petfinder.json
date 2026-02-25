@@ -1,0 +1,52 @@
+{
+  "id": "petfinder",
+  "previewType": "list",
+  "sampleResponse": {
+    "location": "Austin, TX",
+    "total_count": 187,
+    "animals": [
+      {
+        "name": "Biscuit",
+        "breed": "Labrador Retriever Mix",
+        "age": "Young",
+        "gender": "Male",
+        "distance_miles": 3.2
+      },
+      {
+        "name": "Luna",
+        "breed": "Australian Shepherd",
+        "age": "Adult",
+        "gender": "Female",
+        "distance_miles": 5.7
+      },
+      {
+        "name": "Copper",
+        "breed": "Beagle / Hound Mix",
+        "age": "Puppy",
+        "gender": "Male",
+        "distance_miles": 7.1
+      },
+      {
+        "name": "Rosie",
+        "breed": "Pit Bull Terrier",
+        "age": "Adult",
+        "gender": "Female",
+        "distance_miles": 8.4
+      },
+      {
+        "name": "Scout",
+        "breed": "Border Collie Mix",
+        "age": "Senior",
+        "gender": "Male",
+        "distance_miles": 11.3
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Adoptable Dogs",
+    "subtitle": "Near Austin, TX — 187 available",
+    "itemKey": "name",
+    "secondaryKey": "breed",
+    "badgeKey": "age"
+  }
+}

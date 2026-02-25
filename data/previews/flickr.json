@@ -1,0 +1,16 @@
+{
+  "id": "flickr",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Autumn in Kyoto",
+    "owner": "tanaka_photo",
+    "views": "42,831",
+    "date_taken": "2024-11-03 14:22:08",
+    "tags": "autumn kyoto japan temple leaves"
+  },
+  "previewConfig": {
+    "title": "Autumn in Kyoto",
+    "subtitle": "Flickr Photo",
+    "displayFields": ["title", "owner", "views", "date_taken", "tags"]
+  }
+}

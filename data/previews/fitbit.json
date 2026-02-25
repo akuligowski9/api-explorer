@@ -1,0 +1,16 @@
+{
+  "id": "fitbit",
+  "previewType": "card",
+  "sampleResponse": {
+    "steps": 12483,
+    "distance": "9.2 km",
+    "calories": 2841,
+    "activeMinutes": 68,
+    "floors": 14
+  },
+  "previewConfig": {
+    "title": "Daily Activity Summary",
+    "subtitle": "Fitbit",
+    "displayFields": ["steps", "distance", "calories", "activeMinutes", "floors"]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cats",
+  "previewType": "list",
+  "sampleResponse": {
+    "total_breeds": 67,
+    "breeds": [
+      {
+        "breed": "Maine Coon",
+        "origin": "United States",
+        "temperament": "Gentle, Intelligent, Playful",
+        "life_span": "12-15 years",
+        "weight_kg": "5.9-8.2"
+      },
+      {
+        "breed": "Siamese",
+        "origin": "Thailand",
+        "temperament": "Affectionate, Social, Vocal",
+        "life_span": "12-20 years",
+        "weight_kg": "3.6-5.4"
+      },
+      {
+        "breed": "Bengal",
+        "origin": "United States",
+        "temperament": "Alert, Agile, Energetic",
+        "life_span": "10-16 years",
+        "weight_kg": "3.6-6.8"
+      },
+      {
+        "breed": "British Shorthair",
+        "origin": "United Kingdom",
+        "temperament": "Calm, Loyal, Patient",
+        "life_span": "12-17 years",
+        "weight_kg": "4.1-7.7"
+      },
+      {
+        "breed": "Abyssinian",
+        "origin": "Ethiopia",
+        "temperament": "Curious, Active, Friendly",
+        "life_span": "14-17 years",
+        "weight_kg": "3.2-5.4"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Cat Breeds",
+    "subtitle": "67 breeds cataloged",
+    "itemKey": "breed",
+    "secondaryKey": "origin",
+    "badgeKey": "life_span"
+  }
+}

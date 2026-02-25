@@ -1,0 +1,16 @@
+{
+  "id": "edamam-recipes",
+  "previewType": "card",
+  "sampleResponse": {
+    "label": "Thai Green Curry",
+    "calories": "482 kcal",
+    "totalTime": "35 min",
+    "cuisineType": "South East Asian",
+    "mealType": "Dinner"
+  },
+  "previewConfig": {
+    "title": "Thai Green Curry",
+    "subtitle": "Edamam Recipe",
+    "displayFields": ["label", "calories", "totalTime", "cuisineType", "mealType"]
+  }
+}

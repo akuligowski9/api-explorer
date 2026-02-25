@@ -1,0 +1,20 @@
+{
+  "id": "arcsecondio",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "name": "M42 - Orion Nebula", "type": "emission nebula", "ra": "05h 35m 17.3s", "dec": "-05° 23' 28\"", "magnitude": 4.0 },
+      { "name": "M43 - De Mairan's Nebula", "type": "emission nebula", "ra": "05h 35m 31.4s", "dec": "-05° 16' 03\"", "magnitude": 9.0 },
+      { "name": "Trapezium Cluster", "type": "open cluster", "ra": "05h 35m 16.5s", "dec": "-05° 23' 23\"", "magnitude": 4.7 },
+      { "name": "NGC 1977 - Running Man Nebula", "type": "reflection nebula", "ra": "05h 35m 31.0s", "dec": "-04° 52' 12\"", "magnitude": 7.0 },
+      { "name": "NGC 1980 - Lost Jewel of Orion", "type": "open cluster", "ra": "05h 35m 25.9s", "dec": "-05° 54' 36\"", "magnitude": 2.5 }
+    ]
+  },
+  "previewConfig": {
+    "title": "Arcsecond.io",
+    "subtitle": "Objects near Orion Nebula",
+    "itemKey": "name",
+    "secondaryKey": "type",
+    "badgeKey": "magnitude"
+  }
+}

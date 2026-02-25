@@ -1,0 +1,18 @@
+{
+  "id": "wikidata",
+  "previewType": "card",
+  "sampleResponse": {
+    "label": "Albert Einstein",
+    "birth_date": "1879-03-14",
+    "birth_place": "Ulm, Germany",
+    "occupation": "Theoretical physicist",
+    "awards": 12,
+    "nationality": "German, Swiss, American",
+    "known_for": "Theory of Relativity"
+  },
+  "previewConfig": {
+    "title": "Wikidata",
+    "subtitle": "Entity lookup for Albert Einstein",
+    "displayFields": ["label", "birth_date", "birth_place", "occupation", "awards", "nationality", "known_for"]
+  }
+}

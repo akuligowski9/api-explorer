@@ -1,0 +1,20 @@
+{
+  "id": "nasa-ads",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "title": "A Terrestrial Planet Candidate in a Temperate Orbit around Proxima Centauri", "author": "Anglada-Escudé, G.", "year": 2016, "citation_count": 1247, "journal": "Nature" },
+      { "title": "Seven Temperate Terrestrial Planets around the Nearby Ultracool Dwarf Star TRAPPIST-1", "author": "Gillon, M.", "year": 2017, "citation_count": 2134, "journal": "Nature" },
+      { "title": "Transit Detection of a Starless Rogue Planet Candidate", "author": "Mróz, P.", "year": 2020, "citation_count": 312, "journal": "The Astrophysical Journal Letters" },
+      { "title": "The HARPS Search for Southern Extra-Solar Planets", "author": "Mayor, M.", "year": 2011, "citation_count": 896, "journal": "Astronomy & Astrophysics" },
+      { "title": "Masses, Radii, and Orbits of Small Kepler Planets", "author": "Marcy, G. W.", "year": 2014, "citation_count": 715, "journal": "The Astrophysical Journal Supplement Series" }
+    ]
+  },
+  "previewConfig": {
+    "title": "NASA ADS",
+    "subtitle": "Exoplanet detection papers",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "citation_count"
+  }
+}

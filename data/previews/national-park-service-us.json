@@ -1,0 +1,22 @@
+{
+  "id": "national-park-service-us",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Yellowstone",
+    "designation": "National Park",
+    "states": "WY, MT, ID",
+    "visitors": "4.86M",
+    "established": "1872-03-01"
+  },
+  "previewConfig": {
+    "title": "Yellowstone",
+    "subtitle": "National Park Service Park Info",
+    "displayFields": [
+      "name",
+      "designation",
+      "states",
+      "visitors",
+      "established"
+    ]
+  }
+}

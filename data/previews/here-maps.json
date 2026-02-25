@@ -1,0 +1,16 @@
+{
+  "id": "here-maps",
+  "previewType": "card",
+  "sampleResponse": {
+    "distance": "574.3 km",
+    "duration": "5 hr 42 min",
+    "origin": "Berlin, Germany",
+    "destination": "Munich, Germany",
+    "mode": "car"
+  },
+  "previewConfig": {
+    "title": "Berlin to Munich",
+    "subtitle": "HERE Maps Routing",
+    "displayFields": ["origin", "destination", "distance", "duration", "mode"]
+  }
+}

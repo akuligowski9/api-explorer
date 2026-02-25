@@ -1,0 +1,16 @@
+{
+  "id": "tomtom",
+  "previewType": "card",
+  "sampleResponse": {
+    "address": "Times Square, Manhattan, NY 10036",
+    "position": "40.7580, -73.9855",
+    "score": "9.87",
+    "type": "POI",
+    "freeFormAddress": "Times Square, New York, NY 10036, United States"
+  },
+  "previewConfig": {
+    "title": "Times Square",
+    "subtitle": "TomTom Search",
+    "displayFields": ["address", "position", "score", "type", "freeFormAddress"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "what3words",
+  "previewType": "card",
+  "sampleResponse": {
+    "words": "filled.count.soap",
+    "country": "GB",
+    "nearestPlace": "Bayswater, London",
+    "language": "en",
+    "map": "https://w3w.co/filled.count.soap"
+  },
+  "previewConfig": {
+    "title": "///filled.count.soap",
+    "subtitle": "What3Words Convert",
+    "displayFields": ["words", "country", "nearestPlace", "language", "map"]
+  }
+}

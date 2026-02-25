@@ -1,0 +1,22 @@
+{
+  "id": "fred",
+  "previewType": "card",
+  "sampleResponse": {
+    "series_id": "GDP",
+    "title": "Gross Domestic Product",
+    "frequency": "Quarterly",
+    "value": "$27.36T",
+    "observation_date": "2024-Q4"
+  },
+  "previewConfig": {
+    "title": "Gross Domestic Product",
+    "subtitle": "FRED Economic Data Series",
+    "displayFields": [
+      "series_id",
+      "title",
+      "frequency",
+      "value",
+      "observation_date"
+    ]
+  }
+}

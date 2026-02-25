@@ -1,0 +1,51 @@
+{
+  "id": "movebank",
+  "previewType": "list",
+  "sampleResponse": {
+    "total_studies": 4821,
+    "studies": [
+      {
+        "name": "Serengeti Wildebeest Migration",
+        "species": "Connochaetes taurinus",
+        "num_individuals": 35,
+        "num_locations": 184720,
+        "principal_investigator": "Dr. Sarah Durant"
+      },
+      {
+        "name": "Arctic Tern Global Tracking",
+        "species": "Sterna paradisaea",
+        "num_individuals": 22,
+        "num_locations": 97450,
+        "principal_investigator": "Dr. Carsten Egevang"
+      },
+      {
+        "name": "European Stork Migration",
+        "species": "Ciconia ciconia",
+        "num_individuals": 48,
+        "num_locations": 256300,
+        "principal_investigator": "Dr. Andrea Flack"
+      },
+      {
+        "name": "Grey Wolf Pack Dynamics - Yellowstone",
+        "species": "Canis lupus",
+        "num_individuals": 18,
+        "num_locations": 63210,
+        "principal_investigator": "Dr. Daniel Stahler"
+      },
+      {
+        "name": "Humpback Whale South Pacific",
+        "species": "Megaptera novaeangliae",
+        "num_individuals": 12,
+        "num_locations": 28940,
+        "principal_investigator": "Dr. Claire Garrigue"
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Animal Tracking Studies",
+    "subtitle": "Movebank — 4,821 studies",
+    "itemKey": "name",
+    "secondaryKey": "species",
+    "badgeKey": "num_individuals"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "giphy",
+  "previewType": "card",
+  "sampleResponse": {
+    "title": "Excited Cat",
+    "rating": "g",
+    "source": "reddit",
+    "trending": true,
+    "type": "gif"
+  },
+  "previewConfig": {
+    "title": "Excited Cat",
+    "subtitle": "Giphy GIF",
+    "displayFields": ["title", "rating", "source", "trending", "type"]
+  }
+}

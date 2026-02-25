@@ -1,0 +1,20 @@
+{
+  "id": "satellite-passes",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      { "risetime": "2025-10-15T03:14:00Z", "duration_sec": 362, "max_elevation": 78, "direction": "NW to SE", "magnitude": -3.2 },
+      { "risetime": "2025-10-15T04:51:00Z", "duration_sec": 241, "max_elevation": 34, "direction": "W to S", "magnitude": -1.8 },
+      { "risetime": "2025-10-16T02:27:00Z", "duration_sec": 398, "max_elevation": 85, "direction": "NW to E", "magnitude": -3.5 },
+      { "risetime": "2025-10-16T04:03:00Z", "duration_sec": 187, "max_elevation": 21, "direction": "SW to S", "magnitude": -0.9 },
+      { "risetime": "2025-10-17T03:16:00Z", "duration_sec": 345, "max_elevation": 62, "direction": "W to SE", "magnitude": -2.7 }
+    ]
+  },
+  "previewConfig": {
+    "title": "ISS Passes",
+    "subtitle": "Visible passes over Tokyo",
+    "itemKey": "risetime",
+    "secondaryKey": "direction",
+    "badgeKey": "max_elevation"
+  }
+}

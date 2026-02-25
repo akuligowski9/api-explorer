@@ -1,0 +1,16 @@
+{
+  "id": "wallhaven",
+  "previewType": "card",
+  "sampleResponse": {
+    "resolution": "3840x2160",
+    "category": "General",
+    "purity": "SFW",
+    "views": "84,291",
+    "favorites": "2,103"
+  },
+  "previewConfig": {
+    "title": "4K Wallpaper",
+    "subtitle": "Wallhaven",
+    "displayFields": ["resolution", "category", "purity", "views", "favorites"]
+  }
+}

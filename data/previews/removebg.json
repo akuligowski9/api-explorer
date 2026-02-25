@@ -1,0 +1,24 @@
+{
+  "id": "removebg",
+  "previewType": "card",
+  "sampleResponse": {
+    "foreground_top": 42,
+    "foreground_left": 118,
+    "foreground_width": 1684,
+    "foreground_height": 2310,
+    "result_size_kb": 847,
+    "credits_charged": 1
+  },
+  "previewConfig": {
+    "title": "Background Removal",
+    "subtitle": "Image processing result",
+    "displayFields": [
+      "foreground_top",
+      "foreground_left",
+      "foreground_width",
+      "foreground_height",
+      "result_size_kb",
+      "credits_charged"
+    ]
+  }
+}

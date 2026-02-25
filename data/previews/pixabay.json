@@ -1,0 +1,16 @@
+{
+  "id": "pixabay",
+  "previewType": "card",
+  "sampleResponse": {
+    "tags": "nature, forest, sunrise",
+    "views": "128,432",
+    "downloads": "34,210",
+    "likes": "1,842",
+    "imageType": "photo"
+  },
+  "previewConfig": {
+    "title": "Nature Forest Sunrise",
+    "subtitle": "Pixabay Image",
+    "displayFields": ["tags", "views", "downloads", "likes", "imageType"]
+  }
+}

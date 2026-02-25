@@ -1,0 +1,16 @@
+{
+  "id": "nutritionix",
+  "previewType": "card",
+  "sampleResponse": {
+    "food_name": "Grilled Salmon",
+    "calories": 367,
+    "protein": "34g",
+    "fat": "22g",
+    "serving_size": "6 oz"
+  },
+  "previewConfig": {
+    "title": "Grilled Salmon",
+    "subtitle": "Nutritionix Food",
+    "displayFields": ["food_name", "calories", "protein", "fat", "serving_size"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opencage",
+  "previewType": "card",
+  "sampleResponse": {
+    "formatted": "Big Ben, Bridge Street, Westminster, London, SW1A 0AA, United Kingdom",
+    "lat": "51.5007292",
+    "lng": "-0.1246254",
+    "confidence": "10",
+    "timezone": "Europe/London"
+  },
+  "previewConfig": {
+    "title": "Big Ben, London",
+    "subtitle": "OpenCage Geocoding",
+    "displayFields": ["formatted", "lat", "lng", "confidence", "timezone"]
+  }
+}

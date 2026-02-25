@@ -1,0 +1,16 @@
+{
+  "id": "arcsecond-io",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Andromeda Galaxy",
+    "type": "Galaxy",
+    "constellation": "Andromeda",
+    "magnitude": "3.44",
+    "distance": "2.537 Mly"
+  },
+  "previewConfig": {
+    "title": "Astronomical Object",
+    "subtitle": "Andromeda Galaxy",
+    "displayFields": ["type", "constellation", "magnitude", "distance"]
+  }
+}

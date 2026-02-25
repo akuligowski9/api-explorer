@@ -1,0 +1,16 @@
+{
+  "id": "uber",
+  "previewType": "card",
+  "sampleResponse": {
+    "product": "UberX",
+    "estimate": "$18-24",
+    "distance_miles": 12.3,
+    "duration_min": 22,
+    "surge_multiplier": 1.0
+  },
+  "previewConfig": {
+    "title": "Uber",
+    "subtitle": "Price estimate: San Francisco to Oakland",
+    "displayFields": ["product", "estimate", "distance_miles", "duration_min", "surge_multiplier"]
+  }
+}

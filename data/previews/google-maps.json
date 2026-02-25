@@ -1,0 +1,16 @@
+{
+  "id": "google-maps",
+  "previewType": "card",
+  "sampleResponse": {
+    "formatted_address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+    "lat": "48.8583701",
+    "lng": "2.2944813",
+    "place_id": "ChIJLU7jZClu5kcR4PcOOO6p3I0",
+    "types": "tourist_attraction"
+  },
+  "previewConfig": {
+    "title": "Eiffel Tower",
+    "subtitle": "Google Maps Geocoding",
+    "displayFields": ["formatted_address", "lat", "lng", "place_id", "types"]
+  }
+}

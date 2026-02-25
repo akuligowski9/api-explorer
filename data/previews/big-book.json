@@ -1,0 +1,50 @@
+{
+  "id": "big-book",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "rating": 4.6,
+        "pages": 688,
+        "publish_year": 1965
+      },
+      {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "rating": 4.2,
+        "pages": 271,
+        "publish_year": 1984
+      },
+      {
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.3,
+        "pages": 304,
+        "publish_year": 1969
+      },
+      {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "rating": 4.5,
+        "pages": 324,
+        "publish_year": 1985
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "rating": 4.7,
+        "pages": 193,
+        "publish_year": 1979
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Big Book API",
+    "subtitle": "Search results for \"science fiction\"",
+    "itemKey": "title",
+    "secondaryKey": "author",
+    "badgeKey": "rating"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tasty",
+  "previewType": "card",
+  "sampleResponse": {
+    "name": "Classic Beef Lasagna",
+    "prep_time": "30 min",
+    "cook_time": "1 hour",
+    "servings": 8,
+    "rating": "4.8/5"
+  },
+  "previewConfig": {
+    "title": "Classic Beef Lasagna",
+    "subtitle": "Tasty Recipe",
+    "displayFields": ["name", "prep_time", "cook_time", "servings", "rating"]
+  }
+}

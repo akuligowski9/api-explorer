@@ -1,0 +1,50 @@
+{
+  "id": "amadeus-for-developers",
+  "previewType": "list",
+  "sampleResponse": {
+    "items": [
+      {
+        "airline": "Delta Air Lines",
+        "departure": "2025-03-15T08:00",
+        "arrival": "2025-03-15T11:15",
+        "duration": "5h 15m",
+        "price_usd": 287
+      },
+      {
+        "airline": "JetBlue Airways",
+        "departure": "2025-03-15T06:30",
+        "arrival": "2025-03-15T09:50",
+        "duration": "5h 20m",
+        "price_usd": 249
+      },
+      {
+        "airline": "American Airlines",
+        "departure": "2025-03-15T10:45",
+        "arrival": "2025-03-15T14:05",
+        "duration": "5h 20m",
+        "price_usd": 312
+      },
+      {
+        "airline": "United Airlines",
+        "departure": "2025-03-15T14:20",
+        "arrival": "2025-03-15T17:30",
+        "duration": "5h 10m",
+        "price_usd": 298
+      },
+      {
+        "airline": "Alaska Airlines",
+        "departure": "2025-03-15T19:00",
+        "arrival": "2025-03-15T22:25",
+        "duration": "5h 25m",
+        "price_usd": 235
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Amadeus for Developers",
+    "subtitle": "Flight offers JFK to LAX",
+    "itemKey": "airline",
+    "secondaryKey": "duration",
+    "badgeKey": "price_usd"
+  }
+}
