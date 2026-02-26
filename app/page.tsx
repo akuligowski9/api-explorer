@@ -23,7 +23,7 @@ export default function Home() {
         </p>
         <p className="mt-2">
           <a
-            href="https://github.com/akuligowski9/api-explorer"
+            href="https://github.com/akuligowski9/api-gallery"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-4 hover:text-foreground"
@@ -32,7 +32,7 @@ export default function Home() {
           </a>
           {" "}&middot;{" "}
           <a
-            href="https://github.com/akuligowski9/api-explorer/blob/main/CONTRIBUTING.md"
+            href="https://github.com/akuligowski9/api-gallery/blob/main/CONTRIBUTING.md"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-4 hover:text-foreground"

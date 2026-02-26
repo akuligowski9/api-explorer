@@ -1,13 +1,13 @@
 {
-  "name": "api-explorer",
+  "name": "api-gallery",
   "version": "2.1.0",
   "private": true,
   "description": "A visual front-end for 1,500+ public APIs with rendered sample data previews, side-by-side comparison, and instant docs.",
-  "keywords": ["api", "public-apis", "api-catalog", "api-explorer", "developer-tools", "nextjs", "react"],
+  "keywords": ["api", "public-apis", "api-catalog", "api-gallery", "developer-tools", "nextjs", "react"],
   "homepage": "https://public-apis-explorer.vercel.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akuligowski9/api-explorer.git"
+    "url": "https://github.com/akuligowski9/api-gallery.git"
   },
   "scripts": {
     "dev": "next dev --turbopack",

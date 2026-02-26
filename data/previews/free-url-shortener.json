@@ -2,7 +2,7 @@
   "id": "free-url-shortener",
   "previewType": "card",
   "sampleResponse": {
-    "original_url": "https://github.com/akuligowski9/api-explorer/releases/v1.0.0",
+    "original_url": "https://github.com/akuligowski9/api-gallery/releases/v1.0.0",
     "short_url": "https://bit.ly/4xKp9Qm",
     "clicks": 1842,
     "created": "Feb 20, 2026",

@@ -24,10 +24,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!api) return {};
 
   return {
-    title: `${api.API} — API Explorer`,
+    title: `${api.API} — API Gallery`,
     description: `${api.Description}. Explore the ${api.API} with visual previews, sample data, and documentation.`,
     openGraph: {
-      title: `${api.API} — API Explorer`,
+      title: `${api.API} — API Gallery`,
       description: api.Description,
     },
   };

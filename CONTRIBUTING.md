@@ -1,12 +1,12 @@
-# Contributing to API Explorer
+# Contributing to API Gallery
 
 Thanks for your interest in contributing! This project thrives on community contributions - whether it's adding new API previews, improving existing ones, or enhancing the UI.
 
 ## Quick start
 
 ```bash
-git clone https://github.com/akuligowski9/api-explorer.git
-cd api-explorer
+git clone https://github.com/akuligowski9/api-gallery.git
+cd api-gallery
 npm install
 npm run dev
 ```
@@ -67,7 +67,7 @@ Found a preview that could look better? Open a PR! Common improvements:
 - UI/UX improvements
 - New feature ideas
 
-Use the [issue templates](https://github.com/akuligowski9/api-explorer/issues/new/choose) to get started.
+Use the [issue templates](https://github.com/akuligowski9/api-gallery/issues/new/choose) to get started.
 
 ## Development guidelines
 

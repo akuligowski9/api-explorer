@@ -35,7 +35,7 @@ export function Header({ columns, onColumnsChange }: HeaderProps) {
           <Compass className="h-5 w-5" />
         </div>
         <div>
-          <h1 className="text-lg font-bold tracking-tight">API Explorer</h1>
+          <h1 className="text-lg font-bold tracking-tight">API Gallery</h1>
           <p className="text-xs text-muted-foreground">Discover APIs visually</p>
         </div>
       </div>
@@ -60,7 +60,7 @@ export function Header({ columns, onColumnsChange }: HeaderProps) {
           </div>
         )}
         <a
-          href="https://github.com/akuligowski9/api-explorer"
+          href="https://github.com/akuligowski9/api-gallery"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="View on GitHub"

@@ -1,15 +1,15 @@
-# API Explorer
+# API Gallery
 
-> A visual front-end for 1,500+ public APIs — see what the data looks like before reading the docs.
+> A visual front-end for 1,500+ public APIs — same data, different design experience.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/akuligowski9/api-explorer)](https://github.com/akuligowski9/api-explorer/releases)
-[![GitHub stars](https://img.shields.io/github/stars/akuligowski9/api-explorer?style=social)](https://github.com/akuligowski9/api-explorer)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akuligowski9/api-explorer/blob/main/CONTRIBUTING.md)
+[![GitHub release](https://img.shields.io/github/v/release/akuligowski9/api-gallery)](https://github.com/akuligowski9/api-gallery/releases)
+[![GitHub stars](https://img.shields.io/github/stars/akuligowski9/api-gallery?style=social)](https://github.com/akuligowski9/api-gallery)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akuligowski9/api-gallery/blob/main/CONTRIBUTING.md)
 
 **[Live Demo](https://public-apis-explorer.vercel.app)** · If this is useful, consider giving it a star!
 
-![API Explorer demo](public/demo.gif)
+![API Gallery demo](public/demo.gif)
 
 Built on top of [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) and [public-apis/public-apis](https://github.com/public-apis/public-apis) — same data, completely different experience. Instead of browsing a markdown table, you get rendered sample data displayed as weather cards, charts, image grids, and more.
 
@@ -109,12 +109,12 @@ lib/
 
 ## Contributing
 
-We welcome contributions! Browse [open issues](https://github.com/akuligowski9/api-explorer/issues) to find something to work on, or see [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+We welcome contributions! Browse [open issues](https://github.com/akuligowski9/api-gallery/issues) to find something to work on, or see [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
 ```bash
 # Fork, clone, and create a preview
-git clone https://github.com/YOUR_USERNAME/api-explorer.git
-cd api-explorer
+git clone https://github.com/YOUR_USERNAME/api-gallery.git
+cd api-gallery
 npm install
 npm run dev
 ```

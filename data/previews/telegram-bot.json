@@ -3,15 +3,15 @@
   "previewType": "card",
   "sampleResponse": {
     "id": 5834710217,
-    "first_name": "API Explorer Bot",
-    "username": "api_explorer_bot",
+    "first_name": "API Gallery Bot",
+    "username": "api_gallery_bot",
     "can_join_groups": true,
     "supports_inline_queries": false,
     "is_bot": true
   },
   "previewConfig": {
     "title": "Bot Info",
-    "subtitle": "API Explorer Bot (@api_explorer_bot)",
+    "subtitle": "API Gallery Bot (@api_gallery_bot)",
     "displayFields": [
       "id",
       "first_name",
